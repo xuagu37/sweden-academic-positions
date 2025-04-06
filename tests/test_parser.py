@@ -1,8 +1,8 @@
-from swedjobs.parser import parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm
+from swedjobs.parser import parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm, parse_jobs_gothenburg, parse_jobs_ki, parse_jobs_kth, parse_jobs_linkoping, parse_jobs_umea
 
 def test_parser():
-    test_file = "html_cache/latest_stockholm_page.html"
-    jobs = parse_jobs_stockholm(test_file)
+    test_file = "html_cache/latest_umea_page.html"
+    jobs = parse_jobs_umea(test_file)
 
     print(f"\nTest complete: {len(jobs)} job(s) found.\n")
 

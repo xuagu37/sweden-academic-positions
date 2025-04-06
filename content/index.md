@@ -2,6 +2,7 @@
 
 Welcome! This site presents regularly scraped academic job listings from Swedish universities.
 
+_Last updated: 2025-04-06_
 
 <!-- :::{prereq}
 prerequisites
@@ -23,8 +24,13 @@ prerequisites
 :caption: Current Positions
 :maxdepth: 1
 
+gothenburg
+ki
+kth
+linkoping
 lund
 stockholm
+umea
 uppsala
 ```
 

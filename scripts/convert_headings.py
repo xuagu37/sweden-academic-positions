@@ -33,3 +33,8 @@ if __name__ == "__main__":
     convert_md_headings_to_html("html_cache/lund.md", "content/lund.md")
     convert_md_headings_to_html("html_cache/uppsala.md", "content/uppsala.md")
     convert_md_headings_to_html("html_cache/stockholm.md", "content/stockholm.md")
+    convert_md_headings_to_html("html_cache/gothenburg.md", "content/gothenburg.md")
+    convert_md_headings_to_html("html_cache/ki.md", "content/ki.md")
+    convert_md_headings_to_html("html_cache/kth.md", "content/kth.md")
+    convert_md_headings_to_html("html_cache/linkoping.md", "content/linkoping.md")
+    convert_md_headings_to_html("html_cache/umea.md", "content/umea.md")

@@ -1,0 +1,552 @@
+# KTH
+
+
+<div id="filters" style="margin: 1em 0;">
+  <label for="filterType"><strong>Filter by Job Type:</strong></label>
+  <select id="filterType" style="margin-right: 1em;">
+    <option value="">Show All</option>
+    <option value="PhD">PhD</option>
+    <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+    <option value="Lecturer/Professor">Lecturer/Professor</option>
+    <option value="Research Engineer">Research Engineer</option>    
+    <option value="Other">Other</option>
+  </select>
+  <input type="text" id="jobFilter" placeholder="Search jobs..." style="padding: 0.5em; width: 50%;">
+</div>
+
+<div id="jobList">
+<div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in History of Science, Technology and Environment</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801085?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-07
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Digitalization and Sustainable Urban Planning</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803959?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-07
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Advanced Surface Engineering</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
+- **Department:** School of Industrial Engineering and Management at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-08
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdocs in machine learning and wireless communication networks</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/810356?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-09
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Theoretical Condensed Matter Physics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-09
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in Construction Procurement and Innovation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/686499?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-09
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineers within Robotics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809259?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in information theory</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800970?l=en)
+- **Department:** School of Electrical Engineering and Computer Science at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Fusion Plasma Physics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801355?l=en)
+- **Department:** School of Electrical Engineering and Computer Science at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in AI-native 6G Radio Access Networking</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802892?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803009?l=en)
+- **Department:** School of Electrical Engineering and Computer Science at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Transport Science</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/807327?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Space Physics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805537?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Wireless Communication Systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803182?l=en)
+- **Department:** School of Electrical Engineering and Computer Science at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Quantum Information Theory and Processing</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/787546?l=en)
+- **Department:** School of Computer Science and Communication at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Learning and Control of Networked Cyber-Physical-Human Systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/808873?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-11
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Topological Data Analysis</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805466?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in hydrometallurgy</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802706?l=en)
+- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in industrial crystallization</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802707?l=en)
+- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Nuclear Power Safety</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Climate Action and Sustainable Development</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809250?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-12
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Student employee: Prototype resource for startups - KTH Innovation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806987?l=en)
+- **Department:** KTH Royal Institute of Technology, Support services at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-13
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Oxygen based pulping from wood</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804390?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-14
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Lignin-Based Protective Coatings for Industrial Applications</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811332?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in multi-agent control systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804767?l=en)
+- **Department:** School of Electrical Engineering and Computer Science at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in modelling of wave-particle interactions in fusion plasmas</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/807480?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Emerging Quantum Materials</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/794465?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in  Stable enzyme technologies for a sustainable bioeconomy</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801105?l=en)
+- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-17
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in applied and computational mathematics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805470?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-17
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdocs in Machine Learning and Robotics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812497?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-18
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Materials Science – Developing Sustainable Cemented Carbide Materials</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805993?l=en)
+- **Department:** School of Industrial Engineering and Management at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-21
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in numerical analysis</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800504?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-21
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in mathematics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804226?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Navigation and Perception in Built Environments</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804334?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Architecture: Adaptive Reuse and Repair</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804342?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-23
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Construction Calculation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800433?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-24
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in digital solutions for sustainable building technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-24
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer in advanced manufacturing and digitalization</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803713?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistants for Chip Design and Design Automation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800615?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in structural transitions in protein self-assembly</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801659?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in applied and computational mathematics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804218?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-05
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in high-level synthesis for reconfigurable architecture</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811116?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-06
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Food Science and Technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811899?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-08
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Tire and road effects on wear and particle emissions</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806489?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in 3D Printing Electronic MicroRobots using nanowire composites</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/799597?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-16
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Advanced Light Microscopy</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/788186?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-22
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Vivo-mimetic Technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/795970?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-22
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Ergonomics with specialization in work-related musculoskeletal disorder</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/778026?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-28
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratory assistants in Quantum Technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/799338?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-07-31
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  function updateDisplay() {
+    const selected = typeSelect.value.toLowerCase();
+    const query = textInput.value.toLowerCase();
+
+    jobBlocks.forEach(job => {
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const matchesType = !selected || jobType === selected;
+      const matchesQuery = job.textContent.toLowerCase().includes(query);
+      job.style.display = (matchesType && matchesQuery) ? '' : 'none';
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+});
+</script>

@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function () {
     print(f"✅ Added search and job-type filters to: {md_file.name}")
 
 def main():
-    for name in ["lund.md", "uppsala.md", "stockholm.md"]:
+    for name in ["lund.md", "uppsala.md", "stockholm.md", "gothenburg.md", "ki.md", "kth.md", "linkoping.md", "umea.md"]:
         path = Path("content") / name
         if path.exists():
             process_md_file(path)
