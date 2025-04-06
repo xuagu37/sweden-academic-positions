@@ -1,8 +1,9 @@
-# LESSON NAME
+# Sweden Academic Positions
 
-Intro
+Welcome! This site presents regularly scraped academic job listings from Swedish universities.
 
-:::{prereq}
+
+<!-- :::{prereq}
 prerequisites
 :::
 
@@ -11,27 +12,27 @@ prerequisites
 :widths: auto
 
 20 min ; {doc}`filename`
-```
+``` -->
 
-```{toctree}
+<!-- ```{toctree}
 :caption: The lesson
 :maxdepth: 1
-```
+``` -->
 
 ```{toctree}
-:caption: Reference
+:caption: Current Positions
 :maxdepth: 1
 
-quick-reference
-guide
+lund
+uppsala
 ```
 
-(learner-personas)=
+<!-- (learner-personas)= -->
 
-## Who is the course for?
+<!-- ## Who is the course for?
 
 ## About the course
 
 ## See also
 
-## Credits
+## Credits -->
