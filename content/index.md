@@ -24,6 +24,7 @@ prerequisites
 :maxdepth: 1
 
 lund
+stockholm
 uppsala
 ```
 

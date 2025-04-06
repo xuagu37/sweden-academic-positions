@@ -97,3 +97,49 @@ def parse_jobs_uppsala(filepath: str):
             })
 
     return jobs
+
+def parse_jobs_stockholm(filepath: str):
+    """
+    Parses job listings from Stockholm University's Varbi page HTML.
+
+    Args:
+        filepath (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: Parsed job entries with title, URL, department, and deadline.
+    """
+    with open(filepath, "r", encoding="utf-8") as f:
+        html = f.read()
+
+    soup = BeautifulSoup(html, "html.parser")
+    jobs = []
+    base_url = "https://su.varbi.com"
+
+    for row in soup.find_all("tr"):
+        title_td = row.find("td", class_="pos-title")
+        dept_tds = row.find_all("td", class_="pos-desc")
+        deadline_td = row.find("td", class_="pos-ends")
+
+        if not title_td or not deadline_td or len(dept_tds) < 2:
+            continue
+
+        a_tag = title_td.find("a")
+        if not a_tag:
+            continue
+
+        title = a_tag.get_text(strip=True)
+        relative_url = a_tag.get("href", "")
+        url = base_url + relative_url if relative_url.startswith("/") else relative_url
+
+        department = dept_tds[1].get_text(strip=True)
+        deadline = deadline_td.get_text(strip=True)
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": department,
+            "published": "",  # No published date available
+            "deadline": deadline
+        })
+
+    return jobs
