@@ -1,5 +1,17 @@
 # Uppsala University
 
+### Postdoctoral position on Storyline Scenarios for Climate Tipping Points
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813659/)
+- **Department:** Uppsala University,  Department of Earth Sciences
+- **Published:** 
+- **Deadline:** 2025-05-06
+
+### Research assistant in Archaeogenetics
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814589/)
+- **Department:** Uppsala University, Department of Organismal Biology
+- **Published:** 
+- **Deadline:** 2025-04-21
+
 ### Assistant Professor in data-driven battery research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805085/)
 - **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Mathematics and Computer Science, Department of Information Technology
@@ -304,7 +316,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809868/)
 - **Department:** Uppsala universitet, Juridiska institutionen
 - **Published:** 
-- **Deadline:** 2025-04-07
+- **Deadline:** 2025-04-14
 
 ### Fält- och labbassistent
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810177/)

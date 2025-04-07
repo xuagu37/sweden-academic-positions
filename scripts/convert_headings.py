@@ -38,3 +38,6 @@ if __name__ == "__main__":
     convert_md_headings_to_html("html_cache/kth.md", "content/kth.md")
     convert_md_headings_to_html("html_cache/linkoping.md", "content/linkoping.md")
     convert_md_headings_to_html("html_cache/umea.md", "content/umea.md")
+    convert_md_headings_to_html("html_cache/orebro.md", "content/orebro.md")
+    convert_md_headings_to_html("html_cache/lulea.md", "content/lulea.md")
+    convert_md_headings_to_html("html_cache/malmo.md", "content/malmo.md")

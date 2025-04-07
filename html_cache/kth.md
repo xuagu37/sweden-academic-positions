@@ -18,12 +18,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-09
 
-### Doctoral student in Theoretical Condensed Matter Physics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-09
-
 ### Professor in Construction Procurement and Innovation
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/686499?l=en)
 - **Department:** School of Architecture and Built Environment at KTH
@@ -219,6 +213,12 @@
 ### Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-23
+
+### Doctoral student in Theoretical Condensed Matter Physics
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
+- **Department:** School of Engineering Sciences at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-23
 

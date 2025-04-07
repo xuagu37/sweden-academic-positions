@@ -2,6 +2,9 @@
 
 set -e  # Exit on error
 
+echo "🔄 Scraping job information..."
+python -m scripts.run_scraper
+
 echo "🔄 Converting Markdown headings to <hN>..."
 python -m scripts.convert_headings
 

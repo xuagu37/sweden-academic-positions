@@ -1,5 +1,5 @@
 from swedjobs.fetcher import fetch_html, fetch_all_pages_ki
-from swedjobs.parser import parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm, parse_jobs_gothenburg, parse_jobs_ki, parse_jobs_kth, parse_jobs_linkoping, parse_jobs_umea
+from swedjobs.parser import parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm, parse_jobs_gothenburg, parse_jobs_ki, parse_jobs_kth, parse_jobs_linkoping, parse_jobs_umea, parse_jobs_orebro, parse_jobs_lulea, parse_jobs_malmo
 
 def main():
     universities = [
@@ -66,7 +66,31 @@ def main():
             "output_md": "html_cache/umea.md",
             "fetcher": fetch_html,
             "parser": parse_jobs_umea,
-        }        
+        },
+        {
+            "name": "Örebro University",
+            "url": "https://www.oru.se/english/career/available-positions",
+            "html_file": "html_cache/latest_orebro_page.html",
+            "output_md": "html_cache/orebro.md",
+            "fetcher": fetch_html,
+            "parser": parse_jobs_orebro,
+        },
+        {
+            "name": "Luleå University",
+            "url": "https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies",
+            "html_file": "html_cache/latest_lulea_page.html",
+            "output_md": "html_cache/lulea.md",
+            "fetcher": fetch_html,
+            "parser": parse_jobs_lulea,
+        },
+        {
+            "name": "Malmö University",
+            "url": "https://mau.se/en/about-us/job-offers/current-vacancies/",
+            "html_file": "html_cache/latest_malmo_page.html",
+            "output_md": "html_cache/malmo.md",
+            "fetcher": fetch_html,
+            "parser": parse_jobs_malmo,
+        }                                         
     ]
 
     for uni in universities:

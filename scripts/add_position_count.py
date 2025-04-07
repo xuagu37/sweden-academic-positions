@@ -36,3 +36,6 @@ if __name__ == "__main__":
     add_position_count("content/kth.md")    
     add_position_count("content/linkoping.md")
     add_position_count("content/umea.md")
+    add_position_count("content/orebro.md")
+    add_position_count("content/lulea.md")
+    add_position_count("content/malmo.md")

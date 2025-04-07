@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse, parse_qs, urlencode
+from urllib.parse import urlparse, parse_qs, urlencode, urljoin
 from html import unescape
 
 def parse_jobs_lund(filepath: str):
@@ -395,6 +395,160 @@ def parse_jobs_umea(html_path: str) -> list[dict]:
             "url": full_url,
             "department": department,
             "published": "",  # Not available
+            "deadline": deadline,
+        })
+
+    return jobs
+
+
+def parse_jobs_orebro(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Örebro University's vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department (N/A), published (N/A), and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+    base_url = "https://www.oru.se"
+
+    for a_tag in soup.select("li > a[title]"):
+        relative_url = a_tag.get("href", "")
+        if "/available-positions/job/" not in relative_url:
+            continue  # Skip non-job links
+
+        title = a_tag.get("title", "").strip()
+        full_url = urljoin(base_url, relative_url)
+
+        # Find the <time> tag inside the <a> tag
+        time_tag = a_tag.find("time")
+        deadline = time_tag.get("datetime") if time_tag else ""
+
+        jobs.append({
+            "title": title,
+            "url": full_url,
+            "department": "",      # Not clearly available
+            "published": "",       # Not available
+            "deadline": deadline,
+        })
+
+    return jobs
+
+
+def parse_jobs_lulea(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Luleå University of Technology's vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url (anchor), published (empty), department (empty), and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    base_url = "https://www.ltu.se"
+    jobs = []
+
+    for li in soup.select("a[href^='#item-']"):
+        title = li.get_text(strip=True).removeprefix("Job:").strip()
+        anchor = li.get("href")
+        full_url = base_url + "/en/about-ltu/work-at-ltu/vacant-positions" + anchor
+
+        # Try to find the next <p> tag that contains the deadline
+        deadline_tag = li.find_next("p")
+        deadline = ""
+        if deadline_tag and "Last day to apply" in deadline_tag.text:
+            deadline = deadline_tag.get_text(strip=True).replace("Last day to apply:", "").strip()
+
+        jobs.append({
+            "title": title,
+            "url": full_url,
+            "department": "",
+            "published": "",
+            "deadline": deadline,
+        })
+
+    return jobs
+
+
+def convert_reachmee_url_malmo(raw_url: str) -> str:
+    """
+    Convert a ReachMee 'main' style job URL to the working 'job' style URL.
+    """
+    decoded_url = unescape(raw_url)
+    parsed = urlparse(decoded_url)
+    query = parse_qs(parsed.query)
+
+    if parsed.path.endswith("/main") and "rmjob" in query and "rmpage" in query and query["rmpage"][0] == "job":
+        try:
+            new_query = {
+                "site": query["site"][0],
+                "lang": query["lang"][0],
+                "validator": query["validator"][0],
+                "job_id": query["rmjob"][0]
+            }
+            return f"{parsed.scheme}://{parsed.netloc}/ext/I005/1015/job?{urlencode(new_query)}"
+        except KeyError:
+            return decoded_url
+    return decoded_url
+
+def parse_jobs_malmo(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Malmö University's vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    for li in soup.select("li.list__item"):
+        a_tag = li.find("a", class_="list__link")
+        if not a_tag:
+            continue
+
+        raw_url = a_tag.get("href")
+        url = convert_reachmee_url_malmo(raw_url)
+
+        title_tag = li.find("h3", class_="list__list-title")
+        title = title_tag.get_text(strip=True) if title_tag else ""
+
+        # Department info
+        dept_span = li.find("svg", {"class": "icon"})
+        department = ""
+        if dept_span:
+            dept_text = dept_span.find_parent("span")
+            if dept_text:
+                department = dept_text.get_text(strip=True).rstrip(" /.").strip()
+
+        # Find published and deadline
+        published = ""
+        deadline = ""
+        spans = li.select("p span")
+        for span in spans:
+            text = span.get_text(strip=True)
+            if "Last day to apply:" in text:
+                deadline = text.replace("Last day to apply:", "").strip()
+            elif "Published:" in text:
+                published = text.replace("Published:", "").strip()
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": department,
+            "published": published,
             "deadline": deadline,
         })
 

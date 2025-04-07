@@ -84,29 +84,17 @@
 - **Published:** 
 - **Deadline:** 2025-04-25
 
-### System developer
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/system-developer_808781/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
-
 ### Professor of Theology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Professor of Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
+### System developer
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/system-developer_808781/)
+- **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-30
-
-### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-04-30
+- **Deadline:** 2025-04-28
 
 ### Associate professor in Environmental Science
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
@@ -117,6 +105,18 @@
 ### Associate professor in Ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Professor of Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -156,14 +156,14 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### PhD students in Statistics
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
+### Group Leader/Researcher in DDLS Epidemiology and Biology of Infection
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### Group Leader/Researcher in DDLS Epidemiology and Biology of Infection
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
+### PhD students in Statistics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11

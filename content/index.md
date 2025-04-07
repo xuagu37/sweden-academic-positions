@@ -28,10 +28,13 @@ gothenburg
 ki
 kth
 linkoping
+lulea
 lund
+malmo
 stockholm
 umea
 uppsala
+orebro
 ```
 
 <!-- (learner-personas)= -->

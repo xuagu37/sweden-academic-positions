@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 102</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 104</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,26 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position on Storyline Scenarios for Climate Tipping Points</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813659/)
+- **Department:** Uppsala University,  Department of Earth Sciences
+- **Published:** 
+- **Deadline:** 2025-05-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in Archaeogenetics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814589/)
+- **Department:** Uppsala University, Department of Organismal Biology
+- **Published:** 
+- **Deadline:** 2025-04-21
 
 </div>
 
@@ -526,7 +546,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809868/)
 - **Department:** Uppsala universitet, Juridiska institutionen
 - **Published:** 
-- **Deadline:** 2025-04-07
+- **Deadline:** 2025-04-14
 
 </div>
 

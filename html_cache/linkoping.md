@@ -1,5 +1,11 @@
 # Linköping University
 
+### Associate professor in Mathematics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26585)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-21
+
 ### Assistant professor in Machine Learning with a focus on Motion Analysis from Video
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26532)
 - **Department:** 
