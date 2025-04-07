@@ -1,5 +1,11 @@
 # Gothenburg University
 
+### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-27
+
 ### Doctoral students in circadian skin biology at the University of Gothenburg
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
 - **Department:** 

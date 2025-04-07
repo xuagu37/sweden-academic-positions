@@ -3,10 +3,9 @@
 set -e  # Exit on error
 
 echo "🔄 Cleaning previous Sphinx build..."
-make clean
-
-echo "🛠️ Building site locally (optional check)..."
-make html
+bash scripts/build_clean.sh
+# echo "🛠️ Building site locally (optional check)..."
+# make html
 
 echo "📦 Committing updated source files to Git..."
 git add .

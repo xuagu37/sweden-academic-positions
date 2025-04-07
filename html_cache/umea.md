@@ -1,11 +1,5 @@
 # Umeå University
 
-### Post-doc (2 years) in Organic Electronics with focus on development of novel light-emission devices
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doc-2-years-in-organic-electronics-with-focus-on-development-of-novel-light-emission-devices_798221/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-06
-
 ### Post doctor (2 years) within geometric deep learning
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-geometric-deep-learning_802275/)
 - **Department:** Department of Mathematics and Mathematical Statistics
@@ -48,8 +42,8 @@
 - **Published:** 
 - **Deadline:** 2025-04-14
 
-### Adjunct Lecturers in Architecture
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/adjunct-lecturers-in-architecture-_808847/)
+### Lecturer in Architecture (1 year)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/lecturer-in-architecture-1-year_808818/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-14
@@ -60,8 +54,8 @@
 - **Published:** 
 - **Deadline:** 2025-04-14
 
-### Lecturer in Architecture (1 year)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/lecturer-in-architecture-1-year_808818/)
+### Adjunct Lecturers in Architecture
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/adjunct-lecturers-in-architecture-_808847/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-14
@@ -90,15 +84,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-25
 
-### Professor of Theology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-28
-
 ### System developer
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/system-developer_808781/)
 - **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+### Professor of Theology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2025-04-28
 
@@ -114,12 +108,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Associate professor in Environmental Science
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
 - **Department:** Department of Ecology and Environmental Science
@@ -129,6 +117,12 @@
 ### Associate professor in Ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -162,14 +156,14 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### Group Leader/Researcher in DDLS Epidemiology and Biology of Infection
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
+### PhD students in Statistics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### PhD students in Statistics
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
+### Group Leader/Researcher in DDLS Epidemiology and Biology of Infection
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11

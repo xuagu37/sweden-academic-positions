@@ -12,12 +12,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-07
 
-### Postdoc in Advanced Surface Engineering
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-08
-
 ### Postdocs in machine learning and wireless communication networks
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/810356?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
@@ -167,6 +161,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-15
+
+### Postdoc in Advanced Surface Engineering
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
+- **Department:** School of Industrial Engineering and Management at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-16
 
 ### Doctoral student in  Stable enzyme technologies for a sustainable bioeconomy
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/801105?l=en)

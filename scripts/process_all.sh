@@ -11,4 +11,7 @@ python -m scripts.add_search_and_filter
 echo "🔍 Updated 'Last updated' in content/index.md..."
 python -m  scripts.update_index_date
 
+echo "🔍 Updated 'Total positions' in content/university.md..."
+python -m  scripts.add_position_count
+
 echo "✅ All processing complete!"

@@ -1,4 +1,5 @@
 # KTH
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 51</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -36,16 +37,6 @@
 - **Department:** School of Architecture and Built Environment at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-07
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Advanced Surface Engineering</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-08
 
 </div>
 
@@ -296,6 +287,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Advanced Surface Engineering</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
+- **Department:** School of Industrial Engineering and Management at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-16
 
 </div>
 

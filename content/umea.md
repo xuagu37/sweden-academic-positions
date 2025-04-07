@@ -1,4 +1,5 @@
 # Umeå University
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 30</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Post-doc (2 years) in Organic Electronics with focus on development of novel light-emission devices</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doc-2-years-in-organic-electronics-with-focus-on-development-of-novel-light-emission-devices_798221/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-06
 
 </div>
 
@@ -100,9 +91,9 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Adjunct Lecturers in Architecture</h3>
+<h3>Lecturer in Architecture (1 year)</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/adjunct-lecturers-in-architecture-_808847/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/lecturer-in-architecture-1-year_808818/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-14
@@ -120,9 +111,9 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in Architecture (1 year)</h3>
+<h3>Adjunct Lecturers in Architecture</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/lecturer-in-architecture-1-year_808818/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/adjunct-lecturers-in-architecture-_808847/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-14
@@ -169,21 +160,21 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Theology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>System developer</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/system-developer_808781/)
 - **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Theology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2025-04-28
 
@@ -209,16 +200,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate professor in Environmental Science</h3>
 
@@ -234,6 +215,16 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -289,20 +280,20 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Group Leader/Researcher in DDLS Epidemiology and Biology of Infection</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD students in Statistics</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Statistics</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Group Leader/Researcher in DDLS Epidemiology and Biology of Infection</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
