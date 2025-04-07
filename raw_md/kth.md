@@ -72,12 +72,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-10
 
-### Assistant professor in Quantum Information Theory and Processing
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/787546?l=en)
-- **Department:** School of Computer Science and Communication at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-10
-
 ### Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
@@ -231,6 +225,12 @@
 ### Doctoral student in digital solutions for sustainable building technology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-24
+
+### Assistant professor in Quantum Information Theory and Processing
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/787546?l=en)
+- **Department:** School of Computer Science and Communication at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
 

@@ -140,16 +140,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Quantum Information Theory and Processing</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/787546?l=en)
-- **Department:** School of Computer Science and Communication at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-10
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers</h3>
 
@@ -405,6 +395,16 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-24
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Quantum Information Theory and Processing</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/787546?l=en)
+- **Department:** School of Computer Science and Communication at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
 

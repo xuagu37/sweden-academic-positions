@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 104</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 108</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,6 +20,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Timanställning som Forskningsassistent</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811443/)
+- **Department:** Uppsala universitet, Institutionen för farmaceutisk biovetenskap
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position on Storyline Scenarios for Climate Tipping Points</h3>
 
@@ -37,6 +47,26 @@
 - **Department:** Uppsala University, Department of Organismal Biology
 - **Published:** 
 - **Deadline:** 2025-04-21
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Evolution and Development</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814900/)
+- **Department:** Uppsala University, Department of Organismal Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Kursadministratör</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815135/)
+- **Department:** Uppsala universitet, Statsvetenskapliga institutionen
+- **Published:** 
+- **Deadline:** 2025-04-25
 
 </div>
 
@@ -67,6 +97,16 @@
 - **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy
 - **Published:** 
 - **Deadline:** 2025-05-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Data-driven epidemiology and biology of infection</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813627/)
+- **Department:** Uppsala University, Department of Medical Biochemistry and Microbiology
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 </div>
 

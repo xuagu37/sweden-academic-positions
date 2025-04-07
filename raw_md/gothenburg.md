@@ -1,5 +1,17 @@
 # Gothenburg University
 
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+### Lecturer in Design with specialisation Embedded Design at HDK-Valand
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37166)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-27
+
 ### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
 - **Department:** 
@@ -30,23 +42,23 @@
 - **Published:** 
 - **Deadline:** 2025-04-23
 
-### Associate Researcher in Bioinformatics or Data Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-29
-
 ### Postdoctor in Systems Biology of Cardiometabolic Diseases
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Postdoctor in marine biotechnology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
+### Associate Researcher in Bioinformatics or Data Science
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-12
+- **Deadline:** 2025-04-29
+
+### Postdoctor in computational studies of mitochondrial DNA and RNA
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36917)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-17
 
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37083)
@@ -54,11 +66,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### Postdoctor in computational studies of mitochondrial DNA and RNA
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36917)
+### Postdoctor in marine biotechnology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-17
+- **Deadline:** 2025-05-12
 
 ### Doctoral student in Oceanography
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)

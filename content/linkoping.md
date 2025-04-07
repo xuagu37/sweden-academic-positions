@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 22</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 23</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -87,6 +87,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Systemingenjör Windows</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26568)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-28
 
 </div>
 

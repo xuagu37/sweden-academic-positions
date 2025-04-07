@@ -84,6 +84,12 @@
 - **Published:** 
 - **Deadline:** 2025-04-25
 
+### Project coordinator, AI Policy Lab (30% temporary position)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-coordinator-ai-policy-lab-30-temporary-position_815195/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-04-27
+
 ### Professor of Theology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
@@ -102,18 +108,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Associate professor in Ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Professor of Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
 - **Department:** Department of Medical Biochemistry and Biophysics
@@ -123,6 +117,18 @@
 ### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
 - **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Professor of Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Associate professor in Ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 

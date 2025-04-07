@@ -43,11 +43,11 @@ def fetch_all_pages_ki(base_url: str, save_to: str = None, wait_time: int = 4, m
 
     for page in range(max_pages):
         url = f"{base_url}{page}"
-        print(f"🔍 Fetching page {page}: {url}")
+        print(f"Fetching page {page}: {url}")
         try:
             html = fetch_html(url, wait_time, save_to=None)
         except Exception as e:
-            print(f"❌ Error on page {page}: {e}")
+            print(f"Error on page {page}: {e}")
             break
 
         soup = BeautifulSoup(html, "html.parser")
@@ -55,7 +55,7 @@ def fetch_all_pages_ki(base_url: str, save_to: str = None, wait_time: int = 4, m
         titles = soup.select(".views-field-title")
 
         if not job_rows or not titles:
-            print("🛑 No job rows or job titles found. Stopping.")
+            print("No job rows or job titles found. Stopping.")
             break
 
         combined_html += html
@@ -64,9 +64,9 @@ def fetch_all_pages_ki(base_url: str, save_to: str = None, wait_time: int = 4, m
     if found_any and save_to:
         with open(save_to, "w", encoding="utf-8") as f:
             f.write(combined_html)
-        print(f"✅ Combined HTML saved to {save_to}")
+        print(f"Combined HTML saved to {save_to}")
     else:
-        print("⚠️ No job listings found.")
+        print("No job listings found.")
 
     return combined_html
 

@@ -42,6 +42,12 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
+### Systemingenjör Windows
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26568)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-28
+
 ### Amanuenses to UX design and development - Visualization Center C
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
 - **Department:** 

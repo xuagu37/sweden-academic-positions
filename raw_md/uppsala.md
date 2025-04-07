@@ -1,5 +1,11 @@
 # Uppsala University
 
+### Timanställning som Forskningsassistent
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811443/)
+- **Department:** Uppsala universitet, Institutionen för farmaceutisk biovetenskap
+- **Published:** 
+- **Deadline:** 2025-05-05
+
 ### Postdoctoral position on Storyline Scenarios for Climate Tipping Points
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813659/)
 - **Department:** Uppsala University,  Department of Earth Sciences
@@ -11,6 +17,18 @@
 - **Department:** Uppsala University, Department of Organismal Biology
 - **Published:** 
 - **Deadline:** 2025-04-21
+
+### Postdoctoral position in Evolution and Development
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814900/)
+- **Department:** Uppsala University, Department of Organismal Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+### Kursadministratör
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815135/)
+- **Department:** Uppsala universitet, Statsvetenskapliga institutionen
+- **Published:** 
+- **Deadline:** 2025-04-25
 
 ### Assistant Professor in data-driven battery research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805085/)
@@ -29,6 +47,12 @@
 - **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy
 - **Published:** 
 - **Deadline:** 2025-05-19
+
+### PhD position in Data-driven epidemiology and biology of infection
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813627/)
+- **Department:** Uppsala University, Department of Medical Biochemistry and Microbiology
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 ### Postdoctoral position in Materials Physics
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814056/)
