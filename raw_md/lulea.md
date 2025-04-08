@@ -1,11 +1,5 @@
 # Luleå University
 
-### Senior lecturer in Musical Performance, choral conducting
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8961)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-07
-
 ### PhD Student in Machine learning
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8947)
 - **Department:** 
@@ -89,4 +83,10 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
+
+### Research Engineers, summer internship, Robotics and Artificial Intelligence
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
 

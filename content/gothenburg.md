@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -277,16 +277,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-08
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position on population genomics of coastal fish stocks</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36925)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-07
 
 </div>
 

@@ -156,12 +156,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-08
 
-### Postdoctoral position on population genomics of coastal fish stocks
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36925)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-07
-
 ### Lecturer in Photography (substitute 1,5 year)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36901)
 - **Department:** 

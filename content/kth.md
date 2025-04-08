@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 51</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 49</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in History of Science, Technology and Environment</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801085?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-07
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Digitalization and Sustainable Urban Planning</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803959?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-07
 
 </div>
 
@@ -137,16 +117,6 @@
 - **Department:** School of Electrical Engineering and Computer Science at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-10
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
 
 </div>
 
@@ -407,6 +377,16 @@
 - **Department:** School of Computer Science and Communication at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-25
 
 </div>
 

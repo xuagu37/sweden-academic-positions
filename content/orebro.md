@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science with a focus on embodied learning</h3>
-
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250054)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-07
 
 </div>
 

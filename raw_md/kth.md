@@ -1,17 +1,5 @@
 # KTH
 
-### Doctoral student in History of Science, Technology and Environment
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801085?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-07
-
-### Doctoral student in Digitalization and Sustainable Urban Planning
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803959?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-07
-
 ### Postdocs in machine learning and wireless communication networks
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/810356?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
@@ -71,12 +59,6 @@
 - **Department:** School of Electrical Engineering and Computer Science at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-10
-
-### Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
 
 ### Postdoc in Learning and Control of Networked Cyber-Physical-Human Systems
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/808873?l=en)
@@ -233,6 +215,12 @@
 - **Department:** School of Computer Science and Communication at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
+
+### Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-25
 
 ### Research engineer in advanced manufacturing and digitalization
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/803713?l=en)

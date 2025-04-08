@@ -20,16 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior lecturer in Musical Performance, choral conducting</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8961)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-07
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Machine learning</h3>
 
@@ -167,6 +157,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineers, summer internship, Robotics and Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
 </div></div>
 
 <script>

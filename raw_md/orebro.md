@@ -1,11 +1,5 @@
 # Örebro University
 
-### Doctoral student in Computer Science with a focus on embodied learning
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250054)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-07
-
 ### Doctoral student in Computer Science (Robotic Lab Automation for Handling Powdered and Granular Materials)
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250015)
 - **Department:** 

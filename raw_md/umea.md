@@ -1,11 +1,5 @@
 # Umeå University
 
-### Post doctor (2 years) within geometric deep learning
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-geometric-deep-learning_802275/)
-- **Department:** Department of Mathematics and Mathematical Statistics
-- **Published:** 
-- **Deadline:** 2025-04-07
-
 ### Project Assistant
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistant_806706/)
 - **Department:** 
@@ -90,21 +84,21 @@
 - **Published:** 
 - **Deadline:** 2025-04-27
 
-### Professor of Theology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-28
-
 ### System developer
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/system-developer_808781/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Associate professor in Environmental Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
+### Professor of Theology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+### Professor of Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -114,20 +108,20 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
+### Associate professor in Ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Professor of Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Associate professor in Ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+### Associate professor in Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
 - **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
