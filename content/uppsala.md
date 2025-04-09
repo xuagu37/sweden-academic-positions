@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 98</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 103</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,96 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i obstetrik och gynekologi förenad med befattning som specialistläkare</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:799363/)
+- **Department:** Uppsala universitet, Inst för kvinnors och barns hälsa
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813126/)
+- **Department:** Uppsala University, Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813139/)
+- **Department:** Uppsala University, Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 2025-05-09
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Statistics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813268/)
+- **Department:** Uppsala University, Department of Statistics
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Bioinformatics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814889/)
+- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
+- **Published:** 
+- **Deadline:** 2025-04-25
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Upp till åtta amanuenser i beräkningsvetenskap</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815029/)
+- **Department:** Uppsala universitet, Institutionen för informationsteknologi
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project Coordinator at ReAct – Action on antibiotic Resistance</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815093/)
+- **Department:** Uppsala University, Department of Medical Sciences
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Projektassistent</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815941/)
+- **Department:** Uppsala universitet, Institutionen för ekologi och genetik
+- **Published:** 
+- **Deadline:** 2025-04-25
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Junior Data Scientist/forskningsingenjör i Statistik</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816485/)
+- **Department:** Uppsala universitet, Statistiska institutionen
+- **Published:** 
+- **Deadline:** 2025-04-30
 
 </div>
 
@@ -87,6 +177,16 @@
 - **Department:** Uppsala universitet, Statsvetenskapliga institutionen
 - **Published:** 
 - **Deadline:** 2025-04-25
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Up to 25 teaching assistants within Vi3</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815554/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-04-22
 
 </div>
 
@@ -480,16 +580,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>HR-generalist till institutionen för Elektroteknik – Halvtid, 1år</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811313/)
-- **Department:** Uppsala universitet, Institutionen för elektroteknik
-- **Published:** 
-- **Deadline:** 2025-04-08
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Materials Physics</h3>
 
@@ -541,32 +631,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>HR-generalist till institutionen för Elektroteknik - Vikariat</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809035/)
-- **Department:** Uppsala universitet, Institutionen för elektroteknik
-- **Published:** 
-- **Deadline:** 2025-04-08
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research assistant</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809256/)
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistent</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810645/)
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-08
 
 </div>
 
@@ -696,7 +766,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807271/)
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
-- **Deadline:** 2025-04-15
+- **Deadline:** 2025-04-24
 
 </div>
 
@@ -937,26 +1007,6 @@
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Arts, Department of Philosophy
 - **Published:** 
 - **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in the history of ideas</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803030/)
-- **Department:** Uppsala University, Department of History of Science and Ideas
-- **Published:** 
-- **Deadline:** 2025-04-08
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in the history of science</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803109/)
-- **Department:** Uppsala University, Department of History of Science and Ideas
-- **Published:** 
-- **Deadline:** 2025-04-08
 
 </div>
 

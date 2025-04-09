@@ -10,4 +10,4 @@ echo "=== Removing .DS_Store files ==="
 find . -name ".DS_Store" -delete
 echo ".DS_Store files removed."
 
-echo "✅ Cleanup complete."
+echo "Cleanup complete."

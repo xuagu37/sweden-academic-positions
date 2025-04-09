@@ -1,5 +1,59 @@
 # Uppsala University
 
+### Universitetslektor i obstetrik och gynekologi förenad med befattning som specialistläkare
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:799363/)
+- **Department:** Uppsala universitet, Inst för kvinnors och barns hälsa
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### Research Engineer
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813126/)
+- **Department:** Uppsala University, Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+### Research Assistant
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813139/)
+- **Department:** Uppsala University, Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 2025-05-09
+
+### PhD student in Statistics
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813268/)
+- **Department:** Uppsala University, Department of Statistics
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Research Engineer in Bioinformatics
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814889/)
+- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
+- **Published:** 
+- **Deadline:** 2025-04-25
+
+### Upp till åtta amanuenser i beräkningsvetenskap
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815029/)
+- **Department:** Uppsala universitet, Institutionen för informationsteknologi
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### Project Coordinator at ReAct – Action on antibiotic Resistance
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815093/)
+- **Department:** Uppsala University, Department of Medical Sciences
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Projektassistent
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815941/)
+- **Department:** Uppsala universitet, Institutionen för ekologi och genetik
+- **Published:** 
+- **Deadline:** 2025-04-25
+
+### Junior Data Scientist/forskningsingenjör i Statistik
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816485/)
+- **Department:** Uppsala universitet, Statistiska institutionen
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### PhD student in Inorganic Chemistry with focus on Solar Energy Conversion
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:796497/)
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
@@ -41,6 +95,12 @@
 - **Department:** Uppsala universitet, Statsvetenskapliga institutionen
 - **Published:** 
 - **Deadline:** 2025-04-25
+
+### Up to 25 teaching assistants within Vi3
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815554/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-04-22
 
 ### Assistant Professor in data-driven battery research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805085/)
@@ -276,12 +336,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### HR-generalist till institutionen för Elektroteknik – Halvtid, 1år
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811313/)
-- **Department:** Uppsala universitet, Institutionen för elektroteknik
-- **Published:** 
-- **Deadline:** 2025-04-08
-
 ### PhD student in Materials Physics
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811719/)
 - **Department:** Uppsala University, Department of Physics and Astronomy
@@ -312,23 +366,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-09
 
-### HR-generalist till institutionen för Elektroteknik - Vikariat
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809035/)
-- **Department:** Uppsala universitet, Institutionen för elektroteknik
-- **Published:** 
-- **Deadline:** 2025-04-08
-
 ### Research assistant
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809256/)
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### Research assistent
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810645/)
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-08
 
 ### Teaching assistant
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810915/)
@@ -406,7 +448,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807271/)
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
-- **Deadline:** 2025-04-15
+- **Deadline:** 2025-04-24
 
 ### Postdoctoral position in Exploration Geophysics with focus on DAS
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809013/)
@@ -551,18 +593,6 @@
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Arts, Department of Philosophy
 - **Published:** 
 - **Deadline:** 2025-04-15
-
-### PhD student in the history of ideas
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803030/)
-- **Department:** Uppsala University, Department of History of Science and Ideas
-- **Published:** 
-- **Deadline:** 2025-04-08
-
-### PhD student in the history of science
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803109/)
-- **Department:** Uppsala University, Department of History of Science and Ideas
-- **Published:** 
-- **Deadline:** 2025-04-08
 
 ### Olle Engkvist Foundation Chair Professor in Latin
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:776996/)

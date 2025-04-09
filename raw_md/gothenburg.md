@@ -1,5 +1,35 @@
 # Gothenburg University
 
+### Doctoral students in public administration
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37211)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-09
+
+### Associate researcher in dendroclimatology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37200)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+### Postdoctor in Mitochondrial Quality Control
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-29
+
+### Postdoctor in Mitochondrial Biogenesis
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37126)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-29
+
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37159)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-29
+
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
 - **Department:** 
@@ -18,17 +48,17 @@
 - **Published:** 
 - **Deadline:** 2025-04-27
 
-### Doctoral students in circadian skin biology at the University of Gothenburg
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
+
+### Doctoral students in circadian skin biology at the University of Gothenburg
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
 
 ### University lecturer in Nursing with a Specialization in Anaesthesia Care
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37100)
@@ -42,14 +72,14 @@
 - **Published:** 
 - **Deadline:** 2025-04-23
 
-### Postdoctor in Systems Biology of Cardiometabolic Diseases
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
+### Associate Researcher in Bioinformatics or Data Science
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Associate Researcher in Bioinformatics or Data Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
+### Postdoctor in Systems Biology of Cardiometabolic Diseases
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -120,8 +150,14 @@
 - **Published:** 
 - **Deadline:** 2025-04-20
 
+### Project Assistant in Quantum error correction
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36920)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-11
+
 ### Senior Lecturer in Mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36967)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
@@ -133,28 +169,16 @@
 - **Deadline:** 2025-04-10
 
 ### Senior Lecturer in Mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36967)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-### Project Assistant in Quantum error correction
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36920)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-11
 
 ### Postdoctor in studies on mitochondrial DNA replication and its regulation
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36949)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-09
-
-### Doctoral student in Medical Science - Epilepsy and intracerebral haemorhage
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36915)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-08
 
 ### Lecturer in Photography (substitute 1,5 year)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36901)

@@ -160,13 +160,13 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineers, summer internship, Robotics and Artificial Intelligence</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student position in Machine Learning focus Sustainable Machine Learning</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-20
+- **Deadline:** 2025-05-15
 </div></div>
 
 <script>

@@ -1,11 +1,5 @@
 # Umeå University
 
-### Project Assistant
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistant_806706/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-08
-
 ### Postdoctor, 2 years, in predicting the evolution of antibiotic resistance
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-2-years-in-predicting-the-evolution-of-antibiotic-resistance_807672/)
 - **Department:** Department of Molecularbiology
@@ -96,15 +90,9 @@
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Professor of Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
-- **Department:** Department of Medical Biochemistry and Biophysics
+### Associate professor in Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -114,15 +102,27 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
+### PhD student in Medical Science, focus on Infectious Medicine/Epidemiology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
+- **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Associate professor in Environmental Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
+### Professor of Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -156,6 +156,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
+### PhD position in Applied Physics with focus on hollow-core fiber technology for next-generation communication
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-applied-physics-with-focus-on-hollow-core-fiber-technology-for-next-generation-communication_816202/)
+- **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-05-09
+
 ### Group Leader/Researcher in DDLS Epidemiology and Biology of Infection
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
 - **Department:** 
@@ -167,6 +173,24 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
+
+### PhD position in Chemistry, with a specialization in Biophysical Chemistry
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD position in Chemistry, with a specialization in biochemistry
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
+- **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-05-16
 
 ### PhD position in Chemistry, in biochemistry on the microalgal cell wall
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-in-biochemistry-on-the-microalgal-cell-wall_811800/)

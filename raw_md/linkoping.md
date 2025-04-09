@@ -1,10 +1,22 @@
 # Linköping University
 
+### Postdoc in the field of Materials Science and Engineering
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
 ### Associate professor in Mathematics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26585)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+### Senior Lecturer in Ethnicity and Migration, at least one
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26602)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
 
 ### Assistant professor in Machine Learning with a focus on Motion Analysis from Video
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26532)
@@ -14,6 +26,12 @@
 
 ### PhD Student in Technology and Social Change
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26421)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+### Postdoc in ultrafast optical spectroscopy
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26586)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
@@ -41,12 +59,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### Systemingenjör Windows
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26568)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
 
 ### Amanuenses to UX design and development - Visualization Center C
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)

@@ -84,9 +84,9 @@
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### Research Engineers, summer internship, Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
+### PhD Student position in Machine Learning focus Sustainable Machine Learning
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-20
+- **Deadline:** 2025-05-15
 

@@ -84,12 +84,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-11
 
-### Postdoc in Nuclear Power Safety
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
 ### Researcher in Climate Action and Sustainable Development
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/809250?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
@@ -239,6 +233,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-30
+
+### Postdoc in Nuclear Power Safety
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-02
 
 ### Doctoral student in applied and computational mathematics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/804218?l=en)

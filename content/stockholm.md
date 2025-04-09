@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 72</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 73</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -201,10 +201,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Zoology</h3>
+<h3>PhD student in Sustainability Science</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
-- **Department:** Department of Zoology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
+- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -241,10 +241,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainability Science</h3>
+<h3>PhD student in Zoology</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
-- **Department:** Stockholm Resilience Centre
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -311,19 +311,69 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Mathematical Statistics</h3>
+<h3>PhD student in Atomic Physics: Experimental studies of reactive charge transfer processes for small molecules</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805151/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807072/where:4/)
+- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-22
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Neutrino Astroparticle Physics with the IceCube Observatory</h3>
+<h3>PhD student in Physics - Machine Learning the Universe’s Initial Conditions</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807068/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792484/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemical Physics - X-ray Spectroscopic Characterization of Catalytic Processes</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792391/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: Quantum Information and Quantum Communication</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806980/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD students in Theoretical Physics: Quantum complexity and black holes</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807015/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Sustainability Science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Atomic Physics: Theoretical studies of reactive charge transfer processes</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807044/where:4/)
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-22
@@ -341,9 +391,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Atomic Physics: Experimental studies of reactive charge transfer processes for small molecules</h3>
+<h3>PhD Student in Neutrino Astroparticle Physics with the IceCube Observatory</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807072/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807068/where:4/)
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-22
@@ -371,19 +421,29 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Atomic Physics: Theoretical studies of reactive charge transfer processes</h3>
+<h3>PhD students in Mathematics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807044/where:4/)
-- **Department:** Department of Physics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-22
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Mathematics</h3>
+<h3>PhD student in Environmental Science, aerosol-cloud-precipitation interactions</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Mathematical Statistics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805151/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-22
@@ -401,82 +461,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Theoretical Physics: Quantum complexity and black holes</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807015/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Physics: Quantum Information and Quantum Communication</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806980/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Sustainability Science</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
 - **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Physics - Machine Learning the Universe’s Initial Conditions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792484/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainability Science</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
-- **Department:** Stockholm Resilience Centre
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science, aerosol-cloud-precipitation interactions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemical Physics - X-ray Spectroscopic Characterization of Catalytic Processes</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792391/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Luminescent Nanoprobes for in vivo bioimaging</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 </div>
 
@@ -491,9 +481,19 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Drug Nanocarriers</h3>
+<h3>PhD student in Sustainable organic bioelectronics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806369/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806669/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Colloidal Lignin Materials Chemistry</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806233/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-04-24
@@ -511,9 +511,19 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Colloidal Lignin Materials Chemistry</h3>
+<h3>PhD student in Drug Nanocarriers</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806233/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806369/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Luminescent Nanoprobes for in vivo bioimaging</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-04-24
@@ -540,20 +550,10 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainable organic bioelectronics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806669/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Arithmetic Geometri and Representation Theory</h3>
+<h3>Postdoctoral Fellow in Geometric Analysis</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810400/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810471/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-25
@@ -561,9 +561,9 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Geometric Analysis</h3>
+<h3>Postdoctoral Fellow in Arithmetic Geometri and Representation Theory</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810471/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810400/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-25
@@ -591,20 +591,20 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Atmospheric Sciences or Oceanography</h3>
+<h3>Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
-- **Department:** Department of Meteorology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes</h3>
+<h3>Assistant Professor in Atmospheric Sciences or Oceanography</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
-- **Department:** Department of Environmental Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
+- **Department:** Department of Meteorology
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -627,6 +627,16 @@
 - **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher within drug development</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815174/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-05-02
 
 </div>
 

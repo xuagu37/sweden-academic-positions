@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 25</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,6 +20,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in the field of Materials Science and Engineering</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate professor in Mathematics</h3>
 
@@ -27,6 +37,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Ethnicity and Migration, at least one</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26602)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
 
 </div>
 
@@ -44,6 +64,16 @@
 <h3>PhD Student in Technology and Social Change</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26421)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in ultrafast optical spectroscopy</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26586)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
@@ -87,16 +117,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Systemingenjör Windows</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26568)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
 
 </div>
 
