@@ -30,11 +30,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
+### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-28
+- **Deadline:** 2025-04-27
 
 ### Lecturer in Design with specialisation Embedded Design at HDK-Valand
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37166)
@@ -42,23 +42,23 @@
 - **Published:** 
 - **Deadline:** 2025-04-27
 
-### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-27
-
-### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-14
+- **Deadline:** 2025-04-28
 
 ### Doctoral students in circadian skin biology at the University of Gothenburg
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
+
+### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
 
 ### University lecturer in Nursing with a Specialization in Anaesthesia Care
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37100)
@@ -173,18 +173,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-### Postdoctor in studies on mitochondrial DNA replication and its regulation
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36949)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-09
-
-### Lecturer in Photography (substitute 1,5 year)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36901)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-09
 
 ### Researcher in Software Engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36862)

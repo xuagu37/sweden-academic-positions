@@ -144,9 +144,3 @@
 - **Published:** 
 - **Deadline:** 2025-04-10
 
-### Senior Lecturer in Ethnicity and Migration
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26483)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-09
-

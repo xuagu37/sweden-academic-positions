@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 103</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 102</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,36 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i svenska som andraspråk</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813166/)
+- **Department:** Uppsala Universitet, Institutionen för nordiska språk
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Kommunikatör</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815499/)
+- **Department:** Uppsala universitet, Nationellt centrum för kvinnofrid (NCK)
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Sommarjobb vaktmästeriet Ångströmlaboratoriet</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816201/)
+- **Department:** Uppsala universitet, Intendenturorganisationen, Ångströmlaboratoriet
+- **Published:** 
+- **Deadline:** 2025-04-30
 
 </div>
 
@@ -480,26 +510,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Chemistry with specialization in Analytical Chemistry</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811602/)
-- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-09
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803642/)
-- **Department:** Uppsala University, Department of Ecology and Genetics
-- **Published:** 
-- **Deadline:** 2025-04-09
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Data Engineer with focus on AI</h3>
 
@@ -621,32 +631,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Studieadministratör</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811759/)
-- **Department:** Uppsala universitet, Enheten Campus Gotland
-- **Published:** 
-- **Deadline:** 2025-04-09
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research assistant</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809256/)
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistant</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810915/)
-- **Department:** Uppsala University,  Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-09
 
 </div>
 

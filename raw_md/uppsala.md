@@ -1,5 +1,23 @@
 # Uppsala University
 
+### Universitetslektor i svenska som andraspråk
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813166/)
+- **Department:** Uppsala Universitet, Institutionen för nordiska språk
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+### Kommunikatör
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815499/)
+- **Department:** Uppsala universitet, Nationellt centrum för kvinnofrid (NCK)
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+### Sommarjobb vaktmästeriet Ångströmlaboratoriet
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816201/)
+- **Department:** Uppsala universitet, Intendenturorganisationen, Ångströmlaboratoriet
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### Universitetslektor i obstetrik och gynekologi förenad med befattning som specialistläkare
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:799363/)
 - **Department:** Uppsala universitet, Inst för kvinnors och barns hälsa
@@ -276,18 +294,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-23
 
-### Researcher in Chemistry with specialization in Analytical Chemistry
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811602/)
-- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-09
-
-### Research assistant
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803642/)
-- **Department:** Uppsala University, Department of Ecology and Genetics
-- **Published:** 
-- **Deadline:** 2025-04-09
-
 ### Data Engineer with focus on AI
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:808455/)
 - **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
@@ -360,23 +366,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-14
 
-### Studieadministratör
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811759/)
-- **Department:** Uppsala universitet, Enheten Campus Gotland
-- **Published:** 
-- **Deadline:** 2025-04-09
-
 ### Research assistant
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809256/)
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### Teaching assistant
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810915/)
-- **Department:** Uppsala University,  Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-09
 
 ### Postdoctoral position in fungal genomics
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811289/)

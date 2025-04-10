@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 73</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 72</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant on Experimental Control of Rydberg Ions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808535/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-09
 
 </div>
 
@@ -51,9 +41,9 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms</h3>
+<h3>Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-04-15
@@ -121,9 +111,9 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms</h3>
+<h3>Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-04-15
@@ -201,10 +191,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainability Science</h3>
+<h3>PhD student in Zoology</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
-- **Department:** Stockholm Resilience Centre
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -241,10 +231,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Zoology</h3>
+<h3>PhD student in Sustainability Science</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
-- **Department:** Department of Zoology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
+- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -463,7 +453,7 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Sustainability Science</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
 - **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22

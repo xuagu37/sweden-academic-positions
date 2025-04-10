@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 25</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 24</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -257,16 +257,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-10
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Ethnicity and Migration</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26483)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-09
 </div></div>
 
 <script>
