@@ -48,8 +48,20 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
+### PhD student in Mathematics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26617)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-02
+
 ### Postdoc in the Fundamental Science of Thin Films
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/25916)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Postdoc in Generative AI-Driven Data Synthesis for Building Energy Modeling
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26357)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
@@ -119,28 +131,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-16
-
-### Postdoc in Generative AI-Driven Data Synthesis for Building Energy Modeling
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26357)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-### First research engineer in epigenetics in immune system at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26434)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-### PhD student in Medical Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26454)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-### Principal research engineer
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26456)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
 

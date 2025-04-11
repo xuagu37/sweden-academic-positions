@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 102</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 95</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -541,26 +541,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskare i kvantitativ neuro-PET med fokus på kinetik och dataanalys</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809903/)
-- **Department:** Uppsala universitet, Institutionen för kirurgiska vetenskaper
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>T/A, Researcher</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810107/)
-- **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy, Faculty of Medicine, Department of Surgical Sciences
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Kursadministratör</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810244/)
@@ -607,16 +587,6 @@
 - **Department:** Uppsala universitet, Institutionen för farmaceutisk biovetenskap
 - **Published:** 
 - **Deadline:** 2025-04-14
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in statistical method development for energy system forecasting</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811826/)
-- **Department:** Uppsala University, Department of Civil and Industrial Engineering
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 </div>
 
@@ -687,16 +657,6 @@
 - **Department:** Uppsala University, Department of Information Technology
 - **Published:** 
 - **Deadline:** 2025-04-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in cancer precision medicine</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:796871/)
-- **Department:** Department of Immunology, Genetics and Pathology
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 </div>
 
@@ -837,16 +797,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806509/)
-- **Department:** Uppsala University, Department of Medical Cell Biology
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 </div>
 
@@ -1017,26 +967,6 @@
 - **Department:** Department of Chemistry - BMC
 - **Published:** 
 - **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Biträdande universitetslektor i italienska</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:798804/)
-- **Department:** Institutionen för moderna språk
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Automatic control focusing on system identification and machine learning</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:795013/)
-- **Department:** Uppsala University,  Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-10
 </div></div>
 
 <script>

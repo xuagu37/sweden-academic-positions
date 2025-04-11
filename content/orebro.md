@@ -36,7 +36,7 @@
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250051)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-14
+- **Deadline:** 2025-04-28
 
 </div>
 

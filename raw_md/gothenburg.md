@@ -1,5 +1,17 @@
 # Gothenburg University
 
+### Doctoral student in Medical Science - Bioinformatician, neurovascular disease
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37167)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### Senior Researcher position in spintronic Ising machines
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37203)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-02
+
 ### Doctoral students in public administration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37211)
 - **Department:** 
@@ -84,12 +96,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Postdoctor in computational studies of mitochondrial DNA and RNA
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36917)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
-
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37083)
 - **Department:** 
@@ -101,6 +107,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-12
+
+### Postdoctor in computational studies of mitochondrial DNA and RNA
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36917)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-17
 
 ### Doctoral student in Oceanography
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)
@@ -150,11 +162,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-20
 
-### Project Assistant in Quantum error correction
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36920)
+### Senior Lecturer in Mathematics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-11
+- **Deadline:** 2025-05-04
 
 ### Senior Lecturer in Mathematics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36967)
@@ -162,17 +174,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
-### Postdoctor in Cancer Genomics and Liquid Biopsies
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36960)
+### Project Assistant in Quantum error correction
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36920)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-10
-
-### Senior Lecturer in Mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
+- **Deadline:** 2025-04-11
 
 ### Researcher in Software Engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36862)
@@ -191,12 +197,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### Doctoral student in theoretical philosophy with a focus on epistemology or philosophy of science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36789)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 ### Educational Assistant
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36573)

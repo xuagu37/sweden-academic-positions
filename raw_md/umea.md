@@ -1,17 +1,5 @@
 # Umeå University
 
-### Postdoctor, 2 years, in predicting the evolution of antibiotic resistance
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-2-years-in-predicting-the-evolution-of-antibiotic-resistance_807672/)
-- **Department:** Department of Molecularbiology
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-### Staff scientist in Microbial Immunology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-microbial-immunology-_808157/)
-- **Department:** Department of Molecular Biology
-- **Published:** 
-- **Deadline:** 2025-04-10
-
 ### Postdoc (2 years) in aquatic ecosystem ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoc-2-years-in-aquatic-ecosystem-ecology_803700/)
 - **Department:** Department of Ecology and Environmental Science
@@ -102,15 +90,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Professor of Archaeology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 

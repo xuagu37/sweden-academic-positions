@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 24</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 22</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -100,10 +100,30 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Mathematics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26617)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-02
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the Fundamental Science of Thin Films</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/25916)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Generative AI-Driven Data Synthesis for Building Energy Modeling</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26357)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
@@ -217,46 +237,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-16
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Generative AI-Driven Data Synthesis for Building Energy Modeling</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26357)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>First research engineer in epigenetics in immune system at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26434)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Medical Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26454)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Principal research engineer</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26456)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-10
 </div></div>
 
 <script>

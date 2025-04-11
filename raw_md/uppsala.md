@@ -312,18 +312,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-17
 
-### Forskare i kvantitativ neuro-PET med fokus på kinetik och dataanalys
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809903/)
-- **Department:** Uppsala universitet, Institutionen för kirurgiska vetenskaper
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-### T/A, Researcher
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810107/)
-- **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy, Faculty of Medicine, Department of Surgical Sciences
-- **Published:** 
-- **Deadline:** 2025-04-10
-
 ### Kursadministratör
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810244/)
 - **Department:** Språkvetenskapliga fakulteten, Institutionen för nordiska språk
@@ -353,12 +341,6 @@
 - **Department:** Uppsala universitet, Institutionen för farmaceutisk biovetenskap
 - **Published:** 
 - **Deadline:** 2025-04-14
-
-### Researcher in statistical method development for energy system forecasting
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811826/)
-- **Department:** Uppsala University, Department of Civil and Industrial Engineering
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 ### Utbildningshandläggare
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810682/)
@@ -401,12 +383,6 @@
 - **Department:** Uppsala University, Department of Information Technology
 - **Published:** 
 - **Deadline:** 2025-04-11
-
-### PhD student in cancer precision medicine
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:796871/)
-- **Department:** Department of Immunology, Genetics and Pathology
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 ### Assistant Professor in mathematics with specialization in partial differential equations
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:802721/)
@@ -491,12 +467,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-### Researcher
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806509/)
-- **Department:** Uppsala University, Department of Medical Cell Biology
-- **Published:** 
-- **Deadline:** 2025-04-10
 
 ### Projektsamordnare på det forskningsstödjande centret Circus
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807198/)
@@ -599,16 +569,4 @@
 - **Department:** Department of Chemistry - BMC
 - **Published:** 
 - **Deadline:** 2025-04-15
-
-### Biträdande universitetslektor i italienska
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:798804/)
-- **Department:** Institutionen för moderna språk
-- **Published:** 
-- **Deadline:** 2025-04-10
-
-### Postdoctoral position in Automatic control focusing on system identification and machine learning
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:795013/)
-- **Department:** Uppsala University,  Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-10
 
