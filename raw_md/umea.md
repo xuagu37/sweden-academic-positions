@@ -1,11 +1,5 @@
 # Umeå University
 
-### Postdoc (2 years) in aquatic ecosystem ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoc-2-years-in-aquatic-ecosystem-ecology_803700/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-11
-
 ### Postdoctoral Position in RNA Biology and Stress Signaling
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-rna-biology-and-stress-signaling_809657/)
 - **Department:** Department of Medical Biosciences
@@ -78,12 +72,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Associate professor in Environmental Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Associate professor in Ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
@@ -114,6 +102,12 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
+### Associate professor in Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
 - **Department:** Department of Computing Science
@@ -138,6 +132,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
+### Welcome officer
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
+
 ### Curator of exhibitions at Bildmuseet
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
 - **Department:** 
@@ -157,7 +157,7 @@
 - **Deadline:** 2025-05-11
 
 ### PhD students in Statistics
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_806279/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_817724/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11

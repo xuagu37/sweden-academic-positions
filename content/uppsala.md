@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 95</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 93</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,36 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Kursadministratör vikariat</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814437/)
+- **Department:** Uppsala universitet, Avdelningen för kvalitetsutveckling
+- **Published:** 
+- **Deadline:** 2025-05-01
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>HR-generalist</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817454/)
+- **Department:** Uppsala universitet, HR-avdelningen
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskare med inriktning mot populationsgenetik</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817592/)
+- **Department:** Uppsala universitet, Institutionen för organismbiologi
+- **Published:** 
+- **Deadline:** 2025-04-25
 
 </div>
 
@@ -137,16 +167,6 @@
 - **Department:** Uppsala universitet, Statistiska institutionen
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Inorganic Chemistry with focus on Solar Energy Conversion</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:796497/)
-- **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
-- **Published:** 
-- **Deadline:** 2025-04-11
 
 </div>
 
@@ -540,16 +560,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kursadministratör</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810244/)
-- **Department:** Språkvetenskapliga fakulteten, Institutionen för nordiska språk
-- **Published:** 
-- **Deadline:** 2025-04-11
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Machine Learning for Accelerated Electrolyte Modeling and Design</h3>
 
@@ -650,16 +660,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistant in Data engineering for battery research</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810043/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-11
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in mathematics with specialization in partial differential equations</h3>
 
@@ -687,16 +687,6 @@
 - **Department:** Uppsala University, Department of Earth Sciences
 - **Published:** 
 - **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Postdoktor inom molekylär biofysik</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809656/)
-- **Department:** Uppsala universitet, Institutionen för cell- och molekylärbiologi
-- **Published:** 
-- **Deadline:** 2025-04-11
 
 </div>
 
@@ -797,16 +787,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektsamordnare på det forskningsstödjande centret Circus</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807198/)
-- **Department:** Uppsala universitet, CIRCUS
-- **Published:** 
-- **Deadline:** 2025-04-11
 
 </div>
 

@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 34</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -307,16 +307,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project Assistant in Quantum error correction</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36920)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-11
 
 </div>
 

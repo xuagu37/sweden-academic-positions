@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 60</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 57</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,46 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Learning and Control of Networked Cyber-Physical-Human Systems</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/808873?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Topological Data Analysis</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805466?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in hydrometallurgy</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802706?l=en)
-- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in industrial crystallization</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802707?l=en)
-- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
 
 </div>
 
@@ -187,6 +147,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-20
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Biophysics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/815990?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-21
 
 </div>
 

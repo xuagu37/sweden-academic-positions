@@ -174,12 +174,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
-### Project Assistant in Quantum error correction
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36920)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-11
-
 ### Researcher in Software Engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36862)
 - **Department:** 

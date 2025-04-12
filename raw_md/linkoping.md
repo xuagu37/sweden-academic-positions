@@ -48,6 +48,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
+### Teaching assistants in Quality Management and Engineering
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26644)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-05
+
 ### PhD student in Mathematics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26617)
 - **Department:** 

@@ -1,29 +1,5 @@
 # KTH
 
-### Postdoc in Learning and Control of Networked Cyber-Physical-Human Systems
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/808873?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
-### Doctoral student in Topological Data Analysis
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805466?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
-### Postdoc in hydrometallurgy
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802706?l=en)
-- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
-### Postdoc in industrial crystallization
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/802707?l=en)
-- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-11
-
 ### Researcher in Climate Action and Sustainable Development
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/809250?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
@@ -101,6 +77,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-20
+
+### Research Engineer in Biophysics
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/815990?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-04-21
 
 ### Doctoral student in Materials Science – Developing Sustainable Cemented Carbide Materials
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/805993?l=en)
