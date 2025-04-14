@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 57</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 55</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Climate Action and Sustainable Development</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809250?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-12
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Student employee: Prototype resource for startups - KTH Innovation</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806987?l=en)
-- **Department:** KTH Royal Institute of Technology, Support services at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-13
 
 </div>
 

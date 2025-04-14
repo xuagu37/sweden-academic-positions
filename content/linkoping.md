@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 24</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -57,6 +57,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-12
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in automatic control at the Department of Electrical Engineering</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26657)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-09
 
 </div>
 

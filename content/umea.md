@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 31</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Position in RNA Biology and Stress Signaling</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-rna-biology-and-stress-signaling_809657/)
-- **Department:** Department of Medical Biosciences
-- **Published:** 
-- **Deadline:** 2025-04-13
 
 </div>
 
@@ -141,30 +131,10 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Ecology</h3>
+<h3>Associate professor in Environmental Science</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
 - **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Archaeology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position to study Gram-positive Type 4 Secretion Systems</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
-- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -191,10 +161,30 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Environmental Science</h3>
+<h3>Associate professor in Ecology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Archaeology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position to study Gram-positive Type 4 Secretion Systems</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -230,21 +220,21 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in structural biology of virus replication</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_814648/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Welcome officer</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
 - **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in structural biology of virus replication</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_814648/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-05-04
 

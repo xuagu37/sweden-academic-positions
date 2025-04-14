@@ -1,17 +1,5 @@
 # KTH
 
-### Researcher in Climate Action and Sustainable Development
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809250?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-12
-
-### Student employee: Prototype resource for startups - KTH Innovation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806987?l=en)
-- **Department:** KTH Royal Institute of Technology, Support services at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-13
-
 ### Doctoral student in Oxygen based pulping from wood
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/804390?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health

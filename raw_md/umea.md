@@ -1,11 +1,5 @@
 # Umeå University
 
-### Postdoctoral Position in RNA Biology and Stress Signaling
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-rna-biology-and-stress-signaling_809657/)
-- **Department:** Department of Medical Biosciences
-- **Published:** 
-- **Deadline:** 2025-04-13
-
 ### Two Field Assistants to Abisko
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/two-field-assistants-to-abisko_799866/)
 - **Department:** Department of Ecology and Environmental Science
@@ -72,21 +66,9 @@
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Associate professor in Ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+### Associate professor in Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
 - **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Professor of Archaeology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
-- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -102,9 +84,21 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Associate professor in Environmental Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
+### Associate professor in Ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Professor of Archaeology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Postdoctoral position to study Gram-positive Type 4 Secretion Systems
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -126,15 +120,15 @@
 - **Published:** 
 - **Deadline:** 2025-05-02
 
-### PhD position in structural biology of virus replication
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_814648/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### Welcome officer
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
 - **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
+
+### PhD position in structural biology of virus replication
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_814648/)
+- **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-05-04
 

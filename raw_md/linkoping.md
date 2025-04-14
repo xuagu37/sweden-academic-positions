@@ -24,6 +24,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-12
 
+### Postdoc in automatic control at the Department of Electrical Engineering
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26657)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-09
+
 ### PhD Student in Technology and Social Change
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26421)
 - **Department:** 

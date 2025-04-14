@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 93</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 107</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,146 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Ekonom</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:802673/)
+- **Department:** Uppsala universitet, Institutionen för fysik och astronomi
+- **Published:** 
+- **Deadline:** 2025-04-25
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants 20%</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814568/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Up to 20 teaching assistants in Systems and Control</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815049/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Up to 50 teaching asssitants in Scientific Computing</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815284/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Up to ten teaching asssitants in Computer Systems</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815330/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Up to 25 teaching assistants within Vi3</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815567/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Up to 40 teaching assistants in Computing Science</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815652/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemistry</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816183/)
+- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>En amanuens som projektledare</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816797/)
+- **Department:** Uppsala universitet, Institutionen för informationsteknologi
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Upp till 15 amanuenser som handledare</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816849/)
+- **Department:** Uppsala universitet, Institutionen för informationsteknologi
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Upp till 2 amanuenser som handledare</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816899/)
+- **Department:** Uppsala universitet, Institutionen för informationsteknologi
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratorieansvarig i Molekylär galenisk farmaci</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817140/)
+- **Department:** Uppsala universitet, Institutionen för farmaci
+- **Published:** 
+- **Deadline:** 2025-04-25
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Postdoktor i Langerhanska öars metabolism</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817174/)
+- **Department:** Uppsala universitet,  Institutionen för medicinsk cellbiologi
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in Computational Pharmaceutics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817363/)
+- **Department:** Uppsala University, Department of Pharmacy
+- **Published:** 
+- **Deadline:** 2025-04-25
 
 </div>
 
