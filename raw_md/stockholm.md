@@ -6,12 +6,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-15
 
-### Postdoctoral Fellow in Psychology focusing on global governance
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811529/where:4/)
-- **Department:** Department of Psychology
-- **Published:** 
-- **Deadline:** 2025-04-15
-
 ### PhD student in Computer and Systems Sciences, with focus on developer roles for AI-enabled software development
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:800377/where:4/)
 - **Department:** Department of Computer and Systems Sciences
@@ -24,27 +18,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-15
 
-### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
-- **Department:** Department of Geological Sciences
+### PhD student in Theoretical philosophy
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:790738/where:4/)
+- **Department:** Department of Philosophy
 - **Published:** 
 - **Deadline:** 2025-04-15
 
 ### PhD student in history of religions
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:799227/where:4/)
 - **Department:** Department of Ethnology, History of Religions and Gender Studies
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-### PhD student in Theoretical philosophy
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:790738/where:4/)
-- **Department:** Department of Philosophy
 - **Published:** 
 - **Deadline:** 2025-04-15
 
@@ -78,11 +60,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-15
 
-### Postdoctoral Fellow in Microbial Lignin Materials Chemistry
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809755/where:4/)
-- **Department:** Department of Chemistry
+### Postdoctoral Fellow in Psychology focusing on global governance
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811529/where:4/)
+- **Department:** Department of Psychology
 - **Published:** 
-- **Deadline:** 2025-04-21
+- **Deadline:** 2025-04-15
 
 ### Scientific Coordinator
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807891/where:4/)
@@ -90,9 +72,21 @@
 - **Published:** 
 - **Deadline:** 2025-04-21
 
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
-- **Department:** Stockholm Resilience Centre
+### Postdoctoral Fellow in Microbial Lignin Materials Chemistry
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809755/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-21
+
+### PhD student in Zoology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Neurochemistry
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805691/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -120,39 +114,9 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD student in Atmospheric Sciences and Oceanography, Aerosols and Convective Clouds
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806592/where:4/)
-- **Department:** Department of Meteorology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
-- **Department:** Stockholm Resilience Centre
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Zoology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD Student in Evolution of Seasonal Camouflage
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### PhD student in Evolutionary Genomics with Yeast
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:798314/where:4/)
 - **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Neurochemistry
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805691/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -162,62 +126,20 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD students in Mathematics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
+### PhD student in Environmental Science, aerosol-cloud-precipitation interactions
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
-- **Department:** Stockholm Resilience Centre
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Chemical Physics - X-ray Spectroscopic Characterization of Catalytic Processes
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792391/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Physics - Machine Learning the Universe’s Initial Conditions
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792484/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Physics: Quantum Information and Quantum Communication
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806980/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD students in Theoretical Physics: Quantum complexity and black holes
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807015/where:4/)
-- **Department:** Department of Physics
+### PhD student in Atmospheric Sciences and Oceanography, Aerosols and Convective Clouds
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806592/where:4/)
+- **Department:** Department of Meteorology
 - **Published:** 
 - **Deadline:** 2025-04-22
 
 ### PhD student in Atomic Physics: Theoretical studies of reactive charge transfer processes
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807044/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Atomic Physics: Attosecond pulse induced quantum electronic processes
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807057/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD Student in Neutrino Astroparticle Physics with the IceCube Observatory
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807068/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Atomic Physics: Experimental studies of reactive charge transfer processes for small molecules
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807072/where:4/)
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-22
@@ -234,9 +156,63 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
+### PhD students in Theoretical Physics: Quantum complexity and black holes
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807015/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Atomic Physics: Experimental studies of reactive charge transfer processes for small molecules
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807072/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD Student in Neutrino Astroparticle Physics with the IceCube Observatory
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807068/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD students in Mathematics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Atomic Physics: Attosecond pulse induced quantum electronic processes
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807057/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Physics: Quantum Information and Quantum Communication
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806980/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
 ### PhD student in Mathematical Statistics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805151/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Physics - Machine Learning the Universe’s Initial Conditions
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792484/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Chemical Physics - X-ray Spectroscopic Characterization of Catalytic Processes
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792391/where:4/)
+- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -246,14 +222,50 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD student in Environmental Science, aerosol-cloud-precipitation interactions
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
-- **Department:** Department of Environmental Science
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
+- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Materials Chemistry with focus on Organic Waste Valorization
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806404/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
 ### PhD student in Organic Chemistry in Lignin Chemistry
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806409/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+### PhD student in Analytical chemistry for point-of-care diagnostics of NTDs
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806624/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+### PhD student in Luminescent Nanoprobes for in vivo bioimaging
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+### PhD student in Drug Nanocarriers
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806369/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+### PhD student in Paper-based Diagnostics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806318/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-04-24
@@ -266,36 +278,6 @@
 
 ### PhD student in Sustainable organic bioelectronics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806669/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-### PhD student in Paper-based Diagnostics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806318/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-### PhD student in Drug Nanocarriers
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806369/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-### PhD student in Luminescent Nanoprobes for in vivo bioimaging
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-### PhD student in Analytical chemistry for point-of-care diagnostics of NTDs
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806624/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-### PhD student in Materials Chemistry with focus on Organic Waste Valorization
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806404/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-04-24
@@ -318,21 +300,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-26
 
-### Assistant Professor in Atmospheric Sciences or Oceanography
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
-- **Department:** Department of Meteorology
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Postdoctoral Fellow in Yeast Evolutionary Genomics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
 - **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
-- **Department:** Department of Environmental Science
+### Staff Scientist in In Situ Sequencing
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:814312/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -342,9 +318,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Staff Scientist in In Situ Sequencing
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:814312/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
+### Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Assistant Professor in Atmospheric Sciences or Oceanography
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
+- **Department:** Department of Meteorology
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -366,6 +348,18 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
+### PhD Student in Evolution of Seasonal Camouflage
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-05-04
+
+### Lab Technician
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815976/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-05-05
+
 ### Postdoctoral Fellow in Ocean-Glacier Dynamics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809032/where:4/)
 - **Department:** Department of Meteorology
@@ -378,14 +372,26 @@
 - **Published:** 
 - **Deadline:** 2025-05-09
 
+### Postdoctoral Fellow in AI-development for Protein Binder Design
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:817510/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-05-11
+
 ### PhD student in Bioinformatics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806223/where:4/)
 - **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-05-13
 
-### PhD student in North Greenland Marine Micropaleontology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811764/where:4/)
+### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -410,6 +416,12 @@
 
 ### Postdoctoral Fellow in Arctic geochemical oceanographic proxies
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811409/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD student in North Greenland Marine Micropaleontology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811764/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15

@@ -84,8 +84,8 @@
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### PhD Student position in Machine Learning focus Sustainable Machine Learning
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
+### PhD student in Electronic Systems with focus on electrodynamic modeling
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9055)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15

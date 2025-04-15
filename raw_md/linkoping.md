@@ -6,11 +6,23 @@
 - **Published:** 
 - **Deadline:** 2025-06-10
 
+### PhD student in Wireless Communications and Computer Vision
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-23
+
 ### Associate professor in Mathematics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26585)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+### PhD student in Theoretical Physics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26661)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
 
 ### Senior Lecturer in Ethnicity and Migration, at least one
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26602)

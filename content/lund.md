@@ -20,53 +20,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow in political science: party competition in Europe (PA2025/231)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Clinical Assistant at the Division of Cell Mechanobiology (PA2025/1068)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:791356/type:job/where:4/apply:1)
-- **Department:** 253091 Political Science, 250000 SAM
-- **Published:** 18 Feb 2025
-- **Deadline:** 14 Apr 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD positions with a specialisation in total defence (PA2025/439)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:796969/type:job/where:4/apply:1)
-- **Department:** 250000 SAM, 250000 SAM
-- **Published:** 26 Feb 2025
-- **Deadline:** 14 Apr 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Physics: Protein Design for Sustainable Nanoscience (PA2025/996)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812230/type:job/where:4/apply:1)
-- **Department:** 107133 Solid State Physics, 100000 LTH
-- **Published:** 31 Mar 2025
-- **Deadline:** 14 Apr 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Water Resources Engineering with a focus on radar remote sensing and AI (PA2025/752)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:806351/type:job/where:4/apply:1)
-- **Department:** 107442 Water Resources Engineering, 100000 LTH
-- **Published:** 24 Mar 2025
-- **Deadline:** 14 Apr 2025
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in a project on parliamentary behavior (PA2025/748)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:806303/type:job/where:4/apply:1)
-- **Department:** 253091 Political Science, 250000 SAM
-- **Published:** 31 Mar 2025
-- **Deadline:** 14 Apr 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813888/type:job/where:4/apply:1)
+- **Department:** 314380 Cellmek biology, Swaminathan, 310000 MED
+- **Published:** 1 Apr 2025
+- **Deadline:** 15 Apr 2025
 
 </div>
 
@@ -81,40 +41,10 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens vid Internationella miljöinstitutet (PA2025/1044)</h3>
+<h3>Summer job as a project assistant in theoretical quantum science and technology (PA2025/593)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813191/type:job/where:4/apply:1)
-- **Department:** 859520 IIIEE, 850000 USV
-- **Published:** 1 Apr 2025
-- **Deadline:** 15 Apr 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Clinical Assistant at the Division of Cell Mechanobiology (PA2025/1068)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813888/type:job/where:4/apply:1)
-- **Department:** 314380 Cellmek biology, Swaminathan, 310000 MED
-- **Published:** 1 Apr 2025
-- **Deadline:** 15 Apr 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Software developer front-end at ICOS Carbon Portal (PA2025/1037)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813048/type:job/where:4/apply:1)
-- **Department:** 156311 Physical Geography, 150000 NAT
-- **Published:** 2 Apr 2025
-- **Deadline:** 16 Apr 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>IT-architect and teamleader for the Data Product Group at INES/ICOS Carbon Portal (PA2025/1035)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812850/type:job/where:4/apply:1)
-- **Department:** 156311 Physical Geography, 150000 NAT
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:801499/type:job/where:4/apply:1)
+- **Department:** 156143 Mathematical physics, 150000 NAT
 - **Published:** 2 Apr 2025
 - **Deadline:** 16 Apr 2025
 
@@ -125,6 +55,16 @@
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:811439/type:job/where:4/apply:1)
 - **Department:** 314091 Membrane Protein Biology, 310000 MED
+- **Published:** 2 Apr 2025
+- **Deadline:** 16 Apr 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>IT-architect and teamleader for the Data Product Group at INES/ICOS Carbon Portal (PA2025/1035)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812850/type:job/where:4/apply:1)
+- **Department:** 156311 Physical Geography, 150000 NAT
 - **Published:** 2 Apr 2025
 - **Deadline:** 16 Apr 2025
 
@@ -141,10 +81,10 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Summer job as a project assistant in theoretical quantum science and technology (PA2025/593)</h3>
+<h3>Software developer front-end at ICOS Carbon Portal (PA2025/1037)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:801499/type:job/where:4/apply:1)
-- **Department:** 156143 Mathematical physics, 150000 NAT
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813048/type:job/where:4/apply:1)
+- **Department:** 156311 Physical Geography, 150000 NAT
 - **Published:** 2 Apr 2025
 - **Deadline:** 16 Apr 2025
 
@@ -161,21 +101,11 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow in Physics with a focus on multiscale X-ray characterization of 3D architected materials for sustainable development (PA2025/527)</h3>
+<h3>Post-doctoral fellow on global fitting algorithms for the LISA space mission (PA2025/509)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799699/type:job/where:4/apply:1)
-- **Department:** 156137 Syncrotron radiation physics, 150000 NAT
-- **Published:** 12 Mar 2025
-- **Deadline:** 17 Apr 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Physics within machine learning and quantum technologies (PA2025/840)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808917/type:job/where:4/apply:1)
-- **Department:** 107133 Solid State Physics, 100000 LTH
-- **Published:** 28 Mar 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799217/type:job/where:4/apply:1)
+- **Department:** 156140 Astrophysics, 150000 NAT
+- **Published:** 7 Mar 2025
 - **Deadline:** 18 Apr 2025
 
 </div>
@@ -191,21 +121,21 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow on global fitting algorithms for the LISA space mission (PA2025/509)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799217/type:job/where:4/apply:1)
-- **Department:** 156140 Astrophysics, 150000 NAT
-- **Published:** 7 Mar 2025
-- **Deadline:** 18 Apr 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Astrophysics (PA2025/513)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799369/type:job/where:4/apply:1)
 - **Department:** 156140 Astrophysics, 150000 NAT
 - **Published:** 10 Mar 2025
+- **Deadline:** 18 Apr 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Physics within machine learning and quantum technologies (PA2025/840)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808917/type:job/where:4/apply:1)
+- **Department:** 107133 Solid State Physics, 100000 LTH
+- **Published:** 28 Mar 2025
 - **Deadline:** 18 Apr 2025
 
 </div>
@@ -221,51 +151,11 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in Automatic Control (PA2025/589)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:801430/type:job/where:4/apply:1)
-- **Department:** 107161 Automatic Control, 100000 LTH
-- **Published:** 20 Mar 2025
-- **Deadline:** 21 Apr 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow for project on the role of stem cells and immunological niches in multiple sclerosis (PA2025/1074)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814034/type:job/where:4/apply:1)
-- **Department:** 314096 Glia-Immune Interactions, 310000 MED
-- **Published:** 7 Apr 2025
-- **Deadline:** 21 Apr 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory Engineer at the Division of Infectious Medicine (PA2025/983)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812074/type:job/where:4/apply:1)
-- **Department:** 314333 Infection medicine, Rasmussen, 310000 MED
-- **Published:** 7 Apr 2025
-- **Deadline:** 21 Apr 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in the Department of Diagnostic Radiology (PA2025/865)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:809666/type:job/where:4/apply:1)
 - **Department:** 314363 Diagnostic Radiology, Sundgren, 310000 MED
 - **Published:** 31 Mar 2025
-- **Deadline:** 21 Apr 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Turbomachinery Aerodynamics (PA2025/773)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:807077/type:job/where:4/apply:1)
-- **Department:** , 100000 LTH
-- **Published:** 21 Mar 2025
 - **Deadline:** 21 Apr 2025
 
 </div>
@@ -280,12 +170,42 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer to Lund Nanolab (PA2025/662)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratory Engineer at the Division of Infectious Medicine (PA2025/983)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:803824/type:job/where:4/apply:1)
-- **Department:** 107140 Lund NanoLab, 100000 LTH
-- **Published:** 18 Mar 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812074/type:job/where:4/apply:1)
+- **Department:** 314333 Infection medicine, Rasmussen, 310000 MED
+- **Published:** 7 Apr 2025
+- **Deadline:** 21 Apr 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Turbomachinery Aerodynamics (PA2025/773)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:807077/type:job/where:4/apply:1)
+- **Department:** , 100000 LTH
+- **Published:** 21 Mar 2025
+- **Deadline:** 21 Apr 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow for project on the role of stem cells and immunological niches in multiple sclerosis (PA2025/1074)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814034/type:job/where:4/apply:1)
+- **Department:** 314096 Glia-Immune Interactions, 310000 MED
+- **Published:** 7 Apr 2025
+- **Deadline:** 21 Apr 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Modeling of Aerosols, Cold Clouds and Climate (PA2025/683)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:804640/type:job/where:4/apply:1)
+- **Department:** 156311 Physical Geography, 150000 NAT
+- **Published:** 14 Mar 2025
 - **Deadline:** 22 Apr 2025
 
 </div>
@@ -300,6 +220,16 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer to Lund Nanolab (PA2025/662)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:803824/type:job/where:4/apply:1)
+- **Department:** 107140 Lund NanoLab, 100000 LTH
+- **Published:** 18 Mar 2025
+- **Deadline:** 22 Apr 2025
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuenser vid Internationella miljöinstitutet (PA2025/1058)</h3>
 
@@ -307,36 +237,6 @@
 - **Department:** 859520 IIIEE, 850000 USV
 - **Published:** 8 Apr 2025
 - **Deadline:** 22 Apr 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Modeling of Aerosols, Cold Clouds and Climate (PA2025/683)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:804640/type:job/where:4/apply:1)
-- **Department:** 156311 Physical Geography, 150000 NAT
-- **Published:** 14 Mar 2025
-- **Deadline:** 22 Apr 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate researcher in structural and functional characterization of P-type ATPases (PA2025/1169)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815997/type:job/where:4/apply:1)
-- **Department:** 314091 Membrane Protein Biology, 310000 MED
-- **Published:** 9 Apr 2025
-- **Deadline:** 23 Apr 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral position in smart grids and gender equity (PA2025/1137)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815581/type:job/where:4/apply:1)
-- **Department:** 859520 IIIEE, 850000 USV
-- **Published:** 9 Apr 2025
-- **Deadline:** 23 Apr 2025
 
 </div>
 
@@ -361,12 +261,22 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor Research Fellow in Epigenetics and Diabetes (PA2025/1019)</h3>
+<h3>Associate researcher in structural and functional characterization of P-type ATPases (PA2025/1169)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812555/type:job/where:4/apply:1)
-- **Department:** 314773 Epigenetics o Diabetes - Ling, 310000 MED
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815997/type:job/where:4/apply:1)
+- **Department:** 314091 Membrane Protein Biology, 310000 MED
 - **Published:** 9 Apr 2025
-- **Deadline:** 24 Apr 2025
+- **Deadline:** 23 Apr 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral position in smart grids and gender equity (PA2025/1137)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815581/type:job/where:4/apply:1)
+- **Department:** 859520 IIIEE, 850000 USV
+- **Published:** 9 Apr 2025
+- **Deadline:** 23 Apr 2025
 
 </div>
 
@@ -376,6 +286,16 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810462/type:job/where:4/apply:1)
 - **Department:** , 100000 LTH
 - **Published:** 10 Apr 2025
+- **Deadline:** 24 Apr 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor Research Fellow in Epigenetics and Diabetes (PA2025/1019)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812555/type:job/where:4/apply:1)
+- **Department:** 314773 Epigenetics o Diabetes - Ling, 310000 MED
+- **Published:** 9 Apr 2025
 - **Deadline:** 24 Apr 2025
 
 </div>
@@ -401,16 +321,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate researcher in Emergency care (PA2025/1078)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814161/type:job/where:4/apply:1)
-- **Department:** 314314 Medicine/Acute care, Ekelund, 310000 MED
-- **Published:** 11 Apr 2025
-- **Deadline:** 25 Apr 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Associate Researcher at the Department of Diagnostic Radiology (PA2025/1071)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813992/type:job/where:4/apply:1)
@@ -420,13 +330,13 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in medical sciences and neuroscience (PA2025/1036)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher in Emergency care (PA2025/1078)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812851/type:job/where:4/apply:1)
-- **Department:** 314821 Neurodegenerative - Vogel, 310000 MED
-- **Published:** 31 Mar 2025
-- **Deadline:** 27 Apr 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814161/type:job/where:4/apply:1)
+- **Department:** 314314 Medicine/Acute care, Ekelund, 310000 MED
+- **Published:** 11 Apr 2025
+- **Deadline:** 25 Apr 2025
 
 </div>
 
@@ -461,6 +371,36 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in medical sciences and neuroscience (PA2025/1036)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812851/type:job/where:4/apply:1)
+- **Department:** 314821 Neurodegenerative - Vogel, 310000 MED
+- **Published:** 31 Mar 2025
+- **Deadline:** 27 Apr 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Automatic Control (PA2025/589)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:801430/type:job/where:4/apply:1)
+- **Department:** 107161 Automatic Control, 100000 LTH
+- **Published:** 20 Mar 2025
+- **Deadline:** 28 Apr 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens vid Internationella miljöinstitutet (PA2025/1044)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813191/type:job/where:4/apply:1)
+- **Department:** 859520 IIIEE, 850000 USV
+- **Published:** 1 Apr 2025
+- **Deadline:** 29 Apr 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Electrical Engineering with focus on Electromagnetics (PA2025/851)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:809244/type:job/where:4/apply:1)
@@ -470,12 +410,22 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer in Mass Spectrometry (PA2025/693)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in Physics with a focus on multiscale X-ray characterization of 3D architected materials for sustainable development (PA2025/527)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:805062/type:job/where:4/apply:1)
-- **Department:** 314378 Mass Spectrometry, Malmström, 310000 MED
-- **Published:** 2 Apr 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799699/type:job/where:4/apply:1)
+- **Department:** 156137 Syncrotron radiation physics, 150000 NAT
+- **Published:** 12 Mar 2025
+- **Deadline:** 30 Apr 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in Sustainability science (PA2025/759)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:806559/type:job/where:4/apply:1)
+- **Department:** 253223 LUCSUS, 250000 SAM
+- **Published:** 10 Mar 2025
 - **Deadline:** 30 Apr 2025
 
 </div>
@@ -490,12 +440,12 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD in Sustainability science (PA2025/759)</h3>
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Mass Spectrometry (PA2025/693)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:806559/type:job/where:4/apply:1)
-- **Department:** 253223 LUCSUS, 250000 SAM
-- **Published:** 10 Mar 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:805062/type:job/where:4/apply:1)
+- **Department:** 314378 Mass Spectrometry, Malmström, 310000 MED
+- **Published:** 2 Apr 2025
 - **Deadline:** 30 Apr 2025
 
 </div>
@@ -541,6 +491,26 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with focus on privacy-preserving neural models (PA2025/1069)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813931/type:job/where:4/apply:1)
+- **Department:** , 100000 LTH
+- **Published:** 14 Apr 2025
+- **Deadline:** 5 May 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Numerical Analysis (PA2025/981)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812017/type:job/where:4/apply:1)
+- **Department:** 156151 Mathematics N, 150000 NAT
+- **Published:** 14 Apr 2025
+- **Deadline:** 5 May 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Biology (PA2025/801)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:807744/type:job/where:4/apply:1)
@@ -557,6 +527,26 @@
 - **Department:** 107161 Automatic Control, 100000 LTH
 - **Published:** 10 Apr 2025
 - **Deadline:** 6 May 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Biomedical Engineering with a focus on optical systems for acoustofluidics (PA2025/1233)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:816656/type:job/where:4/apply:1)
+- **Department:** 107231 Biomedical Engineering, 100000 LTH
+- **Published:** 15 Apr 2025
+- **Deadline:** 7 May 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in experimental cardiovascular research (PA2025/942)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:811422/type:job/where:4/apply:1)
+- **Department:** 314732 Medicine - Björkbacka Harry, 310000 MED
+- **Published:** 15 Apr 2025
+- **Deadline:** 7 May 2025
 
 </div>
 
@@ -590,16 +580,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Economic History – Demographic Inequality (PA2025/859)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:809395/type:job/where:4/apply:1)
-- **Department:** 263041 Economic History, 260000 EHL
-- **Published:** 1 Apr 2025
-- **Deadline:** 15 May 2025
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Analogue integrated circuit design (PA2025/828)</h3>
 
@@ -611,9 +591,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Economic History – Colonial maternal health legacies (PA2025/835)</h3>
+<h3>Doctoral student in Economic History – Inequalities in health and survival (PA2025/898)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808817/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810603/type:job/where:4/apply:1)
 - **Department:** 263041 Economic History, 260000 EHL
 - **Published:** 1 Apr 2025
 - **Deadline:** 15 May 2025
@@ -621,9 +601,19 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Economic History – Inequalities in health and survival (PA2025/898)</h3>
+<h3>Doctoral student in Economic History – Demographic Inequality (PA2025/859)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810603/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:809395/type:job/where:4/apply:1)
+- **Department:** 263041 Economic History, 260000 EHL
+- **Published:** 1 Apr 2025
+- **Deadline:** 15 May 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Economic History – Colonial maternal health legacies (PA2025/835)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808817/type:job/where:4/apply:1)
 - **Department:** 263041 Economic History, 260000 EHL
 - **Published:** 1 Apr 2025
 - **Deadline:** 15 May 2025
@@ -657,6 +647,16 @@
 - **Department:** , 100000 LTH
 - **Published:** 4 Apr 2025
 - **Deadline:** 1 Jun 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Food and Formulation Engineering–turbulent emulsifiers (PA2025/1283)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:817560/type:job/where:4/apply:1)
+- **Department:** 107745 Food and Pharma, 100000 LTH
+- **Published:** 14 Apr 2025
+- **Deadline:** 22 Jun 2025
 </div></div>
 
 <script>

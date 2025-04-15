@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 24</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -30,6 +30,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Wireless Communications and Computer Vision</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-23
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate professor in Mathematics</h3>
 
@@ -37,6 +47,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Theoretical Physics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26661)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
 
 </div>
 

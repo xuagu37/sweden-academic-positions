@@ -20,16 +20,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Oxygen based pulping from wood</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804390?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-14
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Lignin-Based Protective Coatings for Industrial Applications</h3>
 
@@ -191,16 +181,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Theoretical Condensed Matter Physics</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
@@ -215,16 +195,6 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/815101?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Construction Calculation</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800433?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
 
@@ -370,6 +340,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Communication and Computing for XR sensor fusion</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/816919?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-06
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in high-level synthesis for reconfigurable architecture</h3>
 
@@ -481,7 +461,7 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Generative Modeling of Biomolecules</h3>
+<h3>PhD student in Generative Modeling of Biomolecules</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814090?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
@@ -505,6 +485,16 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806489?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-15
 
@@ -557,6 +547,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Construction Calculation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800433?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-05
 
 </div>
 

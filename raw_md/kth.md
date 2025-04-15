@@ -1,11 +1,5 @@
 # KTH
 
-### Doctoral student in Oxygen based pulping from wood
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804390?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-14
-
 ### Postdoc in Lignin-Based Protective Coatings for Industrial Applications
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/811332?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
@@ -102,12 +96,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-22
 
-### Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-23
-
 ### Doctoral student in Theoretical Condensed Matter Physics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
 - **Department:** School of Engineering Sciences at KTH
@@ -117,12 +105,6 @@
 ### Doctoral student nanoscale characterisastion
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/815101?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-24
-
-### Doctoral student in Construction Calculation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800433?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
 
@@ -210,6 +192,12 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-05
 
+### Communication and Computing for XR sensor fusion
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/816919?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-06
+
 ### Postdoc in high-level synthesis for reconfigurable architecture
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/811116?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
@@ -276,7 +264,7 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-13
 
-### Doctoral student in Generative Modeling of Biomolecules
+### PhD student in Generative Modeling of Biomolecules
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814090?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
@@ -291,6 +279,12 @@
 ### Postdoc in Tire and road effects on wear and particle emissions
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806489?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-15
+
+### Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-15
 
@@ -323,6 +317,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-28
+
+### Doctoral student in Construction Calculation
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800433?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-05
 
 ### Laboratory assistants in Quantum Technology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/799338?l=en)

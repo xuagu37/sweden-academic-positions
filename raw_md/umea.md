@@ -1,29 +1,5 @@
 # Umeå University
 
-### Two Field Assistants to Abisko
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/two-field-assistants-to-abisko_799866/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-14
-
-### Lecturer in Architecture (1 year)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/lecturer-in-architecture-1-year_808818/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-14
-
-### Lecturer in Architecture and Urban Design (2 years)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/lecturer-in-architecture-and-urban-design-2-years_808840/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-14
-
-### Adjunct Lecturers in Architecture
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/adjunct-lecturers-in-architecture-_808847/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-14
-
 ### Postdoctoral position (2 years) in chemical biology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-chemical-biology_811816/)
 - **Department:** Department of Chemistry
@@ -66,24 +42,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Associate professor in Environmental Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### PhD student in Medical Science, focus on Infectious Medicine/Epidemiology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
-- **Department:** Department of Clinical Microbiology
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Associate professor in Ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
@@ -102,9 +60,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
-- **Department:** Department of Computing Science
+### PhD student in Medical Science, focus on Infectious Medicine/Epidemiology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
+- **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Associate professor in Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -132,11 +96,29 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
+### Project assistants, 2, (6 months) in Molecular parasitology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistants-2-6-months-in-molecular-parasitology_816739/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-05
+
 ### Curator of exhibitions at Bildmuseet
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
+
+### Staffscientist in Antimicrobial Discovery
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
 
 ### PhD position in Applied Physics with focus on hollow-core fiber technology for next-generation communication
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-applied-physics-with-focus-on-hollow-core-fiber-technology-for-next-generation-communication_816202/)
@@ -168,9 +150,21 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
+### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-16
+
 ### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
 - **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-05-16
 
