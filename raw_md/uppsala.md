@@ -1,10 +1,34 @@
 # Uppsala University
 
+### Universitetsadjunkt i persiska, vikariat
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817373/)
+- **Department:** Uppsala universitet, Institutionen för lingvistik och filologi
+- **Published:** 
+- **Deadline:** 2025-05-14
+
 ### Forskningsassistent Psykiatri
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817846/)
 - **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
 - **Published:** 
 - **Deadline:** 2025-05-02
+
+### Universitetsadjunkt till terminskurs 1
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817907/)
+- **Department:** Uppsala universitet, Juridiska institutionen
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+### Forskningsingenjör Myfab Uppsala
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818190/)
+- **Department:** Uppsala universitet, Institutionen för materialvetenskap, 202100-2932
+- **Published:** 
+- **Deadline:** 2025-05-19
+
+### 1:e Forskningsingenjör
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818252/)
+- **Department:** Uppsala universitet, Institutionen för materialvetenskap, 202100-2932
+- **Published:** 
+- **Deadline:** 2025-05-23
 
 ### Forskningsassistent
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817834/)

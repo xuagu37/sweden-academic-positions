@@ -23,40 +23,48 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Computer Science (Machine Learning)</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250051)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.oru.se/english/career/available-positions/job/?jid=20250051">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-28</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor of Sport Science</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250079)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.oru.se/english/career/available-positions/job/?jid=20250079">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-28</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior lecturer in criminology</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250099)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-07
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.oru.se/english/career/available-positions/job/?jid=20250099">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-07</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral researcher in Biomedicine</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250078)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-15
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.oru.se/english/career/available-positions/job/?jid=20250078">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
 </div></div>
 
 <script>

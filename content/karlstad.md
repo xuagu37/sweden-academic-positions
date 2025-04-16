@@ -23,110 +23,132 @@
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Fakultetsadministratör vikariat</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811405/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 18.Apr.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:811405/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 18.Apr.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Utbildningshandläggare, vikariat 100 %</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:813022/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 23.Apr.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:813022/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 23.Apr.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Nordisk gästforskare i socialt arbete till FoU Välfärd Värmland</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:801169/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 25.Apr.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:801169/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 25.Apr.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in English with a specialisation in English literature</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:795758/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 28.Apr.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:795758/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 28.Apr.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Doktorand i biologi med avslutning licentiatexamen</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:804400/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Apr.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:804400/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 29.Apr.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuenser i datavetenskap</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811114/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Apr.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:811114/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 29.Apr.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Environmental and Energy Systems</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793079/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:793079/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 04.May.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Doktorand i folkhälsovetenskap, inriktning oral hälsa</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:799415/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:799415/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 04.May.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Campuskoordinator</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817154/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:817154/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 04.May.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Fakultetsadministratör 75%</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817989/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 05.May.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:817989/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 05.May.2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Media and Communication Studies</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:806004/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 18.May.2025
+<ul>
+  <li><strong>Link:</strong> <a href="https://kau.varbi.com/en/what:job/jobID:806004/iframeEmbedded:0/where:4">View job posting</a></li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 18.May.2025</li>
+</ul>
 </div></div>
 
 <script>

@@ -23,70 +23,84 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in IMER with a focus on survey studies of diversity and inclusion</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3963)
-- **Department:** Faculty of culture and society  / Department of Global Political Studies
-- **Published:** 03 April 2025
-- **Deadline:** 04 May 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3963">View job posting</a></li>
+  <li><strong>Department:</strong> Faculty of culture and society  / Department of Global Political Studies</li>
+  <li><strong>Published:</strong> 03 April 2025</li>
+  <li><strong>Deadline:</strong> 04 May 2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in Molecular Dynamics Simulations of Water and Hydration</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3957)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 02 April 2025
-- **Deadline:** 01 May 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3957">View job posting</a></li>
+  <li><strong>Department:</strong> Faculty of health and society  / Department of Biomedical Science</li>
+  <li><strong>Published:</strong> 02 April 2025</li>
+  <li><strong>Deadline:</strong> 01 May 2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD project: Development of non-invasive analytics for monitoring host-microbiota interplay</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3950)
-- **Department:** Malmö universitet  / Malmö universitet
-- **Published:** 28 March 2025
-- **Deadline:** 22 May 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3950">View job posting</a></li>
+  <li><strong>Department:</strong> Malmö universitet  / Malmö universitet</li>
+  <li><strong>Published:</strong> 28 March 2025</li>
+  <li><strong>Deadline:</strong> 22 May 2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Employment as a doctoral student in Media and Communication Studies: Imagining and Co-Creating Futures</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3918)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 13 March 2025
-- **Deadline:** 22 April 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3918">View job posting</a></li>
+  <li><strong>Department:</strong> Faculty of culture and society  / School of Arts and Communication</li>
+  <li><strong>Published:</strong> 13 March 2025</li>
+  <li><strong>Deadline:</strong> 22 April 2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Employment as a doctoral student in Media and Communication Studies: Storytelling</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3922)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 13 March 2025
-- **Deadline:** 22 April 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3922">View job posting</a></li>
+  <li><strong>Department:</strong> Faculty of culture and society  / School of Arts and Communication</li>
+  <li><strong>Published:</strong> 13 March 2025</li>
+  <li><strong>Deadline:</strong> 22 April 2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Employment as a doctoral student in Media and Communication Studies: Working-Class Literary Storytelling</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3927)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 13 March 2025
-- **Deadline:** 22 April 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3927">View job posting</a></li>
+  <li><strong>Department:</strong> Faculty of culture and society  / School of Arts and Communication</li>
+  <li><strong>Published:</strong> 13 March 2025</li>
+  <li><strong>Deadline:</strong> 22 April 2025</li>
+</ul>
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor in Surface Chemistry with Focus on Studies of Biointerfaces</h3>
 
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3928)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 12 March 2025
-- **Deadline:** 30 April 2025
+<ul>
+  <li><strong>Link:</strong> <a href="http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3928">View job posting</a></li>
+  <li><strong>Department:</strong> Faculty of health and society  / Department of Biomedical Science</li>
+  <li><strong>Published:</strong> 12 March 2025</li>
+  <li><strong>Deadline:</strong> 30 April 2025</li>
+</ul>
 </div></div>
 
 <script>

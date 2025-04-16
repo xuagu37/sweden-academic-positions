@@ -2,9 +2,41 @@ import re
 from pathlib import Path
 from datetime import date
 
+# def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 2):
+#     """
+#     Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file.
+
+#     Args:
+#         input_path (str): Path to the input .md file.
+#         output_path (str): Path to the output .md file.
+#         level (int): Minimum heading level to convert (default is 2).
+#     """
+#     input_path = Path(input_path)
+#     output_path = Path(output_path)
+
+#     text = input_path.read_text(encoding="utf-8")
+
+#     # Match headings like ## Heading or ### Heading
+#     pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
+
+#     def replacer(match):
+#         hashes, title = match.groups()
+#         heading_level = len(hashes)
+#         return f"<h{heading_level}>{title.strip()}</h{heading_level}>\n"
+
+#     converted = pattern.sub(replacer, text)
+
+#     output_path.write_text(converted, encoding="utf-8")
+#     print(f"Converted headings for {input_path.name}...")
+    
+import re
+from pathlib import Path
+from html import unescape
+
 def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 2):
     """
-    Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file.
+    Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file,
+    unescapes &amp; in Markdown links, and converts job info blocks into HTML <ul>.
 
     Args:
         input_path (str): Path to the input .md file.
@@ -16,19 +48,41 @@ def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 
 
     text = input_path.read_text(encoding="utf-8")
 
-    # Match headings like ## Heading or ### Heading
-    pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
+    # --- 1. Convert headings to HTML ---
+    heading_pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
 
-    def replacer(match):
+    def heading_replacer(match):
         hashes, title = match.groups()
         heading_level = len(hashes)
         return f"<h{heading_level}>{title.strip()}</h{heading_level}>\n"
 
-    converted = pattern.sub(replacer, text)
+    text = heading_pattern.sub(heading_replacer, text)
 
-    output_path.write_text(converted, encoding="utf-8")
-    print(f"Converted headings for {input_path.name}...")
-    
+    # --- 2. Convert Markdown-style job bullet blocks into <ul><li> ---
+    job_block_pattern = re.compile(
+        r"""(?P<list>- \*\*Link:\*\* \[([^\]]+)\]\(([^)]+)\)\s*
+- \*\*Department:\*\* ?(.*)\s*
+- \*\*Published:\*\* ?(.*)\s*
+- \*\*Deadline:\*\* ?(.*))""",
+        re.MULTILINE,
+    )
+
+    def job_block_replacer(match):
+        _, label, raw_url, dept, pub, deadline = match.groups()
+        url = unescape(raw_url)
+        return (
+            "<ul>\n"
+            f'  <li><strong>Link:</strong> <a href="{url}">{label}</a></li>\n'
+            f'  <li><strong>Department:</strong> {dept}</li>\n'
+            f'  <li><strong>Published:</strong> {pub}</li>\n'
+            f'  <li><strong>Deadline:</strong> {deadline}</li>\n'
+            "</ul>"
+        )
+
+    text = job_block_pattern.sub(job_block_replacer, text)
+
+    output_path.write_text(text, encoding="utf-8")
+    print(f"Converted headings and job blocks in {input_path.name}...")
     
 
 
