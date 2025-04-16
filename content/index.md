@@ -24,13 +24,17 @@ prerequisites
 :caption: Current Positions
 :maxdepth: 1
 
+chalmers
 gothenburg
+karlstad
 ki
 kth
 linkoping
 lulea
 lund
 malmo
+slu
+sodertorn
 stockholm
 umea
 uppsala

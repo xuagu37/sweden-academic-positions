@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 52</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 53</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -280,16 +280,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in networked control systems</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-05
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in electrocatalytic hydrogenation of bio-aldehydes</h3>
 
@@ -327,6 +317,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>The project has no title</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819375?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-07
 
 </div>
 
@@ -387,6 +387,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in networked control systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-11
 
 </div>
 

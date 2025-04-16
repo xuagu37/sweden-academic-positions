@@ -156,12 +156,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-02
 
-### Postdoc in networked control systems
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-05
-
 ### Doctoral student in electrocatalytic hydrogenation of bio-aldehydes
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814622?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
@@ -185,6 +179,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-06
+
+### The project has no title
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819375?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-07
 
 ### Doctoral student in (licentiate) in soil and rock mechanics (mechanics of rock joints)
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/812407?l=en)
@@ -221,6 +221,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-09
+
+### Postdoc in networked control systems
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-11
 
 ### Doctoral students in generative AI for 3D gesture motion
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/810341?l=en)

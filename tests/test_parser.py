@@ -1,8 +1,8 @@
-from swedjobs.parser import parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm, parse_jobs_gothenburg, parse_jobs_ki, parse_jobs_kth, parse_jobs_linkoping, parse_jobs_umea, parse_jobs_orebro, parse_jobs_lulea, parse_jobs_malmo
+from swedjobs.parser import parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm, parse_jobs_gothenburg, parse_jobs_ki, parse_jobs_kth, parse_jobs_linkoping, parse_jobs_umea, parse_jobs_orebro, parse_jobs_lulea, parse_jobs_malmo, parse_jobs_chalmers, parse_jobs_slu, parse_jobs_karlstad, parse_jobs_sodertorn
 
 def test_parser():
-    test_file = "html_cache/latest_orebro_page.html"
-    jobs = parse_jobs_orebro(test_file)
+    test_file = "html_cache/latest_sodertorn_page.html"
+    jobs = parse_jobs_sodertorn(test_file)
 
     print(f"\nTest complete: {len(jobs)} job(s) found.\n")
 

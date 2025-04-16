@@ -7,3 +7,5 @@ make clean
 
 echo "🛠️ Building site locally (optional check)..."
 make html
+
+open _build/html/index.html

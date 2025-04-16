@@ -553,3 +553,198 @@ def parse_jobs_malmo(html_path: str) -> list[dict]:
         })
 
     return jobs
+
+
+from bs4 import BeautifulSoup
+
+def parse_jobs_chalmers(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Chalmers University's ReachMee vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    for row in soup.select("tr"):
+        cols = row.find_all("td")
+        if len(cols) < 3:
+            continue
+
+        ref_no = cols[0].get_text(strip=True)
+        a_tag = cols[1].find("a")
+        if not a_tag:
+            continue
+
+        title = a_tag.get_text(strip=True)
+        url = a_tag.get("href")
+        if not url.startswith("http"):
+            url = "https://web103.reachmee.com" + url
+
+        # Extract hidden ISO-format deadline from <span data-order="1" style="display:none">
+        deadline_tag = cols[2].find("span", attrs={"data-order": "1"})
+        deadline = deadline_tag.get_text(strip=True) if deadline_tag else ""
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": "",      # Not available
+            "published": "",       # Not available
+            "deadline": deadline,  # Now in YYYY-MM-DD format
+        })
+
+    return jobs
+
+
+def parse_jobs_slu(html_path: str) -> list[dict]:
+    """
+    Parses job postings from SLU's ReachMee-powered vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    # Each job is contained in a <tr class="jobs ...">
+    for row in soup.select("tr.jobs"):
+        tds = row.find_all("td")
+        if len(tds) < 4:
+            continue
+
+        # Title and URL
+        title_tag = tds[0].find("a")
+        if not title_tag:
+            continue
+
+        title = title_tag.get_text(strip=True)
+        url = title_tag.get("href")
+        if not url.startswith("http"):
+            url = "https://web103.reachmee.com" + url
+
+        # Department (unit)
+        department = tds[1].get_text(strip=True)
+
+        # City/location (optional)
+        # city = tds[2].get_text(strip=True)  # Uncomment if needed
+
+        # Deadline from hidden span
+        deadline_tag = tds[3].find("span", attrs={"data-order": "1"})
+        deadline = deadline_tag.get_text(strip=True) if deadline_tag else ""
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": department,
+            "published": "",  # Not provided in HTML block
+            "deadline": deadline,
+        })
+
+    return jobs
+
+
+from bs4 import BeautifulSoup
+
+def parse_jobs_karlstad(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Karlstad University's Varbi-powered vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    # Each job is a row (<tr>), assuming multiple <td> elements inside
+    for row in soup.select("tr"):
+        tds = row.find_all("td")
+        if len(tds) < 3:
+            continue
+
+        # Title and URL
+        a_tag = tds[0].find("a")
+        if not a_tag:
+            continue
+
+        title = a_tag.get_text(strip=True)
+        url = a_tag.get("href")
+        if not url.startswith("http"):
+            url = "https://kau.varbi.com" + url
+
+        # Department is not explicitly listed — leave blank
+        department = ""
+
+        # Deadline
+        deadline = tds[2].get_text(strip=True)
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": department,
+            "published": "",       # Not available
+            "deadline": deadline,
+        })
+
+    return jobs
+
+
+def parse_jobs_sodertorn(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Södertörn University's ReachMee-powered vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    # Each job appears across two <td>s in a <tr>
+    for row in soup.select("tr"):
+        tds = row.find_all("td")
+        if len(tds) < 2:
+            continue
+
+        # Title and link
+        a_tag = tds[0].find("a")
+        if not a_tag:
+            continue
+
+        title = a_tag.get_text(strip=True)
+        url = a_tag.get("href")
+        if not url.startswith("http"):
+            url = "https://web103.reachmee.com" + url
+
+        # Deadline in hidden <span>
+        deadline_tag = tds[1].find("span", attrs={"data-order": "1"})
+        deadline = deadline_tag.get_text(strip=True) if deadline_tag else ""
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": "",     # Not present in HTML
+            "published": "",      # Not present in HTML
+            "deadline": deadline,
+        })
+
+    return jobs

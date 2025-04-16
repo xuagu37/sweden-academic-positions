@@ -1,5 +1,11 @@
 # Uppsala University
 
+### Forskningsassistent Psykiatri
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817846/)
+- **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-02
+
 ### Forskningsassistent
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817834/)
 - **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper

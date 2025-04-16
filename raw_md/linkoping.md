@@ -36,6 +36,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
+### Postdoc in Digital Forensics with focus on Deep Learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26686)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
 ### PhD student in Environmental Science
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
 - **Department:** 

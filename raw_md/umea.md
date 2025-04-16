@@ -120,6 +120,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-07
 
+### Postdoctoral position (2 years) in Medical Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
+
 ### PhD position in Applied Physics with focus on hollow-core fiber technology for next-generation communication
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-applied-physics-with-focus-on-hollow-core-fiber-technology-for-next-generation-communication_816202/)
 - **Department:** Department of Applied Physics and Electronics
