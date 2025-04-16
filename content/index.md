@@ -24,7 +24,9 @@ prerequisites
 :caption: Current Positions
 :maxdepth: 1
 
+current_positions
 chalmers
+dalarna
 gothenburg
 karlstad
 ki
@@ -32,6 +34,7 @@ kth
 linkoping
 lulea
 lund
+malardalen
 malmo
 slu
 sodertorn

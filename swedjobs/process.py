@@ -29,6 +29,58 @@ from datetime import date
 #     output_path.write_text(converted, encoding="utf-8")
 #     print(f"Converted headings for {input_path.name}...")
     
+
+# def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 2):
+#     """
+#     Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file,
+#     unescapes &amp; in Markdown links, and converts job info blocks into HTML <ul>.
+
+#     Args:
+#         input_path (str): Path to the input .md file.
+#         output_path (str): Path to the output .md file.
+#         level (int): Minimum heading level to convert (default is 2).
+#     """
+#     input_path = Path(input_path)
+#     output_path = Path(output_path)
+
+#     text = input_path.read_text(encoding="utf-8")
+
+#     # --- 1. Convert headings to HTML ---
+#     heading_pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
+
+#     def heading_replacer(match):
+#         hashes, title = match.groups()
+#         heading_level = len(hashes)
+#         return f"<h{heading_level}>{title.strip()}</h{heading_level}>\n"
+
+#     text = heading_pattern.sub(heading_replacer, text)
+
+#     # --- 2. Convert Markdown-style job bullet blocks into <ul><li> ---
+#     job_block_pattern = re.compile(
+#         r"""(?P<list>- \*\*Link:\*\* \[([^\]]+)\]\(([^)]+)\)\s*
+# - \*\*Department:\*\* ?(.*)\s*
+# - \*\*Published:\*\* ?(.*)\s*
+# - \*\*Deadline:\*\* ?(.*))""",
+#         re.MULTILINE,
+#     )
+
+#     def job_block_replacer(match):
+#         _, label, raw_url, dept, pub, deadline = match.groups()
+#         url = unescape(raw_url)
+#         return (
+#             "<ul>\n"
+#             f'  <li><strong>Link:</strong> <a href="{url}">{label}</a></li>\n'
+#             f'  <li><strong>Department:</strong> {dept}</li>\n'
+#             f'  <li><strong>Published:</strong> {pub}</li>\n'
+#             f'  <li><strong>Deadline:</strong> {deadline}</li>\n'
+#             "</ul>"
+#         )
+
+#     text = job_block_pattern.sub(job_block_replacer, text)
+
+#     output_path.write_text(text, encoding="utf-8")
+#     print(f"Converted headings and job blocks in {input_path.name}...")
+
 import re
 from pathlib import Path
 from html import unescape
@@ -37,6 +89,8 @@ def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 
     """
     Converts Markdown headings (##, ###, etc.) to HTML <hN> tags in a Markdown file,
     unescapes &amp; in Markdown links, and converts job info blocks into HTML <ul>.
+
+    Handles both individual university .md files and merged current_positions.md.
 
     Args:
         input_path (str): Path to the input .md file.
@@ -48,7 +102,7 @@ def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 
 
     text = input_path.read_text(encoding="utf-8")
 
-    # --- 1. Convert headings to HTML ---
+    # --- 1. Convert headings like ## or ### to <h2>, <h3> etc. ---
     heading_pattern = re.compile(r"^(#{%d,}) (.+)$" % level, re.MULTILINE)
 
     def heading_replacer(match):
@@ -58,9 +112,10 @@ def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 
 
     text = heading_pattern.sub(heading_replacer, text)
 
-    # --- 2. Convert Markdown-style job bullet blocks into <ul><li> ---
+    # --- 2. Convert job bullet blocks into HTML lists ---
     job_block_pattern = re.compile(
         r"""(?P<list>- \*\*Link:\*\* \[([^\]]+)\]\(([^)]+)\)\s*
+(?:- \*\*University:\*\* ?(.*)\s*)?
 - \*\*Department:\*\* ?(.*)\s*
 - \*\*Published:\*\* ?(.*)\s*
 - \*\*Deadline:\*\* ?(.*))""",
@@ -68,16 +123,25 @@ def convert_md_headings_to_html(input_path: str, output_path: str, level: int = 
     )
 
     def job_block_replacer(match):
-        _, label, raw_url, dept, pub, deadline = match.groups()
+        _, label, raw_url, uni, dept, pub, deadline = match.groups()
         url = unescape(raw_url)
-        return (
-            "<ul>\n"
-            f'  <li><strong>Link:</strong> <a href="{url}">{label}</a></li>\n'
-            f'  <li><strong>Department:</strong> {dept}</li>\n'
-            f'  <li><strong>Published:</strong> {pub}</li>\n'
-            f'  <li><strong>Deadline:</strong> {deadline}</li>\n'
+
+        # Build <ul> block
+        block = [
+            "<ul>",
+            f'  <li><strong>Link:</strong> <a href="{url}">{label}</a></li>',
+        ]
+
+        if uni is not None:
+            block.append(f'  <li><strong>University:</strong> {uni.strip()}</li>')
+
+        block.extend([
+            f'  <li><strong>Department:</strong> {dept.strip()}</li>',
+            f'  <li><strong>Published:</strong> {pub.strip()}</li>',
+            f'  <li><strong>Deadline:</strong> {deadline.strip()}</li>',
             "</ul>"
-        )
+        ])
+        return "\n".join(block)
 
     text = job_block_pattern.sub(job_block_replacer, text)
 
@@ -243,3 +307,46 @@ def add_position_count(file_path: str):
 
     path.write_text(updated, encoding="utf-8")
     print(f"Added job count to {file_path}...")
+    
+    
+def merge_job_markdowns(input_dir: str, output_path: str):
+    """
+    Merges multiple Markdown job files into a single file under the heading "Current Positions",
+    and injects the university name into each job entry. Skips 'current_positions.md'.
+
+    Args:
+        input_dir (str): Directory containing the .md files to merge.
+        output_path (str): Path to write the merged Markdown file.
+    """
+    input_dir = Path(input_dir)
+    output_path = Path(output_path)
+
+    merged = ["# Current Positions\n"]
+
+    for md_file in sorted(input_dir.glob("*.md")):
+        if md_file.name == output_path.name:
+            continue  # Skip current_positions.md
+
+        text = md_file.read_text(encoding="utf-8")
+
+        # Try to extract the university name from the heading or filename
+        match = re.search(r"#\s*(.+)", text)
+        university = match.group(1).strip() if match else md_file.stem.replace("-", " ").title()
+
+        # Extract individual job entries
+        job_blocks = re.findall(r"(### .+?)(?=\n### |\Z)", text, re.DOTALL)
+
+        for block in job_blocks:
+            # Avoid duplicate university lines
+            if "**University:**" in block:
+                merged.append(block.strip() + "\n")
+            else:
+                updated_block = re.sub(
+                    r"(### .+?\n)(- \*\*Link:\*\* .+?\n)",
+                    rf"\1\2- **University:** {university}\n",
+                    block
+                )
+                merged.append(updated_block.strip() + "\n")
+
+    output_path.write_text("\n\n".join(merged), encoding="utf-8")
+    print(f"Merged into {output_path.name}, skipping self-reference.")

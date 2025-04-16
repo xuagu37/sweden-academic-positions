@@ -2,11 +2,11 @@ from swedjobs.fetcher import fetch_html, fetch_all_pages_ki
 from swedjobs.parser import (
     parse_jobs_lund, parse_jobs_uppsala, parse_jobs_stockholm, parse_jobs_gothenburg,
     parse_jobs_ki, parse_jobs_kth, parse_jobs_linkoping, parse_jobs_umea,
-    parse_jobs_orebro, parse_jobs_lulea, parse_jobs_malmo, parse_jobs_chalmers, parse_jobs_slu, parse_jobs_karlstad, parse_jobs_sodertorn
+    parse_jobs_orebro, parse_jobs_lulea, parse_jobs_malmo, parse_jobs_chalmers, parse_jobs_slu, parse_jobs_karlstad, parse_jobs_sodertorn, parse_jobs_dalarna, parse_jobs_gavle, parse_jobs_malardalen
 )
 from swedjobs.process import (
     convert_md_headings_to_html, add_search_and_filter,
-    update_index_date, add_position_count
+    update_index_date, add_position_count, merge_job_markdowns
 )
 from pathlib import Path
 
@@ -146,7 +146,34 @@ def main():
             "processed_md": "content/sodertorn.md",
             "fetcher": fetch_html,
             "parser": parse_jobs_sodertorn,
-        }                                      
+        },
+        {
+            "name": "Dalarna University",
+            "url": "https://www.du.se/en/about-du/career-opportunities/vacant-positions/",
+            "html_file": "html_cache/latest_dalarna_page.html",
+            "raw_md": "raw_md/dalarna.md",
+            "processed_md": "content/dalarna.md",
+            "fetcher": fetch_html,
+            "parser": parse_jobs_dalarna,
+        },
+        {
+            "name": "Gävle University",
+            "url": "https://www.hig.se/engelska/university-of-gavle/about-the-university/work-with-us#Currentvacancies",
+            "html_file": "html_cache/latest_gavle_page.html",
+            "raw_md": "raw_md/gavle.md",
+            "processed_md": "content/gavle.md",
+            "fetcher": fetch_html,
+            "parser": parse_jobs_gavle,
+        },
+        {
+            "name": "Mälardalen University",
+            "url": "https://www.mdu.se/en/malardalen-university/about-mdu/work-with-us/job-opportunities",
+            "html_file": "html_cache/latest_malardalen_page.html",
+            "raw_md": "raw_md/malardalen.md",
+            "processed_md": "content/malardalen.md",
+            "fetcher": fetch_html,
+            "parser": parse_jobs_malardalen,
+        }                                                                          
     ]
 
     for uni in universities:
@@ -171,6 +198,12 @@ def main():
 
     update_index_date()
     print("\nAll universities processed successfully!")
+    
+    merge_job_markdowns("raw_md", "raw_md/current_positions.md")
+    convert_md_headings_to_html("raw_md/current_positions.md", "content/current_positions.md")
+    add_search_and_filter(Path("content/current_positions.md"))
+    add_position_count("content/current_positions.md") 
+    print("\nAll universities merged successfully!")
 
 if __name__ == "__main__":
     main()

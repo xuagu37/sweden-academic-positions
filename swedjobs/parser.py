@@ -748,3 +748,120 @@ def parse_jobs_sodertorn(html_path: str) -> list[dict]:
         })
 
     return jobs
+
+
+def parse_jobs_dalarna(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Dalarna University's vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    for job_div in soup.select("div.vacantpositions-item"):
+        a_tag = job_div.find("a")
+        if not a_tag:
+            continue
+
+        title = a_tag.get_text(strip=True)
+        raw_url = a_tag.get("href", "")
+        url = raw_url if raw_url.startswith("http") else f"https://www.du.se{raw_url}"
+
+        deadline_tag = job_div.find("time")
+        deadline = deadline_tag.get("datetime", "").split(" ")[0] if deadline_tag else ""
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": "",   # Not provided in the structure
+            "published": "",    # Not provided
+            "deadline": deadline,
+        })
+
+    return jobs
+
+
+def parse_jobs_gavle(html_path: str) -> list[dict]:
+    """
+    Parses job postings from University of Gävle's Varbi-powered vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    for row in soup.select("li.hiq-varbi-jobs__row"):
+        a_tag = row.find("a", class_="hiq-varbi-jobs__cell--title")
+        if not a_tag:
+            continue  # skip header row
+
+        title = a_tag.get_text(strip=True)
+        url = a_tag.get("href")
+        if not url.startswith("http"):
+            url = "https://hogskolanigavle.varbi.com" + url
+
+        deadline = row.find("p", class_="hiq-varbi-jobs__cell--deadline")
+        published = row.find("p", class_="hiq-varbi-jobs__cell--published")
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": "",  # Not explicitly provided
+            "published": published.get_text(strip=True) if published else "",
+            "deadline": deadline.get_text(strip=True) if deadline else "",
+        })
+
+    return jobs
+
+
+def parse_jobs_malardalen(html_path: str) -> list[dict]:
+    """
+    Parses job postings from Mälardalen University's ReachMee-powered vacancies page.
+
+    Args:
+        html_path (str): Path to the saved HTML file.
+
+    Returns:
+        List[Dict]: List of jobs with title, url, department, published, and deadline.
+    """
+    with open(html_path, encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+
+    jobs = []
+
+    for job_div in soup.select("div.mdh-archive-item__content"):
+        title_tag = job_div.select_one("div.mdh-available-positions__item-title a")
+        deadline_tag = job_div.select_one("div.mdh-available-positions__item-info")
+
+        if not title_tag or not deadline_tag:
+            continue
+
+        title = title_tag.get_text(strip=True)
+        raw_url = title_tag.get("href", "")
+        url = unescape(raw_url) if raw_url.startswith("http") else f"https://www.mdu.se{unescape(raw_url)}"
+
+        # Extract date part from "Apply by 2025-05-13"
+        deadline_match = deadline_tag.get_text(strip=True).replace("Apply by", "").strip()
+
+        jobs.append({
+            "title": title,
+            "url": url,
+            "department": "",
+            "published": "",
+            "deadline": deadline_match,
+        })
+
+    return jobs

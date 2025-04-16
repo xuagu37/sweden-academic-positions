@@ -1,5 +1,5 @@
-# Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
+# Dalarna University
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,43 +20,63 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science (Machine Learning)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Engagerad supportmedarbetare till Högskolan Dalarna</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250051)
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2548)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-28
+- **Deadline:** 4/16/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorand i Vårdvetenskap: Preventivt arbete med ungdomar utan gymnasiebeh.</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2544)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 4/17/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorand i vårdvetenskap:  Bildskapande interventioner till ungdomar</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2545)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 4/17/2025
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Sport Science</h3>
+<h3>Professor i svenska</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250079)
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2521)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-04-28
+- **Deadline:** 4/27/2025
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior lecturer in criminology</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i bild/bilddidaktik</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250099)
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2538)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-07
+- **Deadline:** 5/30/2025
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Biomedicine</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i bild/bilddidaktik</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250078)
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2539)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 5/30/2025
 </div></div>
 
 <script>
