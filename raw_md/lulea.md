@@ -1,11 +1,5 @@
 # Luleå University
 
-### PhD Student in Machine learning
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8947)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-15
-
 ### Researcher in Robotics and Artificial Intelligence
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8984)
 - **Department:** 
@@ -86,6 +80,12 @@
 
 ### PhD student in Electronic Systems with focus on electrodynamic modeling
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9055)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD Student position in Machine Learning focus Sustainable Machine Learning
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15

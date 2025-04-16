@@ -6,6 +6,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-10
 
+### Postdoc in the field of Materials Science and Engineering
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-30
+
 ### PhD student in Wireless Communications and Computer Vision
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
 - **Department:** 
@@ -30,6 +36,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
+### PhD student in Environmental Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-12
+
 ### Assistant professor in Machine Learning with a focus on Motion Analysis from Video
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26532)
 - **Department:** 
@@ -53,6 +65,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
+
+### First research engineer in immunology at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26623)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-06
 
 ### PhD student in Biological Sciences
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26479)
@@ -90,17 +108,17 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
+### Amanuenses to UX design and development - Visualization Center C
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### Employment as a PhD student in Medical Science at BKV
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26462)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### Amanuenses to UX design and development - Visualization Center C
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 ### PhD student in Applied Physics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26552)
@@ -143,12 +161,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-20
-
-### PhD student in Environmental Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
 
 ### PhD student in Applied Physics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26476)

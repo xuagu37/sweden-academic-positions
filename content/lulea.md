@@ -20,16 +20,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Machine learning</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8947)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher in Robotics and Artificial Intelligence</h3>
 
@@ -164,6 +154,16 @@
 <h3>PhD student in Electronic Systems with focus on electrodynamic modeling</h3>
 
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9055)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student position in Machine Learning focus Sustainable Machine Learning</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15

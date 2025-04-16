@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 28</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -27,6 +27,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in the field of Materials Science and Engineering</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-30
 
 </div>
 
@@ -70,6 +80,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Environmental Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-12
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant professor in Machine Learning with a focus on Motion Analysis from Video</h3>
 
@@ -107,6 +127,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>First research engineer in immunology at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26623)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-06
 
 </div>
 
@@ -170,6 +200,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuenses to UX design and development - Visualization Center C</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Employment as a PhD student in Medical Science at BKV</h3>
 
@@ -177,16 +217,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuenses to UX design and development - Visualization Center C</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 </div>
 
@@ -257,16 +287,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
 
 </div>
 

@@ -1,29 +1,5 @@
 # KTH
 
-### Postdoc in Lignin-Based Protective Coatings for Industrial Applications
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811332?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
-### Doctoral student in multi-agent control systems
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804767?l=en)
-- **Department:** School of Electrical Engineering and Computer Science at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
-### Postdoc in modelling of wave-particle interactions in fusion plasmas
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/807480?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
-### Doctoral student in Emerging Quantum Materials
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/794465?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
 ### Postdoc in Advanced Surface Engineering
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
 - **Department:** School of Industrial Engineering and Management at KTH
@@ -179,6 +155,12 @@
 - **Department:** School of Engineering Sciences at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-02
+
+### Postdoc in networked control systems
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-05
 
 ### Doctoral student in electrocatalytic hydrogenation of bio-aldehydes
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814622?l=en)

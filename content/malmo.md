@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -87,26 +87,6 @@
 - **Department:** Faculty of health and society  / Department of Biomedical Science
 - **Published:** 12 March 2025
 - **Deadline:** 30 April 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science: Data-driven product development, evolution and management</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3894)
-- **Department:** Faculty of technology and society
-- **Published:** 01 March 2025
-- **Deadline:** 15 April 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science: Continuous Everything</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3896)
-- **Department:** Faculty of technology and society
-- **Published:** 01 March 2025
-- **Deadline:** 15 April 2025
 </div></div>
 
 <script>

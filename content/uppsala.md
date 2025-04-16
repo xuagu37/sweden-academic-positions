@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 108</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 99</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -700,26 +700,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant at the Centre for Health Economic Research</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:812766/)
-- **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy, Faculty of Medicine, Department of Medical Sciences
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral positions in Health Economics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:812778/)
-- **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy, Faculty of Medicine, Department of Medical Sciences
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in solid-state chemistry with specialization in inorganic battery materials</h3>
 
@@ -737,26 +717,6 @@
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
 - **Deadline:** 2025-04-23
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Data Engineer with focus on AI</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:808455/)
-- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Bioinformatician with focus on AI</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:808456/)
-- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
-- **Published:** 
-- **Deadline:** 2025-04-15
 
 </div>
 
@@ -786,7 +746,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810861/)
 - **Department:** Uppsala University, Department of Information Technology
 - **Published:** 
-- **Deadline:** 2025-04-22
+- **Deadline:** 2025-04-25
 
 </div>
 
@@ -871,16 +831,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Exploration Geophysics with focus on DAS</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809013/)
-- **Department:** Uppsala University, Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>2 Postdoctoral positions in hydrothermal processes in volcanic systems</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806854/)
@@ -947,16 +897,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in magnetic materials design</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805958/)
-- **Department:** Uppsala universitet, Department of Physics and Astronomy
-- **Published:** 
-- **Deadline:** 2025-04-15
 
 </div>
 
@@ -1040,16 +980,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Materials Physics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804881/)
-- **Department:** Uppsala University, Department of Physics and Astronomy
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Information Systems</h3>
 
@@ -1071,32 +1001,12 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Fixed-term Lecturer in Aesthetics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:802886/)
-- **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Arts, Department of Philosophy
-- **Published:** 
-- **Deadline:** 2025-04-15
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Olle Engkvist Foundation Chair Professor in Latin</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:776996/)
 - **Department:** Uppsala University, Department of Linguistics and Philology
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemistry</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:798714/)
-- **Department:** Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-15
 </div></div>
 
 <script>

@@ -42,15 +42,3 @@
 - **Published:** 12 March 2025
 - **Deadline:** 30 April 2025
 
-### Doctoral student in Computer Science: Data-driven product development, evolution and management
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3894)
-- **Department:** Faculty of technology and society
-- **Published:** 01 March 2025
-- **Deadline:** 15 April 2025
-
-### Doctoral student in Computer Science: Continuous Everything
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3896)
-- **Department:** Faculty of technology and society
-- **Published:** 01 March 2025
-- **Deadline:** 15 April 2025
-

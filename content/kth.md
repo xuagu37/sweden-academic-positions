@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 55</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 52</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,46 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Lignin-Based Protective Coatings for Industrial Applications</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811332?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in multi-agent control systems</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804767?l=en)
-- **Department:** School of Electrical Engineering and Computer Science at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in modelling of wave-particle interactions in fusion plasmas</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/807480?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Emerging Quantum Materials</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/794465?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-15
 
 </div>
 
@@ -317,6 +277,16 @@
 - **Department:** School of Engineering Sciences at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-02
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in networked control systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-05
 
 </div>
 
