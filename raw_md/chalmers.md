@@ -1,5 +1,59 @@
 # Chalmers University of Technology
 
+### PhD student in research on improving user experience and safety using behavioral models
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13886)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+### PhD Position in Theoretical Deep Learning: Symmetries in Neural Networks
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13875)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-21
+
+### Project assistant on Biopolymers extraction and characterization
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13892)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-17
+
+### Research engineer in Computer Engineering
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13841)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### CSE, PostDoc in Formal Analysis of AI-based Systems
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13872)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Prefekt till institutionen för mekanik och maritima vetenskaper
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13896)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+### Postdoc on quantifying perceived safety and comfort zone boundaries
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13887)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+### Postdoc on multi-modal ISAC
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13891)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-31
+
+### We are offering up to three PhD positions on galaxy evolution at Chalmers
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13890)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
 ### PhD position: green processing for wood biomass valirization
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13874)
 - **Department:** 
@@ -276,18 +330,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-20
 
-### Postdoctoral positions in Quantum Nanophotonics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=12442)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
-
-### PhD positions in Quantum Nanophotonics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=12441)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
-
 ### 2 PhD student positions in III-nitride-based lasers
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13809)
 - **Department:** 
@@ -341,12 +383,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-20
-
-### Postdoc for Constitutive Modelling of Sensitive Clays
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13751)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
 
 ### PhD position in Functional Covalent Framework Materials
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13729)

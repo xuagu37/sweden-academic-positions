@@ -1,11 +1,5 @@
 # Dalarna University
 
-### Engagerad supportmedarbetare till Högskolan Dalarna
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2548)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 4/16/2025
-
 ### Doktorand i Vårdvetenskap: Preventivt arbete med ungdomar utan gymnasiebeh.
 - **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2544)
 - **Department:** 

@@ -36,6 +36,18 @@
 - **Published:** 
 - **Deadline:** 2025-04-24
 
+### PhD student in didactics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3112)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### PhD student in didactics (in early childhood education)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3116)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-05
+
 ### Postdoc focusing on impact and research on collaboration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=2905)
 - **Department:** 

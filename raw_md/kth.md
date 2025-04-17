@@ -1,11 +1,5 @@
 # KTH
 
-### Postdoc in Advanced Surface Engineering
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-16
-
 ### Doctoral student in  Stable enzyme technologies for a sustainable bioeconomy
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/801105?l=en)
 - **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
@@ -281,6 +275,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-16
+
+### Join the KTH Innovation team as a student worker
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/813884?l=en)
+- **Department:** KTH Royal Institute of Technology, Support services at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-18
 
 ### Doctoral student in Adaptive Separation in Dynamic Nanofibril Networks
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814968?l=en)

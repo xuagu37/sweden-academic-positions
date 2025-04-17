@@ -20,16 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Advanced Surface Engineering</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801331?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-16
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in  Stable enzyme technologies for a sustainable bioeconomy</h3>
 
@@ -487,6 +477,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Join the KTH Innovation team as a student worker</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/813884?l=en)
+- **Department:** KTH Royal Institute of Technology, Support services at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-18
 
 </div>
 

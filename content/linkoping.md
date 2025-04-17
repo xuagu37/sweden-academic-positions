@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 29</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -40,6 +40,36 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Industrial Marketing</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26699)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Associate Professor in Industrial Marketing</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26701)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in production engineering</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26693)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Wireless Communications and Computer Vision</h3>
 
@@ -77,6 +107,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Coordinator & EU Policy Officer, Based in Brussels</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26633)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
 
 </div>
 
@@ -297,16 +337,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Applied Physics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26476)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
 </div></div>
 
 <script>

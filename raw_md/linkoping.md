@@ -12,6 +12,24 @@
 - **Published:** 
 - **Deadline:** 2025-05-30
 
+### Associate Professor in Industrial Marketing
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26699)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+### Senior Associate Professor in Industrial Marketing
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26701)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+### Assistant professor in production engineering
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26693)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
 ### PhD student in Wireless Communications and Computer Vision
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
 - **Department:** 
@@ -35,6 +53,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-16
+
+### Coordinator & EU Policy Officer, Based in Brussels
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26633)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
 
 ### Postdoc in Digital Forensics with focus on Deep Learning
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26686)
@@ -167,10 +191,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-20
-
-### PhD student in Applied Physics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26476)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-16
 

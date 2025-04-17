@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 11</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 12</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -117,6 +117,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 05.May.2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral Student in Biology</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:812910/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 08.May.2025
 
 </div>
 

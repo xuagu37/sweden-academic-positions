@@ -1,5 +1,95 @@
 # Uppsala University
 
+### PhD student in Pharmacognosy: Peptide-based inhibitors targeting blood cancer
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:796683/)
+- **Department:** Uppsala University, Department of Pharmaceutical Biosciences
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+### Två st Universitetsadjunkter i Farmakognosi
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:799114/)
+- **Department:** Uppsala universitet, Inst. för farmaceutisk biovetenskap, Farmakognosi
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+### PhD project in Pharmacognosy: Peptide design and development for challenging targets
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803193/)
+- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Pharmacognosy
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+### Universitetsadjunkt i svenska som andraspråk
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813161/)
+- **Department:** Uppsala universitet, Institutionen för nordiska språk
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### Forskare i nationalekonomi IBF
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816127/)
+- **Department:** Uppsala universitet, , Institutet för bostads- och urbanforskning (IBF)
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Teaching assistant
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817242/)
+- **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Arts, Department of ALM
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### PhD student in geophysics, focus on seismic techniques for mineral exploration
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817444/)
+- **Department:** Uppsala University, Department of Earth Sciences
+- **Published:** 
+- **Deadline:** 2025-05-13
+
+### PhD student in development of digital twins for buildings
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818035/)
+- **Department:** Uppsala University, Department of Civil and Industrial Engineering
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Strategisk projektkoordinator för batteriverksamheten
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818360/)
+- **Department:** Uppsala universitet, Institutionen för kemi - Ångström
+- **Published:** 
+- **Deadline:** 2025-05-30
+
+### Postdoctoral position in Nanotechnology & Functional Materials, focusing on Development of porous organic materials for energy & environmental applications
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818489/)
+- **Department:** Uppsala University, Department of Materials Science and Engineering
+- **Published:** 
+- **Deadline:** 2025-06-30
+
+### Kursamanuens till läkarprogrammet
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818497/)
+- **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+### Universitetsadjunkt i byggteknik med inriktning mot byggnadsfysik
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818595/)
+- **Department:** Uppsala universitet, Inst. för samhällsbyggnad och industriell teknik
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Research assistant position in sustainable management of waterbodies
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819195/)
+- **Department:** Uppsala University, Department of Earth Sciences
+- **Published:** 
+- **Deadline:** 2025-05-06
+
+### PhD student to the Research Group in Radiological Image Analysis
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819462/)
+- **Department:** Uppsala University, Department of Surgical Sciences
+- **Published:** 
+- **Deadline:** 2025-05-19
+
+### HR-generalist
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819593/)
+- **Department:** Uppsala universitet, Institutionen för ekologi och genetik
+- **Published:** 
+- **Deadline:** 2025-05-13
+
 ### Universitetsadjunkt i persiska, vikariat
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817373/)
 - **Department:** Uppsala universitet, Institutionen för lingvistik och filologi
@@ -47,6 +137,18 @@
 - **Department:** Uppsala universitet, Institutionen för kvinnors och barns hälsa
 - **Published:** 
 - **Deadline:** 2025-04-30
+
+### Amanuens till HR-stöd
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818648/)
+- **Department:** Uppsala universitet, Juridiska institutionen
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+### Researcher position in Pharmacometrics
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818676/)
+- **Department:** Uppsala University, Department of Pharmacy
+- **Published:** 
+- **Deadline:** 2025-05-09
 
 ### Ekonom
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:802673/)
@@ -179,6 +281,12 @@
 - **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Technology, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
+
+### Tentamenssamordnare
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818267/)
+- **Department:** Uppsala universitet, Byggnadsavdelningen
+- **Published:** 
+- **Deadline:** 2025-05-06
 
 ### Kursadministratör vikariat
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814437/)
@@ -521,12 +629,6 @@
 - **Department:** Uppsala University, Department of Earth Sciences
 - **Published:** 
 - **Deadline:** 2025-04-17
-
-### PhD student in meteorology
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807111/)
-- **Department:** Uppsala University, Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 2025-04-16
 
 ### Postdoctoral position in stochastic control theory
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807547/)
