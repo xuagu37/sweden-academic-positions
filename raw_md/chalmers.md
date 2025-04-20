@@ -342,12 +342,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-20
 
-### Postdoc position in the evolution of resistance and pathogenicity
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13803)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
-
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)
 - **Department:** 

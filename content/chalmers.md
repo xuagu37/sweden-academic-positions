@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 67</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 66</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -587,16 +587,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in the evolution of resistance and pathogenicity</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13803)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
 
 </div>
 

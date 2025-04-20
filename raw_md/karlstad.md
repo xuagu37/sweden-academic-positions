@@ -1,11 +1,5 @@
 # Karlstad University
 
-### Fakultetsadministratör vikariat
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811405/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 18.Apr.2025
-
 ### Utbildningshandläggare, vikariat 100 %
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:813022/iframeEmbedded:0/where:4)
 - **Department:** 

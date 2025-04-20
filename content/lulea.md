@@ -20,26 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8984)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Senior Research Engineer in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8980)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Robotics and Artificial Intelligence</h3>
 
@@ -167,6 +147,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineers, summer internship, Robotics and Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>​​Professor/Head of Subject of Cyber-Physical Systems​</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8922)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-31
 </div></div>
 
 <script>

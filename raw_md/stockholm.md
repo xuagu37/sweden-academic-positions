@@ -1,11 +1,5 @@
 # Stockholm University
 
-### PhD student in Theoretical philosophy
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:790738/where:4/)
-- **Department:** Department of Philosophy
-- **Published:** 
-- **Deadline:** 2025-04-17
-
 ### Scientific Coordinator
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807891/where:4/)
 - **Department:** Nordic Institute for Theoretical Physics (NORDITA)
@@ -60,15 +54,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD student in AI for drug development
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:801010/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### PhD student in Environmental Science, aerosol-cloud-precipitation interactions
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
 - **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in AI for drug development
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:801010/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -90,15 +84,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
-- **Department:** Stockholm Resilience Centre
+### PhD student in Mathematical Statistics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805151/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD students in Mathematics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
+- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -138,9 +132,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### PhD student in Mathematical Statistics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805151/where:4/)
+### PhD students in Mathematics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
+- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -165,12 +165,6 @@
 ### PhD student in Chemical Physics - X-ray Spectroscopic Characterization of Catalytic Processes
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792391/where:4/)
 - **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
-- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -330,8 +324,8 @@
 - **Published:** 
 - **Deadline:** 2025-05-13
 
-### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
+### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -339,12 +333,6 @@
 ### Research engineer in Environmental science
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
 - **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
-- **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
 
@@ -378,8 +366,14 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
+### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15

@@ -1,23 +1,5 @@
 # KTH
 
-### Doctoral student in  Stable enzyme technologies for a sustainable bioeconomy
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801105?l=en)
-- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-17
-
-### Postdocs in Machine Learning and Robotics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812497?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-18
-
-### Doctoral student in next-generation targeted biotherapeutics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/813427?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-19
-
 ### Researcher in genomics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/812323?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
@@ -299,6 +281,18 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+### Associate Professor Mathematics with Specialization in Numerical Analysis
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806504?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
+
+### Associate Professor in Mathematics with specialization in education
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/807621?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
 
 ### Assistant professor in Ergonomics with specialization in work-related musculoskeletal disorder
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/778026?l=en)

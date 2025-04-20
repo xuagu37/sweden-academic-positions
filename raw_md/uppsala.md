@@ -1,5 +1,11 @@
 # Uppsala University
 
+### Forskare
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818767/)
+- **Department:** Uppsala universitet, Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för medicinsk cellbiologi
+- **Published:** 
+- **Deadline:** 2025-05-02
+
 ### PhD student in Pharmacognosy: Peptide-based inhibitors targeting blood cancer
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:796683/)
 - **Department:** Uppsala University, Department of Pharmaceutical Biosciences
@@ -540,12 +546,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-30
 
-### Forskningsamanuens för utbildningsrätt och offentlig rätt
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811524/)
-- **Department:** Uppsala universitet, Juridiska institutionen
-- **Published:** 
-- **Deadline:** 2025-04-17
-
 ### Assistant Professor in solid-state chemistry with specialization in inorganic battery materials
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804132/)
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
@@ -557,12 +557,6 @@
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
 - **Deadline:** 2025-04-23
-
-### Ekonomiadministratör
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809486/)
-- **Department:** Uppsala universitet, Inst för pedagogik, didaktik och utbildningssociologi
-- **Published:** 
-- **Deadline:** 2025-04-17
 
 ### PhD student in Machine Learning for Accelerated Electrolyte Modeling and Design
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810847/)
@@ -587,12 +581,6 @@
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### Postdoctoral position in fungal genomics
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811289/)
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-18
 
 ### Doctoral (Phd) position in biomedical engineering focused on microphysiological systems for cancer research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810571/)
@@ -623,18 +611,6 @@
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
 - **Deadline:** 2025-04-24
-
-### 2 Postdoctoral positions in hydrothermal processes in volcanic systems
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806854/)
-- **Department:** Uppsala University, Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 2025-04-17
-
-### Postdoctoral position in stochastic control theory
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807547/)
-- **Department:** Uppsala University, Department of Mathematics
-- **Published:** 
-- **Deadline:** 2025-04-18
 
 ### Assistant Professor in Next Generation Wireless Communications
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:775412/)
@@ -707,12 +683,6 @@
 - **Department:** Uppsala University, Department of Information Technology
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### PhD student in Information Systems
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804483/)
-- **Department:** Uppsala University, Department of Informatics and Media
-- **Published:** 
-- **Deadline:** 2025-04-18
 
 ### Postdoctoral position in computer architecture: Using broad contextual information for better branch prediction
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:797420/)

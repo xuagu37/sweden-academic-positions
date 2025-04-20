@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 53</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 52</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in  Stable enzyme technologies for a sustainable bioeconomy</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801105?l=en)
-- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-17
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdocs in Machine Learning and Robotics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812497?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-18
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in next-generation targeted biotherapeutics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/813427?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-19
 
 </div>
 
@@ -517,6 +487,26 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor Mathematics with Specialization in Numerical Analysis</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806504?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Mathematics with specialization in education</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/807621?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
 
 </div>
 

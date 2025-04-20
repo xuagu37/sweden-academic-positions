@@ -1,17 +1,5 @@
 # Luleå University
 
-### Researcher in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8984)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
-
-### Senior Research Engineer in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8980)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-17
-
 ### PhD Student in Robotics and Artificial Intelligence
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8988)
 - **Department:** 
@@ -89,4 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
+
+### Research Engineers, summer internship, Robotics and Artificial Intelligence
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+### ​​Professor/Head of Subject of Cyber-Physical Systems​
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8922)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-31
 

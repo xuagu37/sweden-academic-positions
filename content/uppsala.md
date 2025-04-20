@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 121</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 116</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskare</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818767/)
+- **Department:** Uppsala universitet, Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för medicinsk cellbiologi
+- **Published:** 
+- **Deadline:** 2025-05-02
 
 </div>
 
@@ -920,16 +930,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsamanuens för utbildningsrätt och offentlig rätt</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811524/)
-- **Department:** Uppsala universitet, Juridiska institutionen
-- **Published:** 
-- **Deadline:** 2025-04-17
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in solid-state chemistry with specialization in inorganic battery materials</h3>
 
@@ -947,16 +947,6 @@
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
 - **Deadline:** 2025-04-23
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Ekonomiadministratör</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809486/)
-- **Department:** Uppsala universitet, Inst för pedagogik, didaktik och utbildningssociologi
-- **Published:** 
-- **Deadline:** 2025-04-17
 
 </div>
 
@@ -997,16 +987,6 @@
 - **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in fungal genomics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811289/)
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-18
 
 </div>
 
@@ -1057,26 +1037,6 @@
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
 - **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>2 Postdoctoral positions in hydrothermal processes in volcanic systems</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806854/)
-- **Department:** Uppsala University, Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 2025-04-17
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in stochastic control theory</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807547/)
-- **Department:** Uppsala University, Department of Mathematics
-- **Published:** 
-- **Deadline:** 2025-04-18
 
 </div>
 
@@ -1197,16 +1157,6 @@
 - **Department:** Uppsala University, Department of Information Technology
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Information Systems</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804483/)
-- **Department:** Uppsala University, Department of Informatics and Media
-- **Published:** 
-- **Deadline:** 2025-04-18
 
 </div>
 

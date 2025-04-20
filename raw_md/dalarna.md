@@ -1,17 +1,5 @@
 # Dalarna University
 
-### Doktorand i Vårdvetenskap: Preventivt arbete med ungdomar utan gymnasiebeh.
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2544)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 4/17/2025
-
-### Doktorand i vårdvetenskap:  Bildskapande interventioner till ungdomar
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2545)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 4/17/2025
-
 ### Professor i svenska
 - **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2521)
 - **Department:** 
