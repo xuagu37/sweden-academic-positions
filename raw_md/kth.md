@@ -1,17 +1,5 @@
 # KTH
 
-### Researcher in genomics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812323?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-20
-
-### Postdoc in power electronics solutions for meshed dc grids
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/816598?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-20
-
 ### Research Engineer in Biophysics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/815990?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences

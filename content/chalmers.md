@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 66</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 60</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -470,26 +470,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Cosmic ray impact on superconducting qubits</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13690)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc positions in travelling wave parametric amplifiers</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13689)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in Signal processing for airborne multi-static radar systems</h3>
 
@@ -530,16 +510,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Post-doc in Atom Probe Tomography of Materials for Nuclear Reactors</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13815)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant professor/Associate professor in Advanced Electron Microscopy</h3>
 
@@ -561,32 +531,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in microscopic fluid mechanics of sea-ice</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13814)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>2 PhD student positions in III-nitride-based lasers</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13809)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student for preparing road infrastructure for future mobility</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13804)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
 
 </div>
 
@@ -637,16 +587,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc for system-level analyses of physical railway infrastructure</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13750)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
 
 </div>
 

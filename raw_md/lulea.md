@@ -1,11 +1,5 @@
 # Luleå University
 
-### PhD Student in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8988)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
 ### Postdoc position in Machine learning
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8941)
 - **Department:** 

@@ -270,18 +270,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-24
 
-### Postdoc position in Cosmic ray impact on superconducting qubits
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13690)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
-### Postdoc positions in travelling wave parametric amplifiers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13689)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
 ### PhD position in Signal processing for airborne multi-static radar systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13817)
 - **Department:** 
@@ -306,12 +294,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Post-doc in Atom Probe Tomography of Materials for Nuclear Reactors
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13815)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
 ### Assistant professor/Associate professor in Advanced Electron Microscopy
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13781)
 - **Department:** 
@@ -324,23 +306,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### PhD position in microscopic fluid mechanics of sea-ice
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13814)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
 ### 2 PhD student positions in III-nitride-based lasers
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13809)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-27
-
-### PhD student for preparing road infrastructure for future mobility
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13804)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
 
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)
@@ -371,12 +341,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### Postdoc for system-level analyses of physical railway infrastructure
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13750)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
 
 ### PhD position in Functional Covalent Framework Materials
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13729)

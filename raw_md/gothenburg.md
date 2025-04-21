@@ -102,17 +102,17 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
-### Senior Researcher position in spintronic Ising machines
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37203)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
 ### Doctoral student in Medical Science - Bioinformatician, neurovascular disease
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37167)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
+
+### Senior Researcher position in spintronic Ising machines
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37203)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-02
 
 ### Doctoral students in public administration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37211)
@@ -198,17 +198,23 @@
 - **Published:** 
 - **Deadline:** 2025-04-29
 
+### Postdoctor in marine biotechnology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-12
+
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37083)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### Postdoctor in marine biotechnology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
+### Doctoral student in Oceanography
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-12
+- **Deadline:** 2025-05-23
 
 ### Postdoctor in Epigenetics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
@@ -221,12 +227,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-### Doctoral student in Oceanography
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-23
 
 ### 2-3 PhD students in Economic History
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37043)
@@ -245,12 +245,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-27
-
-### Doctoral student in in Atmospheric Chemistry
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36985)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
 
 ### Senior Lecturer in Mathematics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)

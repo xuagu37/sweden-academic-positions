@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 47</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 46</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -190,16 +190,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Senior Researcher position in spintronic Ising machines</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37203)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Medical Science - Bioinformatician, neurovascular disease</h3>
 
@@ -207,6 +197,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Senior Researcher position in spintronic Ising machines</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37203)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-02
 
 </div>
 
@@ -351,6 +351,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in marine biotechnology</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-12
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37083)
@@ -360,13 +370,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in marine biotechnology</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Oceanography</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-12
+- **Deadline:** 2025-05-23
 
 </div>
 
@@ -387,16 +397,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Oceanography</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-23
 
 </div>
 
@@ -427,16 +427,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in in Atmospheric Chemistry</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36985)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
 
 </div>
 

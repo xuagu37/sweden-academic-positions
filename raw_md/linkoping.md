@@ -186,9 +186,3 @@
 - **Published:** 
 - **Deadline:** 2025-04-22
 
-### WASP-WISE Postdoc in machine learning for chemical process discoveries
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26291)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-20
-
