@@ -21,26 +21,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskarassistent i Nutrition</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815198/type:job/where:4/apply:1)
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>MSCA, Doctoral position in spatial biology in asthma</h3>
-
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811272/type:job/where:4/apply:1)
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Forskningssjuksköterska</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:813898/type:job/where:4/apply:1)
@@ -55,6 +35,26 @@
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:808281/type:job/where:4/apply:1)
 - **Department:** The Institute of Environmental Medicine
+- **Published:** 
+- **Deadline:** 2025-04-21
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskarassistent i Nutrition</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815198/type:job/where:4/apply:1)
+- **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2025-04-21
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>MSCA, Doctoral position in spatial biology in asthma</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811272/type:job/where:4/apply:1)
+- **Department:** Department of Medicine, Huddinge
 - **Published:** 
 - **Deadline:** 2025-04-21
 
@@ -101,16 +101,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant for Data Curation and Initial Modelling for Multidisciplinary Decision Support in Breast Cancer</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:816724/type:job/where:4/apply:1)
-- **Department:** Forskning Strand
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research Assistant to Translational Lung Cancer Research Team</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815736/type:job/where:4/apply:1)
@@ -131,12 +121,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Senior Research Infrastructure Specialist</h3>
+<h3>Research Assistant for Data Curation and Initial Modelling for Multidisciplinary Decision Support in Breast Cancer</h3>
 
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:799643/type:job/where:4/apply:1)
-- **Department:** Department of Molecular Medicine and Surgery
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:816724/type:job/where:4/apply:1)
+- **Department:** Forskning Strand
 - **Published:** 
-- **Deadline:** 2025-04-24
+- **Deadline:** 2025-04-23
 
 </div>
 
@@ -145,6 +135,16 @@
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814321/type:job/where:4/apply:1)
 - **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Senior Research Infrastructure Specialist</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:799643/type:job/where:4/apply:1)
+- **Department:** Department of Molecular Medicine and Surgery
 - **Published:** 
 - **Deadline:** 2025-04-24
 
@@ -270,26 +270,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research coordinator</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:810072/type:job/where:4/apply:1)
-- **Department:** Division of Clinical Geriatric
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Adjunkt i arbetsterapi med VIL-ansvar</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:799572/type:job/where:4/apply:1)
-- **Department:** Division of Occupational therapy
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral studies, employing Bioinformatic gene-expression analysis in Neurobiology (scholarship)</h3>
 
@@ -305,6 +285,26 @@
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:817088/type:job/where:4/apply:1)
 - **Department:** Department of Medicine, Solna
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in neuroimaging</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:810282/type:job/where:4/apply:1)
+- **Department:** Division of Clinical Geriatric
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research coordinator</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:810072/type:job/where:4/apply:1)
+- **Department:** Division of Clinical Geriatric
 - **Published:** 
 - **Deadline:** 2025-04-28
 
@@ -327,36 +327,6 @@
 - **Department:** Department of Laboratory Medicine
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD in geriatric epidemiology, with a focus on biomarkers of multimorbidity</h3>
-
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814224/type:job/where:4/apply:1)
-- **Department:** Aging Research Center, ARC
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Cancer Research focusing on tumor heterogeneity and phenotypic plasticity</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818450/type:job/where:4/apply:1)
-- **Department:** Forskning.Schlisio
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Postdoktor - utveckling av ett digitalt rehabiliteringsprogram vid stroke</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818941/type:job/where:4/apply:1)
-- **Department:** Division of Physiotherapy
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 </div>
 
@@ -420,6 +390,36 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in geriatric epidemiology, with a focus on biomarkers of multimorbidity</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814224/type:job/where:4/apply:1)
+- **Department:** Aging Research Center, ARC
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Cancer Research focusing on tumor heterogeneity and phenotypic plasticity</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818450/type:job/where:4/apply:1)
+- **Department:** Forskning.Schlisio
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Postdoktor - utveckling av ett digitalt rehabiliteringsprogram vid stroke</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818941/type:job/where:4/apply:1)
+- **Department:** Division of Physiotherapy
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Title TA</h3>
 
@@ -461,6 +461,26 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Karolinska Institutet is looking for a Careers Service coordinator</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817903/type:job/where:4/apply:1)
+- **Department:** Forskningsstöd och externa relationer
+- **Published:** 
+- **Deadline:** 2025-05-02
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuenser till läkarprogrammet</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817837/type:job/where:4/apply:1)
+- **Department:** Division of Family Medicine and Primary Care
+- **Published:** 
+- **Deadline:** 2025-05-02
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research Assistant in Neutrophil Biology</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818997/type:job/where:4/apply:1)
@@ -485,26 +505,6 @@
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814963/type:job/where:4/apply:1)
 - **Department:** Department of Physiology and Pharmacology
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Karolinska Institutet is looking for a Careers Service coordinator</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817903/type:job/where:4/apply:1)
-- **Department:** Forskningsstöd och externa relationer
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuenser till läkarprogrammet</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817837/type:job/where:4/apply:1)
-- **Department:** Division of Family Medicine and Primary Care
 - **Published:** 
 - **Deadline:** 2025-05-02
 
@@ -560,21 +560,21 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in Psychiatric Genetics with focus on depression and eating disorders</h3>
-
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:818254/type:job/where:4/apply:1)
-- **Department:** Department of Medical Epidemiology and Biostatistics
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in a Project Focused on Patients' Role in Reducing Low-Value Care in Healthcare</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:812801/type:job/where:4/apply:1)
 - **Department:** Department of Learning, Informatics, Management and Ethics
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in Psychiatric Genetics with focus on depression and eating disorders</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:818254/type:job/where:4/apply:1)
+- **Department:** Department of Medical Epidemiology and Biostatistics
 - **Published:** 
 - **Deadline:** 2025-05-05
 
@@ -621,6 +621,16 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral position in translational molecular psychiatry</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811040/type:job/where:4/apply:1)
+- **Department:** Department of Medical Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-05-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral (PhD) student position in mental health among youth</h3>
 
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:818159/type:job/where:4/apply:1)
@@ -640,26 +650,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral position in translational molecular psychiatry</h3>
-
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811040/type:job/where:4/apply:1)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in pain research</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:819382/type:job/where:4/apply:1)
-- **Department:** Department of Physiology and Pharmacology
-- **Published:** 
-- **Deadline:** 2025-05-07
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Bioinformatician to understand T cell driven diseases in human skin</h3>
 
@@ -675,6 +665,16 @@
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815590/type:job/where:4/apply:1)
 - **Department:** Dermatology and venereology division
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in pain research</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:819382/type:job/where:4/apply:1)
+- **Department:** Department of Physiology and Pharmacology
 - **Published:** 
 - **Deadline:** 2025-05-07
 
@@ -751,16 +751,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in bioinformatics, cancer immunology and spatial transcriptomics</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818932/type:job/where:4/apply:1)
-- **Department:** Immunology and Allergy division
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in stem cells, nanotechnology and mechanotransduction</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:819223/type:job/where:4/apply:1)
@@ -771,12 +761,32 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Systems Biology of Energy Metabolism</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818950/type:job/where:4/apply:1)
+- **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in bioinformatics, cancer immunology and spatial transcriptomics</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818932/type:job/where:4/apply:1)
 - **Department:** Immunology and Allergy division
 - **Published:** 
 - **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Translational bioinformatics</h3>
+
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:808054/type:job/where:4/apply:1)
+- **Department:** Cardiology division
+- **Published:** 
+- **Deadline:** 2025-05-18
 
 </div>
 
@@ -810,16 +820,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Translational bioinformatics</h3>
-
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:808054/type:job/where:4/apply:1)
-- **Department:** Cardiology division
-- **Published:** 
-- **Deadline:** 2025-05-18
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Biostatistics</h3>
 
@@ -840,21 +840,21 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in probabilistic models of proteins</h3>
-
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:819791/type:job/where:4/apply:1)
-- **Department:** Department of Microbiology, Tumor and Cell Biology
-- **Published:** 
-- **Deadline:** 2025-05-31
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>We are looking for electrophysiologists (postdoc) focusing on neuronal nuclear protein signaling in the mouse brain</h3>
 
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:797002/type:job/where:4/apply:1)
 - **Department:** Molecular Neurobiology
+- **Published:** 
+- **Deadline:** 2025-05-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in probabilistic models of proteins</h3>
+
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:819791/type:job/where:4/apply:1)
+- **Department:** Department of Microbiology, Tumor and Cell Biology
 - **Published:** 
 - **Deadline:** 2025-05-31
 

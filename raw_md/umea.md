@@ -36,12 +36,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Associate professor in Ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Professor of Archaeology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
@@ -57,6 +51,12 @@
 ### PhD student in Medical Science, focus on Infectious Medicine/Epidemiology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
 - **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Associate professor in Ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -162,15 +162,15 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
-### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
-- **Department:** Department of Applied Physics and Electronics
-- **Published:** 
-- **Deadline:** 2025-05-16
-
 ### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
 - **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
+- **Department:** Department of Applied Physics and Electronics
 - **Published:** 
 - **Deadline:** 2025-05-16
 

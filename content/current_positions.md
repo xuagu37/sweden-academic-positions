@@ -1,5 +1,5 @@
 # Current Positions
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 632</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 621</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -876,6 +876,20 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Enhetschef</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2550">View job posting</a></li>
+  <li><strong>University:</strong> Dalarna University</li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 5/11/2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Universitetslektor i bild/bilddidaktik</h3>
 
 <ul>
@@ -1296,20 +1310,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in circadian skin biology at the University of Gothenburg</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154">View job posting</a></li>
-  <li><strong>University:</strong> Gothenburg University</li>
-  <li><strong>Department:</strong> </li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-04</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)</h3>
 
 <ul>
@@ -1318,6 +1318,20 @@
   <li><strong>Department:</strong> </li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-14</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in circadian skin biology at the University of Gothenburg</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-04</li>
 </ul>
 
 
@@ -1421,20 +1435,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Epigenetics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033">View job posting</a></li>
-  <li><strong>University:</strong> Gothenburg University</li>
-  <li><strong>Department:</strong> </li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-23</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuens in computer science and engineering</h3>
 
@@ -1449,6 +1449,20 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Epigenetics</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Department:</strong> </li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-23</li>
+</ul>
+
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>2-3 PhD students in Economic History</h3>
 
@@ -1458,20 +1472,6 @@
   <li><strong>Department:</strong> </li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-31</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in organic chemistry with a focus on method development in the synthesis of organic boron compounds</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37024">View job posting</a></li>
-  <li><strong>University:</strong> Gothenburg University</li>
-  <li><strong>Department:</strong> </li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
 </ul>
 
 
@@ -1716,34 +1716,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskarassistent i Nutrition</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:815198/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Medicine, Huddinge</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>MSCA, Doctoral position in spatial biology in asthma</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:811272/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Medicine, Huddinge</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Forskningssjuksköterska</h3>
 
 <ul>
@@ -1764,6 +1736,34 @@
   <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:808281/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> The Institute of Environmental Medicine</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-21</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskarassistent i Nutrition</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:815198/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Medicine, Huddinge</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-21</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>MSCA, Doctoral position in spatial biology in asthma</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:811272/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Medicine, Huddinge</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-21</li>
 </ul>
@@ -1828,20 +1828,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant for Data Curation and Initial Modelling for Multidisciplinary Decision Support in Breast Cancer</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:816724/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Forskning Strand</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-23</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research Assistant to Translational Lung Cancer Research Team</h3>
 
 <ul>
@@ -1870,14 +1856,14 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Senior Research Infrastructure Specialist</h3>
+<h3>Research Assistant for Data Curation and Initial Modelling for Multidisciplinary Decision Support in Breast Cancer</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:799643/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:816724/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Molecular Medicine and Surgery</li>
+  <li><strong>Department:</strong> Forskning Strand</li>
   <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-24</li>
+  <li><strong>Deadline:</strong> 2025-04-23</li>
 </ul>
 
 
@@ -1890,6 +1876,20 @@
   <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:814321/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> Department of Medicine, Huddinge</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-24</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Senior Research Infrastructure Specialist</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:799643/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Molecular Medicine and Surgery</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-24</li>
 </ul>
@@ -2065,34 +2065,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research coordinator</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:810072/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Division of Clinical Geriatric</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-28</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Adjunkt i arbetsterapi med VIL-ansvar</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:799572/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Division of Occupational therapy</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-28</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral studies, employing Bioinformatic gene-expression analysis in Neurobiology (scholarship)</h3>
 
@@ -2114,6 +2086,34 @@
   <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:817088/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> Department of Medicine, Solna</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-28</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in neuroimaging</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:810282/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Division of Clinical Geriatric</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-28</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research coordinator</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:810072/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Division of Clinical Geriatric</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-28</li>
 </ul>
@@ -2144,48 +2144,6 @@
   <li><strong>Department:</strong> Department of Laboratory Medicine</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-29</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD in geriatric epidemiology, with a focus on biomarkers of multimorbidity</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:814224/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Aging Research Center, ARC</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-30</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Cancer Research focusing on tumor heterogeneity and phenotypic plasticity</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:818450/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Forskning.Schlisio</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-30</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Postdoktor - utveckling av ett digitalt rehabiliteringsprogram vid stroke</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:818941/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Division of Physiotherapy</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-30</li>
 </ul>
 
 
@@ -2275,6 +2233,48 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in geriatric epidemiology, with a focus on biomarkers of multimorbidity</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:814224/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Aging Research Center, ARC</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-30</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Cancer Research focusing on tumor heterogeneity and phenotypic plasticity</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:818450/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Forskning.Schlisio</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-30</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Postdoktor - utveckling av ett digitalt rehabiliteringsprogram vid stroke</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:818941/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Division of Physiotherapy</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-30</li>
+</ul>
+
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Title TA</h3>
 
@@ -2332,6 +2332,34 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Karolinska Institutet is looking for a Careers Service coordinator</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:817903/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Forskningsstöd och externa relationer</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-02</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuenser till läkarprogrammet</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:817837/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Division of Family Medicine and Primary Care</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-02</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research Assistant in Neutrophil Biology</h3>
 
 <ul>
@@ -2366,34 +2394,6 @@
   <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:814963/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> Department of Physiology and Pharmacology</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-02</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Karolinska Institutet is looking for a Careers Service coordinator</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:817903/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Forskningsstöd och externa relationer</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-02</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuenser till läkarprogrammet</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:817837/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Division of Family Medicine and Primary Care</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-02</li>
 </ul>
@@ -2471,20 +2471,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in Psychiatric Genetics with focus on depression and eating disorders</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:818254/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Medical Epidemiology and Biostatistics</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-05</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in a Project Focused on Patients' Role in Reducing Low-Value Care in Healthcare</h3>
 
@@ -2492,6 +2478,20 @@
   <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:812801/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> Department of Learning, Informatics, Management and Ethics</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-05</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in Psychiatric Genetics with focus on depression and eating disorders</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:818254/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Medical Epidemiology and Biostatistics</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-05</li>
 </ul>
@@ -2556,6 +2556,20 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral position in translational molecular psychiatry</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:811040/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Medical Biochemistry and Biophysics</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-06</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral (PhD) student position in mental health among youth</h3>
 
 <ul>
@@ -2583,34 +2597,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral position in translational molecular psychiatry</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:811040/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Medical Biochemistry and Biophysics</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-06</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in pain research</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:819382/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Physiology and Pharmacology</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-07</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Bioinformatician to understand T cell driven diseases in human skin</h3>
 
@@ -2632,6 +2618,20 @@
   <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:815590/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> Dermatology and venereology division</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-07</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in pain research</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:819382/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Physiology and Pharmacology</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-07</li>
 </ul>
@@ -2738,20 +2738,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in bioinformatics, cancer immunology and spatial transcriptomics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:818932/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Immunology and Allergy division</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-15</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in stem cells, nanotechnology and mechanotransduction</h3>
 
 <ul>
@@ -2766,6 +2752,20 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Systems Biology of Energy Metabolism</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:818950/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Medicine, Huddinge</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in bioinformatics, cancer immunology and spatial transcriptomics</h3>
 
 <ul>
@@ -2774,6 +2774,20 @@
   <li><strong>Department:</strong> Immunology and Allergy division</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Translational bioinformatics</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:808054/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Cardiology division</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-18</li>
 </ul>
 
 
@@ -2821,20 +2835,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Translational bioinformatics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:808054/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Cardiology division</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-18</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Biostatistics</h3>
 
@@ -2863,20 +2863,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student position in probabilistic models of proteins</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:819791/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Karolinska Institute</li>
-  <li><strong>Department:</strong> Department of Microbiology, Tumor and Cell Biology</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-31</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>We are looking for electrophysiologists (postdoc) focusing on neuronal nuclear protein signaling in the mouse brain</h3>
 
@@ -2884,6 +2870,20 @@
   <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:797002/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Karolinska Institute</li>
   <li><strong>Department:</strong> Molecular Neurobiology</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-31</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in probabilistic models of proteins</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:819791/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Department:</strong> Department of Microbiology, Tumor and Cell Biology</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-31</li>
 </ul>
@@ -2900,48 +2900,6 @@
   <li><strong>Department:</strong> Department of Neuroscience</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-06-01</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer in Biophysics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://www.kth.se/lediga-jobb/815990?l=en">View job posting</a></li>
-  <li><strong>University:</strong> KTH</li>
-  <li><strong>Department:</strong> KTH Royal Institute of Technology, School of Engineering Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> Application deadline:2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Materials Science – Developing Sustainable Cemented Carbide Materials</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://www.kth.se/lediga-jobb/805993?l=en">View job posting</a></li>
-  <li><strong>University:</strong> KTH</li>
-  <li><strong>Department:</strong> School of Industrial Engineering and Management at KTH</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> Application deadline:2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in numerical analysis</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://www.kth.se/lediga-jobb/800504?l=en">View job posting</a></li>
-  <li><strong>University:</strong> KTH</li>
-  <li><strong>Department:</strong> School of Engineering Sciences at KTH</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> Application deadline:2025-04-21</li>
 </ul>
 
 
@@ -3530,6 +3488,20 @@
   <li><strong>Department:</strong> KTH Royal Institute of Technology, School of Engineering Sciences</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> Application deadline:2025-05-22</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Machine Learning</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.kth.se/lediga-jobb/819288?l=en">View job posting</a></li>
+  <li><strong>University:</strong> KTH</li>
+  <li><strong>Department:</strong> Kungliga Tekniska högskolan,</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> Application deadline:2025-05-26</li>
 </ul>
 
 
@@ -4235,56 +4207,14 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in the Department of Diagnostic Radiology (PA2025/865)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Modeling of Aerosols, Cold Clouds and Climate (PA2025/683)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:809666/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:804640/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314363 Diagnostic Radiology, Sundgren, 310000 MED</li>
-  <li><strong>Published:</strong> 31 Mar 2025</li>
-  <li><strong>Deadline:</strong> 21 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in industrial electrical engineering with a focus on transport electrification (PA2025/450)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:797453/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 107391 Ind Electrical Engin and Autom, 100000 LTH</li>
-  <li><strong>Published:</strong> 21 Mar 2025</li>
-  <li><strong>Deadline:</strong> 21 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory Engineer at the Division of Infectious Medicine (PA2025/983)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:812074/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314333 Infection medicine, Rasmussen, 310000 MED</li>
-  <li><strong>Published:</strong> 7 Apr 2025</li>
-  <li><strong>Deadline:</strong> 21 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow in Plant Epigenetics (PA2025/821)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:808591/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 156400 Biology Main Cost Center, 150000 NAT</li>
-  <li><strong>Published:</strong> 26 Mar 2025</li>
+  <li><strong>Department:</strong> 156311 Physical Geography, 150000 NAT</li>
+  <li><strong>Published:</strong> 14 Mar 2025</li>
   <li><strong>Deadline:</strong> 22 Apr 2025</li>
 </ul>
 
@@ -4305,6 +4235,20 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in Plant Epigenetics (PA2025/821)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:808591/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 156400 Biology Main Cost Center, 150000 NAT</li>
+  <li><strong>Published:</strong> 26 Mar 2025</li>
+  <li><strong>Deadline:</strong> 22 Apr 2025</li>
+</ul>
+
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuenser vid Internationella miljöinstitutet (PA2025/1058)</h3>
 
@@ -4319,15 +4263,15 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Modeling of Aerosols, Cold Clouds and Climate (PA2025/683)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral position in smart grids and gender equity (PA2025/1137)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:804640/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:815581/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 156311 Physical Geography, 150000 NAT</li>
-  <li><strong>Published:</strong> 14 Mar 2025</li>
-  <li><strong>Deadline:</strong> 22 Apr 2025</li>
+  <li><strong>Department:</strong> 859520 IIIEE, 850000 USV</li>
+  <li><strong>Published:</strong> 9 Apr 2025</li>
+  <li><strong>Deadline:</strong> 23 Apr 2025</li>
 </ul>
 
 
@@ -4375,15 +4319,15 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral position in smart grids and gender equity (PA2025/1137)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants within research at the Department of Computer Science (PA2025/894)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:815581/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:810462/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 859520 IIIEE, 850000 USV</li>
-  <li><strong>Published:</strong> 9 Apr 2025</li>
-  <li><strong>Deadline:</strong> 23 Apr 2025</li>
+  <li><strong>Department:</strong> , 100000 LTH</li>
+  <li><strong>Published:</strong> 10 Apr 2025</li>
+  <li><strong>Deadline:</strong> 24 Apr 2025</li>
 </ul>
 
 
@@ -4403,15 +4347,15 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants within research at the Department of Computer Science (PA2025/894)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher in Emergency care (PA2025/1078)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:810462/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:814161/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> , 100000 LTH</li>
-  <li><strong>Published:</strong> 10 Apr 2025</li>
-  <li><strong>Deadline:</strong> 24 Apr 2025</li>
+  <li><strong>Department:</strong> 314314 Medicine/Acute care, Ekelund, 310000 MED</li>
+  <li><strong>Published:</strong> 11 Apr 2025</li>
+  <li><strong>Deadline:</strong> 25 Apr 2025</li>
 </ul>
 
 
@@ -4424,34 +4368,6 @@
   <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813992/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
   <li><strong>Department:</strong> 314363 Diagnostic Radiology, Sundgren, 310000 MED</li>
-  <li><strong>Published:</strong> 11 Apr 2025</li>
-  <li><strong>Deadline:</strong> 25 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Human Centered Design (PA2025/842)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:808985/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 107340 Design Sciences, 100000 LTH</li>
-  <li><strong>Published:</strong> 27 Mar 2025</li>
-  <li><strong>Deadline:</strong> 25 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate researcher in Emergency care (PA2025/1078)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:814161/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314314 Medicine/Acute care, Ekelund, 310000 MED</li>
   <li><strong>Published:</strong> 11 Apr 2025</li>
   <li><strong>Deadline:</strong> 25 Apr 2025</li>
 </ul>
@@ -4473,15 +4389,15 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Accelerator Operator Assistant (PA2025/891)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Human Centered Design (PA2025/842)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:810371/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:808985/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> , 830000 MAX IV</li>
-  <li><strong>Published:</strong> 4 Apr 2025</li>
-  <li><strong>Deadline:</strong> 27 Apr 2025</li>
+  <li><strong>Department:</strong> 107340 Design Sciences, 100000 LTH</li>
+  <li><strong>Published:</strong> 27 Mar 2025</li>
+  <li><strong>Deadline:</strong> 25 Apr 2025</li>
 </ul>
 
 
@@ -4495,6 +4411,20 @@
   <li><strong>University:</strong> Lund University</li>
   <li><strong>Department:</strong> 314821 Neurodegenerative - Vogel, 310000 MED</li>
   <li><strong>Published:</strong> 31 Mar 2025</li>
+  <li><strong>Deadline:</strong> 27 Apr 2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Chemical Engineering on Membranes and Membrane Process for water treatment (PA2025/1041)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813073/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 107760 Chemical engineering, 100000 LTH</li>
+  <li><strong>Published:</strong> 7 Apr 2025</li>
   <li><strong>Deadline:</strong> 27 Apr 2025</li>
 </ul>
 
@@ -4515,15 +4445,29 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Chemical Engineering on Membranes and Membrane Process for water treatment (PA2025/1041)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Accelerator Operator Assistant (PA2025/891)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813073/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:810371/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 107760 Chemical engineering, 100000 LTH</li>
-  <li><strong>Published:</strong> 7 Apr 2025</li>
+  <li><strong>Department:</strong> , 830000 MAX IV</li>
+  <li><strong>Published:</strong> 4 Apr 2025</li>
   <li><strong>Deadline:</strong> 27 Apr 2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow for project on the role of stem cells and immunological niches in multiple sclerosis (PA2025/1074)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:814034/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 314096 Glia-Immune Interactions, 310000 MED</li>
+  <li><strong>Published:</strong> 7 Apr 2025</li>
+  <li><strong>Deadline:</strong> 28 Apr 2025</li>
 </ul>
 
 
@@ -4557,15 +4501,15 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow for project on the role of stem cells and immunological niches in multiple sclerosis (PA2025/1074)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens vid Internationella miljöinstitutet (PA2025/1044)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:814034/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813191/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314096 Glia-Immune Interactions, 310000 MED</li>
-  <li><strong>Published:</strong> 7 Apr 2025</li>
-  <li><strong>Deadline:</strong> 28 Apr 2025</li>
+  <li><strong>Department:</strong> 859520 IIIEE, 850000 USV</li>
+  <li><strong>Published:</strong> 1 Apr 2025</li>
+  <li><strong>Deadline:</strong> 29 Apr 2025</li>
 </ul>
 
 
@@ -4586,20 +4530,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate researcher in Lung Physiology and Infection Medicine (PA2025/1144)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:815777/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314323 Resp med pall care, Egesten, 310000 MED</li>
-  <li><strong>Published:</strong> 15 Apr 2025</li>
-  <li><strong>Deadline:</strong> 29 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher in Mathematics with a focus on Contact Geometry and Index Theory (PA2025/1032)</h3>
 
 <ul>
@@ -4613,28 +4543,28 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens vid Internationella miljöinstitutet (PA2025/1044)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher in Lung Physiology and Infection Medicine (PA2025/1144)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813191/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:815777/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 859520 IIIEE, 850000 USV</li>
-  <li><strong>Published:</strong> 1 Apr 2025</li>
+  <li><strong>Department:</strong> 314323 Resp med pall care, Egesten, 310000 MED</li>
+  <li><strong>Published:</strong> 15 Apr 2025</li>
   <li><strong>Deadline:</strong> 29 Apr 2025</li>
 </ul>
 
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate researcher in Lung Medicine (PA2025/1273)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants at the Department of Automatic Control (PA2025/619)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:817359/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:802444/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314323 Resp med pall care, Egesten, 310000 MED</li>
-  <li><strong>Published:</strong> 16 Apr 2025</li>
+  <li><strong>Department:</strong> 107161 Automatic Control, 100000 LTH</li>
+  <li><strong>Published:</strong> 26 Mar 2025</li>
   <li><strong>Deadline:</strong> 30 Apr 2025</li>
 </ul>
 
@@ -4648,6 +4578,20 @@
   <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:817941/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
   <li><strong>Department:</strong> 314406 Dmh - Scheding, Stefan, 310000 MED</li>
+  <li><strong>Published:</strong> 16 Apr 2025</li>
+  <li><strong>Deadline:</strong> 30 Apr 2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher in Lung Medicine (PA2025/1273)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:817359/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 314323 Resp med pall care, Egesten, 310000 MED</li>
   <li><strong>Published:</strong> 16 Apr 2025</li>
   <li><strong>Deadline:</strong> 30 Apr 2025</li>
 </ul>
@@ -4669,14 +4613,14 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants at the Department of Automatic Control (PA2025/619)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in Physics with a focus on multiscale X-ray characterization of 3D architected materials for sustainable development (PA2025/527)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:802444/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:799699/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 107161 Automatic Control, 100000 LTH</li>
-  <li><strong>Published:</strong> 26 Mar 2025</li>
+  <li><strong>Department:</strong> 156137 Syncrotron radiation physics, 150000 NAT</li>
+  <li><strong>Published:</strong> 12 Mar 2025</li>
   <li><strong>Deadline:</strong> 30 Apr 2025</li>
 </ul>
 
@@ -4691,20 +4635,6 @@
   <li><strong>University:</strong> Lund University</li>
   <li><strong>Department:</strong> 253223 LUCSUS, 250000 SAM</li>
   <li><strong>Published:</strong> 10 Mar 2025</li>
-  <li><strong>Deadline:</strong> 30 Apr 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral fellow in Physics with a focus on multiscale X-ray characterization of 3D architected materials for sustainable development (PA2025/527)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:799699/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 156137 Syncrotron radiation physics, 150000 NAT</li>
-  <li><strong>Published:</strong> 12 Mar 2025</li>
   <li><strong>Deadline:</strong> 30 Apr 2025</li>
 </ul>
 
@@ -4768,20 +4698,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science with focus on privacy-preserving neural models (PA2025/1069)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813931/type:job/where:4/apply:1">View job posting</a></li>
-  <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> , 100000 LTH</li>
-  <li><strong>Published:</strong> 14 Apr 2025</li>
-  <li><strong>Deadline:</strong> 5 May 2025</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Biology (PA2025/801)</h3>
 
 <ul>
@@ -4810,6 +4726,20 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with focus on privacy-preserving neural models (PA2025/1069)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:813931/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> , 100000 LTH</li>
+  <li><strong>Published:</strong> 14 Apr 2025</li>
+  <li><strong>Deadline:</strong> 5 May 2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral students in Automatic Control with focus on Optimization for Learning (PA2025/1177)</h3>
 
 <ul>
@@ -4823,14 +4753,28 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Biomedical Engineering with a focus on tendon biomechanics and mechanobiology (PA2025/1287)</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Assistant Researcher in Bioinformatics with a Focus on Breast Cancer (PA2025/1297)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:817757/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:818101/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 314389 Breast cancer treatment, Rydén, 310000 MED</li>
+  <li><strong>Published:</strong> 22 Apr 2025</li>
+  <li><strong>Deadline:</strong> 6 May 2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Biomedical Engineering with a focus on optical systems for acoustofluidics (PA2025/1233)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:816656/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
   <li><strong>Department:</strong> 107231 Biomedical Engineering, 100000 LTH</li>
-  <li><strong>Published:</strong> 16 Apr 2025</li>
+  <li><strong>Published:</strong> 15 Apr 2025</li>
   <li><strong>Deadline:</strong> 7 May 2025</li>
 </ul>
 
@@ -4838,12 +4782,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student at the Department of Diagnostic Radiology (PA2025/1308)</h3>
+<h3>Doctoral student in Biomedical Engineering with a focus on tendon biomechanics and mechanobiology (PA2025/1287)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:818347/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:817757/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 314363 Diagnostic Radiology, Sundgren, 310000 MED</li>
+  <li><strong>Department:</strong> 107231 Biomedical Engineering, 100000 LTH</li>
   <li><strong>Published:</strong> 16 Apr 2025</li>
   <li><strong>Deadline:</strong> 7 May 2025</li>
 </ul>
@@ -4865,14 +4809,14 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Biomedical Engineering with a focus on optical systems for acoustofluidics (PA2025/1233)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student at the Department of Diagnostic Radiology (PA2025/1308)</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:816656/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:818347/type:job/where:4/apply:1">View job posting</a></li>
   <li><strong>University:</strong> Lund University</li>
-  <li><strong>Department:</strong> 107231 Biomedical Engineering, 100000 LTH</li>
-  <li><strong>Published:</strong> 15 Apr 2025</li>
+  <li><strong>Department:</strong> 314363 Diagnostic Radiology, Sundgren, 310000 MED</li>
+  <li><strong>Published:</strong> 16 Apr 2025</li>
   <li><strong>Deadline:</strong> 7 May 2025</li>
 </ul>
 
@@ -4957,6 +4901,20 @@
   <li><strong>University:</strong> Lund University</li>
   <li><strong>Department:</strong> 107717 Immunotechnology, 100000 LTH</li>
   <li><strong>Published:</strong> 15 Apr 2025</li>
+  <li><strong>Deadline:</strong> 13 May 2025</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Ophthalmology, Medical Imaging Analysis (PA2025/1295)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:818098/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 314351 Ophtalmology, Malmsjö, 310000 MED</li>
+  <li><strong>Published:</strong> 22 Apr 2025</li>
   <li><strong>Deadline:</strong> 13 May 2025</li>
 </ul>
 
@@ -5061,6 +5019,20 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in bioinformatics and machine learning (PA2025/1145)</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:815800/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Department:</strong> 156708 Biochemistry & structural biol, 150000 NAT</li>
+  <li><strong>Published:</strong> 22 Apr 2025</li>
+  <li><strong>Deadline:</strong> 26 May 2025</li>
+</ul>
+
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Artistic Senior Lecturer in Industrial Design (PA2025/968)</h3>
 
@@ -5140,20 +5112,6 @@
   <li><strong>Department:</strong> </li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-29</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>A postdoc within Trusted communication for production systems</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3017">View job posting</a></li>
-  <li><strong>University:</strong> Mälardalen University</li>
-  <li><strong>Department:</strong> </li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
 </ul>
 
 
@@ -5440,48 +5398,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position on sustainable absorbents</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12344">View job posting</a></li>
-  <li><strong>University:</strong> Swedish University of Agricultural Sciences</li>
-  <li><strong>Department:</strong> Faculty of Forest Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Manager/leader (Head of Department)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12661">View job posting</a></li>
-  <li><strong>University:</strong> Swedish University of Agricultural Sciences</li>
-  <li><strong>Department:</strong> Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Manager/leader (Head of Department)</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12697">View job posting</a></li>
-  <li><strong>University:</strong> Swedish University of Agricultural Sciences</li>
-  <li><strong>Department:</strong> Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>PostDoc in biotechnology and protein biochemistry</h3>
 
 <ul>
@@ -5518,20 +5434,6 @@
   <li><strong>Department:</strong> Faculty of Forest Sciences</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-11</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Functional relevance of genetic variation in tropical trees</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12714">View job posting</a></li>
-  <li><strong>University:</strong> Swedish University of Agricultural Sciences</li>
-  <li><strong>Department:</strong> Faculty of Forest Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
 </ul>
 
 
@@ -5649,20 +5551,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Soil Science</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12512">View job posting</a></li>
-  <li><strong>University:</strong> Swedish University of Agricultural Sciences</li>
-  <li><strong>Department:</strong> Faculty of Natural Resources and Agricultural Scie</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor in Food Science and Food Technology</h3>
 
@@ -5686,20 +5574,6 @@
   <li><strong>Department:</strong> Faculty of Natural Resources and Agricultural Scie</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-28</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer/Assistant Professor* in Agricultural History</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12053">View job posting</a></li>
-  <li><strong>University:</strong> Swedish University of Agricultural Sciences</li>
-  <li><strong>Department:</strong> Faculty of Natural Resources and Agricultural Scie</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
 </ul>
 
 
@@ -5831,39 +5705,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Scientific Coordinator</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:807891/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Nordic Institute for Theoretical Physics (NORDITA)</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Microbial Lignin Materials Chemistry</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:809755/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Chemistry</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computational Mathematics</h3>
+<h3>PhD students in Mathematics</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:807359/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:803014/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Mathematics (incl. Math. Statistics)</li>
   <li><strong>Published:</strong> </li>
@@ -5874,12 +5720,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Zoology</h3>
+<h3>PhD student in Molecular Biosciences</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:805542/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806269/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Zoology</li>
+  <li><strong>Department:</strong> Department of Molecular Biosciences, The Wenner-Gren Institute</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-22</li>
 </ul>
@@ -5894,20 +5740,6 @@
   <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:798314/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Zoology</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-22</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainability Science</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806487/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Stockholm Resilience Centre</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-22</li>
 </ul>
@@ -5944,12 +5776,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Ecology and Evolution</h3>
+<h3>PhD student in Genetics and Embryology</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:805144/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:801063/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Ecology, Environment and Plant Sciences</li>
+  <li><strong>Department:</strong> Department of Molecular Biosciences, The Wenner-Gren Institute</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-22</li>
 </ul>
@@ -5958,12 +5790,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science, aerosol-cloud-precipitation interactions</h3>
+<h3>PhD student in Zoology</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:805361/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:805542/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Environmental Science</li>
+  <li><strong>Department:</strong> Department of Zoology</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-22</li>
 </ul>
@@ -5986,26 +5818,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Genetics and Embryology</h3>
+<h3>PhD student in Environmental Science, aerosol-cloud-precipitation interactions</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:801063/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:805361/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Molecular Biosciences, The Wenner-Gren Institute</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-22</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Molecular Biosciences</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806269/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Molecular Biosciences, The Wenner-Gren Institute</li>
+  <li><strong>Department:</strong> Department of Environmental Science</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-22</li>
 </ul>
@@ -6020,6 +5838,34 @@
   <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806592/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Meteorology</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-22</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Ecology and Evolution</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:805144/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Ecology, Environment and Plant Sciences</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-22</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computational Mathematics</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:807359/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Mathematics (incl. Math. Statistics)</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-22</li>
 </ul>
@@ -6045,7 +5891,7 @@
 <h3>PhD student in Sustainability Science</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806510/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806487/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Stockholm Resilience Centre</li>
   <li><strong>Published:</strong> </li>
@@ -6140,34 +5986,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Mathematics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:803014/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Mathematics (incl. Math. Statistics)</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-22</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainability Science</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806687/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Stockholm Resilience Centre</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-22</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD students in Theoretical Physics: Quantum complexity and black holes</h3>
 
 <ul>
@@ -6224,10 +6042,38 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Colloidal Lignin Materials Chemistry</h3>
+<h3>PhD student in Sustainability Science</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806233/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806687/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Stockholm Resilience Centre</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-22</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Sustainability Science</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806510/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Stockholm Resilience Centre</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-22</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Luminescent Nanoprobes for in vivo bioimaging</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806386/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Chemistry</li>
   <li><strong>Published:</strong> </li>
@@ -6252,48 +6098,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Paper-based Diagnostics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806318/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Chemistry</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-24</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Analytical chemistry for point-of-care diagnostics of NTDs</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806624/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Chemistry</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-24</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Luminescent Nanoprobes for in vivo bioimaging</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806386/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Chemistry</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-24</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Materials Chemistry with focus on Organic Waste Valorization</h3>
 
 <ul>
@@ -6308,10 +6112,52 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Paper-based Diagnostics</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806318/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Chemistry</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-24</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Organic Chemistry in Lignin Chemistry</h3>
 
 <ul>
   <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806409/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Chemistry</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-24</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Colloidal Lignin Materials Chemistry</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806233/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Chemistry</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-24</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Analytical chemistry for point-of-care diagnostics of NTDs</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806624/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Chemistry</li>
   <li><strong>Published:</strong> </li>
@@ -6377,6 +6223,20 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Atmospheric Sciences or Oceanography</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:796961/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Meteorology</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-30</li>
+</ul>
+
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Yeast Evolutionary Genomics</h3>
 
@@ -6433,20 +6293,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Atmospheric Sciences or Oceanography</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:796961/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Meteorology</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-30</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Environmental Science, with a focus on machine learning</h3>
 
@@ -6489,6 +6335,20 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Terrestrial Water System Variations and Trends</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:813107/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Physical Geography</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-04</li>
+</ul>
+
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Evolution of Seasonal Camouflage</h3>
 
@@ -6504,14 +6364,14 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Terrestrial Water System Variations and Trends</h3>
+<h3>Postdoctoral Fellow in Ocean-Glacier Dynamics</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:813107/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:809032/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Physical Geography</li>
+  <li><strong>Department:</strong> Department of Meteorology</li>
   <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-04</li>
+  <li><strong>Deadline:</strong> 2025-05-05</li>
 </ul>
 
 
@@ -6524,20 +6384,6 @@
   <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:815976/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Chemistry</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-05</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Ocean-Glacier Dynamics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:809032/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Meteorology</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-05</li>
 </ul>
@@ -6588,10 +6434,10 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms</h3>
+<h3>Postdoctoral Fellow in Arctic geochemical oceanographic proxies</h3>
 
 <ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:788557/where:4/">View job posting</a></li>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:811409/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Geological Sciences</li>
   <li><strong>Published:</strong> </li>
@@ -6608,6 +6454,62 @@
   <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:815810/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Environmental Science</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:788367/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Geological Sciences</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:788557/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Geological Sciences</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806695/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Geological Sciences</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-15</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Analyses of Marine geophysical mapping data</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:810950/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Department:</strong> Department of Geological Sciences</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-15</li>
 </ul>
@@ -6644,66 +6546,10 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Arctic geochemical oceanographic proxies</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:811409/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Geological Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-15</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Numerical ice-sheet modelling</h3>
 
 <ul>
   <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:811273/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Geological Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-15</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Analyses of Marine geophysical mapping data</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:810950/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Geological Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-15</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:806695/where:4/">View job posting</a></li>
-  <li><strong>University:</strong> Stockholm University</li>
-  <li><strong>Department:</strong> Department of Geological Sciences</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-15</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:788367/where:4/">View job posting</a></li>
   <li><strong>University:</strong> Stockholm University</li>
   <li><strong>Department:</strong> Department of Geological Sciences</li>
   <li><strong>Published:</strong> </li>
@@ -6896,20 +6742,6 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Ecology</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/">View job posting</a></li>
-  <li><strong>University:</strong> Umeå University</li>
-  <li><strong>Department:</strong> Department of Ecology and Environmental Science</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-30</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor of Archaeology</h3>
 
 <ul>
@@ -6944,6 +6776,20 @@
   <li><strong>Link:</strong> <a href="https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/">View job posting</a></li>
   <li><strong>University:</strong> Umeå University</li>
   <li><strong>Department:</strong> Department of Clinical Microbiology</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-04-30</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in Ecology</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/">View job posting</a></li>
+  <li><strong>University:</strong> Umeå University</li>
+  <li><strong>Department:</strong> Department of Ecology and Environmental Science</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-04-30</li>
 </ul>
@@ -7189,20 +7035,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/">View job posting</a></li>
-  <li><strong>University:</strong> Umeå University</li>
-  <li><strong>Department:</strong> Department of Applied Physics and Electronics</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-05-16</li>
-</ul>
-
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
 
@@ -7210,6 +7042,20 @@
   <li><strong>Link:</strong> <a href="https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/">View job posting</a></li>
   <li><strong>University:</strong> Umeå University</li>
   <li><strong>Department:</strong> Department of Computing Science</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-16</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/">View job posting</a></li>
+  <li><strong>University:</strong> Umeå University</li>
+  <li><strong>Department:</strong> Department of Applied Physics and Electronics</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-16</li>
 </ul>
@@ -7240,6 +7086,20 @@
   <li><strong>Department:</strong> Department of Chemistry</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-31</li>
+</ul>
+
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent i preventiv psykiatri</h3>
+
+<ul>
+  <li><strong>Link:</strong> <a href="https://uu.varbi.com/en/what:job/jobID:813753/">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Department:</strong> Uppsala universitet, Institutionen för medicinska vetenskaper</li>
+  <li><strong>Published:</strong> </li>
+  <li><strong>Deadline:</strong> 2025-05-13</li>
 </ul>
 
 
@@ -8178,20 +8038,6 @@
   <li><strong>Department:</strong> Uppsala University,  Department of Earth Sciences</li>
   <li><strong>Published:</strong> </li>
   <li><strong>Deadline:</strong> 2025-05-06</li>
-</ul>
-
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in Archaeogenetics</h3>
-
-<ul>
-  <li><strong>Link:</strong> <a href="https://uu.varbi.com/en/what:job/jobID:814589/">View job posting</a></li>
-  <li><strong>University:</strong> Uppsala University</li>
-  <li><strong>Department:</strong> Uppsala University, Department of Organismal Biology</li>
-  <li><strong>Published:</strong> </li>
-  <li><strong>Deadline:</strong> 2025-04-21</li>
 </ul>
 
 

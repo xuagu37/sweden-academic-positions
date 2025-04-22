@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 50</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 48</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer in Biophysics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/815990?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Materials Science – Developing Sustainable Cemented Carbide Materials</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805993?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in numerical analysis</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800504?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
 
 </div>
 
@@ -467,6 +437,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Machine Learning</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819288?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
 
 </div>
 

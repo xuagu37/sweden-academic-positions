@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 46</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 45</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -291,22 +291,22 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in circadian skin biology at the University of Gothenburg</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in circadian skin biology at the University of Gothenburg</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
 
 </div>
 
@@ -380,16 +380,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Epigenetics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuens in computer science and engineering</h3>
 
@@ -400,6 +390,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Epigenetics</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-23
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>2-3 PhD students in Economic History</h3>
 
@@ -407,16 +407,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in organic chemistry with a focus on method development in the synthesis of organic boron compounds</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37024)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 </div>
 

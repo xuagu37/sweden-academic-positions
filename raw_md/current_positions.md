@@ -489,6 +489,14 @@
 - **Deadline:** 4/27/2025
 
 
+### Enhetschef
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2550)
+- **University:** Dalarna University
+- **Department:** 
+- **Published:** 
+- **Deadline:** 5/11/2025
+
+
 ### Universitetslektor i bild/bilddidaktik
 - **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2538)
 - **University:** Dalarna University
@@ -729,20 +737,20 @@
 - **Deadline:** 2025-04-27
 
 
-### Doctoral students in circadian skin biology at the University of Gothenburg
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
-- **University:** Gothenburg University
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-
 ### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
 - **University:** Gothenburg University
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
+
+
+### Doctoral students in circadian skin biology at the University of Gothenburg
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
+- **University:** Gothenburg University
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
 
 
 ### University lecturer in Nursing with a Specialization in Anaesthesia Care
@@ -801,14 +809,6 @@
 - **Deadline:** 2025-05-23
 
 
-### Postdoctor in Epigenetics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
-- **University:** Gothenburg University
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-
 ### Amanuens in computer science and engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36980)
 - **University:** Gothenburg University
@@ -817,20 +817,20 @@
 - **Deadline:** 2025-04-22
 
 
+### Postdoctor in Epigenetics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
+- **University:** Gothenburg University
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-23
+
+
 ### 2-3 PhD students in Economic History
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37043)
 - **University:** Gothenburg University
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-
-### Doctoral student in organic chemistry with a focus on method development in the synthesis of organic boron compounds
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37024)
-- **University:** Gothenburg University
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 
 ### Postdoctoral Position in Tropical tree ecology/ecophysiology
@@ -969,22 +969,6 @@
 - **Deadline:** 18.May.2025
 
 
-### Forskarassistent i Nutrition
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815198/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
-### MSCA, Doctoral position in spatial biology in asthma
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811272/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medicine, Huddinge
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
 ### Forskningssjuksköterska
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:813898/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -997,6 +981,22 @@
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:808281/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** The Institute of Environmental Medicine
+- **Published:** 
+- **Deadline:** 2025-04-21
+
+
+### Forskarassistent i Nutrition
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815198/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2025-04-21
+
+
+### MSCA, Doctoral position in spatial biology in asthma
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811272/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medicine, Huddinge
 - **Published:** 
 - **Deadline:** 2025-04-21
 
@@ -1033,14 +1033,6 @@
 - **Deadline:** 2025-04-22
 
 
-### Research Assistant for Data Curation and Initial Modelling for Multidisciplinary Decision Support in Breast Cancer
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:816724/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Forskning Strand
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-
 ### Research Assistant to Translational Lung Cancer Research Team
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815736/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1057,18 +1049,26 @@
 - **Deadline:** 2025-04-23
 
 
-### Senior Research Infrastructure Specialist
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:799643/type:job/where:4/apply:1)
+### Research Assistant for Data Curation and Initial Modelling for Multidisciplinary Decision Support in Breast Cancer
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:816724/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
-- **Department:** Department of Molecular Medicine and Surgery
+- **Department:** Forskning Strand
 - **Published:** 
-- **Deadline:** 2025-04-24
+- **Deadline:** 2025-04-23
 
 
 ### Doctoral (Phd) student position in adipocyte systems biology
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814321/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+
+### Senior Research Infrastructure Specialist
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:799643/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Molecular Medicine and Surgery
 - **Published:** 
 - **Deadline:** 2025-04-24
 
@@ -1169,22 +1169,6 @@
 - **Deadline:** 2025-04-28
 
 
-### Research coordinator
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:810072/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Division of Clinical Geriatric
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-
-### Adjunkt i arbetsterapi med VIL-ansvar
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:799572/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Division of Occupational therapy
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-
 ### Postdoctoral studies, employing Bioinformatic gene-expression analysis in Neurobiology (scholarship)
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:808675/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1197,6 +1181,22 @@
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:817088/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Medicine, Solna
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+
+### Postdoctoral Researcher in neuroimaging
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:810282/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Division of Clinical Geriatric
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+
+### Research coordinator
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:810072/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Division of Clinical Geriatric
 - **Published:** 
 - **Deadline:** 2025-04-28
 
@@ -1215,30 +1215,6 @@
 - **Department:** Department of Laboratory Medicine
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-
-### PhD in geriatric epidemiology, with a focus on biomarkers of multimorbidity
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814224/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Aging Research Center, ARC
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-
-### Assistant Professor in Cancer Research focusing on tumor heterogeneity and phenotypic plasticity
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818450/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Forskning.Schlisio
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-
-### Postdoktor - utveckling av ett digitalt rehabiliteringsprogram vid stroke
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818941/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Division of Physiotherapy
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 
 ### Postdoctoral Researcher in human stem cells
@@ -1289,6 +1265,30 @@
 - **Deadline:** 2025-04-30
 
 
+### PhD in geriatric epidemiology, with a focus on biomarkers of multimorbidity
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814224/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Aging Research Center, ARC
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+
+### Assistant Professor in Cancer Research focusing on tumor heterogeneity and phenotypic plasticity
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818450/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Forskning.Schlisio
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+
+### Postdoktor - utveckling av ett digitalt rehabiliteringsprogram vid stroke
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818941/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Division of Physiotherapy
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+
 ### Title TA
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:820003/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1321,6 +1321,22 @@
 - **Deadline:** 2025-05-01
 
 
+### Karolinska Institutet is looking for a Careers Service coordinator
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817903/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Forskningsstöd och externa relationer
+- **Published:** 
+- **Deadline:** 2025-05-02
+
+
+### Amanuenser till läkarprogrammet
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817837/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Division of Family Medicine and Primary Care
+- **Published:** 
+- **Deadline:** 2025-05-02
+
+
 ### Research Assistant in Neutrophil Biology
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818997/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1341,22 +1357,6 @@
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:814963/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Physiology and Pharmacology
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-
-### Karolinska Institutet is looking for a Careers Service coordinator
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817903/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Forskningsstöd och externa relationer
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-
-### Amanuenser till läkarprogrammet
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:817837/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Division of Family Medicine and Primary Care
 - **Published:** 
 - **Deadline:** 2025-05-02
 
@@ -1401,18 +1401,18 @@
 - **Deadline:** 2025-05-05
 
 
-### Doctoral (PhD) student position in Psychiatric Genetics with focus on depression and eating disorders
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:818254/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medical Epidemiology and Biostatistics
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-
 ### Postdoctoral Researcher in a Project Focused on Patients' Role in Reducing Low-Value Care in Healthcare
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:812801/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Department of Learning, Informatics, Management and Ethics
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+
+### Doctoral (PhD) student position in Psychiatric Genetics with focus on depression and eating disorders
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:818254/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medical Epidemiology and Biostatistics
 - **Published:** 
 - **Deadline:** 2025-05-05
 
@@ -1449,6 +1449,14 @@
 - **Deadline:** 2025-05-05
 
 
+### Doctoral position in translational molecular psychiatry
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811040/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medical Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-05-06
+
+
 ### Doctoral (PhD) student position in mental health among youth
 - **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:818159/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1465,22 +1473,6 @@
 - **Deadline:** 2025-05-06
 
 
-### Doctoral position in translational molecular psychiatry
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:811040/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-
-### Research assistant in pain research
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:819382/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Physiology and Pharmacology
-- **Published:** 
-- **Deadline:** 2025-05-07
-
-
 ### Bioinformatician to understand T cell driven diseases in human skin
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815565/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1493,6 +1485,14 @@
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:815590/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Dermatology and venereology division
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+
+### Research assistant in pain research
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:819382/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Physiology and Pharmacology
 - **Published:** 
 - **Deadline:** 2025-05-07
 
@@ -1553,14 +1553,6 @@
 - **Deadline:** 2025-05-14
 
 
-### Postdoctoral Researcher in bioinformatics, cancer immunology and spatial transcriptomics
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818932/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Immunology and Allergy division
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-
 ### Postdoctoral Researcher in stem cells, nanotechnology and mechanotransduction
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:819223/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1569,12 +1561,28 @@
 - **Deadline:** 2025-05-15
 
 
+### Postdoctoral Researcher in Systems Biology of Energy Metabolism
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818950/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Medicine, Huddinge
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+
 ### Postdoctoral Researcher in bioinformatics, cancer immunology and spatial transcriptomics
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:818932/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Immunology and Allergy division
 - **Published:** 
 - **Deadline:** 2025-05-15
+
+
+### Postdoctoral Researcher in Translational bioinformatics
+- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:808054/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Cardiology division
+- **Published:** 
+- **Deadline:** 2025-05-18
 
 
 ### Doctoral (PhD) student position in applied mathematics and computational biology
@@ -1601,14 +1609,6 @@
 - **Deadline:** 2025-05-18
 
 
-### Postdoctoral Researcher in Translational bioinformatics
-- **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:808054/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Cardiology division
-- **Published:** 
-- **Deadline:** 2025-05-18
-
-
 ### Senior Lecturer in Biostatistics
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:792542/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
@@ -1625,18 +1625,18 @@
 - **Deadline:** 2025-05-22
 
 
-### Doctoral (PhD) student position in probabilistic models of proteins
-- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:819791/type:job/where:4/apply:1)
-- **University:** Karolinska Institute
-- **Department:** Department of Microbiology, Tumor and Cell Biology
-- **Published:** 
-- **Deadline:** 2025-05-31
-
-
 ### We are looking for electrophysiologists (postdoc) focusing on neuronal nuclear protein signaling in the mouse brain
 - **Link:** [View job posting](https://ki.varbi.com/en/what:job/jobID:797002/type:job/where:4/apply:1)
 - **University:** Karolinska Institute
 - **Department:** Molecular Neurobiology
+- **Published:** 
+- **Deadline:** 2025-05-31
+
+
+### Doctoral (PhD) student position in probabilistic models of proteins
+- **Link:** [View job posting](https://kidoktorand.varbi.com/en/what:job/jobID:819791/type:job/where:4/apply:1)
+- **University:** Karolinska Institute
+- **Department:** Department of Microbiology, Tumor and Cell Biology
 - **Published:** 
 - **Deadline:** 2025-05-31
 
@@ -1647,30 +1647,6 @@
 - **Department:** Department of Neuroscience
 - **Published:** 
 - **Deadline:** 2025-06-01
-
-
-### Research Engineer in Biophysics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/815990?l=en)
-- **University:** KTH
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
-
-### Doctoral student in Materials Science – Developing Sustainable Cemented Carbide Materials
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805993?l=en)
-- **University:** KTH
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
-
-### Postdoc in numerical analysis
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800504?l=en)
-- **University:** KTH
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
 
 
 ### Doctoral students in mathematics
@@ -2007,6 +1983,14 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+
+### Research Engineer in Machine Learning
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819288?l=en)
+- **University:** KTH
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
 
 
 ### Associate Professor Mathematics with Specialization in Numerical Analysis
@@ -2409,35 +2393,11 @@
 - **Deadline:** 2025-05-31
 
 
-### Doctoral student in the Department of Diagnostic Radiology (PA2025/865)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:809666/type:job/where:4/apply:1)
+### Researcher in Modeling of Aerosols, Cold Clouds and Climate (PA2025/683)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:804640/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 314363 Diagnostic Radiology, Sundgren, 310000 MED
-- **Published:** 31 Mar 2025
-- **Deadline:** 21 Apr 2025
-
-
-### Doctoral student in industrial electrical engineering with a focus on transport electrification (PA2025/450)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:797453/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 107391 Ind Electrical Engin and Autom, 100000 LTH
-- **Published:** 21 Mar 2025
-- **Deadline:** 21 Apr 2025
-
-
-### Laboratory Engineer at the Division of Infectious Medicine (PA2025/983)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:812074/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 314333 Infection medicine, Rasmussen, 310000 MED
-- **Published:** 7 Apr 2025
-- **Deadline:** 21 Apr 2025
-
-
-### Post-doctoral fellow in Plant Epigenetics (PA2025/821)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808591/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 156400 Biology Main Cost Center, 150000 NAT
-- **Published:** 26 Mar 2025
+- **Department:** 156311 Physical Geography, 150000 NAT
+- **Published:** 14 Mar 2025
 - **Deadline:** 22 Apr 2025
 
 
@@ -2449,6 +2409,14 @@
 - **Deadline:** 22 Apr 2025
 
 
+### Post-doctoral fellow in Plant Epigenetics (PA2025/821)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808591/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 156400 Biology Main Cost Center, 150000 NAT
+- **Published:** 26 Mar 2025
+- **Deadline:** 22 Apr 2025
+
+
 ### Amanuenser vid Internationella miljöinstitutet (PA2025/1058)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813514/type:job/where:4/apply:1)
 - **University:** Lund University
@@ -2457,12 +2425,12 @@
 - **Deadline:** 22 Apr 2025
 
 
-### Researcher in Modeling of Aerosols, Cold Clouds and Climate (PA2025/683)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:804640/type:job/where:4/apply:1)
+### Post-doctoral position in smart grids and gender equity (PA2025/1137)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815581/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 156311 Physical Geography, 150000 NAT
-- **Published:** 14 Mar 2025
-- **Deadline:** 22 Apr 2025
+- **Department:** 859520 IIIEE, 850000 USV
+- **Published:** 9 Apr 2025
+- **Deadline:** 23 Apr 2025
 
 
 ### Software developer back-end at ICOS Carbon portal (PA2025/1047)
@@ -2489,12 +2457,12 @@
 - **Deadline:** 23 Apr 2025
 
 
-### Post-doctoral position in smart grids and gender equity (PA2025/1137)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815581/type:job/where:4/apply:1)
+### Teaching assistants within research at the Department of Computer Science (PA2025/894)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810462/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 859520 IIIEE, 850000 USV
-- **Published:** 9 Apr 2025
-- **Deadline:** 23 Apr 2025
+- **Department:** , 100000 LTH
+- **Published:** 10 Apr 2025
+- **Deadline:** 24 Apr 2025
 
 
 ### Postdoctor Research Fellow in Epigenetics and Diabetes (PA2025/1019)
@@ -2505,34 +2473,18 @@
 - **Deadline:** 24 Apr 2025
 
 
-### Teaching assistants within research at the Department of Computer Science (PA2025/894)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810462/type:job/where:4/apply:1)
+### Associate researcher in Emergency care (PA2025/1078)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814161/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** , 100000 LTH
-- **Published:** 10 Apr 2025
-- **Deadline:** 24 Apr 2025
+- **Department:** 314314 Medicine/Acute care, Ekelund, 310000 MED
+- **Published:** 11 Apr 2025
+- **Deadline:** 25 Apr 2025
 
 
 ### Associate Researcher at the Department of Diagnostic Radiology (PA2025/1071)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813992/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Department:** 314363 Diagnostic Radiology, Sundgren, 310000 MED
-- **Published:** 11 Apr 2025
-- **Deadline:** 25 Apr 2025
-
-
-### Postdoctoral position in Human Centered Design (PA2025/842)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808985/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 107340 Design Sciences, 100000 LTH
-- **Published:** 27 Mar 2025
-- **Deadline:** 25 Apr 2025
-
-
-### Associate researcher in Emergency care (PA2025/1078)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814161/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 314314 Medicine/Acute care, Ekelund, 310000 MED
 - **Published:** 11 Apr 2025
 - **Deadline:** 25 Apr 2025
 
@@ -2545,12 +2497,12 @@
 - **Deadline:** 25 Apr 2025
 
 
-### Accelerator Operator Assistant (PA2025/891)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810371/type:job/where:4/apply:1)
+### Postdoctoral position in Human Centered Design (PA2025/842)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:808985/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** , 830000 MAX IV
-- **Published:** 4 Apr 2025
-- **Deadline:** 27 Apr 2025
+- **Department:** 107340 Design Sciences, 100000 LTH
+- **Published:** 27 Mar 2025
+- **Deadline:** 25 Apr 2025
 
 
 ### PhD student in medical sciences and neuroscience (PA2025/1036)
@@ -2558,6 +2510,14 @@
 - **University:** Lund University
 - **Department:** 314821 Neurodegenerative - Vogel, 310000 MED
 - **Published:** 31 Mar 2025
+- **Deadline:** 27 Apr 2025
+
+
+### Postdoctoral position in Chemical Engineering on Membranes and Membrane Process for water treatment (PA2025/1041)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813073/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 107760 Chemical engineering, 100000 LTH
+- **Published:** 7 Apr 2025
 - **Deadline:** 27 Apr 2025
 
 
@@ -2569,12 +2529,20 @@
 - **Deadline:** 27 Apr 2025
 
 
-### Postdoctoral position in Chemical Engineering on Membranes and Membrane Process for water treatment (PA2025/1041)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813073/type:job/where:4/apply:1)
+### Accelerator Operator Assistant (PA2025/891)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:810371/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 107760 Chemical engineering, 100000 LTH
-- **Published:** 7 Apr 2025
+- **Department:** , 830000 MAX IV
+- **Published:** 4 Apr 2025
 - **Deadline:** 27 Apr 2025
+
+
+### Postdoctoral fellow for project on the role of stem cells and immunological niches in multiple sclerosis (PA2025/1074)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814034/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 314096 Glia-Immune Interactions, 310000 MED
+- **Published:** 7 Apr 2025
+- **Deadline:** 28 Apr 2025
 
 
 ### Postdoctoral position in Turbomachinery Aerodynamics (PA2025/773)
@@ -2593,12 +2561,12 @@
 - **Deadline:** 28 Apr 2025
 
 
-### Postdoctoral fellow for project on the role of stem cells and immunological niches in multiple sclerosis (PA2025/1074)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814034/type:job/where:4/apply:1)
+### Amanuens vid Internationella miljöinstitutet (PA2025/1044)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813191/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 314096 Glia-Immune Interactions, 310000 MED
-- **Published:** 7 Apr 2025
-- **Deadline:** 28 Apr 2025
+- **Department:** 859520 IIIEE, 850000 USV
+- **Published:** 1 Apr 2025
+- **Deadline:** 29 Apr 2025
 
 
 ### Doctoral student in Electrical Engineering with focus on Electromagnetics (PA2025/851)
@@ -2606,14 +2574,6 @@
 - **University:** Lund University
 - **Department:** , 100000 LTH
 - **Published:** 1 Apr 2025
-- **Deadline:** 29 Apr 2025
-
-
-### Associate researcher in Lung Physiology and Infection Medicine (PA2025/1144)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815777/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 314323 Resp med pall care, Egesten, 310000 MED
-- **Published:** 15 Apr 2025
 - **Deadline:** 29 Apr 2025
 
 
@@ -2625,19 +2585,19 @@
 - **Deadline:** 29 Apr 2025
 
 
-### Amanuens vid Internationella miljöinstitutet (PA2025/1044)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813191/type:job/where:4/apply:1)
+### Associate researcher in Lung Physiology and Infection Medicine (PA2025/1144)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815777/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 859520 IIIEE, 850000 USV
-- **Published:** 1 Apr 2025
+- **Department:** 314323 Resp med pall care, Egesten, 310000 MED
+- **Published:** 15 Apr 2025
 - **Deadline:** 29 Apr 2025
 
 
-### Associate researcher in Lung Medicine (PA2025/1273)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:817359/type:job/where:4/apply:1)
+### Teaching assistants at the Department of Automatic Control (PA2025/619)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:802444/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 314323 Resp med pall care, Egesten, 310000 MED
-- **Published:** 16 Apr 2025
+- **Department:** 107161 Automatic Control, 100000 LTH
+- **Published:** 26 Mar 2025
 - **Deadline:** 30 Apr 2025
 
 
@@ -2645,6 +2605,14 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:817941/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Department:** 314406 Dmh - Scheding, Stefan, 310000 MED
+- **Published:** 16 Apr 2025
+- **Deadline:** 30 Apr 2025
+
+
+### Associate researcher in Lung Medicine (PA2025/1273)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:817359/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 314323 Resp med pall care, Egesten, 310000 MED
 - **Published:** 16 Apr 2025
 - **Deadline:** 30 Apr 2025
 
@@ -2657,11 +2625,11 @@
 - **Deadline:** 30 Apr 2025
 
 
-### Teaching assistants at the Department of Automatic Control (PA2025/619)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:802444/type:job/where:4/apply:1)
+### Post-doctoral fellow in Physics with a focus on multiscale X-ray characterization of 3D architected materials for sustainable development (PA2025/527)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799699/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 107161 Automatic Control, 100000 LTH
-- **Published:** 26 Mar 2025
+- **Department:** 156137 Syncrotron radiation physics, 150000 NAT
+- **Published:** 12 Mar 2025
 - **Deadline:** 30 Apr 2025
 
 
@@ -2670,14 +2638,6 @@
 - **University:** Lund University
 - **Department:** 253223 LUCSUS, 250000 SAM
 - **Published:** 10 Mar 2025
-- **Deadline:** 30 Apr 2025
-
-
-### Post-doctoral fellow in Physics with a focus on multiscale X-ray characterization of 3D architected materials for sustainable development (PA2025/527)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:799699/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 156137 Syncrotron radiation physics, 150000 NAT
-- **Published:** 12 Mar 2025
 - **Deadline:** 30 Apr 2025
 
 
@@ -2713,14 +2673,6 @@
 - **Deadline:** 4 May 2025
 
 
-### Doctoral student in Computer Science with focus on privacy-preserving neural models (PA2025/1069)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813931/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** , 100000 LTH
-- **Published:** 14 Apr 2025
-- **Deadline:** 5 May 2025
-
-
 ### Doctoral student in Biology (PA2025/801)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:807744/type:job/where:4/apply:1)
 - **University:** Lund University
@@ -2737,6 +2689,14 @@
 - **Deadline:** 5 May 2025
 
 
+### Doctoral student in Computer Science with focus on privacy-preserving neural models (PA2025/1069)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:813931/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** , 100000 LTH
+- **Published:** 14 Apr 2025
+- **Deadline:** 5 May 2025
+
+
 ### Doctoral students in Automatic Control with focus on Optimization for Learning (PA2025/1177)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:816078/type:job/where:4/apply:1)
 - **University:** Lund University
@@ -2745,18 +2705,26 @@
 - **Deadline:** 6 May 2025
 
 
+### Assistant Researcher in Bioinformatics with a Focus on Breast Cancer (PA2025/1297)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:818101/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 314389 Breast cancer treatment, Rydén, 310000 MED
+- **Published:** 22 Apr 2025
+- **Deadline:** 6 May 2025
+
+
+### Postdoctoral position in Biomedical Engineering with a focus on optical systems for acoustofluidics (PA2025/1233)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:816656/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 107231 Biomedical Engineering, 100000 LTH
+- **Published:** 15 Apr 2025
+- **Deadline:** 7 May 2025
+
+
 ### Doctoral student in Biomedical Engineering with a focus on tendon biomechanics and mechanobiology (PA2025/1287)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:817757/type:job/where:4/apply:1)
 - **University:** Lund University
 - **Department:** 107231 Biomedical Engineering, 100000 LTH
-- **Published:** 16 Apr 2025
-- **Deadline:** 7 May 2025
-
-
-### PhD student at the Department of Diagnostic Radiology (PA2025/1308)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:818347/type:job/where:4/apply:1)
-- **University:** Lund University
-- **Department:** 314363 Diagnostic Radiology, Sundgren, 310000 MED
 - **Published:** 16 Apr 2025
 - **Deadline:** 7 May 2025
 
@@ -2769,11 +2737,11 @@
 - **Deadline:** 7 May 2025
 
 
-### Postdoctoral position in Biomedical Engineering with a focus on optical systems for acoustofluidics (PA2025/1233)
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:816656/type:job/where:4/apply:1)
+### PhD student at the Department of Diagnostic Radiology (PA2025/1308)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:818347/type:job/where:4/apply:1)
 - **University:** Lund University
-- **Department:** 107231 Biomedical Engineering, 100000 LTH
-- **Published:** 15 Apr 2025
+- **Department:** 314363 Diagnostic Radiology, Sundgren, 310000 MED
+- **Published:** 16 Apr 2025
 - **Deadline:** 7 May 2025
 
 
@@ -2822,6 +2790,14 @@
 - **University:** Lund University
 - **Department:** 107717 Immunotechnology, 100000 LTH
 - **Published:** 15 Apr 2025
+- **Deadline:** 13 May 2025
+
+
+### PhD position in Ophthalmology, Medical Imaging Analysis (PA2025/1295)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:818098/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 314351 Ophtalmology, Malmsjö, 310000 MED
+- **Published:** 22 Apr 2025
 - **Deadline:** 13 May 2025
 
 
@@ -2881,6 +2857,14 @@
 - **Deadline:** 23 May 2025
 
 
+### Doctoral student in bioinformatics and machine learning (PA2025/1145)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815800/type:job/where:4/apply:1)
+- **University:** Lund University
+- **Department:** 156708 Biochemistry & structural biol, 150000 NAT
+- **Published:** 22 Apr 2025
+- **Deadline:** 26 May 2025
+
+
 ### Artistic Senior Lecturer in Industrial Design (PA2025/968)
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:811811/type:job/where:4/apply:1)
 - **University:** Lund University
@@ -2927,14 +2911,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-
-### A postdoc within Trusted communication for production systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3017)
-- **University:** Mälardalen University
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 
 ### PhD student in Energy Engineering
@@ -3097,30 +3073,6 @@
 - **Deadline:** 2025-05-15
 
 
-### Postdoc position on sustainable absorbents
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12344)
-- **University:** Swedish University of Agricultural Sciences
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
-### Manager/leader (Head of Department)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12661)
-- **University:** Swedish University of Agricultural Sciences
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
-### Manager/leader (Head of Department)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12697)
-- **University:** Swedish University of Agricultural Sciences
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
 ### PostDoc in biotechnology and protein biochemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12693)
 - **University:** Swedish University of Agricultural Sciences
@@ -3143,14 +3095,6 @@
 - **Department:** Faculty of Forest Sciences
 - **Published:** 
 - **Deadline:** 2025-05-11
-
-
-### Functional relevance of genetic variation in tropical trees
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12714)
-- **University:** Swedish University of Agricultural Sciences
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 
 ### PhD in Technology
@@ -3217,14 +3161,6 @@
 - **Deadline:** 2025-05-06
 
 
-### Postdoctoral researcher in Soil Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12512)
-- **University:** Swedish University of Agricultural Sciences
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
 ### Professor in Food Science and Food Technology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12515)
 - **University:** Swedish University of Agricultural Sciences
@@ -3239,14 +3175,6 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-04-28
-
-
-### Associate Senior Lecturer/Assistant Professor* in Agricultural History
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12053)
-- **University:** Swedish University of Agricultural Sciences
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 
 ### Associate senior lecturer/Assistant professor* in Porcine medicine
@@ -3321,34 +3249,18 @@
 - **Deadline:** 2025-05-15
 
 
-### Scientific Coordinator
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807891/where:4/)
-- **University:** Stockholm University
-- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
-### Postdoctoral Fellow in Microbial Lignin Materials Chemistry
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809755/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-
-### PhD student in Computational Mathematics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807359/where:4/)
+### PhD students in Mathematics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-22
 
 
-### PhD student in Zoology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
+### PhD student in Molecular Biosciences
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806269/where:4/)
 - **University:** Stockholm University
-- **Department:** Department of Zoology
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -3357,14 +3269,6 @@
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:798314/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
-- **University:** Stockholm University
-- **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -3385,18 +3289,18 @@
 - **Deadline:** 2025-04-22
 
 
-### PhD student in Ecology and Evolution
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805144/where:4/)
+### PhD student in Genetics and Embryology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:801063/where:4/)
 - **University:** Stockholm University
-- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-04-22
 
 
-### PhD student in Environmental Science, aerosol-cloud-precipitation interactions
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
+### PhD student in Zoology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805542/where:4/)
 - **University:** Stockholm University
-- **Department:** Department of Environmental Science
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -3409,18 +3313,10 @@
 - **Deadline:** 2025-04-22
 
 
-### PhD student in Genetics and Embryology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:801063/where:4/)
+### PhD student in Environmental Science, aerosol-cloud-precipitation interactions
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805361/where:4/)
 - **University:** Stockholm University
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-
-### PhD student in Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806269/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -3429,6 +3325,22 @@
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806592/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Meteorology
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+
+### PhD student in Ecology and Evolution
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805144/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+
+### PhD student in Computational Mathematics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807359/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-04-22
 
@@ -3442,7 +3354,7 @@
 
 
 ### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806487/where:4/)
 - **University:** Stockholm University
 - **Department:** Stockholm Resilience Centre
 - **Published:** 
@@ -3497,22 +3409,6 @@
 - **Deadline:** 2025-04-22
 
 
-### PhD students in Mathematics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:803014/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-
-### PhD student in Sustainability Science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
-- **University:** Stockholm University
-- **Department:** Stockholm Resilience Centre
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-
 ### PhD students in Theoretical Physics: Quantum complexity and black holes
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807015/where:4/)
 - **University:** Stockholm University
@@ -3545,8 +3441,24 @@
 - **Deadline:** 2025-04-22
 
 
-### PhD student in Colloidal Lignin Materials Chemistry
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806233/where:4/)
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806687/where:4/)
+- **University:** Stockholm University
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+
+### PhD student in Sustainability Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806510/where:4/)
+- **University:** Stockholm University
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2025-04-22
+
+
+### PhD student in Luminescent Nanoprobes for in vivo bioimaging
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Chemistry
 - **Published:** 
@@ -3561,30 +3473,6 @@
 - **Deadline:** 2025-04-24
 
 
-### PhD student in Paper-based Diagnostics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806318/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-
-### PhD student in Analytical chemistry for point-of-care diagnostics of NTDs
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806624/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-
-### PhD student in Luminescent Nanoprobes for in vivo bioimaging
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-
 ### PhD student in Materials Chemistry with focus on Organic Waste Valorization
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806404/where:4/)
 - **University:** Stockholm University
@@ -3593,8 +3481,32 @@
 - **Deadline:** 2025-04-24
 
 
+### PhD student in Paper-based Diagnostics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806318/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+
 ### PhD student in Organic Chemistry in Lignin Chemistry
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806409/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+
+### PhD student in Colloidal Lignin Materials Chemistry
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806233/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-04-24
+
+
+### PhD student in Analytical chemistry for point-of-care diagnostics of NTDs
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806624/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Chemistry
 - **Published:** 
@@ -3633,6 +3545,14 @@
 - **Deadline:** 2025-04-26
 
 
+### Assistant Professor in Atmospheric Sciences or Oceanography
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Meteorology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+
 ### Postdoctoral Fellow in Yeast Evolutionary Genomics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
 - **University:** Stockholm University
@@ -3665,14 +3585,6 @@
 - **Deadline:** 2025-04-30
 
 
-### Assistant Professor in Atmospheric Sciences or Oceanography
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Meteorology
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-
 ### PhD student in Environmental Science, with a focus on machine learning
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806336/where:4/)
 - **University:** Stockholm University
@@ -3697,14 +3609,6 @@
 - **Deadline:** 2025-05-02
 
 
-### PhD Student in Evolution of Seasonal Camouflage
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-
 ### Postdoctoral Fellow in Terrestrial Water System Variations and Trends
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813107/where:4/)
 - **University:** Stockholm University
@@ -3713,18 +3617,26 @@
 - **Deadline:** 2025-05-04
 
 
-### Lab Technician
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815976/where:4/)
+### PhD Student in Evolution of Seasonal Camouflage
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
 - **University:** Stockholm University
-- **Department:** Department of Chemistry
+- **Department:** Department of Zoology
 - **Published:** 
-- **Deadline:** 2025-05-05
+- **Deadline:** 2025-05-04
 
 
 ### Postdoctoral Fellow in Ocean-Glacier Dynamics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809032/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Meteorology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+
+### Lab Technician
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815976/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-05
 
@@ -3753,8 +3665,8 @@
 - **Deadline:** 2025-05-13
 
 
-### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
+### Postdoctoral Fellow in Arctic geochemical oceanographic proxies
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811409/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Geological Sciences
 - **Published:** 
@@ -3765,6 +3677,38 @@
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+
+### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+
+### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+
+### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+
+### Postdoctoral Fellow in Analyses of Marine geophysical mapping data
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
+- **University:** Stockholm University
+- **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
 
@@ -3785,40 +3729,8 @@
 - **Deadline:** 2025-05-15
 
 
-### Postdoctoral Fellow in Arctic geochemical oceanographic proxies
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811409/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-
 ### Postdoctoral Fellow in Numerical ice-sheet modelling
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811273/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-
-### Postdoctoral Fellow in Analyses of Marine geophysical mapping data
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-
-### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
-- **University:** Stockholm University
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-
-### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
 - **University:** Stockholm University
 - **Department:** Department of Geological Sciences
 - **Published:** 
@@ -3929,14 +3841,6 @@
 - **Deadline:** 2025-04-30
 
 
-### Associate professor in Ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
-- **University:** Umeå University
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-
 ### Professor of Archaeology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
 - **University:** Umeå University
@@ -3957,6 +3861,14 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
 - **University:** Umeå University
 - **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+
+### Associate professor in Ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **University:** Umeå University
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -4097,18 +4009,18 @@
 - **Deadline:** 2025-05-16
 
 
-### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
-- **University:** Umeå University
-- **Department:** Department of Applied Physics and Electronics
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-
 ### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
 - **University:** Umeå University
 - **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+
+### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
+- **University:** Umeå University
+- **Department:** Department of Applied Physics and Electronics
 - **Published:** 
 - **Deadline:** 2025-05-16
 
@@ -4127,6 +4039,14 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-31
+
+
+### Forskningsassistent i preventiv psykiatri
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813753/)
+- **University:** Uppsala University
+- **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-13
 
 
 ### Forskare
@@ -4663,14 +4583,6 @@
 - **Department:** Uppsala University,  Department of Earth Sciences
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-
-### Research assistant in Archaeogenetics
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814589/)
-- **University:** Uppsala University
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 
 ### Postdoctoral position in Evolution and Development

@@ -1,5 +1,5 @@
 # Swedish University of Agricultural Sciences
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 27</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 21</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position on sustainable absorbents</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12344)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Manager/leader (Head of Department)</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12661)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Manager/leader (Head of Department)</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12697)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 </div>
 
@@ -77,16 +47,6 @@
 - **Department:** Faculty of Forest Sciences
 - **Published:** 
 - **Deadline:** 2025-05-11
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Functional relevance of genetic variation in tropical trees</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12714)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 </div>
 
@@ -170,16 +130,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Soil Science</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12512)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor in Food Science and Food Technology</h3>
 
@@ -197,16 +147,6 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer/Assistant Professor* in Agricultural History</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12053)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 </div>
 

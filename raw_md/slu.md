@@ -1,23 +1,5 @@
 # Swedish University of Agricultural Sciences
 
-### Postdoc position on sustainable absorbents
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12344)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-### Manager/leader (Head of Department)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12661)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
-### Manager/leader (Head of Department)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12697)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
-
 ### PostDoc in biotechnology and protein biochemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12693)
 - **Department:** Faculty of Veterinary Medicine and Animal Science
@@ -35,12 +17,6 @@
 - **Department:** Faculty of Forest Sciences
 - **Published:** 
 - **Deadline:** 2025-05-11
-
-### Functional relevance of genetic variation in tropical trees
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12714)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 ### PhD in Technology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12600)
@@ -90,12 +66,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-06
 
-### Postdoctoral researcher in Soil Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12512)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-21
-
 ### Professor in Food Science and Food Technology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12515)
 - **Department:** Faculty of Natural Resources and Agricultural Scie
@@ -107,12 +77,6 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-04-28
-
-### Associate Senior Lecturer/Assistant Professor* in Agricultural History
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12053)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 ### Associate senior lecturer/Assistant professor* in Porcine medicine
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12290)

@@ -162,17 +162,17 @@
 - **Published:** 
 - **Deadline:** 2025-04-27
 
-### Doctoral students in circadian skin biology at the University of Gothenburg
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
+
+### Doctoral students in circadian skin biology at the University of Gothenburg
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
 
 ### University lecturer in Nursing with a Specialization in Anaesthesia Care
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37100)
@@ -216,29 +216,23 @@
 - **Published:** 
 - **Deadline:** 2025-05-23
 
-### Postdoctor in Epigenetics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
 ### Amanuens in computer science and engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36980)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-22
 
+### Postdoctor in Epigenetics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-23
+
 ### 2-3 PhD students in Economic History
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37043)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-### Doctoral student in organic chemistry with a focus on method development in the synthesis of organic boron compounds
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37024)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 ### Postdoctoral Position in Tropical tree ecology/ecophysiology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36991)

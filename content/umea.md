@@ -81,16 +81,6 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Ecology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor of Archaeology</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
@@ -115,6 +105,16 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
 - **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in Ecology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -290,21 +290,21 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
-- **Department:** Department of Applied Physics and Electronics
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
 - **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
+- **Department:** Department of Applied Physics and Electronics
 - **Published:** 
 - **Deadline:** 2025-05-16
 

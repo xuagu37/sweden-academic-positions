@@ -21,6 +21,16 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent i preventiv psykiatri</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813753/)
+- **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Forskare</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818767/)
@@ -687,16 +697,6 @@
 - **Department:** Uppsala University,  Department of Earth Sciences
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in Archaeogenetics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814589/)
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 </div>
 

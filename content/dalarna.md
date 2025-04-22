@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -27,6 +27,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 4/27/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Enhetschef</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2550)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 5/11/2025
 
 </div>
 

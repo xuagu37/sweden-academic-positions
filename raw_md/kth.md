@@ -1,23 +1,5 @@
 # KTH
 
-### Research Engineer in Biophysics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/815990?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
-### Doctoral student in Materials Science – Developing Sustainable Cemented Carbide Materials
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805993?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
-### Postdoc in numerical analysis
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800504?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-21
-
 ### Doctoral students in mathematics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/804226?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
@@ -269,6 +251,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+### Research Engineer in Machine Learning
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819288?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
 
 ### Associate Professor Mathematics with Specialization in Numerical Analysis
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806504?l=en)

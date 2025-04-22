@@ -1,5 +1,11 @@
 # Uppsala University
 
+### Forskningsassistent i preventiv psykiatri
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813753/)
+- **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-13
+
 ### Forskare
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818767/)
 - **Department:** Uppsala universitet, Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för medicinsk cellbiologi
@@ -401,12 +407,6 @@
 - **Department:** Uppsala University,  Department of Earth Sciences
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-### Research assistant in Archaeogenetics
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814589/)
-- **Department:** Uppsala University, Department of Organismal Biology
-- **Published:** 
-- **Deadline:** 2025-04-21
 
 ### Postdoctoral position in Evolution and Development
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814900/)
