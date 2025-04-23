@@ -1,11 +1,5 @@
 # Luleå University
 
-### Postdoc position in Machine learning
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8941)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### Professor/Head of Subject of Construction Management and Building Technology
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8855)
 - **Department:** 

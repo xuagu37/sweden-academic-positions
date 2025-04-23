@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 48</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 47</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in mathematics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804226?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Navigation and Perception in Built Environments</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804334?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Architecture: Adaptive Reuse and Repair</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804342?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-22
 
 </div>
 
@@ -230,6 +200,16 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in DNA analysis</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819334?l=en)
+- **Department:** Kungliga Tekniska högskolan, Skolan för kemi, bioteknologi och hälsa
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-07
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>The project has no title</h3>
 
@@ -367,6 +347,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-14
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in robotics with specialization in visual domain adaptation</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818770?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-15
 
 </div>
 

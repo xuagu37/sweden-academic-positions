@@ -24,7 +24,7 @@
 - **Published:** 
 - **Deadline:** 2025-05-08
 
-### PhD project in Pharmacognosy: Peptide design and development for challenging targets
+### PhD project in Pharmacognosy;  Peptide design and development for challenging targets.
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803193/)
 - **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Pharmacognosy
 - **Published:** 
@@ -366,12 +366,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-25
 
-### Upp till åtta amanuenser i beräkningsvetenskap
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815029/)
-- **Department:** Uppsala universitet, Institutionen för informationsteknologi
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### Project Coordinator at ReAct – Action on antibiotic Resistance
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815093/)
 - **Department:** Uppsala University, Department of Medical Sciences
@@ -420,12 +414,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-25
 
-### Up to 25 teaching assistants within Vi3
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815554/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### Assistant Professor in data-driven battery research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805085/)
 - **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Mathematics and Computer Science, Department of Information Technology
@@ -450,23 +438,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-28
 
-### Postdoctoral position in Materials Physics
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814056/)
-- **Department:** Uppsala University, Department of Physics and Astronomy
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### Forskningsingenjör
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813664/)
 - **Department:** Uppsala universitet, Institutionen för kemi - BMC
 - **Published:** 
 - **Deadline:** 2025-04-24
-
-### Kurator
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814333/)
-- **Department:** Uppsala universitet, Enheten för studenthälsa
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 ### Amanuens i informationssystem
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814345/)
@@ -576,12 +552,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-02
 
-### Research assistant
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809256/)
-- **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### Doctoral (Phd) position in biomedical engineering focused on microphysiological systems for cancer research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810571/)
 - **Department:** Uppsala University, Department of Materials Science and Engineering
@@ -636,23 +606,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### Postdoctoral position in Practically Usable Verification for Numerical Programs
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804773/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### 1:e Forskningsingenjör Myfab Uppsala
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806090/)
 - **Department:** Institutionen för materialvetenskap
 - **Published:** 
 - **Deadline:** 2025-04-25
-
-### Senior Research Engineer in Molecular Biology
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804992/)
-- **Department:** Uppsala University, Department of Medical Biochemistry and Microbiology
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 ### PhD position in antenna arrays for communication and energy harvesting SATCOM applications
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805966/)
@@ -677,12 +635,6 @@
 - **Department:** Uppsala University, Department of Civil and Industrial Engineering
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### PhD student in Computing Science focusing on Practically Usable Verification for Numerical Programs
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804246/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 ### Postdoctoral position in computer architecture: Using broad contextual information for better branch prediction
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:797420/)

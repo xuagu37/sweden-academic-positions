@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 60</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 59</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in Sensor-assisted Water Quality Monitoring</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13876)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-30
 
 </div>
 
@@ -277,16 +287,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant in Improved Performance of Wing Sails using Flow Control</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13848)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 </div>
 
@@ -577,16 +577,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in flexible x-ray detectors for medical diagnostics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13740)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 </div>
 

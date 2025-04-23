@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -57,6 +57,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in musicology</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250112)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
 </div></div>
 
 <script>

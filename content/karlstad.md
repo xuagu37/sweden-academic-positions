@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 11</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 10</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -84,16 +84,6 @@
 <h3>Doktorand i folkhälsovetenskap, inriktning oral hälsa</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:799415/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Campuskoordinator</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817154/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 04.May.2025

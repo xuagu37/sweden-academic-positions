@@ -42,12 +42,6 @@
 - **Published:** 
 - **Deadline:** 04.May.2025
 
-### Campuskoordinator
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817154/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
-
 ### Fakultetsadministratör 75%
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817989/iframeEmbedded:0/where:4)
 - **Department:** 

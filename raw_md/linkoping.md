@@ -12,6 +12,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-30
 
+### Postdoc in Sustainable photosynthetic living materials and devices
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26676)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
 ### Associate Professor in Industrial Marketing
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26699)
 - **Department:** 
@@ -35,6 +41,18 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-23
+
+### PhD student in Automatic Control
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26719)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-22
+
+### PhD student in Machine Learning within WASP
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26720)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-22
 
 ### Associate professor in Mathematics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26585)
@@ -167,22 +185,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-23
-
-### PhD in Materials Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26402)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Mathematics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26465)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-### PhD student in Mathematics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26471)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
 

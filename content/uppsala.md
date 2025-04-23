@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 116</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 108</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -61,7 +61,7 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD project in Pharmacognosy: Peptide design and development for challenging targets</h3>
+<h3>PhD project in Pharmacognosy;  Peptide design and development for challenging targets.</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:803193/)
 - **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Pharmacognosy
@@ -631,16 +631,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Upp till åtta amanuenser i beräkningsvetenskap</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815029/)
-- **Department:** Uppsala universitet, Institutionen för informationsteknologi
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Project Coordinator at ReAct – Action on antibiotic Resistance</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815093/)
@@ -720,16 +710,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Up to 25 teaching assistants within Vi3</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815554/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in data-driven battery research</h3>
 
@@ -770,16 +750,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Materials Physics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814056/)
-- **Department:** Uppsala University, Department of Physics and Astronomy
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Forskningsingenjör</h3>
 
@@ -787,16 +757,6 @@
 - **Department:** Uppsala universitet, Institutionen för kemi - BMC
 - **Published:** 
 - **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kurator</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814333/)
-- **Department:** Uppsala universitet, Enheten för studenthälsa
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 </div>
 
@@ -980,16 +940,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:809256/)
-- **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Peace and Conflict Research
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral (Phd) position in biomedical engineering focused on microphysiological systems for cancer research</h3>
 
@@ -1080,16 +1030,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Practically Usable Verification for Numerical Programs</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804773/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>1:e Forskningsingenjör Myfab Uppsala</h3>
 
@@ -1097,16 +1037,6 @@
 - **Department:** Institutionen för materialvetenskap
 - **Published:** 
 - **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Senior Research Engineer in Molecular Biology</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804992/)
-- **Department:** Uppsala University, Department of Medical Biochemistry and Microbiology
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 </div>
 
@@ -1147,16 +1077,6 @@
 - **Department:** Uppsala University, Department of Civil and Industrial Engineering
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science focusing on Practically Usable Verification for Numerical Programs</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804246/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 </div>
 

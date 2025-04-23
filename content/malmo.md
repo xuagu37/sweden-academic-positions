@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -57,36 +57,6 @@
 - **Department:** Malmö universitet  / Malmö universitet
 - **Published:** 28 March 2025
 - **Deadline:** 22 May 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Employment as a doctoral student in Media and Communication Studies: Imagining and Co-Creating Futures</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3918)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 13 March 2025
-- **Deadline:** 22 April 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Employment as a doctoral student in Media and Communication Studies: Storytelling</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3922)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 13 March 2025
-- **Deadline:** 22 April 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Employment as a doctoral student in Media and Communication Studies: Working-Class Literary Storytelling</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3927)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 13 March 2025
-- **Deadline:** 22 April 2025
 
 </div>
 

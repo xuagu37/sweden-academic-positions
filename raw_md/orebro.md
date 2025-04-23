@@ -24,3 +24,9 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
+### Postdoctoral researcher in musicology
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250112)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+

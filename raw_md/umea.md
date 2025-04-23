@@ -1,11 +1,5 @@
 # Umeå University
 
-### PhD position in Molecular Biology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-molecular-biology_811149/)
-- **Department:** Department of Molecularbiology
-- **Published:** 
-- **Deadline:** 2025-04-22
-
 ### Postdoctoral fellow in Educational Work with a Focus on Aesthetic Subjects
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-fellow-in-educational-work-with-a-focus-on-aesthetic-subjects-_795561/)
 - **Department:** Department of Creative Studies
@@ -36,6 +30,12 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
+### Associate professor in Ecology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
+
 ### Professor of Archaeology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
 - **Department:** Department of Historical, Philosophical and Religious Studies
@@ -51,12 +51,6 @@
 ### PhD student in Medical Science, focus on Infectious Medicine/Epidemiology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
 - **Department:** Department of Clinical Microbiology
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Associate professor in Ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
-- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -90,26 +84,26 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-05
-
 ### Curator of exhibitions at Bildmuseet
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### Staffscientist in Antimicrobial Discovery
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
+### The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### Postdoctoral position (2 years) in Medical Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
 - **Deadline:** 2025-05-07
 
-### Postdoctoral position (2 years) in Medical Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
+### Staffscientist in Antimicrobial Discovery
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
 - **Deadline:** 2025-05-07
@@ -143,6 +137,18 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
+
+### PhD position in Informatics with a focus on sustainable data cultures
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
+- **Department:** Department of Informatics
+- **Published:** 
+- **Deadline:** 2025-05-13
+
+### Field Assistant (intermittent employment)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/field-assistant-intermittent-employment_819378/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-13
 
 ### PhD position in Chemistry, with a specialization in Biophysical Chemistry
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)

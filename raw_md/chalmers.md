@@ -1,5 +1,11 @@
 # Chalmers University of Technology
 
+### PhD in Sensor-assisted Water Quality Monitoring
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13876)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-30
+
 ### PhD student in research on improving user experience and safety using behavioral models
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13886)
 - **Department:** 
@@ -155,12 +161,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
-
-### Project assistant in Improved Performance of Wing Sails using Flow Control
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13848)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 ### Instruktör med inriktning sjukvård
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13840)
@@ -335,12 +335,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-### PhD position in flexible x-ray detectors for medical diagnostics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13740)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-22
 
 ### PhD position in Functional Covalent Framework Materials
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13729)

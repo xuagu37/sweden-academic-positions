@@ -1,23 +1,5 @@
 # KTH
 
-### Doctoral students in mathematics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804226?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-22
-
-### Doctoral student in Navigation and Perception in Built Environments
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804334?l=en)
-- **Department:** School of Architecture and Built Environment at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-22
-
-### Doctoral student in Architecture: Adaptive Reuse and Repair
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804342?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-22
-
 ### Doctoral student in Theoretical Condensed Matter Physics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
 - **Department:** School of Engineering Sciences at KTH
@@ -126,6 +108,12 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-06
 
+### Research Engineer in DNA analysis
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819334?l=en)
+- **Department:** Kungliga Tekniska högskolan, Skolan för kemi, bioteknologi och hälsa
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-07
+
 ### The project has no title
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/819375?l=en)
 - **Department:** Kungliga Tekniska högskolan,
@@ -209,6 +197,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-14
+
+### Postdoc in robotics with specialization in visual domain adaptation
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818770?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-15
 
 ### Postdoc in Tire and road effects on wear and particle emissions
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806489?l=en)
