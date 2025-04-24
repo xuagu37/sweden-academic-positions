@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 108</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 123</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,11 +20,171 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in time dependent density functional theory</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815969/)
+- **Department:** Uppsala University, Department of Physics and Astronomy
+- **Published:** 
+- **Deadline:** 2025-05-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in developmental cognitive neuroscience</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816620/)
+- **Department:** Uppsala University, Department of Psychology
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i straffrätt till terminskurs 4</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818974/)
+- **Department:** Uppsala universitet, Juridiska institutionen
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Population Genomics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819313/)
+- **Department:** Uppsala University, Department of Organismal Biology
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Biblioteksassistent till Campus Gotland sommaren 2025</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820341/)
+- **Department:** Uppsala universitet, Universitetsbiblioteket, Almedalsbiblioteket
+- **Published:** 
+- **Deadline:** 2025-05-12
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>1-2 st universitetsadjunkter i radiografi med kliniska arbetsuppgifter som röntgensjuksköterska vid Akademiska sjukhuset</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804386/)
+- **Department:** Uppsala universitet, Institutionen för kirurgiska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior lecturer in medical biochemistry</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807098/)
+- **Department:** Uppsala University, Disciplinary Domain of Medicine and Pharmacy, Faculty of Medicine, Department of Medical Biochemistry and Microbiology
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Data-driven molecular medicine</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815153/)
+- **Department:** Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Molecular Biophysics with a focus on ultrafast imaging with X-ray lasers</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815268/)
+- **Department:** Uppsala University, Department of Cell and Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in experimental hadron physics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817317/)
+- **Department:** Uppsala University, Department of Physics and Astronomy
+- **Published:** 
+- **Deadline:** 2025-06-09
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Microbiology – Giardia’s interaction with host cells</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817494/)
+- **Department:** Uppsala University, Department of Cell and Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent inom området mental hälsa</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818475/)
+- **Department:** Uppsala universitet, Institutionen för kvinnors och barns hälsa
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Data-Driven Oncology</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818519/)
+- **Department:** Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computerized Image Processing with focus on Data-driven Cell and Molecular Biology in Breast Cancer</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818613/)
+- **Department:** Uppsala University, Department of Information Technology
+- **Published:** 
+- **Deadline:** 2025-05-12
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i religionshistoria och global kristendom</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818854/)
+- **Department:** Uppsala universitet, Teologiska institutionen
+- **Published:** 
+- **Deadline:** 2025-05-13
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Forskningsassistent i preventiv psykiatri</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813753/)
 - **Department:** Uppsala universitet, Institutionen för medicinska vetenskaper
+- **Published:** 
+- **Deadline:** 2025-05-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i kyrkohistoria och missionshistoria</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818784/)
+- **Department:** Uppsala universitet, Teologiska institutionen
 - **Published:** 
 - **Deadline:** 2025-05-13
 
@@ -901,22 +1061,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in the synthesis of covalent-organic frameworks for flexible X-ray detectors</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810963/)
-- **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Machine Learning for Accelerated Electrolyte Modeling and Design</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810847/)
 - **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
 - **Published:** 
-- **Deadline:** 2025-04-24
+- **Deadline:** 2025-05-08
 
 </div>
 

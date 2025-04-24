@@ -1,5 +1,5 @@
 # Södertörn University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 2</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Research Fellow in Social Science at CBEES</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=8736)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-22
 
 </div>
 

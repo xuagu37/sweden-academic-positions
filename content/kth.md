@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 47</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 46</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,30 +21,10 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Theoretical Condensed Matter Physics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student nanoscale characterisastion</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/815101?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in digital solutions for sustainable building technology</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
 
@@ -385,6 +365,16 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/799597?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in digital solutions for sustainable building technology</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-16
 

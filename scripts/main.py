@@ -196,7 +196,7 @@ def main():
         add_search_and_filter(Path(uni["processed_md"]))
         add_position_count(uni["processed_md"]) 
 
-    update_index_date()
+    update_index_date(path="content/index.md")
     print("\nAll universities processed successfully!")
     
     merge_job_markdowns("raw_md", "raw_md/current_positions.md")

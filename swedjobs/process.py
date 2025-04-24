@@ -350,3 +350,4 @@ def merge_job_markdowns(input_dir: str, output_path: str):
 
     output_path.write_text("\n\n".join(merged), encoding="utf-8")
     print(f"Merged into {output_path.name}, skipping self-reference.")
+    

@@ -1,20 +1,8 @@
 # KTH
 
-### Doctoral student in Theoretical Condensed Matter Physics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/797221?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-23
-
 ### Doctoral student nanoscale characterisastion
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/815101?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-24
-
-### Doctoral student in digital solutions for sustainable building technology
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
 - **Published:** 
 - **Deadline:** Application deadline:2025-04-24
 
@@ -219,6 +207,12 @@
 ### Postdoc in 3D Printing Electronic MicroRobots using nanowire composites
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/799597?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-16
+
+### Doctoral student in digital solutions for sustainable building technology
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805122?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-16
 

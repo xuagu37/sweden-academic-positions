@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 36</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -40,16 +40,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Theology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>System developer</h3>
 
@@ -61,19 +51,29 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Environmental Science</h3>
+<h3>Professor of Theology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-04-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science, focus on Infectious Medicine/Epidemiology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
+- **Department:** Department of Clinical Microbiology
 - **Published:** 
 - **Deadline:** 2025-04-30
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Ecology</h3>
+<h3>Associate professor in Environmental Science</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
 - **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
@@ -100,11 +100,11 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Medical Science, focus on Infectious Medicine/Epidemiology</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in Ecology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
-- **Department:** Department of Clinical Microbiology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -160,16 +160,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Curator of exhibitions at Bildmuseet</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics</h3>
 
@@ -180,13 +170,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position (2 years) in Medical Science</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Curator of exhibitions at Bildmuseet</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
-- **Department:** Department of Molecular Biology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
+- **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-07
+- **Deadline:** 2025-05-05
 
 </div>
 
@@ -194,6 +184,16 @@
 <h3>Staffscientist in Antimicrobial Discovery</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position (2 years) in Medical Science</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
 - **Deadline:** 2025-05-07
@@ -290,20 +290,30 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist at CIRC (Climate Impacts Research Centre)</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
-- **Department:** Department of Computing Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-at-circ-climate-impacts-research-centre_818284/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
-- **Deadline:** 2025-05-16
+- **Deadline:** 2025-05-15
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
+<h3>PhD student in Computing Science with focus on Visual Language Grounding</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-visual-language-grounding_820240/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-05-16
@@ -321,12 +331,42 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in Chemistry, in biochemistry on the microalgal cell wall</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-in-biochemistry-on-the-microalgal-cell-wall_811800/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in computational biology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-computational-biology_818929/)
+- **Department:** Department of Molecularbiology
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Mathematics Focusing on the Analysis of Partial Differential Equations</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-mathematics-focusing-on-the-analysis-of-partial-differential-equations_819213/)
+- **Department:** Department of Mathematics and Mathematical Statistics
+- **Published:** 
+- **Deadline:** 2025-05-30
 
 </div>
 

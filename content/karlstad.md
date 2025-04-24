@@ -21,16 +21,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Utbildningshandläggare, vikariat 100 %</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:813022/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 23.Apr.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Nordisk gästforskare i socialt arbete till FoU Välfärd Värmland</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:801169/iframeEmbedded:0/where:4)
@@ -117,6 +107,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 18.May.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Engelsk titel</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:808988/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 20.May.2025
 </div></div>
 
 <script>

@@ -1,5 +1,17 @@
 # Linköping University
 
+### Senior Associate Professor in Construction Engineering
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26549)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+### Associate Professor in Construction Engineering at the Department of Science and Technology
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26631)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
+
 ### Postdoc in the field of Materials Science and Engineering
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
 - **Department:** 
@@ -173,16 +185,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-24
-
-### Postdoc in cybersecurity didactics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26347)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-### PhD student in Applied Physics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26428)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
 

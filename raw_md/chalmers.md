@@ -1,5 +1,23 @@
 # Chalmers University of Technology
 
+### Postdoctor in Spectral theory of differential operators
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13904)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Advancement Officer – Prospect Analytics & CRM Development
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13859)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
+
+### Advancement Officer, Major Gifts – Chalmers
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13831)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-05
+
 ### PhD in Sensor-assisted Water Quality Monitoring
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13876)
 - **Department:** 
@@ -180,12 +198,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-18
 
-### Advancement Officer – Prospect Analytics & CRM Development
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13859)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
 ### Antagningshandläggare - 2 tjänster
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13855)
 - **Department:** 
@@ -210,12 +222,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Advancement Officer, Major Gifts – Chalmers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13831)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
 ### PhD Position in Computational Astrobiology and Quantum Chemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13832)
 - **Department:** 
@@ -233,12 +239,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-### Postdoc on distributed ISAC
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13829)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
 
 ### Two PhD student positions in High Performance Computing
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13823)

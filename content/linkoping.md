@@ -20,6 +20,26 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Associate Professor in Construction Engineering</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26549)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Construction Engineering at the Department of Science and Technology</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26631)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the field of Materials Science and Engineering</h3>
 
@@ -307,26 +327,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in cybersecurity didactics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26347)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Applied Physics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26428)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
 </div></div>
 
 <script>

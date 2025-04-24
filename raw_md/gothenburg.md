@@ -96,12 +96,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-06
 
-### Doctoral student in sociology within the research project "Blind Justice"
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37242)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-19
-
 ### Lecturer in craft specializing in Crafting Futures to HDK-Valand Campus Steneby
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37230)
 - **Department:** 
@@ -113,6 +107,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
+
+### Doctoral student in sociology within the research project "Blind Justice"
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37242)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-19
 
 ### Doctoral student in Medical Science - Bioinformatician, neurovascular disease
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37167)
@@ -138,8 +138,8 @@
 - **Published:** 
 - **Deadline:** 2025-05-08
 
-### Postdoctor in Mitochondrial Quality Control
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37159)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -150,17 +150,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37159)
+### Postdoctor in Mitochondrial Quality Control
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
 
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
@@ -170,6 +164,12 @@
 
 ### Lecturer in Design with specialisation Embedded Design at HDK-Valand
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37166)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-27
+
+### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-27
@@ -192,20 +192,14 @@
 - **Published:** 
 - **Deadline:** 2025-04-24
 
-### University lecturer in nursing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37095)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-### Postdoctor in Systems Biology of Cardiometabolic Diseases
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
+### Associate Researcher in Bioinformatics or Data Science
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Associate Researcher in Bioinformatics or Data Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
+### Postdoctor in Systems Biology of Cardiometabolic Diseases
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -221,12 +215,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-23
-
-### Postdoctor in Epigenetics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
 
 ### 2-3 PhD students in Economic History
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37043)

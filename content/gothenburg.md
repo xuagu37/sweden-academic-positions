@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 44</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 42</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -180,16 +180,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in sociology within the research project "Blind Justice"</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37242)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-19
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Lecturer in craft specializing in Crafting Futures to HDK-Valand Campus Steneby</h3>
 
@@ -207,6 +197,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in sociology within the research project "Blind Justice"</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37242)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-19
 
 </div>
 
@@ -251,9 +251,9 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Mitochondrial Quality Control</h3>
+<h3>Researcher</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37159)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -271,22 +271,12 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
+<h3>Postdoctor in Mitochondrial Quality Control</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37159)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
 
 </div>
 
@@ -304,6 +294,16 @@
 <h3>Lecturer in Design with specialisation Embedded Design at HDK-Valand</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37166)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-27
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-27
@@ -340,20 +340,10 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>University lecturer in nursing</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37095)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Systems Biology of Cardiometabolic Diseases</h3>
+<h3>Associate Researcher in Bioinformatics or Data Science</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -361,9 +351,9 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate Researcher in Bioinformatics or Data Science</h3>
+<h3>Postdoctor in Systems Biology of Cardiometabolic Diseases</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37099)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37090)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -387,16 +377,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-23
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Epigenetics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37033)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-23
 
 </div>
 
