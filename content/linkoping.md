@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 31</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -47,6 +47,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26453)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
 
 </div>
 
@@ -147,6 +157,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Biomedical Engineering Sciences</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26750)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-18
 
 </div>
 
@@ -317,16 +337,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Applied Physics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26552)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-24
 </div></div>
 
 <script>

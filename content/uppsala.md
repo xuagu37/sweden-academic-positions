@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 123</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 129</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,6 +20,46 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Sex amanuenser till Matematiska institutionen</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820065/)
+- **Department:** Uppsala universitet, Matematiska institutionen
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorand i medicinsk cellbiologi</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820620/)
+- **Department:** Uppsala universitet, Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för medicinsk cellbiologi
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher, NGI Uppsala, SNP&SEQ Technology Platform</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:821421/)
+- **Department:** Uppsala University,  Department of Medical Sciences
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskare IBF</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804915/)
+- **Department:** Uppsala universitet, Institutet för bostads- och urbanforskning (IBF)
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position in time dependent density functional theory</h3>
 
@@ -27,6 +67,26 @@
 - **Department:** Uppsala University, Department of Physics and Astronomy
 - **Published:** 
 - **Deadline:** 2025-05-22
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i Farmakokinetik, vikariat</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816096/)
+- **Department:** Uppsala universitet, Farmaceutiska fakulteten, Institutionen för farmaci
+- **Published:** 
+- **Deadline:** 2025-05-09
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskare i psykologi</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816609/)
+- **Department:** Uppsala universitet, Institutionen för psykologi
+- **Published:** 
+- **Deadline:** 2025-05-12
 
 </div>
 
@@ -50,6 +110,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Tentamensplatsansvarig</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819011/)
+- **Department:** Uppsala universitet,  Byggnadsavdelningen
+- **Published:** 
+- **Deadline:** 2025-05-08
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in Population Genomics</h3>
 
@@ -61,12 +131,32 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Biblioteksassistent till Campus Gotland sommaren 2025</h3>
+<h3>Doktorand i genetiken</h3>
 
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820341/)
-- **Department:** Uppsala universitet, Universitetsbiblioteket, Almedalsbiblioteket
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820059/)
+- **Department:** Institutionen för immunologi, genetik och patologi
 - **Published:** 
-- **Deadline:** 2025-05-12
+- **Deadline:** 2025-05-06
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior lecturer in Pharmacokinetics</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820581/)
+- **Department:** Uppsala University, Department of Pharmacy, PKPD
+- **Published:** 
+- **Deadline:** 2025-05-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Natural Hazards with a focus on Landslide Prediction</h3>
+
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820897/)
+- **Department:** Uppsala University, Department of Earth Sciences
+- **Published:** 
+- **Deadline:** 2025-05-16
 
 </div>
 
@@ -376,7 +466,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817907/)
 - **Department:** Uppsala universitet, Juridiska institutionen
 - **Published:** 
-- **Deadline:** 2025-04-28
+- **Deadline:** 2025-05-05
 
 </div>
 
@@ -721,16 +811,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kommunikatör</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815499/)
-- **Department:** Uppsala universitet, Nationellt centrum för kvinnofrid (NCK)
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Sommarjobb vaktmästeriet Ångströmlaboratoriet</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816201/)
@@ -907,16 +987,6 @@
 - **Department:** Uppsala University, Department of Medical Biochemistry and Microbiology
 - **Published:** 
 - **Deadline:** 2025-05-28
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsingenjör</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813664/)
-- **Department:** Uppsala universitet, Institutionen för kemi - BMC
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 </div>
 
@@ -1127,16 +1197,6 @@
 - **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
 - **Published:** 
 - **Deadline:** 2025-04-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students (1-2) in Physical Chemistry with a focus on photocatalysis</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807271/)
-- **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 </div>
 

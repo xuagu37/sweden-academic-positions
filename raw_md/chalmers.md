@@ -1,5 +1,53 @@
 # Chalmers University of Technology
 
+### PhD student position in Biomedical Radar for Fall Risk Prediction
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13912)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Postdoc position logistics impacts of right-to-repair
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13910)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-25
+
+### PhD position in Graph Modification
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13908)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Postdoc positions in III-nitride Photonic-crystal surface-emitting lasers
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13907)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Postdoc in Nanofluics-Integrated Microcavities for Photochemistry
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13906)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Postdoc in Safe, interpretable, learning-based motion planning and control
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13909)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-15
+
+### PhD student for preparing road infrastructure for future mobility
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13804)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-04
+
+### PhD student position in Hydrogen-Powered Combustion Engines
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
 ### Postdoctor in Spectral theory of differential operators
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13904)
 - **Department:** 
@@ -263,12 +311,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### PhD student in dynamic sustainability assessment of circular batteries
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13828)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 ### PhD position in Signal processing for airborne multi-static radar systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13817)

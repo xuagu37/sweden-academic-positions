@@ -1,10 +1,46 @@
 # Uppsala University
 
+### Sex amanuenser till Matematiska institutionen
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820065/)
+- **Department:** Uppsala universitet, Matematiska institutionen
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Doktorand i medicinsk cellbiologi
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820620/)
+- **Department:** Uppsala universitet, Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för medicinsk cellbiologi
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### Postdoctoral Researcher, NGI Uppsala, SNP&SEQ Technology Platform
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:821421/)
+- **Department:** Uppsala University,  Department of Medical Sciences
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### Forskare IBF
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804915/)
+- **Department:** Uppsala universitet, Institutet för bostads- och urbanforskning (IBF)
+- **Published:** 
+- **Deadline:** 2025-05-08
+
 ### Postdoctoral position in time dependent density functional theory
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815969/)
 - **Department:** Uppsala University, Department of Physics and Astronomy
 - **Published:** 
 - **Deadline:** 2025-05-22
+
+### Universitetsadjunkt i Farmakokinetik, vikariat
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816096/)
+- **Department:** Uppsala universitet, Farmaceutiska fakulteten, Institutionen för farmaci
+- **Published:** 
+- **Deadline:** 2025-05-09
+
+### Forskare i psykologi
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816609/)
+- **Department:** Uppsala universitet, Institutionen för psykologi
+- **Published:** 
+- **Deadline:** 2025-05-12
 
 ### Postdoctoral position in developmental cognitive neuroscience
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816620/)
@@ -18,17 +54,35 @@
 - **Published:** 
 - **Deadline:** 2025-05-07
 
+### Tentamensplatsansvarig
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819011/)
+- **Department:** Uppsala universitet,  Byggnadsavdelningen
+- **Published:** 
+- **Deadline:** 2025-05-08
+
 ### Postdoctoral Researcher in Population Genomics
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:819313/)
 - **Department:** Uppsala University, Department of Organismal Biology
 - **Published:** 
 - **Deadline:** 2025-05-20
 
-### Biblioteksassistent till Campus Gotland sommaren 2025
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820341/)
-- **Department:** Uppsala universitet, Universitetsbiblioteket, Almedalsbiblioteket
+### Doktorand i genetiken
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820059/)
+- **Department:** Institutionen för immunologi, genetik och patologi
 - **Published:** 
-- **Deadline:** 2025-05-12
+- **Deadline:** 2025-05-06
+
+### Senior lecturer in Pharmacokinetics
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820581/)
+- **Department:** Uppsala University, Department of Pharmacy, PKPD
+- **Published:** 
+- **Deadline:** 2025-05-09
+
+### Postdoctoral position in Natural Hazards with a focus on Landslide Prediction
+- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:820897/)
+- **Department:** Uppsala University, Department of Earth Sciences
+- **Published:** 
+- **Deadline:** 2025-05-16
 
 ### 1-2 st universitetsadjunkter i radiografi med kliniska arbetsuppgifter som röntgensjuksköterska vid Akademiska sjukhuset
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:804386/)
@@ -214,7 +268,7 @@
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817907/)
 - **Department:** Uppsala universitet, Juridiska institutionen
 - **Published:** 
-- **Deadline:** 2025-04-28
+- **Deadline:** 2025-05-05
 
 ### Forskningsingenjör Myfab Uppsala
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:818190/)
@@ -420,12 +474,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-28
 
-### Kommunikatör
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815499/)
-- **Department:** Uppsala universitet, Nationellt centrum för kvinnofrid (NCK)
-- **Published:** 
-- **Deadline:** 2025-04-24
-
 ### Sommarjobb vaktmästeriet Ångströmlaboratoriet
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816201/)
 - **Department:** Uppsala universitet, Intendenturorganisationen, Ångströmlaboratoriet
@@ -533,12 +581,6 @@
 - **Department:** Uppsala University, Department of Medical Biochemistry and Microbiology
 - **Published:** 
 - **Deadline:** 2025-05-28
-
-### Forskningsingenjör
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813664/)
-- **Department:** Uppsala universitet, Institutionen för kemi - BMC
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 ### Amanuens i informationssystem
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814345/)
@@ -665,12 +707,6 @@
 - **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
 - **Published:** 
 - **Deadline:** 2025-04-27
-
-### PhD students (1-2) in Physical Chemistry with a focus on photocatalysis
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807271/)
-- **Department:** Uppsala University, Department of Chemistry - Ångström Laboratory
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 ### Assistant Professor in Next Generation Wireless Communications
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:775412/)

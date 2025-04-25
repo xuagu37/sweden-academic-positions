@@ -18,6 +18,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-10
 
+### Research engineer
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26453)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
 ### Postdoc in the field of Materials Science and Engineering
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
 - **Department:** 
@@ -77,6 +83,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
+
+### PhD student in Biomedical Engineering Sciences
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26750)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-18
 
 ### Senior Lecturer in Ethnicity and Migration, at least one
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26602)
@@ -179,10 +191,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### PhD student in Applied Physics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26552)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-24
 

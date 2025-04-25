@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 46</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 45</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student nanoscale characterisastion</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/815101?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-24
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Quantum Information Theory and Processing</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/787546?l=en)
-- **Department:** School of Computer Science and Communication at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-24
 
 </div>
 
@@ -137,16 +117,6 @@
 - **Department:** School of Engineering Sciences at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in electrocatalytic hydrogenation of bio-aldehydes</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814622?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-05
 
 </div>
 
@@ -301,6 +271,16 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in electrocatalytic hydrogenation of bio-aldehydes</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814622?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-12
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD in Generative Modeling for Super Resolution of Brain Imaging</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814088?l=en)
@@ -357,6 +337,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in enhanced sampling in molecular dynamics simulations.</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821925?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-16
 
 </div>
 

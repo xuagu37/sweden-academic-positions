@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 47</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 40</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,86 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Colloidal Lignin Materials Chemistry</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806233/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Paper-based Diagnostics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806318/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Drug Nanocarriers</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806369/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sustainable organic bioelectronics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806669/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Analytical chemistry for point-of-care diagnostics of NTDs</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806624/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Luminescent Nanoprobes for in vivo bioimaging</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806386/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Materials Chemistry with focus on Organic Waste Valorization</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806404/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Organic Chemistry in Lignin Chemistry</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806409/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-04-24
 
 </div>
 
@@ -141,9 +61,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Atomic Physics: Theoretical studies of reactive charge transfer processes</h3>
+<h3>PhD student in Atomic Physics:  Experimental studies of reactive charge transfer processes for complex molecules</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807044/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807074/where:4/)
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-29
@@ -161,12 +81,32 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Atomic Physics:  Experimental studies of reactive charge transfer processes for complex molecules</h3>
+<h3>PhD student in Atomic Physics: Theoretical studies of reactive charge transfer processes</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807074/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807044/where:4/)
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-04-29
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Atmospheric Sciences or Oceanography</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
+- **Department:** Department of Meteorology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-04-30
 
 </div>
 
@@ -174,16 +114,6 @@
 <h3>Postdoctoral Fellow in Bioinformatics</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:799937/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff Scientist in In Situ Sequencing</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:814312/where:4/)
 - **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
@@ -200,21 +130,11 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in In Situ Sequencing</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Atmospheric Sciences or Oceanography</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796961/where:4/)
-- **Department:** Department of Meteorology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:814312/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -230,16 +150,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher within drug development</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815174/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research Assistant</h3>
 
@@ -250,13 +160,13 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Evolution of Seasonal Camouflage</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher within drug development</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
-- **Department:** Department of Zoology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815174/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
-- **Deadline:** 2025-05-04
+- **Deadline:** 2025-05-02
 
 </div>
 
@@ -265,6 +175,16 @@
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813107/where:4/)
 - **Department:** Department of Physical Geography
+- **Published:** 
+- **Deadline:** 2025-05-04
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Evolution of Seasonal Camouflage</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-05-04
 
@@ -340,36 +260,6 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in Environmental science</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Observational Oceanography with Machine Learning applications</h3>
 
@@ -420,6 +310,36 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer in Environmental science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in Materials Chemistry with focus on organic materials</h3>
 
@@ -437,6 +357,16 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-18
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Transmission Electron Microscopy</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:820458/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-05-22
 
 </div>
 

@@ -72,6 +72,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-20
 
+### Summer student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9073)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
 ### ​​Professor/Head of Subject of Cyber-Physical Systems​
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8922)
 - **Department:** 

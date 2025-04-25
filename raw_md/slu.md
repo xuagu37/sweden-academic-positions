@@ -1,5 +1,35 @@
 # Swedish University of Agricultural Sciences
 
+### Professor in terrestrial ecosystem ecology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12837)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+### Professor in landscape ecology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12836)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+### Research Assistant for Spinning Artificial Spider Silk
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12784)
+- **Department:** Faculty of Veterinary Medicine and Animal Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Researcher in aquatic microbial ecology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12826)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-05-11
+
+### Senior Lecturer (Associate Professor) in landscape architecture with a focus on aesthetic qualities and design of vegetation
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12841)
+- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
+- **Published:** 
+- **Deadline:** 2025-06-24
+
 ### Fältassistent
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12790)
 - **Department:** Faculty of Natural Resources and Agricultural Scie
