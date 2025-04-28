@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 129</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 117</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -541,16 +541,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Ekonom</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:802673/)
-- **Department:** Uppsala universitet, Institutionen för fysik och astronomi
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Teaching assistants 20%</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814568/)
@@ -791,16 +781,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskare med inriktning mot populationsgenetik</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817592/)
-- **Department:** Uppsala universitet, Institutionen för organismbiologi
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Universitetslektor i svenska som andraspråk</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813166/)
@@ -860,16 +840,6 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer in Bioinformatics</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814889/)
-- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Project Coordinator at ReAct – Action on antibiotic Resistance</h3>
 
@@ -877,16 +847,6 @@
 - **Department:** Uppsala University, Department of Medical Sciences
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektassistent</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815941/)
-- **Department:** Uppsala universitet, Institutionen för ekologi och genetik
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 </div>
 
@@ -940,16 +900,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kursadministratör</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815135/)
-- **Department:** Uppsala universitet, Statsvetenskapliga institutionen
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in data-driven battery research</h3>
 
@@ -1000,16 +950,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>1–3 Research Assistants for the Uppsala Immigration Lab and Urban Lab</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805669/)
-- **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Economics
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position in X-ray Photon Science on Energy Materials</h3>
 
@@ -1037,16 +977,6 @@
 - **Department:** Uppsala University, Department of Linguistics and Philology
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Internationell handläggare</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811107/)
-- **Department:** Uppsala universitet, Avdelningen för internationalisering
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 </div>
 
@@ -1141,16 +1071,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Wireless Communication and Security</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810861/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Materials Physics</h3>
 
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811719/)
@@ -1180,26 +1100,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in physical geography with focus on the future of the Greenland Ice Sheet</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807983/)
-- **Department:** Uppsala University, Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Chemistry with a Specialization in Organic Chemistry</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805052/)
-- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-27
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in Next Generation Wireless Communications</h3>
 
@@ -1207,16 +1107,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemistry with specialization in Analytical Chemistry</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805054/)
-- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 </div>
 
@@ -1237,16 +1127,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>1:e Forskningsingenjör Myfab Uppsala</h3>
-
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806090/)
-- **Department:** Institutionen för materialvetenskap
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 </div>
 

@@ -168,12 +168,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### PhD Position: Metallic materials for green hydrogen production
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13813)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
-
 ### PhD position in Advanced Building Control in Sweden
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13862)
 - **Department:** 
@@ -245,12 +239,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-18
-
-### Antagningshandläggare - 2 tjänster
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13855)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 ### Postdoc in inorganic chemistry and synthesis of battery materials
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13853)
@@ -348,12 +336,6 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### 2 PhD student positions in III-nitride-based lasers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13809)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
-
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)
 - **Department:** 
@@ -365,12 +347,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-01
-
-### Postdoc - Structural Batteries from Waste-Derived Carbon Fibers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13774)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
 
 ### Assistant Professor in Data-driven cell and molecular biology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13685)

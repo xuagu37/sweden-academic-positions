@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 40</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 37</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Arithmetic Geometri and Representation Theory</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810400/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Geometric Analysis</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810471/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Statistics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809849/where:4/)
-- **Department:** Department of Statistics
-- **Published:** 
-- **Deadline:** 2025-04-26
 
 </div>
 
@@ -111,20 +81,20 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Bioinformatics</h3>
+<h3>Postdoctoral Fellow in Yeast Evolutionary Genomics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:799937/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-04-30
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Yeast Evolutionary Genomics</h3>
+<h3>Postdoctoral Fellow in Bioinformatics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
-- **Department:** Department of Zoology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:799937/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -250,11 +220,11 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Analyses of Marine geophysical mapping data</h3>
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer in Environmental science</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
-- **Department:** Department of Geological Sciences
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-15
 
@@ -301,6 +271,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Analyses of Marine geophysical mapping data</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
@@ -325,16 +305,6 @@
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
 - **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in Environmental science</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
-- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-15
 

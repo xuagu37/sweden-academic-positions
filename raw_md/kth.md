@@ -1,17 +1,5 @@
 # KTH
 
-### Postdoc in CFD Simulation of heat-transfer and advanced heat-exchangers
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/809518?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-25
-
-### Doctoral student in applied and computational mathematics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/805470?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-25
-
 ### Doctoral student in Acoustofluidic 3D cell culture
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/811757?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences

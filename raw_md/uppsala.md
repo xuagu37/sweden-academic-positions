@@ -312,12 +312,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-09
 
-### Ekonom
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:802673/)
-- **Department:** Uppsala universitet, Institutionen för fysik och astronomi
-- **Published:** 
-- **Deadline:** 2025-04-25
-
 ### Teaching assistants 20%
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814568/)
 - **Department:** Uppsala University, Department of Information Technology
@@ -462,12 +456,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### Forskare med inriktning mot populationsgenetik
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:817592/)
-- **Department:** Uppsala universitet, Institutionen för organismbiologi
-- **Published:** 
-- **Deadline:** 2025-04-25
-
 ### Universitetslektor i svenska som andraspråk
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:813166/)
 - **Department:** Uppsala Universitet, Institutionen för nordiska språk
@@ -504,23 +492,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Research Engineer in Bioinformatics
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:814889/)
-- **Department:** Uppsala University, Department of Pharmaceutical Biosciences, Farmaceutisk bioinformatik
-- **Published:** 
-- **Deadline:** 2025-04-25
-
 ### Project Coordinator at ReAct – Action on antibiotic Resistance
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815093/)
 - **Department:** Uppsala University, Department of Medical Sciences
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### Projektassistent
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815941/)
-- **Department:** Uppsala universitet, Institutionen för ekologi och genetik
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 ### Junior Data Scientist/forskningsingenjör i Statistik
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:816485/)
@@ -552,12 +528,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-07
 
-### Kursadministratör
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:815135/)
-- **Department:** Uppsala universitet, Statsvetenskapliga institutionen
-- **Published:** 
-- **Deadline:** 2025-04-25
-
 ### Assistant Professor in data-driven battery research
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805085/)
 - **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Mathematics and Computer Science, Department of Information Technology
@@ -588,12 +558,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-01
 
-### 1–3 Research Assistants for the Uppsala Immigration Lab and Urban Lab
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805669/)
-- **Department:** Uppsala University, Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences, Department of Economics
-- **Published:** 
-- **Deadline:** 2025-04-25
-
 ### Postdoctoral position in X-ray Photon Science on Energy Materials
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:808573/)
 - **Department:** Uppsala University, Department of Physics and Astronomy
@@ -611,12 +575,6 @@
 - **Department:** Uppsala University, Department of Linguistics and Philology
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-### Internationell handläggare
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811107/)
-- **Department:** Uppsala universitet, Avdelningen för internationalisering
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 ### Associate Senior Lecturer in Iranian languages, Specialization in Persian
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811711/)
@@ -672,12 +630,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-08
 
-### PhD student in Wireless Communication and Security
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:810861/)
-- **Department:** Uppsala University, Department of Information Technology
-- **Published:** 
-- **Deadline:** 2025-04-25
-
 ### PhD student in Materials Physics
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:811719/)
 - **Department:** Uppsala University, Department of Physics and Astronomy
@@ -696,29 +648,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-02
 
-### PhD student in physical geography with focus on the future of the Greenland Ice Sheet
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:807983/)
-- **Department:** Uppsala University, Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-### PhD Student in Chemistry with a Specialization in Organic Chemistry
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805052/)
-- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-27
-
 ### Assistant Professor in Next Generation Wireless Communications
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:775412/)
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### PhD student in Chemistry with specialization in Analytical Chemistry
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805054/)
-- **Department:** Uppsala University, Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - BMC
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 ### Assistant Professor in Environmental Physiology
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:798370/)
@@ -731,12 +665,6 @@
 - **Department:** Uppsala University, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-### 1:e Forskningsingenjör Myfab Uppsala
-- **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:806090/)
-- **Department:** Institutionen för materialvetenskap
-- **Published:** 
-- **Deadline:** 2025-04-25
 
 ### PhD position in antenna arrays for communication and energy harvesting SATCOM applications
 - **Link:** [View job posting](https://uu.varbi.com/en/what:job/jobID:805966/)

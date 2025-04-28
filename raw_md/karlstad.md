@@ -1,11 +1,5 @@
 # Karlstad University
 
-### Nordisk gästforskare i socialt arbete till FoU Välfärd Värmland
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:801169/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 25.Apr.2025
-
 ### Doctoral student in English with a specialisation in English literature
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:795758/iframeEmbedded:0/where:4)
 - **Department:** 

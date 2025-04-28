@@ -1,5 +1,11 @@
 # Gothenburg University
 
+### Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37337)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-19
+
 ### Research assistant for AI-project/digital pathology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37227)
 - **Department:** 
@@ -48,12 +54,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-23
 
-### Project assistant
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
-
 ### Postdoctor in single-cell Genomics of Human Development
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37231)
 - **Department:** 
@@ -78,26 +78,32 @@
 - **Published:** 
 - **Deadline:** 2025-05-06
 
-### Associate Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37287)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
-
 ### Research assistant/pre-doc to the department of economics (50%)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
 
-### Doctoral student in Medical Science - Gut mucosal microbiome
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37222)
+### Associate Researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37287)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
 
+### Project assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
 ### Researcher position in advanced BLS microscopy
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37208)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-06
+
+### Doctoral student in Medical Science - Gut mucosal microbiome
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37222)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
@@ -144,6 +150,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-08
 
+### Postdoctor in Mitochondrial Quality Control
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-04-29
+
 ### Postdoctor in Mitochondrial Biogenesis
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37126)
 - **Department:** 
@@ -156,29 +168,11 @@
 - **Published:** 
 - **Deadline:** 2025-04-29
 
-### Postdoctor in Mitochondrial Quality Control
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37128)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-29
-
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-28
-
-### Lecturer in Design with specialisation Embedded Design at HDK-Valand
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37166)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
-
-### Lecturer in musical performance with specialisation in interpretation – choral music and choir conducting
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37137)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
 
 ### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)
@@ -221,12 +215,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-### Postdoctoral Position in Tropical tree ecology/ecophysiology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36991)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-27
 
 ### Senior Lecturer in Mathematics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)

@@ -1,23 +1,5 @@
 # Stockholm University
 
-### Postdoctoral Fellow in Arithmetic Geometri and Representation Theory
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810400/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-### Postdoctoral Fellow in Geometric Analysis
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810471/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-04-25
-
-### PhD student in Statistics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809849/where:4/)
-- **Department:** Department of Statistics
-- **Published:** 
-- **Deadline:** 2025-04-26
-
 ### PhD student in Atomic Physics: Experimental studies of reactive charge transfer processes for small molecules
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807072/where:4/)
 - **Department:** Department of Physics
@@ -54,15 +36,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Postdoctoral Fellow in Bioinformatics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:799937/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Postdoctoral Fellow in Yeast Evolutionary Genomics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
 - **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Postdoctoral Fellow in Bioinformatics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:799937/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -138,9 +120,9 @@
 - **Published:** 
 - **Deadline:** 2025-05-14
 
-### Postdoctoral Fellow in Analyses of Marine geophysical mapping data
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
-- **Department:** Department of Geological Sciences
+### Research engineer in Environmental science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-15
 
@@ -168,6 +150,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
+### Postdoctoral Fellow in Analyses of Marine geophysical mapping data
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
 ### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
 - **Department:** Department of Geological Sciences
@@ -183,12 +171,6 @@
 ### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
 - **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Research engineer in Environmental science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
-- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-15
 
