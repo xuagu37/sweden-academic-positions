@@ -36,23 +36,11 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-01
 
-### Doctoral student(Lic) in renewable energy integrations in buildings
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814005?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-01
-
 ### Postdoc in Nuclear Power Safety
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
 - **Department:** School of Engineering Sciences at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-02
-
-### Doctoral student in applied and computational mathematics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804218?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-05
 
 ### Communication and Computing for XR sensor fusion
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/816919?l=en)
@@ -180,12 +168,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-15
 
-### Postdoc in enhanced sampling in molecular dynamics simulations.
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821925?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-16
-
 ### Postdoc in 3D Printing Electronic MicroRobots using nanowire composites
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/799597?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
@@ -210,6 +192,18 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-19
 
+### Doctoral student in applied and computational mathematics
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804218?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-19
+
+### Doctoral student(Lic) in renewable energy integrations in buildings
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814005?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-20
+
 ### Associate Professor in Advanced Light Microscopy
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/788186?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
@@ -221,6 +215,18 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+### Postdoc in lens antennas
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821995?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-23
+
+### Research Engineer in Microarchitectural Security
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/822237?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-25
 
 ### Research Engineer in Machine Learning
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/819288?l=en)
@@ -245,6 +251,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-28
+
+### Postdoc in enhanced sampling in molecular dynamics simulations.
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821925?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-02
 
 ### Doctoral student in Construction Calculation
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/800433?l=en)

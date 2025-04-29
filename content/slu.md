@@ -1,5 +1,5 @@
 # Swedish University of Agricultural Sciences
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 27</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 19</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor (full tenure) in silviculture with focus on silvicultural systems</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12044)
+- **Department:** Faculty of Forest Sciences
+- **Published:** 
+- **Deadline:** 2025-06-12
 
 </div>
 
@@ -197,96 +207,6 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior lecturer/Associate professor* in microbial ecology of limnic systems</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12507)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate senior lecturer/Assistant professor* in Porcine medicine</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12290)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor (full tenure) in silviculture with focus on silvicultural systems</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12044)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-29
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of One Health with focus on food production from healthy animals in circular systems</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12042)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of One Health with focus on Comparative Medicine</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12046)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of One Health with focus on Antimicrobial resistance (AMR)</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12052)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of molecular animal genetics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=11924)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Animal Genetics with special emphasis on breeding</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=11919)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Bioinformatics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=11930)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
 </div></div>
 
 <script>

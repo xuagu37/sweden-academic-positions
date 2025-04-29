@@ -20,16 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor/Head of Subject of Construction Management and Building Technology</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8855)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Ph.D. Position in ‘Valorization of Industrial Waste Streams for Sustainable Metal Recovery in a Circular Economy’.</h3>
 
@@ -157,6 +147,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Cyber-physical systems</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
 </div></div>
 
 <script>

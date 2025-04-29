@@ -54,6 +54,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-26
 
+### PhD student in Multiagent Automatic Control
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
 ### PhD student in Wireless Communications and Computer Vision
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
 - **Department:** 
@@ -77,6 +83,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+### Postdoc in Organic electro chemistry
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26651)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
 
 ### PhD student in Theoretical Physics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26661)

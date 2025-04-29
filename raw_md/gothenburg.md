@@ -1,5 +1,11 @@
 # Gothenburg University
 
+### Resarcher in organic chemistry
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37302)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
 ### Researcher
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37337)
 - **Department:** 
@@ -54,6 +60,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-23
 
+### Project assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
 ### Postdoctor in single-cell Genomics of Human Development
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37231)
 - **Department:** 
@@ -89,12 +101,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-### Project assistant
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
 
 ### Researcher position in advanced BLS microscopy
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37208)
@@ -167,12 +173,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
 
 ### Doctoral student in Physics (with focus on machine learning and bone microscopy analysis, Soft Matter Lab)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37141)

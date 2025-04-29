@@ -1,23 +1,5 @@
 # Umeå University
 
-### System developer
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/system-developer_808781/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor of Theology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-theology_801883/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Associate professor in Environmental Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Associate professor in Ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
 - **Department:** Department of Ecology and Environmental Science
@@ -39,6 +21,12 @@
 ### PhD student in Medical Science, focus on Infectious Medicine/Epidemiology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
 - **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Associate professor in Environmental Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
+- **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -72,26 +60,26 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### Curator of exhibitions at Bildmuseet
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
 ### The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
 - **Department:** Department of Ecology and Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### Postdoctoral position (2 years) in Medical Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
+### Curator of exhibitions at Bildmuseet
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+### Staffscientist in Antimicrobial Discovery
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
 - **Deadline:** 2025-05-07
 
-### Staffscientist in Antimicrobial Discovery
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
+### Postdoctoral position (2 years) in Medical Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
 - **Deadline:** 2025-05-07
@@ -150,15 +138,15 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### PhD student in Computing Science with focus on Visual Language Grounding
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-visual-language-grounding_820240/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-05-15
-
 ### Staff Scientist at CIRC (Climate Impacts Research Centre)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-at-circ-climate-impacts-research-centre_818284/)
 - **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD student in Computing Science with focus on Visual Language Grounding
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-visual-language-grounding_820240/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-05-15
 
@@ -185,6 +173,12 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-20
+
+### Three PhD positions in Space Physics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/three-phd-positions-in-space-physics_822102/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-05-23
 
 ### Associate professor in computational biology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-computational-biology_818929/)

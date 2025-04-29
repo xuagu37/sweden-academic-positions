@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -37,6 +37,16 @@
 - **Department:** Faculty of culture and society  / School of Arts and Communication
 - **Published:** 28 April 2025
 - **Deadline:** 12 May 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant for the FORTE project</h3>
+
+- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4015)
+- **Department:** Faculty of culture and society  / Department of Global Political Studies
+- **Published:** 28 April 2025
+- **Deadline:** 20 May 2025
 
 </div>
 

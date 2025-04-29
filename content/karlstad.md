@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in English with a specialisation in English literature</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:795758/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 28.Apr.2025
 
 </div>
 

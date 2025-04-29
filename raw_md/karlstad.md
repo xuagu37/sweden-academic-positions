@@ -1,11 +1,5 @@
 # Karlstad University
 
-### Doctoral student in English with a specialisation in English literature
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:795758/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 28.Apr.2025
-
 ### Doktorand i biologi med avslutning licentiatexamen
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:804400/iframeEmbedded:0/where:4)
 - **Department:** 

@@ -1,11 +1,5 @@
 # Luleå University
 
-### Professor/Head of Subject of Construction Management and Building Technology
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8855)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
-
 ### Ph.D. Position in ‘Valorization of Industrial Waste Streams for Sustainable Metal Recovery in a Circular Economy’.
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8996)
 - **Department:** 
@@ -83,4 +77,10 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
+
+### PhD Student in Cyber-physical systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
 

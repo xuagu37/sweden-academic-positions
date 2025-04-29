@@ -1,5 +1,5 @@
 # Gävle University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: -1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,18 +16,7 @@
 </div>
 
 <div id="jobList">
-<div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
 </div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral (PhD) student in caring sciences</h3>
-
-- **Link:** [View job posting](https://hogskolanigavle.varbi.com/en/what:job/jobID:810213/type:job/where:4/apply:1)
-- **Department:** 
-- **Published:** 2025-03-24
-- **Deadline:** 2025-04-28
-</div></div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

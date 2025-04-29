@@ -30,15 +30,15 @@
 - **Published:** 
 - **Deadline:** 2025-04-30
 
-### Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Postdoctoral Fellow in Yeast Evolutionary Genomics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
 - **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+### Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -201,6 +201,12 @@
 ### PhD student (DDLS ) in Environmental RNA biology
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
 - **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+### Researcher in Epidemic modelling and statistical inference
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-05-26
 

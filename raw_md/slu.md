@@ -1,5 +1,11 @@
 # Swedish University of Agricultural Sciences
 
+### Professor (full tenure) in silviculture with focus on silvicultural systems
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12044)
+- **Department:** Faculty of Forest Sciences
+- **Published:** 
+- **Deadline:** 2025-06-12
+
 ### Postdoctoral position in genomics and plant breeding of perennial crops
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12741)
 - **Department:** Faculty of Natural Resources and Agricultural Scie
@@ -107,58 +113,4 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-04-30
-
-### Senior lecturer/Associate professor* in microbial ecology of limnic systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12507)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Associate senior lecturer/Assistant professor* in Porcine medicine
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12290)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor (full tenure) in silviculture with focus on silvicultural systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12044)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-04-29
-
-### Professor of One Health with focus on food production from healthy animals in circular systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12042)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor of One Health with focus on Comparative Medicine
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12046)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor of One Health with focus on Antimicrobial resistance (AMR)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12052)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor of molecular animal genetics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=11924)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor of Animal Genetics with special emphasis on breeding
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=11919)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
-
-### Professor of Bioinformatics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=11930)
-- **Department:** Faculty of Veterinary Medicine and Animal Science
-- **Published:** 
-- **Deadline:** 2025-04-28
 

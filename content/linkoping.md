@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 34</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -111,6 +111,16 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Multiagent Automatic Control</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Wireless Communications and Computer Vision</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
@@ -147,6 +157,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Organic electro chemistry</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26651)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
 
 </div>
 

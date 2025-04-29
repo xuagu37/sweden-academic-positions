@@ -1,5 +1,41 @@
 # Chalmers University of Technology
 
+### PhD student position in Formal Verification of Autonomous Cyber-Physical Systems
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=12785)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+### Vill du dela med dig av din utbildning och ditt studentliv på Chalmers? Just nu letar vi efter digitala ambassadörer för vår TikTok-kanal
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13921)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD student in environmental and resource assessment of batteries
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13917)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+### Postdoc position in development of binder for future battery applications
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13464)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-01
+
+### Postdoc in Nanocellulose Composites and Hydrogels for Wearable Electronics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13913)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+### PhD student position in Control and Stability of Power System with High Penetration of Renewables
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13915)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
+
 ### PhD student position in Biomedical Radar for Fall Risk Prediction
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13912)
 - **Department:** 

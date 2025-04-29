@@ -20,6 +20,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Resarcher in organic chemistry</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37302)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher</h3>
 
@@ -110,6 +120,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctor in single-cell Genomics of Human Development</h3>
 
@@ -167,16 +187,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
 
 </div>
 
@@ -297,16 +307,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-04-29
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37176)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-28
 
 </div>
 

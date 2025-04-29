@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 43</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 45</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -80,16 +80,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student(Lic) in renewable energy integrations in buildings</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814005?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-01
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Nuclear Power Safety</h3>
 
@@ -97,16 +87,6 @@
 - **Department:** School of Engineering Sciences at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in applied and computational mathematics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804218?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-05
 
 </div>
 
@@ -321,16 +301,6 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in enhanced sampling in molecular dynamics simulations.</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821925?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-16
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in 3D Printing Electronic MicroRobots using nanowire composites</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/799597?l=en)
@@ -370,6 +340,26 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in applied and computational mathematics</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/804218?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student(Lic) in renewable energy integrations in buildings</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814005?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-20
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate Professor in Advanced Light Microscopy</h3>
 
@@ -387,6 +377,26 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in lens antennas</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821995?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-23
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Microarchitectural Security</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/822237?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-25
 
 </div>
 
@@ -427,6 +437,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-28
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in enhanced sampling in molecular dynamics simulations.</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821925?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-02
 
 </div>
 

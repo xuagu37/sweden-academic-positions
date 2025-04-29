@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 62</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 68</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,66 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student position in Formal Verification of Autonomous Cyber-Physical Systems</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=12785)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-25
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Vill du dela med dig av din utbildning och ditt studentliv på Chalmers? Just nu letar vi efter digitala ambassadörer för vår TikTok-kanal</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13921)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in environmental and resource assessment of batteries</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13917)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in development of binder for future battery applications</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13464)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Nanocellulose Composites and Hydrogels for Wearable Electronics</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13913)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student position in Control and Stability of Power System with High Penetration of Renewables</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13915)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 </div>
 

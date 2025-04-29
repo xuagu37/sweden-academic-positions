@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 37</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 38</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -70,21 +70,21 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Yeast Evolutionary Genomics</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:807371/where:4/)
 - **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-04-30
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Atmospheric Science with focus on Numerical Modeling of Atmospheric Aerosol Processes</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:796931/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-04-30
 
@@ -355,6 +355,16 @@
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
 - **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Epidemic modelling and statistical inference</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-05-26
 
