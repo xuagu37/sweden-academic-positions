@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 14</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,76 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Ph.D. Position in ‘Valorization of Industrial Waste Streams for Sustainable Metal Recovery in a Circular Economy’.</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8996)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD in Machine Elements on Polymer Liner applicaton in hydrogen storage</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8957)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Building Materials</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9005)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Robotics and Artificial Intelligence WASP</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8982)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Robotics and Artificial Intelligence WASP</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8986)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Robotics and Artificial Intelligence WASP</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8991)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Robotics and Artificial Intelligence WASP</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8993)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
 
 </div>
 
@@ -130,6 +60,16 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associated Senior Lecturer in Robotics and AI</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9093)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-23
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Summer student in Cyber-Physical Systems</h3>
 
@@ -137,6 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Engineering Materials – Advanced Microstructural Characteriza-tion of Ausferritic Steels</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9090)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 </div>
 

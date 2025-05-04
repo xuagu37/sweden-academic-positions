@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -27,6 +27,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-07
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Chemistry</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250117)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratory assistant in Medicine</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250115)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
 
 </div>
 

@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -27,16 +27,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-13
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in Product Development</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3054)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-29
 
 </div>
 

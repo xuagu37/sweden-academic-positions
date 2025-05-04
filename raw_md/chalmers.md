@@ -1,10 +1,34 @@
 # Chalmers University of Technology
 
-### PhD student position in Formal Verification of Autonomous Cyber-Physical Systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=12785)
+### Är Du vår nya Hållbarhetschef/Chef för enheten Arbetsmiljö och miljö?
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13929)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-25
+- **Deadline:** 2025-05-16
+
+### Project Assistant position in Bio-based Building Material
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13925)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+### Postdoc position in microresonator frequency combs (microcombs)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13918)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-30
+
+### Lecturer in Computer Science and Engineering
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13870)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### Postdoc position in Signal processing for hardware-constrained communications
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13905)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-31
 
 ### Vill du dela med dig av din utbildning och ditt studentliv på Chalmers? Just nu letar vi efter digitala ambassadörer för vår TikTok-kanal
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13921)
@@ -222,18 +246,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### Summer positions at The Microwave Electronics Laboratory
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13868)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Chalmers tekniska högskola AB söker en chefsjurist
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13866)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-29
-
 ### Faculty position in Materials Chemistry for Future Batteries
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13800)
 - **Department:** 
@@ -288,59 +300,17 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### Tekniklektor inom arkitektur
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13543)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### PhD Position in Computational Astrobiology and Quantum Chemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13832)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
 
-### Postdoctoral position—Machine learning and optimization in optics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13826)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Two PhD student positions in AI-assisted antibiotic research
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13836)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-### Two PhD student positions in High Performance Computing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13823)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Two Postdoctoral positions in High Performance Computing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13822)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Postdoc in computer architecture
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13821)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### PhD student in computer architecture
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13820)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### PhD position in Signal processing for airborne multi-static radar systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13817)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 ### Senior Lecturer in Mathematics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13825)
@@ -354,23 +324,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-04
 
-### Postdoctoral position—Inverse design in integrated photonics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13816)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### Assistant professor/Associate professor in Advanced Electron Microscopy
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13781)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-### Research Engineer in Microwave Measurements at Kollberg Laboratory
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13787)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)
@@ -389,12 +347,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-### PhD position in Functional Covalent Framework Materials
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13729)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-01
 
 ### PhD in experimental superconducting quantum computing
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13691)

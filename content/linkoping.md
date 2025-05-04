@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 34</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 31</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -111,6 +111,16 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD students in Generative AI and Machine Learning</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26718)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Multiagent Automatic Control</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
@@ -144,6 +154,16 @@
 <h3>PhD student in Machine Learning within WASP</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26720)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Environmental Change</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26765)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-22
@@ -307,56 +327,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Mathematics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26617)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in the Fundamental Science of Thin Films</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/25916)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Generative AI-Driven Data Synthesis for Building Energy Modeling</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26357)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuenses to UX design and development - Visualization Center C</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Employment as a PhD student in Medical Science at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26462)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
 </div></div>
 
 <script>

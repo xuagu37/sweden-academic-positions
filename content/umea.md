@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 27</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,76 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Ecology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-ecology_801342/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Archaeology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-archaeology_807170/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position to study Gram-positive Type 4 Secretion Systems</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-to-study-gram-positive-type-4-secretion-systems_807923/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Medical Science, focus on Infectious Medicine/Epidemiology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-focus-on-infectious-medicineepidemiology_809144/)
-- **Department:** Department of Clinical Microbiology
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Environmental Science</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-environmental-science_799023/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD-student position in Medical Science</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-position-in-medical-science_804825/)
-- **Department:** Department of Integrative Medical Biology
-- **Published:** 
-- **Deadline:** 2025-05-01
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD positions in Economics</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-positions-in-economics_800437/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in structural biology of virus replication</h3>
 
@@ -101,20 +31,20 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Welcome officer</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Project assistants, 2, (6 months) in Molecular parasitology</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistants-2-6-months-in-molecular-parasitology_816739/)
 - **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Curator of exhibitions at Bildmuseet</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
+- **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
 
@@ -131,12 +61,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Curator of exhibitions at Bildmuseet</h3>
+<h3>Welcome officer</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-05
+- **Deadline:** 2025-05-07
 
 </div>
 
@@ -280,21 +210,21 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
-- **Department:** Department of Applied Physics and Electronics
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
 - **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
+- **Department:** Department of Applied Physics and Electronics
 - **Published:** 
 - **Deadline:** 2025-05-16
 
@@ -307,6 +237,16 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-20
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>3 amanuensis 20% to the Department of Molecular Biology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/3-amanuensis-20-to-the-department-of-molecular-biology-_822764/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-21
 
 </div>
 

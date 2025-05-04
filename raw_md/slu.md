@@ -1,5 +1,17 @@
 # Swedish University of Agricultural Sciences
 
+### Senior Lecturer (Associate Professor) in landscape architecture with a focus on aesthetic qualities and design of vegetation
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12841)
+- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
+- **Published:** 
+- **Deadline:** 2025-06-24
+
+### Postdoctoral fellow in stock assessment
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12849)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-05-14
+
 ### Professor (full tenure) in silviculture with focus on silvicultural systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12044)
 - **Department:** Faculty of Forest Sciences
@@ -36,18 +48,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### Senior Lecturer (Associate Professor) in landscape architecture with a focus on aesthetic qualities and design of vegetation
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12841)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-### Fältassistent
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12790)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-30
-
 ### PhD in Technology with focus on Logistics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12766)
 - **Department:** Faculty of Natural Resources and Agricultural Scie
@@ -71,12 +71,6 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-05-11
-
-### PhD student in Ecology: Host plant specialisation in Tropical butterflies
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12583)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 ### Postdoctoral position in Chemical Ecology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12598)
@@ -107,10 +101,4 @@
 - **Department:** Faculty of Veterinary Medicine and Animal Science
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-### Professor in Food Science and Food Technology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12515)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-04-30
 

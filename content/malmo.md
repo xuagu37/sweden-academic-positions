@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Interaction Design and/or Computer Science</h3>
+
+- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4018)
+- **Department:** Faculty of culture and society  / School of Arts and Communication
+- **Published:** 29 April 2025
+- **Deadline:** 15 May 2025
 
 </div>
 
@@ -70,16 +80,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Molecular Dynamics Simulations of Water and Hydration</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3957)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 02 April 2025
-- **Deadline:** 01 May 2025
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD project: Development of non-invasive analytics for monitoring host-microbiota interplay</h3>
 
@@ -87,16 +87,6 @@
 - **Department:** Malmö universitet  / Malmö universitet
 - **Published:** 28 March 2025
 - **Deadline:** 22 May 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor in Surface Chemistry with Focus on Studies of Biointerfaces</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=3928)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 12 March 2025
-- **Deadline:** 30 April 2025
 </div></div>
 
 <script>

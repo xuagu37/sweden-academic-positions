@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 68</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 60</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,13 +20,53 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student position in Formal Verification of Autonomous Cyber-Physical Systems</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Är Du vår nya Hållbarhetschef/Chef för enheten Arbetsmiljö och miljö?</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=12785)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13929)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-25
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project Assistant position in Bio-based Building Material</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13925)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in microresonator frequency combs (microcombs)</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13918)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-30
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Lecturer in Computer Science and Engineering</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13870)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Signal processing for hardware-constrained communications</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13905)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-31
 
 </div>
 
@@ -391,26 +431,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Summer positions at The Microwave Electronics Laboratory</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13868)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Chalmers tekniska högskola AB söker en chefsjurist</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13866)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-29
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Faculty position in Materials Chemistry for Future Batteries</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13800)
@@ -500,16 +520,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Tekniklektor inom arkitektur</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13543)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Position in Computational Astrobiology and Quantum Chemistry</h3>
 
@@ -520,16 +530,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position—Machine learning and optimization in optics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13826)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Two PhD student positions in AI-assisted antibiotic research</h3>
 
@@ -537,56 +537,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Two PhD student positions in High Performance Computing</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13823)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Two Postdoctoral positions in High Performance Computing</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13822)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in computer architecture</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13821)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in computer architecture</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13820)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Signal processing for airborne multi-static radar systems</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13817)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 </div>
 
@@ -610,16 +560,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position—Inverse design in integrated photonics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13816)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant professor/Associate professor in Advanced Electron Microscopy</h3>
 
@@ -627,16 +567,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineer in Microwave Measurements at Kollberg Laboratory</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13787)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
 
 </div>
 
@@ -667,16 +597,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Functional Covalent Framework Materials</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13729)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-01
 
 </div>
 

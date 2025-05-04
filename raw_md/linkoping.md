@@ -54,6 +54,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-26
 
+### PhD students in Generative AI and Machine Learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26718)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
 ### PhD student in Multiagent Automatic Control
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
 - **Department:** 
@@ -74,6 +80,12 @@
 
 ### PhD student in Machine Learning within WASP
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26720)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-22
+
+### Postdoc in Environmental Change
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26765)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-22
@@ -173,34 +185,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-### PhD student in Mathematics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26617)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-### Postdoc in the Fundamental Science of Thin Films
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/25916)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Postdoc in Generative AI-Driven Data Synthesis for Building Energy Modeling
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26357)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Amanuenses to UX design and development - Visualization Center C
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26374)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Employment as a PhD student in Medical Science at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26462)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
 

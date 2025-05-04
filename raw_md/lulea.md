@@ -1,47 +1,5 @@
 # Luleå University
 
-### Ph.D. Position in ‘Valorization of Industrial Waste Streams for Sustainable Metal Recovery in a Circular Economy’.
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8996)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### PhD in Machine Elements on Polymer Liner applicaton in hydrogen storage
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8957)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### Senior Lecturer in Building Materials
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9005)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-04-30
-
-### PhD student in Robotics and Artificial Intelligence WASP
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8982)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-### PhD student in Robotics and Artificial Intelligence WASP
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8986)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-### Postdoc position in Robotics and Artificial Intelligence WASP
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8991)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
-### Postdoc position in Robotics and Artificial Intelligence WASP
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8993)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-02
-
 ### PhD Student in Signal Processing
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8973)
 - **Department:** 
@@ -66,11 +24,23 @@
 - **Published:** 
 - **Deadline:** 2025-05-20
 
+### Associated Senior Lecturer in Robotics and AI
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9093)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-23
+
 ### Summer student in Cyber-Physical Systems
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9073)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
+
+### PhD Position in Engineering Materials – Advanced Microstructural Characteriza-tion of Ausferritic Steels
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9090)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 ### ​​Professor/Head of Subject of Cyber-Physical Systems​
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8922)

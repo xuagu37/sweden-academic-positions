@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 45</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 39</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,76 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Acoustofluidic 3D cell culture</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811757?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students (Licentiate) in Wastewater technology</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812554?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in advanced manufacturing and digitalization</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803713?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistants for Chip Design and Design Automation</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800615?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in structural transitions in protein self-assembly</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801659?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student (licentiate) in building energy system control</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811594?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-01
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Nuclear Power Safety</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-02
 
 </div>
 
@@ -320,6 +250,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Nuclear Power Safety</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-16
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Join the KTH Innovation team as a student worker</h3>
 
@@ -371,7 +311,7 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Vivo-mimetic Technology</h3>
+<h3>Assistant professor in In Vivo-Mimetic Technology</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/795970?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences

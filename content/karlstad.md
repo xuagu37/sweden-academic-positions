@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 10</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Doktorand i biologi med avslutning licentiatexamen</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:804400/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Apr.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuenser i datavetenskap</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811114/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Apr.2025
 
 </div>
 
@@ -97,6 +77,46 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 20.May.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Biblioteksvärdar till Universitetsbiblioteket</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822821/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 20.May.2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science, 6G-NTN mobile systems</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:781427/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 21.May.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Internrevisionschef</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822499/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 21.May.2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Computer Science, TRUMAN</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:788719/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 29.May.2025
 </div></div>
 
 <script>

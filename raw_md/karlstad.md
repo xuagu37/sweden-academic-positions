@@ -1,17 +1,5 @@
 # Karlstad University
 
-### Doktorand i biologi med avslutning licentiatexamen
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:804400/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Apr.2025
-
-### Amanuenser i datavetenskap
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811114/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.Apr.2025
-
 ### Doctoral student in Environmental and Energy Systems
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793079/iframeEmbedded:0/where:4)
 - **Department:** 
@@ -47,4 +35,28 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 20.May.2025
+
+### Biblioteksvärdar till Universitetsbiblioteket
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822821/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 20.May.2025
+
+### Doctoral student in Computer Science, 6G-NTN mobile systems
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:781427/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 21.May.2025
+
+### Internrevisionschef
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822499/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 21.May.2025
+
+### PhD position in Computer Science, TRUMAN
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:788719/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 29.May.2025
 

@@ -1,47 +1,5 @@
 # KTH
 
-### Doctoral student in Acoustofluidic 3D cell culture
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811757?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-### Doctoral students (Licentiate) in Wastewater technology
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812554?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-### Research engineer in advanced manufacturing and digitalization
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/803713?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-### Research Assistants for Chip Design and Design Automation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/800615?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-### Postdoc in structural transitions in protein self-assembly
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/801659?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-04-30
-
-### Doctoral student (licentiate) in building energy system control
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811594?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-01
-
-### Postdoc in Nuclear Power Safety
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-02
-
 ### Communication and Computing for XR sensor fusion
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/816919?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
@@ -180,6 +138,12 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-16
 
+### Postdoc in Nuclear Power Safety
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/790691?l=en)
+- **Department:** School of Engineering Sciences at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-16
+
 ### Join the KTH Innovation team as a student worker
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/813884?l=en)
 - **Department:** KTH Royal Institute of Technology, Support services at KTH
@@ -210,7 +174,7 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-22
 
-### Assistant professor in Vivo-mimetic Technology
+### Assistant professor in In Vivo-Mimetic Technology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/795970?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
