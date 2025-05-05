@@ -62,9 +62,47 @@ def parse_jobs_lund(filepath: str):
 
     return jobs
 
+# def parse_jobs_uppsala(filepath: str):
+#     """
+#     Parses job listings from Uppsala University's HTML page using known class markers.
+
+#     Args:
+#         filepath (str): Path to the saved HTML file.
+
+#     Returns:
+#         List[Dict]: Parsed job entries with title, URL, department, and deadline.
+#     """
+#     with open(filepath, "r", encoding="utf-8") as f:
+#         html = f.read()
+
+#     soup = BeautifulSoup(html, "html.parser")
+#     jobs = []
+
+#     rows = soup.find_all("tr")
+#     for row in rows:
+#         title_td = row.find("td", class_="pos-title")
+#         dept_td = row.find("td", class_="pos-subcompany")
+#         deadline_td = row.find("td", class_="pos-ends")
+
+#         if title_td and title_td.a:
+#             title = title_td.a.get_text(strip=True)
+#             url = title_td.a.get("href")
+#             department = dept_td.get_text(strip=True) if dept_td else "N/A"
+#             deadline = deadline_td.get_text(strip=True) if deadline_td else "N/A"
+
+#             jobs.append({
+#                 "title": title,
+#                 "url": url,
+#                 "department": department,
+#                 "published": "",  # Published not available
+#                 "deadline": deadline
+#             })
+
+#     return jobs
+
 def parse_jobs_uppsala(filepath: str):
     """
-    Parses job listings from Uppsala University's HTML page using known class markers.
+    Parses job listings from Uppsala University's job page HTML structure.
 
     Args:
         filepath (str): Path to the saved HTML file.
@@ -78,23 +116,32 @@ def parse_jobs_uppsala(filepath: str):
     soup = BeautifulSoup(html, "html.parser")
     jobs = []
 
-    rows = soup.find_all("tr")
-    for row in rows:
-        title_td = row.find("td", class_="pos-title")
-        dept_td = row.find("td", class_="pos-subcompany")
-        deadline_td = row.find("td", class_="pos-ends")
+    containers = soup.find_all("div", class_="search-result-hit-text-container")
 
-        if title_td and title_td.a:
-            title = title_td.a.get_text(strip=True)
-            url = title_td.a.get("href")
-            department = dept_td.get_text(strip=True) if dept_td else "N/A"
-            deadline = deadline_td.get_text(strip=True) if deadline_td else "N/A"
+    for container in containers:
+        title_tag = container.find("span", class_="list-group-item-action-title")
+        link = title_tag.find("a") if title_tag else None
+        department_tag = container.find("p", class_="mb-2")
+        deadline_tag = container.find("div", class_="search-result-hit-details")
+
+        if link:
+            title = link.get_text(strip=True)
+            relative_url = link.get("href")
+            url = f"https://www.uu.se{relative_url}" if relative_url else "N/A"
+            department = department_tag.get_text(strip=True) if department_tag else "N/A"
+            deadline_text = deadline_tag.get_text(strip=True) if deadline_tag else "N/A"
+
+            # Extract only the date from text like "Last application date: 14 May 2025"
+            if "Last application date:" in deadline_text:
+                deadline = deadline_text.split(":", 1)[-1].strip()
+            else:
+                deadline = deadline_text
 
             jobs.append({
                 "title": title,
                 "url": url,
                 "department": department,
-                "published": "",  # Published not available
+                "published": "",  # Published date not available
                 "deadline": deadline
             })
 

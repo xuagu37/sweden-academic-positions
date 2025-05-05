@@ -23,7 +23,7 @@ def main():
         },
         {
             "name": "Uppsala University",
-            "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies",
+            "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?start=200",
             "html_file": "html_cache/latest_uppsala_page.html",
             "raw_md": "raw_md/uppsala.md",
             "processed_md": "content/uppsala.md",
