@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 39</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 38</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -45,16 +45,6 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/819334?l=en)
 - **Department:** Kungliga Tekniska högskolan, Skolan för kemi, bioteknologi och hälsa
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-07
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>The project has no title</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819375?l=en)
-- **Department:** Kungliga Tekniska högskolan,
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-07
 

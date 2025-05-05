@@ -1,11 +1,5 @@
 # Umeå University
 
-### PhD position in structural biology of virus replication
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_814648/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### Project assistants, 2, (6 months) in Molecular parasitology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistants-2-6-months-in-molecular-parasitology_816739/)
 - **Department:** Department of Molecular Biology
@@ -18,18 +12,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-05
 
-### The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-### Welcome officer
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-07
-
 ### Staffscientist in Antimicrobial Discovery
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
 - **Department:** Department of Molecular Biology
@@ -39,6 +21,12 @@
 ### Postdoctoral position (2 years) in Medical Science
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
 - **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+### Welcome officer
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
+- **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-07
 
@@ -96,6 +84,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
+### The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
 ### Staff Scientist at CIRC (Climate Impacts Research Centre)
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-at-circ-climate-impacts-research-centre_818284/)
 - **Department:** Department of Ecology and Environmental Science
@@ -114,15 +108,15 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
-### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-05-16
-
 ### Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
 - **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+### PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-05-16
 

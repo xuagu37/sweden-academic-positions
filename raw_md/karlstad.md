@@ -1,17 +1,5 @@
 # Karlstad University
 
-### Doctoral student in Environmental and Energy Systems
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793079/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
-
-### Doktorand i folkhälsovetenskap, inriktning oral hälsa
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:799415/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 04.May.2025
-
 ### Fakultetsadministratör 75%
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817989/iframeEmbedded:0/where:4)
 - **Department:** 

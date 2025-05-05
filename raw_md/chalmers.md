@@ -96,12 +96,6 @@
 - **Published:** 
 - **Deadline:** 2025-07-15
 
-### PhD student for preparing road infrastructure for future mobility
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13804)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### PhD student position in Hydrogen-Powered Combustion Engines
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
 - **Department:** 
@@ -113,12 +107,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
-
-### Advancement Officer – Prospect Analytics & CRM Development
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13859)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 ### Advancement Officer, Major Gifts – Chalmers
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13831)
@@ -276,12 +264,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-06
 
-### Instruktör i praktisk lärandemiljö
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13835)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### Postdoc in Modelling thermomechanical behaviour of AM microstructures
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13834)
 - **Department:** 
@@ -300,35 +282,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### PhD Position in Computational Astrobiology and Quantum Chemistry
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13832)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
 ### Two PhD student positions in AI-assisted antibiotic research
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13836)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-### Senior Lecturer in Mathematics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13825)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-### Senior Lecturer
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13824)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-### Assistant professor/Associate professor in Advanced Electron Microscopy
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13781)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)
@@ -341,12 +299,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-01
-
-### Assistant Professor in Data-driven cell and molecular biology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13685)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 ### PhD in experimental superconducting quantum computing
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13691)

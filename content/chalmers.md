@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 60</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 52</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -181,16 +181,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student for preparing road infrastructure for future mobility</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13804)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student position in Hydrogen-Powered Combustion Engines</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
@@ -207,16 +197,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Advancement Officer – Prospect Analytics & CRM Development</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13859)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 </div>
 
@@ -480,16 +460,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Instruktör i praktisk lärandemiljö</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13835)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Modelling thermomechanical behaviour of AM microstructures</h3>
 
@@ -521,52 +491,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Position in Computational Astrobiology and Quantum Chemistry</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13832)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Two PhD student positions in AI-assisted antibiotic research</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13836)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-05
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Mathematics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13825)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13824)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor/Associate professor in Advanced Electron Microscopy</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13781)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 </div>
 
@@ -587,16 +517,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-01
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Data-driven cell and molecular biology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13685)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 </div>
 

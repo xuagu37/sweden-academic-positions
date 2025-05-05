@@ -36,6 +36,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-25
 
+### PhD Student in Engineering Materials with specialization in steel recycling and anti-alloying
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9079)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
+
 ### PhD Position in Engineering Materials – Advanced Microstructural Characteriza-tion of Ausferritic Steels
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9090)
 - **Department:** 

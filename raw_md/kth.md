@@ -18,12 +18,6 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-07
 
-### The project has no title
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819375?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-07
-
 ### Doctoral student in (licentiate) in soil and rock mechanics (mechanics of rock joints)
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/812407?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment

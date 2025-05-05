@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 27</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in structural biology of virus replication</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_814648/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 </div>
 
@@ -50,26 +40,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Welcome officer</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-07
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Staffscientist in Antimicrobial Discovery</h3>
 
@@ -85,6 +55,16 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-medical-science-_819414/)
 - **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-05-07
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Welcome officer</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/welcome-officer-_808986/)
+- **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-07
 
@@ -180,6 +160,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>The Postdoc position (2 years) on advanced computational techniques for efficient simulations of global lake ecosystem dynamics</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-postdoc-position-2-years-on-advanced-computational-techniques-for-efficient-simulations-of-global-lake-ecosystem-dynamics_818215/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Staff Scientist at CIRC (Climate Impacts Research Centre)</h3>
 
@@ -210,21 +200,21 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
 - **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-05-16
 

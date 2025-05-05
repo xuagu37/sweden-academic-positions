@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 40</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 37</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow in AI and NMR</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36992)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-23
 
 </div>
 
@@ -70,13 +80,13 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Resarcher in organic chemistry</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>1-2 Doctoral students in Medical Science - Regulation of respiratory mucus in disease</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37302)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37345)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-14
+- **Deadline:** 2025-05-20
 
 </div>
 
@@ -90,13 +100,13 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>1-2 Doctoral students in Medical Science - Regulation of respiratory mucus in disease</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Resarcher in organic chemistry</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37345)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37302)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-20
+- **Deadline:** 2025-05-14
 
 </div>
 
@@ -120,6 +130,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens in computer science and engineering</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37281)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-14
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher in Web Application Security</h3>
 
@@ -131,12 +151,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens in computer science and engineering</h3>
+<h3>The Faculty of Science and Technology is looking for student ambassadors (6- 8 positions)</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37281)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37264)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-14
+- **Deadline:** 2025-05-06
 
 </div>
 
@@ -180,16 +200,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>The Faculty of Science and Technology is looking for student ambassadors (6- 8 positions)</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37264)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Associate Researcher</h3>
 
@@ -211,32 +221,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant/pre doc to the department of economics</h3>
+<h3>Project assistant</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens with Girls Code Club</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37124)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor in Surgery combined with employment as Specialist Physician/Chief Physician</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37256)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-22
+- **Deadline:** 2025-05-16
 
 </div>
 
@@ -250,13 +240,33 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in Surgery combined with employment as Specialist Physician/Chief Physician</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37256)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-16
+- **Deadline:** 2025-05-22
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens with Girls Code Club</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37124)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant/pre doc to the department of economics</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-06
 
 </div>
 
@@ -280,13 +290,13 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in craft specializing in Crafting Futures to HDK-Valand Campus Steneby</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in renal physiology</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37230)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37248)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-04
+- **Deadline:** 2025-05-05
 
 </div>
 
@@ -297,16 +307,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-19
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in renal physiology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37248)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 
 </div>
 
@@ -337,16 +337,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-09
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in circadian skin biology at the University of Gothenburg</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37154)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 </div>
 
@@ -387,26 +377,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Mathematics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36930)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Mathematics</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36967)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-04
 
 </div>
 

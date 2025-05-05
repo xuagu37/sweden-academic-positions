@@ -1,26 +1,14 @@
 # Stockholm University
 
-### Postdoctoral Fellow in Terrestrial Water System Variations and Trends
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813107/where:4/)
-- **Department:** Department of Physical Geography
+### Lab Technician
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815976/where:4/)
+- **Department:** Department of Chemistry
 - **Published:** 
-- **Deadline:** 2025-05-04
-
-### PhD Student in Evolution of Seasonal Camouflage
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:805048/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-05-04
+- **Deadline:** 2025-05-05
 
 ### Postdoctoral Fellow in Ocean-Glacier Dynamics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809032/where:4/)
 - **Department:** Department of Meteorology
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-### Lab Technician
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815976/where:4/)
-- **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-05
 
@@ -48,44 +36,8 @@
 - **Published:** 
 - **Deadline:** 2025-05-14
 
-### Research engineer in Environmental science
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in Observational Oceanography with Machine Learning applications
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813440/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### PhD student in North Greenland Marine Micropaleontology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811764/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in Analyses of Marine geophysical mapping data
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
+### Postdoctoral Fellow in Arctic geochemical oceanographic proxies
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811409/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -96,20 +48,56 @@
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### Postdoctoral Fellow in Arctic geochemical oceanographic proxies
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811409/where:4/)
+### Postdoctoral Fellow in Analyses of Marine geophysical mapping data
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:810950/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### Assistant Professor in organic chemistry
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815083/where:4/)
+### Postdoctoral Fellow in Modelling of the Arctic Ocean Circulation
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806695/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Postdoctoral Fellow in AI-Based Analysis of Submarine Glacial Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788557/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD student in North Greenland Marine Micropaleontology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811764/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Postdoctoral Fellow in Observational Oceanography with Machine Learning applications
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813440/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Research engineer in Environmental science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### Assistant Professor in Materials Chemistry with focus on organic materials
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815081/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-18
 
-### Assistant Professor in Materials Chemistry with focus on organic materials
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815081/where:4/)
+### Assistant Professor in organic chemistry
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815083/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-18

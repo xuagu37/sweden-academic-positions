@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 10</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -77,6 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Engineering Materials with specialization in steel recycling and anti-alloying</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9079)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-26
 
 </div>
 
