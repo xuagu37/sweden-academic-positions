@@ -1,19 +1,7 @@
 # Luleå University
 
-### PhD Student in Signal Processing
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8973)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-11
-
 ### PhD student in Electronic Systems with focus on electrodynamic modeling
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9055)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### PhD Student position in Machine Learning focus Sustainable Machine Learning
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -54,8 +42,44 @@
 - **Published:** 
 - **Deadline:** 2025-05-31
 
+### WASP PhD Student position in Sustainable Machine Learning
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-31
+
+### PhDStudent in Signal Processing: 6G Communications & Sensing for LEO Satcom
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8973)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-01
+
 ### PhD Student in Cyber-physical systems
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9104)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9110)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-15

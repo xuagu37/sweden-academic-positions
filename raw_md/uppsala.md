@@ -30,6 +30,12 @@
 - **Published:** 
 - **Deadline:** 30 May 2025
 
+### Postdoctoral fellow - Regulation of autoreactive B cells by Ncf1 polymorphism
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=806149)
+- **Department:** Department of Medical Biochemistry and Microbiology
+- **Published:** 
+- **Deadline:** 9 June 2025
+
 ### PhD position in silicon biosensor chip
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=806438)
 - **Department:** Department of Electrical Engineering
@@ -47,6 +53,18 @@
 - **Department:** Department of Physics and Astronomy
 - **Published:** 
 - **Deadline:** 5 June 2025
+
+### International Visiting Researcher Positions, Centre of Excellence for The World in the Viking Age (WIVA) spring 2026
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=808614)
+- **Department:** Department of Archaeology, Ancient History & Conservation
+- **Published:** 
+- **Deadline:** 2 June 2025
+
+### Postdoctoral Early Career Researcher Positions, Centre of Excellence for The World in the Viking Age (WIVA)
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=808617)
+- **Department:** Department of Archaeology, Ancient History & Conservation
+- **Published:** 
+- **Deadline:** 2 June 2025
 
 ### Doctoral (Phd) position in biomedical engineering focused on microphysiological systems for cancer research
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=810571)
@@ -94,25 +112,13 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=813659)
 - **Department:** Department of Earth Sciences
 - **Published:** 
-- **Deadline:** 6 May 2025
-
-### Teaching assistants 20%
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=814568)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 5 May 2025
+- **Deadline:** 16 May 2025
 
 ### Postdoctoral position in Evolution and Development
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=814900)
 - **Department:** Department of Organismal Biology
 - **Published:** 
 - **Deadline:** 7 May 2025
-
-### Up to 20 teaching assistants in Systems and Control
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815049)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 5 May 2025
 
 ### PhD student in Data-driven molecular medicine
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815153)
@@ -125,30 +131,6 @@
 - **Department:** Department of Cell and Molecular Biology
 - **Published:** 
 - **Deadline:** 16 May 2025
-
-### Up to 50 teaching asssitants in Scientific Computing
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815284)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 5 May 2025
-
-### Up to ten teaching asssitants in Computer Systems
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815330)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 5 May 2025
-
-### Up to 25 teaching assistants within Vi3
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815567)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 5 May 2025
-
-### Up to 40 teaching assistants in Computing Science
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815652)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 5 May 2025
 
 ### Postdoctoral position in time dependent density functional theory
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815969)
@@ -300,6 +282,12 @@
 - **Published:** 
 - **Deadline:** 16 May 2025
 
+### Research Assistant in Photoredox Catalysis
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821304)
+- **Department:** Disciplinary Domain of Science and Technology, Faculty of Chemistry, Department of Chemistry - Ångström Laboratory
+- **Published:** 
+- **Deadline:** 16 May 2025
+
 ### PhD student in Machine Learning  with a focus on Bayesian models and methods for biomedicine
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821408)
 - **Department:** Department of Information Technology
@@ -324,23 +312,23 @@
 - **Published:** 
 - **Deadline:** 14 May 2025
 
+### PhD student in Computational Materials Chemistry
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=822437)
+- **Department:** Department of Chemistry - Ångström Laboratory
+- **Published:** 
+- **Deadline:** 2 June 2025
+
+### Research assistant in bioinformatics
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=822691)
+- **Department:** Department of Pharmaceutical Biosciences
+- **Published:** 
+- **Deadline:** 21 May 2025
+
 ### Två st Universitetsadjunkter i Farmakognosi
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=799114)
 - **Department:** Inst. för farmaceutisk biovetenskap, Farmakognosi
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 8 maj 2025
-
-### Universitetslektor i obstetrik och gynekologi förenad med befattning som specialistläkare
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=799363)
-- **Department:** Inst för kvinnors och barns hälsa
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
-
-### Universitetslektor i miljörätt
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=799761)
-- **Department:** Juridiska institutionen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
 
 ### 1-2 st universitetsadjunkter i radiografi med kliniska arbetsuppgifter som röntgensjuksköterska vid Akademiska sjukhuset
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=804386)
@@ -359,18 +347,6 @@
 - **Department:** Institutionen för moderna språk
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 14 maj 2025
-
-### Timanställning som Forskningsassistent
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=811443)
-- **Department:** Institutionen för farmaceutisk biovetenskap
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
-
-### Universitetsadjunkt i svenska som andraspråk
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=813161)
-- **Department:** Institutionen för nordiska språk
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
 
 ### Forskningsingenjör
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=813664)
@@ -408,47 +384,17 @@
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 12 maj 2025
 
-### En amanuens som projektledare
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=816797)
-- **Department:** Institutionen för informationsteknologi
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
-
-### Upp till 15 amanuenser som handledare
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=816849)
-- **Department:** Institutionen för informationsteknologi
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
-
-### Upp till 2 amanuenser som handledare
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=816899)
-- **Department:** Institutionen för informationsteknologi
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
-
 ### Universitetsadjunkt i persiska, vikariat
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=817373)
 - **Department:** Institutionen för lingvistik och filologi
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 14 maj 2025
 
-### HR-generalist
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=817454)
-- **Department:** HR-avdelningen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
-
 ### Forskningsassistent
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=817834)
 - **Department:** Institutionen för medicinska vetenskaper
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 7 maj 2025
-
-### Universitetsadjunkt till terminskurs 1
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=817907)
-- **Department:** Juridiska institutionen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 maj 2025
 
 ### Forskningsingenjör Myfab Uppsala
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=818190)
@@ -588,6 +534,12 @@
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 19 maj 2025
 
+### Kursadministratör kostvetenskap
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=821226)
+- **Department:** , Institutionen för kostvetenskap
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 19 maj 2025
+
 ### Forskningsassistent
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=821242)
 - **Department:** Institutionen för immunologi, genetik och patologi
@@ -618,9 +570,39 @@
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 13 maj 2025
 
+### Internationell handläggare
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=822281)
+- **Department:** , Avdelningen för internationell mobilitet
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 23 maj 2025
+
+### Vikarierande universitetslektor i tyska med inriktning mot språkvetenskap
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=822305)
+- **Department:** Institutionen för moderna språk
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 19 maj 2025
+
+### Forskningsassistent inom området astrocyters roll vid Alzheimers sjukdom och Downs syndrom
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=822408)
+- **Department:** Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för folkhälso- och vårdvetenskap
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 16 maj 2025
+
 ### Utbildningsledare
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=822536)
 - **Department:** Kansliet för humaniora och samhällsvetenskap
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 14 maj 2025
+
+### Kursadministratör, vikariat
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=822879)
+- **Department:** Institutionen för informatik och media
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 28 maj 2025
+
+### Studievägledare
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=823041)
+- **Department:** Institutionen för biologisk grundutbildning
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 19 maj 2025
 

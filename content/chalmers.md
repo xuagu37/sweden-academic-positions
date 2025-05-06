@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 52</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 51</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Project: Digital Twins and VR for Smart Construction Management</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13930)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
 
 </div>
 
@@ -197,16 +207,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Advancement Officer, Major Gifts – Chalmers</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13831)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 
 </div>
 
@@ -487,16 +487,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Two PhD student positions in AI-assisted antibiotic research</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13836)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 
 </div>
 

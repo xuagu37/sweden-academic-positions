@@ -108,6 +108,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-20
 
+### Postdocs in Computational Social Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26764)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-19
+
 ### PhD student in Biomedical Engineering Sciences
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26750)
 - **Department:** 
@@ -167,22 +173,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-### PhD student in Biological Sciences
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26479)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-### PhD student in Material Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26480)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-### Teaching assistants in Quality Management and Engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26644)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 

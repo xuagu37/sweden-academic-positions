@@ -1,11 +1,5 @@
 # Karlstad University
 
-### Fakultetsadministratör 75%
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:817989/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 05.May.2025
-
 ### Doctoral Student in Biology
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:812910/iframeEmbedded:0/where:4)
 - **Department:** 

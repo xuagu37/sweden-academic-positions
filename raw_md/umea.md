@@ -1,17 +1,5 @@
 # Umeå University
 
-### Project assistants, 2, (6 months) in Molecular parasitology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistants-2-6-months-in-molecular-parasitology_816739/)
-- **Department:** Department of Molecular Biology
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-### Curator of exhibitions at Bildmuseet
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/curator-of-exhibitions-at-bildmuseet_789644/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
 ### Staffscientist in Antimicrobial Discovery
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staffscientist-in-antimicrobial-discovery_818127/)
 - **Department:** Department of Molecular Biology
@@ -59,18 +47,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-11
-
-### PhD position in Informatics with a focus on sustainable data cultures
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
-- **Department:** Department of Informatics
-- **Published:** 
-- **Deadline:** 2025-05-13
-
-### Field Assistant (intermittent employment)
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/field-assistant-intermittent-employment_819378/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-13
 
 ### PhD position in Chemistry, with a specialization in Biophysical Chemistry
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
@@ -126,11 +102,23 @@
 - **Published:** 
 - **Deadline:** 2025-05-20
 
+### Field Assistant (intermittent employment)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/field-assistant-intermittent-employment_819378/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-20
+
 ### 3 amanuensis 20% to the Department of Molecular Biology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/3-amanuensis-20-to-the-department-of-molecular-biology-_822764/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
 - **Deadline:** 2025-05-21
+
+### PhD position in Informatics with a focus on sustainable data cultures
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
+- **Department:** Department of Informatics
+- **Published:** 
+- **Deadline:** 2025-05-23
 
 ### Three PhD positions in Space Physics
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/three-phd-positions-in-space-physics_822102/)

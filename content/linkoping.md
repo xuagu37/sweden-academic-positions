@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 31</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 29</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -200,6 +200,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdocs in Computational Social Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26764)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-19
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Biomedical Engineering Sciences</h3>
 
@@ -297,36 +307,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Biological Sciences</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26479)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Material Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26480)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants in Quality Management and Engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26644)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 </div></div>
 
 <script>

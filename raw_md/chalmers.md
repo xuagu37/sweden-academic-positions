@@ -1,5 +1,11 @@
 # Chalmers University of Technology
 
+### PhD Project: Digital Twins and VR for Smart Construction Management
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13930)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
+
 ### Är Du vår nya Hållbarhetschef/Chef för enheten Arbetsmiljö och miljö?
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13929)
 - **Department:** 
@@ -107,12 +113,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-25
-
-### Advancement Officer, Major Gifts – Chalmers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13831)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 
 ### PhD in Sensor-assisted Water Quality Monitoring
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13876)
@@ -281,12 +281,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-### Two PhD student positions in AI-assisted antibiotic research
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13836)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-05
 
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)

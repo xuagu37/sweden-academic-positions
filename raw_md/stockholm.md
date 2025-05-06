@@ -1,17 +1,5 @@
 # Stockholm University
 
-### Lab Technician
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815976/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-05
-
-### Postdoctoral Fellow in Ocean-Glacier Dynamics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:809032/where:4/)
-- **Department:** Department of Meteorology
-- **Published:** 
-- **Deadline:** 2025-05-05
-
 ### Senior Lecturer Professor in Art History
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792766/where:4/)
 - **Department:** Stockholms universitet
@@ -35,6 +23,18 @@
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-05-14
+
+### Postdoctoral Fellow in Observational Oceanography with Machine Learning applications
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813440/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
+
+### PhD student in North Greenland Marine Micropaleontology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811764/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-05-15
 
 ### Postdoctoral Fellow in Arctic geochemical oceanographic proxies
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811409/where:4/)
@@ -68,18 +68,6 @@
 
 ### Postdoctoral Fellow in Geomorphological Analyses of Submarine Landforms
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:788367/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### PhD student in North Greenland Marine Micropaleontology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811764/where:4/)
-- **Department:** Department of Geological Sciences
-- **Published:** 
-- **Deadline:** 2025-05-15
-
-### Postdoctoral Fellow in Observational Oceanography with Machine Learning applications
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813440/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -137,6 +125,12 @@
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-06-01
+
+### Postdoctoral fellow in environmental RNA biology (eRNA)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824101/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-06-06
 
 ### Associate Professor in Physical Geography with focus on geohazards
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
