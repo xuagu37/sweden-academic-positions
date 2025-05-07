@@ -1,13 +1,31 @@
 # Gothenburg University
 
-### Forskare
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37423)
+### Doctoral student in journalism, media and communication
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37184)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+### Research assistant/pre-doc to the department of economics (50%)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+### Research assistant/pre doc to the department of economics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-20
+
+### Researcher in Radiation Physics and Source Term Modelling
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37412)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-27
 
-### Researcher in Radiation Physics and Source Term Modelling
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37412)
+### Forskare
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37423)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-27
@@ -30,12 +48,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-22
 
-### Postdoctoral fellow at the Department of Political Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37386)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-21
-
 ### One doctoral position in Education
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37367)
 - **Department:** 
@@ -47,6 +59,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
+
+### Postdoctoral fellow at the Department of Political Science
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37386)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-21
 
 ### Resarcher in organic chemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37302)
@@ -114,23 +132,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-08
 
-### The Faculty of Science and Technology is looking for student ambassadors (6- 8 positions)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37264)
+### Project assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-06
-
-### Associate Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37287)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-### Postdoctor in single-cell Genomics of Human Development
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37231)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
+- **Deadline:** 2025-05-16
 
 ### Professor in Surgery combined with employment as Specialist Physician/Chief Physician
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37256)
@@ -143,36 +149,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-### Research assistant/pre doc to the department of economics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-### Research assistant/pre-doc to the department of economics (50%)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-### Project assistant
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-### Researcher position in advanced BLS microscopy
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37208)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
-
-### Doctoral student in Medical Science - Gut mucosal microbiome
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37222)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
 
 ### Doctoral student in sociology within the research project "Blind Justice"
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37242)

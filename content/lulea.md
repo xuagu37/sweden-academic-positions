@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 14</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 15</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -107,6 +107,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-01
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in Waste Science and Technology</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9115)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-04
 
 </div>
 

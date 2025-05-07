@@ -12,6 +12,12 @@
 - **Published:** 
 - **Deadline:** 2025-08-11
 
+### PhD student in Computer Science at IDA
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26793)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
 ### Postdoc in the field of Materials Science and Engineering
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
 - **Department:** 
@@ -24,11 +30,29 @@
 - **Published:** 
 - **Deadline:** 2025-06-02
 
+### PhD student in Environmental Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26774)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+### PhD student in Environmental Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26775)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
 ### Postdoc in the field of Materials Science and Engineering
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-30
+
+### Principal research engineer in Molecular Biology at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26800)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 ### Postdoc in Sustainable photosynthetic living materials and devices
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26676)
@@ -126,6 +150,12 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
+### Senior research engineer in polymer electronics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26802)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
 ### Coordinator & EU Policy Officer, Based in Brussels
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26633)
 - **Department:** 
@@ -167,10 +197,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
-
-### First research engineer in immunology at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26623)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
 

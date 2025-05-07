@@ -54,6 +54,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-01
 
+### Associate Senior Lecturer in Waste Science and Technology
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9115)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-04
+
 ### PhD Student in Cyber-physical systems
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
 - **Department:** 

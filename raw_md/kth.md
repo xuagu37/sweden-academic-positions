@@ -1,17 +1,5 @@
 # KTH
 
-### Communication and Computing for XR sensor fusion
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/816919?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-06
-
-### Postdoc in high-level synthesis for reconfigurable architecture
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811116?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-06
-
 ### Research Engineer in DNA analysis
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/819334?l=en)
 - **Department:** Kungliga Tekniska högskolan, Skolan för kemi, bioteknologi och hälsa

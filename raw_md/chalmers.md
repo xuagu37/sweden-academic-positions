@@ -1,5 +1,23 @@
 # Chalmers University of Technology
 
+### PhD Position in Nanoelectronic Devices for AI Hardware
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13864)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### Postdoc position in Novel Measurement Techniques and Indicators for VOCs
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13934)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### Postdoc position in efficient simulation of noisy quantum circuits
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13923)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
 ### PhD Project: Digital Twins and VR for Smart Construction Management
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13930)
 - **Department:** 
@@ -257,12 +275,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
-
-### Instruktör med inriktning sjukvård
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13840)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
 
 ### Postdoc in Modelling thermomechanical behaviour of AM microstructures
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13834)

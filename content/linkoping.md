@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 29</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -40,6 +40,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer Science at IDA</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26793)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the field of Materials Science and Engineering</h3>
 
@@ -60,6 +70,26 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Environmental Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26774)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Environmental Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26775)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the field of Materials Science and Engineering</h3>
 
@@ -67,6 +97,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-30
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principal research engineer in Molecular Biology at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26800)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
 
 </div>
 
@@ -230,6 +270,16 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Senior research engineer in polymer electronics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26802)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Coordinator & EU Policy Officer, Based in Brussels</h3>
 
@@ -297,16 +347,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>First research engineer in immunology at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26623)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
 </div></div>
 
 <script>

@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 51</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 53</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,36 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Nanoelectronic Devices for AI Hardware</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13864)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Novel Measurement Techniques and Indicators for VOCs</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13934)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in efficient simulation of noisy quantum circuits</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13923)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
 
 </div>
 
@@ -447,16 +477,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-08
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Instruktör med inriktning sjukvård</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13840)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-06
 
 </div>
 
