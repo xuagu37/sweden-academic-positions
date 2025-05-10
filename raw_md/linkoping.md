@@ -42,6 +42,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-02
 
+### PhD student in Materials Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26790)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
 ### Postdoc in the field of Materials Science and Engineering
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
 - **Department:** 
@@ -50,6 +56,12 @@
 
 ### Principal research engineer in Molecular Biology at BKV
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26800)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
+
+### Teaching assistants/Amanuens in Business Administration
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26813)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-28
@@ -179,22 +191,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-12
-
-### Postdoc in automatic control at the Department of Electrical Engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26657)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-09
-
-### PhD Student in Technology and Social Change
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26421)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-08
-
-### Postdoc in ultrafast optical spectroscopy
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26586)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-08
 

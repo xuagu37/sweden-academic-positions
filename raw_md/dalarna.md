@@ -18,6 +18,12 @@
 - **Published:** 
 - **Deadline:** 5/19/2025
 
+### HR-specialist
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2569)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 5/25/2025
+
 ### IKT-pedagog
 - **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2551)
 - **Department:** 

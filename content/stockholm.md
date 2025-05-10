@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 24</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 31</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer Professor in Art History</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792766/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2025-05-09
 
 </div>
 
@@ -57,6 +47,16 @@
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-05-14
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer in Environmental science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-05-15
 
 </div>
 
@@ -140,13 +140,13 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in Environmental science</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in organic chemistry</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815810/where:4/)
-- **Department:** Department of Environmental Science
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815083/where:4/)
+- **Department:** Department of Chemistry
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-05-18
 
 </div>
 
@@ -160,21 +160,21 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in organic chemistry</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815083/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-18
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Transmission Electron Microscopy</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:820458/where:4/)
 - **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-05-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Environmental Investigations of Thiamine Deficiency</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824120/where:4/)
+- **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-05-22
 
@@ -231,12 +231,52 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Insect Evolutionary Ecology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824767/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Computer and Systems Sciences focusing on Cybersecurity</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:819130/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2025-06-04
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Procedure Law</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825126/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2025-06-04
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral fellow in environmental RNA biology (eRNA)</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824101/where:4/)
 - **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-06-06
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in in economics, specialization in macroeconomics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:819122/where:4/)
+- **Department:** Institute for International Economic Studies
+- **Published:** 
+- **Deadline:** 2025-06-09
 
 </div>
 
@@ -257,6 +297,36 @@
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Statistics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811265/where:4/)
+- **Department:** Department of Statistics
+- **Published:** 
+- **Deadline:** 2025-06-12
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Statistics, specialized in Data Science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811266/where:4/)
+- **Department:** Department of Statistics
+- **Published:** 
+- **Deadline:** 2025-06-12
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Theoretical Physics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821810/where:4/)
+- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
+- **Published:** 
+- **Deadline:** 2025-10-31
 </div></div>
 
 <script>

@@ -1,11 +1,5 @@
 # Karlstad University
 
-### Doctoral Student in Biology
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:812910/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 08.May.2025
-
 ### Doctoral student in Media and Communication Studies
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:806004/iframeEmbedded:0/where:4)
 - **Department:** 
@@ -41,4 +35,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 29.May.2025
+
+### Senior Lecturer in Computer Science, Specialisation in AI Engineering
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:718619/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 08.Jun.2025
+
+### Doctoral student in civil law
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811193/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 10.Jun.2025
 

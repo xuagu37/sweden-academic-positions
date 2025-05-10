@@ -1,5 +1,53 @@
 # Chalmers University of Technology
 
+### Bli digital Mattecoach - hjälp andra med matten!
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=11885)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-05
+
+### Do you want to work as a tutor?
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=11916)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-05
+
+### Amanuens, Studio Manager
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13940)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
+### PhD student position on Climate adaptation of urban roads
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13939)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-08
+
+### Postdoc in frontier research on novel 2D materials for thermal management applications
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13844)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
+### Two Postdoctoral positions in High Performance Computing
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13822)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-06
+
+### Marie Skłodowska-Curie Doctoral Fellow in Smart Ports Systems Integration
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13583)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+### PhD student position in Energy and environmental systems analysis of maritime transport
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13933)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-09
+
 ### PhD Position in Nanoelectronic Devices for AI Hardware
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13864)
 - **Department:** 
@@ -198,23 +246,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
-### PhD candidate for Constitutive Modelling of Rate-Effects in Sensitive Clays
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13728)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-07
-
 ### PhD student in digital design and fabrication for architectural reuse
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13884)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-19
-
-### Är du Chalmers nya chef för lön och internationell mobilitet?
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13883)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-08
 
 ### PhD Student – Maintenance Engineering
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13819)
@@ -258,23 +294,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-11
 
-### Postdoc position in AI for Healthcare
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13865)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-09
-
 ### Postdoc in Electrochemical Transistors and Organic Electronics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13838)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-26
-
-### Postdoc position in Improved Performance of Wing Sails using Active Flow Control
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13847)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-08
 
 ### Postdoc in Modelling thermomechanical behaviour of AM microstructures
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13834)

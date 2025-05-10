@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -90,6 +90,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Materials Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26790)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the field of Materials Science and Engineering</h3>
 
@@ -104,6 +114,16 @@
 <h3>Principal research engineer in Molecular Biology at BKV</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26800)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-28
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants/Amanuens in Business Administration</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26813)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-28
@@ -317,36 +337,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-12
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in automatic control at the Department of Electrical Engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26657)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-09
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Technology and Social Change</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26421)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-08
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in ultrafast optical spectroscopy</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26586)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-08
 </div></div>
 
 <script>
