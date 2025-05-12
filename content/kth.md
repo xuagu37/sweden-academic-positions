@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 59</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 57</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in networked control systems</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in generative AI for 3D gesture motion</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/810341?l=en)
-- **Department:** KTH, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-11
 
 </div>
 
@@ -331,7 +311,7 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor Mathematics with Specialization in Numerical Analysis</h3>
+<h3>Two Associate Professors in Mathematics with Specialization in Numerical Analysis</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806504?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences

@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 57</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 54</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -477,36 +477,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-12
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in remote sensing using satellite communication networks</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13861)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-11
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Studentambassadör till Chalmers studentrekrytering</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13873)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-11
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Faculty position in Materials Chemistry for Future Batteries</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13800)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-11
 
 </div>
 

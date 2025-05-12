@@ -1,11 +1,5 @@
 # Stockholm University
 
-### Postdoctoral Fellow in AI-development for Protein Binder Design
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:817510/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-05-11
-
 ### PhD student in Bioinformatics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:806223/where:4/)
 - **Department:** Department of Biochemistry and Biophysics
@@ -83,6 +77,12 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-18
+
+### Postdoctoral Fellow in High-throughput Biophysics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825826/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-05-21
 
 ### Postdoctoral Fellow in Transmission Electron Microscopy
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:820458/where:4/)

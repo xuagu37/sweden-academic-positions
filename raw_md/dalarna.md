@@ -1,11 +1,5 @@
 # Dalarna University
 
-### Enhetschef
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2550)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 5/11/2025
-
 ### Universitetsadjunkt i svenska som andraspråk
 - **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2567)
 - **Department:** 

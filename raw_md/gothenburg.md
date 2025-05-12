@@ -1,5 +1,11 @@
 # Gothenburg University
 
+### Associate researcher for glycobiology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36999)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-30
+
 ### Associate researcher in the EU synergy project REM@KE - Reconstructing Embodied Musical knowledge at the Keyboard, based at the Academy of music and drama
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37451)
 - **Department:** 
@@ -18,14 +24,14 @@
 - **Published:** 
 - **Deadline:** 2025-06-05
 
-### Research assistant/pre doc to the department of economics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
+### Research assistant/pre-doc to the department of economics (50%)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
 
-### Research assistant/pre-doc to the department of economics (50%)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
+### Research assistant/pre doc to the department of economics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
@@ -138,11 +144,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-25
 
-### Amanuens with Girls Code Club
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37124)
+### Project assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-05-16
 
 ### Professor in Surgery combined with employment as Specialist Physician/Chief Physician
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37256)
@@ -150,11 +156,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-22
 
-### Project assistant
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
+### Amanuens with Girls Code Club
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37124)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-16
+- **Deadline:** 2025-05-15
 
 ### Doctoral student in sociology within the research project "Blind Justice"
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37242)
@@ -191,10 +197,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-### Associate Senior Lecturer in Earth and Environmental Data Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36892)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-10
 

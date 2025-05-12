@@ -21,6 +21,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher for glycobiology</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36999)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Associate researcher in the EU synergy project REM@KE - Reconstructing Embodied Musical knowledge at the Keyboard, based at the Academy of music and drama</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37451)
@@ -51,9 +61,9 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant/pre doc to the department of economics</h3>
+<h3>Research assistant/pre-doc to the department of economics (50%)</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
@@ -61,9 +71,9 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant/pre-doc to the department of economics (50%)</h3>
+<h3>Research assistant/pre doc to the department of economics</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37276)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
@@ -251,12 +261,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens with Girls Code Club</h3>
+<h3>Project assistant</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37124)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-05-16
 
 </div>
 
@@ -271,12 +281,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant</h3>
+<h3>Amanuens with Girls Code Club</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37018)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37124)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-16
+- **Deadline:** 2025-05-15
 
 </div>
 
@@ -337,16 +347,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer in Earth and Environmental Data Science</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36892)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-10
 </div></div>
 
 <script>

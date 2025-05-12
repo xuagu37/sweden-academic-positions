@@ -1,17 +1,5 @@
 # KTH
 
-### Postdoc in networked control systems
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/818248?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-11
-
-### Doctoral students in generative AI for 3D gesture motion
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/810341?l=en)
-- **Department:** KTH, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-11
-
 ### Doctoral student in Robotics and geometric machine learning
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/811530?l=en)
 - **Department:** School of Electrical Engineering and Computer Science at KTH
@@ -186,7 +174,7 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-26
 
-### Associate Professor Mathematics with Specialization in Numerical Analysis
+### Two Associate Professors in Mathematics with Specialization in Numerical Analysis
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/806504?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 

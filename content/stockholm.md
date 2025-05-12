@@ -20,16 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in AI-development for Protein Binder Design</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:817510/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-05-11
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Bioinformatics</h3>
 
@@ -157,6 +147,16 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-18
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in High-throughput Biophysics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825826/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-05-21
 
 </div>
 

@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 22</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 20</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,26 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Group Leader/Researcher in DDLS Epidemiology and Biology of Infection</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/group-leaderresearcher-in-ddls-epidemiology-and-biology-of-infection_806164/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Statistics</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-students-in-statistics--_817724/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-11
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Medical Science</h3>
 
@@ -51,9 +31,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Chemistry, with a specialization in biochemistry</h3>
+<h3>PhD position in Chemistry, with a specialization in Biophysical Chemistry</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -61,9 +41,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Chemistry, with a specialization in Biophysical Chemistry</h3>
+<h3>PhD position in Chemistry, with a specialization in biochemistry</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -100,21 +80,21 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position (2 years) in fabrication of hollow-core optical fibers for next-generation communication</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-fabrication-of-hollow-core-optical-fibers-for-next-generation-communication-_816379/)
 - **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-05-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
+- **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-05-16
 
