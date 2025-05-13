@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 54</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 56</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,12 +21,42 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Bli digital Mattecoach - hjälp andra med matten!</h3>
+<h3>Post Doc in Composites Recycling using Magnetic Fields</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=11885)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13946)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-05
+- **Deadline:** 2025-06-12
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student: CFD for Hydropower Lifetime Analysis</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13949)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Optical manipulation of microparticles</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13947)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Timlärare i matematik eller matematisk statistik</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13944)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
 
 </div>
 
@@ -467,16 +497,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Advanced Building Control in Sweden</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13862)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
 
 </div>
 

@@ -24,6 +24,18 @@
 - **Published:** 
 - **Deadline:** 2025-06-10
 
+### Amanuens (Research project student-assistant) in computer science at IDA
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26846)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-08
+
+### PhD student in Materials Science (Theory and modelling)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26841)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
+
 ### Research engineer
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26453)
 - **Department:** 
@@ -179,16 +191,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
-
-### PhD student in Environmental Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
-
-### Assistant professor in Machine Learning with a focus on Motion Analysis from Video
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26532)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
 

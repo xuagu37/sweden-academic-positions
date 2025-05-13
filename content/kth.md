@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 57</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 58</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,56 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Robotics and geometric machine learning</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/811530?l=en)
-- **Department:** School of Electrical Engineering and Computer Science at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-12
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in mathematics</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814010?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-12
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in electrocatalytic hydrogenation of bio-aldehydes</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814622?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-12
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD in Generative Modeling for Super Resolution of Brain Imaging</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814088?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-13
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Generative Modeling of Biomolecules</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814090?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-13
 
 </div>
 
@@ -220,6 +170,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in wireless communications for 6G</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/826633?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-22
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in fusion plasma modelling</h3>
 
@@ -284,6 +244,26 @@
 <h3>Research Engineer in Microarchitectural Security</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/822237?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-25
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in Generative Modeling for Super Resolution of Brain Imaging</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814088?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-25
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Generative Modeling of Biomolecules</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814090?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-25
@@ -451,6 +431,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Machine learning for control</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/826543?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-02
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in enhanced sampling in molecular dynamics simulations.</h3>
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/821925?l=en)
@@ -467,6 +457,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-04
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in Communication Systems</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819706?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-05
 
 </div>
 
@@ -547,6 +547,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Generative AI for life science data analysis</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821897?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-22
 
 </div>
 

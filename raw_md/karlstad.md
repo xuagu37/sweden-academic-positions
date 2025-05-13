@@ -30,11 +30,23 @@
 - **Published:** 
 - **Deadline:** 21.May.2025
 
+### Universitetsadjunkt i företagsekonomi med inriktning mot industriell ekonomi
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:826050/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 25.May.2025
+
 ### PhD position in Computer Science, TRUMAN
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:788719/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 29.May.2025
+
+### Universitetsadjunkt i företagsekonomi med inriktning mot marknadsföring
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:826166/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.May.2025
 
 ### Senior Lecturer in Computer Science, Specialisation in AI Engineering
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:718619/iframeEmbedded:0/where:4)

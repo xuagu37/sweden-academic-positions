@@ -1,5 +1,17 @@
 # Gothenburg University
 
+### Global Partnerships Coordinator
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37496)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-01
+
+### Doctoral student in Physics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37492)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
 ### Associate researcher for glycobiology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36999)
 - **Department:** 
@@ -24,6 +36,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-05
 
+### Researcher in Radiation Physics and Source Term Modelling
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37412)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-27
+
 ### Research assistant/pre-doc to the department of economics (50%)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37278)
 - **Department:** 
@@ -35,12 +53,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-20
-
-### Researcher in Radiation Physics and Source Term Modelling
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37412)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
 
 ### Forskare
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37423)
@@ -72,11 +84,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-22
 
-### Biomedical Analyst
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37364)
+### Postdoctoral fellow at the Department of Political Science
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37386)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-20
+- **Deadline:** 2025-05-21
 
 ### One doctoral position in Education
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37367)
@@ -84,11 +96,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-21
 
-### Postdoctoral fellow at the Department of Political Science
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37386)
+### Biomedical Analyst
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37364)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-21
+- **Deadline:** 2025-05-20
 
 ### 1-2 Doctoral students in Medical Science - Regulation of respiratory mucus in disease
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37345)
@@ -179,12 +191,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
-
-### Postdoctor in marine biotechnology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37068)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
 
 ### Doctoral student in Oceanography
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37061)

@@ -12,18 +12,6 @@
 - **Published:** 29 April 2025
 - **Deadline:** 15 May 2025
 
-### Lecturer in Interaction Design (Temporary work)
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4002)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 28 April 2025
-- **Deadline:** 12 May 2025
-
-### Lecturer in Interaction Design 1 position
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4008)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 28 April 2025
-- **Deadline:** 12 May 2025
-
 ### Research Assistant for the FORTE project
 - **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4015)
 - **Department:** Faculty of culture and society  / Department of Global Political Studies

@@ -1,10 +1,28 @@
 # Chalmers University of Technology
 
-### Bli digital Mattecoach - hjälp andra med matten!
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=11885)
+### Post Doc in Composites Recycling using Magnetic Fields
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13946)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-05
+- **Deadline:** 2025-06-12
+
+### PhD Student: CFD for Hydropower Lifetime Analysis
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13949)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
+
+### Postdoc position in Optical manipulation of microparticles
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13947)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### Timlärare i matematik eller matematisk statistik
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13944)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
 
 ### Do you want to work as a tutor?
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=11916)
@@ -269,12 +287,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-### PhD position in Advanced Building Control in Sweden
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13862)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
 
 ### Postdoc in Electrochemical Transistors and Organic Electronics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13838)

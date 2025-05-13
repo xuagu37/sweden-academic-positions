@@ -102,15 +102,15 @@
 - **Published:** 
 - **Deadline:** 2025-05-25
 
-### PhD student (DDLS ) in Environmental RNA biology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-05-26
-
 ### Researcher in Epidemic modelling and statistical inference
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+### PhD student (DDLS ) in Environmental RNA biology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-05-26
 
@@ -156,14 +156,14 @@
 - **Published:** 
 - **Deadline:** 2025-06-09
 
-### Associate Professor in Physical Geography with focus on geohazards
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
+### Associate Professor in Physical Geography
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
 
-### Associate Professor in Physical Geography
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
+### Associate Professor in Physical Geography with focus on geohazards
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
@@ -179,6 +179,12 @@
 - **Department:** Department of Statistics
 - **Published:** 
 - **Deadline:** 2025-06-12
+
+### Senior Lecturer in Business Administration, especially Finance
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:822481/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2025-08-05
 
 ### Postdoctoral Fellow in Theoretical Physics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821810/where:4/)

@@ -60,6 +60,26 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens (Research project student-assistant) in computer science at IDA</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26846)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-08
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Materials Science (Theory and modelling)</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26841)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
+
+</div>
+
 <div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
 <h3>Research engineer</h3>
 
@@ -317,26 +337,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-14
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26393)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Machine Learning with a focus on Motion Analysis from Video</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26532)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-12
 </div></div>
 
 <script>

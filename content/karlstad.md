@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 10</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -70,6 +70,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i företagsekonomi med inriktning mot industriell ekonomi</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:826050/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 25.May.2025
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in Computer Science, TRUMAN</h3>
 
@@ -77,6 +87,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 29.May.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i företagsekonomi med inriktning mot marknadsföring</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:826166/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.May.2025
 
 </div>
 

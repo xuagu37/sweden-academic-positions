@@ -37,13 +37,13 @@
 - **Deadline:** 2025-05-28
 
 ### Postdoc position in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9125)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9128)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-29
 
 ### Postdoc position in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9128)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9125)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-29
@@ -66,6 +66,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-01
 
+### Ph.D. student in Hydrometallurgical Recycling of Critical Metals for low-carbon resource circulation
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9138)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
 ### Associate Senior Lecturer in Waste Science and Technology
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9115)
 - **Department:** 
@@ -80,12 +86,6 @@
 
 ### PhD Student in Cyber-Physical Systems
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9104)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-### PhD Student in Cyber-Physical Systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-15

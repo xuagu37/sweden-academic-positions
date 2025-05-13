@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 31</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -190,21 +190,21 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student (DDLS ) in Environmental RNA biology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Researcher in Epidemic modelling and statistical inference</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-05-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student (DDLS ) in Environmental RNA biology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-05-26
 
@@ -281,9 +281,9 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Physical Geography with focus on geohazards</h3>
+<h3>Associate Professor in Physical Geography</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
@@ -291,9 +291,9 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Physical Geography</h3>
+<h3>Associate Professor in Physical Geography with focus on geohazards</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
@@ -317,6 +317,16 @@
 - **Department:** Department of Statistics
 - **Published:** 
 - **Deadline:** 2025-06-12
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Business Administration, especially Finance</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:822481/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2025-08-05
 
 </div>
 

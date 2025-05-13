@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -77,6 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 5/30/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorand i vårdvetenskap:  Bildskapande interventioner till ungdomar</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2576)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 6/2/2025
 </div></div>
 
 <script>

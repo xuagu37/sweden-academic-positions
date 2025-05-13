@@ -36,3 +36,9 @@
 - **Published:** 
 - **Deadline:** 5/30/2025
 
+### Doktorand i vårdvetenskap:  Bildskapande interventioner till ungdomar
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2576)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 6/2/2025
+
