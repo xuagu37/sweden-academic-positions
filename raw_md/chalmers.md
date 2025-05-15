@@ -1,5 +1,23 @@
 # Chalmers University of Technology
 
+### PhD student position in Hydrogen-Powered Combustion Engines
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-05-21
+
+### PhD Position in Theoretical Machine Learning – Understanding Transformers through Information Theory
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13951)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-14
+
+### 1-year research position on L2 methods in complex geometry
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13943)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-12
+
 ### Post Doc in Composites Recycling using Magnetic Fields
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13946)
 - **Department:** 
@@ -96,12 +114,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-16
 
-### Project Assistant position in Bio-based Building Material
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13925)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-14
-
 ### Postdoc position in microresonator frequency combs (microcombs)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13918)
 - **Department:** 
@@ -185,12 +197,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-15
-
-### PhD student position in Hydrogen-Powered Combustion Engines
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-14
 
 ### Postdoctor in Spectral theory of differential operators
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13904)

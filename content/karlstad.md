@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 10</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 11</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -97,6 +97,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 31.May.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>The project has no title</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:800023/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 05.Jun.2025
 
 </div>
 

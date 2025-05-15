@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 32</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 36</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -51,6 +51,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Optimization (WASP)</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26870)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the field of Materials Science and Engineering</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
@@ -71,9 +81,49 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in animal behaviour</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26856)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Materials Science (Theory and modelling)</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26841)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in cancer at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26848)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Computational Social Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26852)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-03
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Computational Social Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26854)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-03
@@ -327,16 +377,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Digital Forensics with focus on Deep Learning</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26686)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-14
 </div></div>
 
 <script>

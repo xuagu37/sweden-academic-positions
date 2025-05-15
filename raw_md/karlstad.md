@@ -48,6 +48,12 @@
 - **Published:** 
 - **Deadline:** 31.May.2025
 
+### The project has no title
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:800023/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 05.Jun.2025
+
 ### Senior Lecturer in Computer Science, Specialisation in AI Engineering
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:718619/iframeEmbedded:0/where:4)
 - **Department:** 

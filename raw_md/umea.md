@@ -1,19 +1,13 @@
 # Umeå University
 
-### PhD student in Medical Science
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-_818573/)
-- **Department:** Department of Community Medicine and Rehabilitation
-- **Published:** 
-- **Deadline:** 2025-05-14
-
-### PhD position in Chemistry, with a specialization in biochemistry
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
+### PhD position in Chemistry, with a specialization in Biophysical Chemistry
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-15
 
-### PhD position in Chemistry, with a specialization in Biophysical Chemistry
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
+### PhD position in Chemistry, with a specialization in biochemistry
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -119,4 +113,16 @@
 - **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-06-01
+
+### Associate professor within one of the Faculty of Arts and Humanities’ subjects with focus on Sámi research
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-within-one-of-the-faculty-of-arts-and-humanities-subjects-with-focus-on-sami-research_817755/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
+
+### One to Two Associate Professors (Senior Lecturers) in Economics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/one-to-two-associate-professors-senior-lecturers-in-economics_827626/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-14
 

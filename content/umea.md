@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 20</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 21</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,19 +21,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Medical Science</h3>
+<h3>PhD position in Chemistry, with a specialization in Biophysical Chemistry</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-medical-science-_818573/)
-- **Department:** Department of Community Medicine and Rehabilitation
-- **Published:** 
-- **Deadline:** 2025-05-14
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Chemistry, with a specialization in biochemistry</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -41,9 +31,9 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Chemistry, with a specialization in Biophysical Chemistry</h3>
+<h3>PhD position in Chemistry, with a specialization in biochemistry</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biophysical-chemistry_816589/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_816686/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-15
@@ -217,6 +207,26 @@
 - **Department:** Department of Medical Biochemistry and Biophysics
 - **Published:** 
 - **Deadline:** 2025-06-01
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor within one of the Faculty of Arts and Humanities’ subjects with focus on Sámi research</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-within-one-of-the-faculty-of-arts-and-humanities-subjects-with-focus-on-sami-research_817755/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>One to Two Associate Professors (Senior Lecturers) in Economics</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/one-to-two-associate-professors-senior-lecturers-in-economics_827626/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-14
 </div></div>
 
 <script>
