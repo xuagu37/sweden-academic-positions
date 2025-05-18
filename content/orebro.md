@@ -21,32 +21,32 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory assistant in Medicine</h3>
+<h3>Laboratory assistant in Chemistry</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250115)
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250140)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-06-05
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Biomedicine</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Computer Science, Cybersecurity</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250078)
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250141)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-06-09
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in musicology</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Computer Science, Cybersecurity and Embodied AI</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250112)
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250142)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-16
+- **Deadline:** 2025-06-09
 </div></div>
 
 <script>

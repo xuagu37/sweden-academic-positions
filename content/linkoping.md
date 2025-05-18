@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 36</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 37</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -51,6 +51,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26893)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Optimization (WASP)</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26870)
@@ -80,10 +90,40 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in ion channel biophysics and evolution at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26875)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistants in Tumour Evolution and Single-cell Genomics at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26884)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-06
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in animal behaviour</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26856)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer in hematology at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26876)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-05
@@ -347,36 +387,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-18
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Ethnicity and Migration, at least one</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26602)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Senior research engineer in polymer electronics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26802)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Coordinator & EU Policy Officer, Based in Brussels</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26633)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-15
 </div></div>
 
 <script>

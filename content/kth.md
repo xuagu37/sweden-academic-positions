@@ -1,5 +1,5 @@
 # KTH
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 62</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 58</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,56 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in in Large Language Model inferencing</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/812444?l=en)
-- **Department:** KTH, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Tire and road effects on wear and particle emissions</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806489?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in AI-Based Multispecies Coalescent and Species Delimitation</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806208?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in 3D Printing Electronic MicroRobots using nanowire composites</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/799597?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-16
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral students in Engineering Materials Science</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821982?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Industrial Engineering and Management
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-17
 
 </div>
 
@@ -250,6 +200,16 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineers for digital twining of electrified construction operations</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/827727?l=en)
+- **Department:** Kungliga Tekniska högskolan,
+- **Published:** 
+- **Deadline:** Application deadline:2025-05-26
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in how breast cancer alters lipid nanoparticle processing</h3>
 
@@ -345,16 +305,6 @@
 
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/820546?l=en)
 - **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Generative AI for life science data analysis</h3>
-
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/820568?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-05-29
 
@@ -597,6 +547,16 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-22
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Generative AI for life science data analysis</h3>
+
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/820568?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-23
 
 </div>
 

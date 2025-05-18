@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,6 +20,26 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant to be part of the Horizon research project “Loam Walls with Algorithmically Generated 3D Natural Reinforcement”</h3>
+
+- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4067)
+- **Department:** Faculty of culture and society  / Department of Urban Studies
+- **Published:** 16 May 2025
+- **Deadline:** 05 June 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in full-stack development</h3>
+
+- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4070)
+- **Department:** Faculty of technology and society
+- **Published:** 16 May 2025
+- **Deadline:** 06 June 2025
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Pharmacy</h3>
 
@@ -27,16 +47,6 @@
 - **Department:** Faculty of health and society  / Department of Biomedical Science
 - **Published:** 05 May 2025
 - **Deadline:** 30 May 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant in Interaction Design and/or Computer Science</h3>
-
-- **Link:** [View job posting](http://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4018)
-- **Department:** Faculty of culture and society  / School of Arts and Communication
-- **Published:** 29 April 2025
-- **Deadline:** 15 May 2025
 
 </div>
 

@@ -18,6 +18,12 @@
 - **Published:** 
 - **Deadline:** 2025-07-31
 
+### Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26893)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-20
+
 ### Postdoc in Optimization (WASP)
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26870)
 - **Department:** 
@@ -36,8 +42,26 @@
 - **Published:** 
 - **Deadline:** 2025-06-08
 
+### Postdoc in ion channel biophysics and evolution at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26875)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-06
+
+### Research Assistants in Tumour Evolution and Single-cell Genomics at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26884)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-06
+
 ### PhD student in animal behaviour
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26856)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
+### Research engineer in hematology at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26876)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-05
@@ -197,22 +221,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-18
-
-### Senior Lecturer in Ethnicity and Migration, at least one
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26602)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-### Senior research engineer in polymer electronics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26802)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-16
-
-### Coordinator & EU Policy Officer, Based in Brussels
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26633)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-15
 

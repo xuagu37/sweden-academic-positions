@@ -1,20 +1,20 @@
 # Örebro University
 
-### Laboratory assistant in Medicine
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250115)
+### Laboratory assistant in Chemistry
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250140)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-06-05
 
-### Postdoctoral researcher in Biomedicine
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250078)
+### Doctoral students in Computer Science, Cybersecurity
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250141)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-15
+- **Deadline:** 2025-06-09
 
-### Postdoctoral researcher in musicology
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250112)
+### Doctoral students in Computer Science, Cybersecurity and Embodied AI
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250142)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-05-16
+- **Deadline:** 2025-06-09
 

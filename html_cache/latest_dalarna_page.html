@@ -69,6 +69,8 @@
 <script>
   var _paq = window._paq = window._paq || [];
   /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+// Call disableCookies before calling trackPageView 
+_paq.push(['disableCookies']);
 _paq.push(['setCustomUrl', location.href.toLowerCase()]);  
 _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
@@ -84,7 +86,7 @@ _paq.push(['trackPageView']);
 
    
 
-<script src="https://du.matomo.cloud/plugins/HeatmapSessionRecording/configs.php?idsite=1&amp;trackerid=VHCV1b&amp;url=https%3A%2F%2Fwww.du.se%2Fen%2Fabout-du%2Fcareer-opportunities%2Fvacant-positions%2F" async="" defer=""></script></head>
+</head>
 
 <body class="external-pages">
 
@@ -1073,13 +1075,13 @@ Vacant Positions
 
         
 
-        <div id="f146ffd0-9b2a-4b17-a6c7-983b24a94ffc" class="block-body ">
+        <div id="1cfbfe10-965c-4ffb-93ba-1ef4ca381c62" class="block-body ">
             <div class="block-body-inner">
 
                 <div id="du-vacantpositions-block-loading-indicator" class="loading-indicator" style="height: 60px; display: none;" hidden="">
                     <div class="loader-xs"></div>
                 </div>
-                <div id="vacantpositionsBlockCard-98fbd668">
+                <div id="vacantpositionsBlockCard-c299fc2b">
 
 
 <button type="button" class="btn btn-primary" onclick="window.location.href='/en/about-du/career-opportunities/vacant-positions/your-information/?action=signin'">Sign In or Sign Up</button>
@@ -1187,7 +1189,7 @@ Vacant Positions
             data: { language: language, viewExtraText: viewExtraText, isInternal: isInternal },
             success: function (result) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
-                $('#vacantpositionsBlockCard-98fbd668').html(result);
+                $('#vacantpositionsBlockCard-c299fc2b').html(result);
             },
             error: function (req, staus, error) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
@@ -1235,7 +1237,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="a7d55490-d6e6-4cb4-92db-99c748a46561" class="block-body ">
+        <div id="f45d9347-2eb0-4d90-ad0e-1ce149a8e221" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1275,7 +1277,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="91310b56-53b3-4a00-a819-be72048088d7" class="block-body ">
+        <div id="96b40855-a07d-42f9-8ed3-ec284c1d64ff" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1315,7 +1317,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="39aa6cde-8c8e-48a4-aaa8-30f94bce1a28" class="block-body ">
+        <div id="a0afaf85-14ec-471e-a157-01f09fd360f8" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1355,7 +1357,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="35671119-8386-4733-bb91-476ff2c3e151" class="block-body ">
+        <div id="8f3a3c9d-50d0-4fa0-a1ea-a2218c057702" class="block-body ">
             <div class="block-body-inner">
 
 
