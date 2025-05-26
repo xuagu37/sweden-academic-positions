@@ -1,5 +1,83 @@
 # Chalmers University of Technology
 
+### PhD student position in Hydrogen-Powered Combustion Engines
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+### Student position: Development of the optics course for engineering physics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13973)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-18
+
+### Postodoctoral scholar in edge systems
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13627)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
+### PhD student for Data management for AI
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13968)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### PhD student for the implications of Agentic AI in product development
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13967)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### Postdoc in Intelligent Transportation System
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13726)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-21
+
+### Postdoctoral Position in Aviation Noise and Emissions Prediction
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13970)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-22
+
+### Postdoc in Concrete Structures
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13971)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-21
+
+### PhD Student: CFD for Hydropower Lifetime Analysis
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13949)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-11
+
+### Postdoc position in the Division for Applied Mathematics and Statistics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13969)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-08
+
+### PhD student position in Sound and Vibration
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13958)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-25
+
+### Postdoc in Modelling and Mitigating Risks of Carbon-Free Ships Using LLMs
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13962)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-15
+
+### PhD position in Graph Modification
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13908)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-02
+
 ### Research Associate in Model and Algorithm Development for Advanced Battery Management
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13957)
 - **Department:** 
@@ -18,12 +96,6 @@
 - **Published:** 
 - **Deadline:** 2025-05-31
 
-### PhD student position in Hydrogen-Powered Combustion Engines
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-21
-
 ### PhD Position in Theoretical Machine Learning – Understanding Transformers through Information Theory
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13951)
 - **Department:** 
@@ -41,12 +113,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-12
-
-### PhD Student: CFD for Hydropower Lifetime Analysis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13949)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
 
 ### Postdoc position in Optical manipulation of microparticles
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13947)
@@ -162,35 +228,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-28
 
-### PhD student position in Biomedical Radar for Fall Risk Prediction
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13912)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-25
-
 ### Postdoc position logistics impacts of right-to-repair
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13910)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-25
-
-### PhD position in Graph Modification
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13908)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-25
-
-### Postdoc positions in III-nitride Photonic-crystal surface-emitting lasers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13907)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-25
-
-### Postdoc in Nanofluics-Integrated Microcavities for Photochemistry
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13906)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-25
 
 ### Postdoc in Safe, interpretable, learning-based motion planning and control
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13909)
@@ -198,47 +240,11 @@
 - **Published:** 
 - **Deadline:** 2025-07-15
 
-### Postdoctor in Spectral theory of differential operators
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13904)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-25
-
 ### PhD in Sensor-assisted Water Quality Monitoring
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13876)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-30
-
-### PhD student in research on improving user experience and safety using behavioral models
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13886)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-### PhD Position in Theoretical Deep Learning: Symmetries in Neural Networks
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13875)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-21
-
-### CSE, PostDoc in Formal Analysis of AI-based Systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13872)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-25
-
-### Prefekt till institutionen för mekanik och maritima vetenskaper
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13896)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-### Postdoc on quantifying perceived safety and comfort zone boundaries
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13887)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
 
 ### Postdoc on multi-modal ISAC
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13891)
@@ -246,35 +252,11 @@
 - **Published:** 
 - **Deadline:** 2025-05-31
 
-### We are offering up to three PhD positions on galaxy evolution at Chalmers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13890)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-### PhD student in digital design and fabrication for architectural reuse
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13884)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-19
-
-### PhD Student – Maintenance Engineering
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13819)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-22
-
 ### Postdoc in Electrochemical Transistors and Organic Electronics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13838)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-26
-
-### Postdoc in Modelling thermomechanical behaviour of AM microstructures
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13834)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-18
 
 ### PhD student in Dynamics and Control of Legged Robots
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13797)

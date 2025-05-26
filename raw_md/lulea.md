@@ -1,17 +1,5 @@
 # Luleå University
 
-### Research Engineers, summer internship, Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9013)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-### Associated Senior Lecturer in Robotics and AI
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9093)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-23
-
 ### PhD Student in Engineering Materials with specialization in steel recycling and anti-alloying
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9079)
 - **Department:** 
@@ -72,21 +60,33 @@
 - **Published:** 
 - **Deadline:** 2025-06-04
 
-### PhD Student in Cyber-physical systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
+### Post-doctoral Researcher in Engineering Materials with specialization in steel recycling and processing
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9083)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-15
+- **Deadline:** 2025-06-10
 
-### PhD Student in Cyber-Physical Systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9104)
+### Researcher in Robotics and Artificial Intelligence
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9175)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-15
+- **Deadline:** 2025-06-10
 
-### PhD Student in Cyber-Physical Systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
+### PhD Student in Information systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9178)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-15
+- **Deadline:** 2025-06-12
+
+### Senior Lecturer in Structural Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9184)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+### Senior Lecturer in Structural Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9173)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
 

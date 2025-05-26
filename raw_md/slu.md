@@ -1,28 +1,40 @@
 # Swedish University of Agricultural Sciences
 
-### PhD position in Rural Development
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12891)
+### Postdoc
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12767)
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
-- **Deadline:** 2025-05-27
+- **Deadline:** 2025-06-11
 
-### Research engineer in environmental epidemiology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12942)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
+### Postdoc in isotope hydrology and ecohydrology of boreal landscapes
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12994)
+- **Department:** Faculty of Forest Sciences
 - **Published:** 
-- **Deadline:** 2025-05-21
+- **Deadline:** 2025-06-11
 
-### Research assistant for eDNA environmental monitoring
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12940)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
+### Industry-/collaboration PhD student in optimized off-road driving in forests
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12990)
+- **Department:** Faculty of Forest Sciences
 - **Published:** 
-- **Deadline:** 2025-05-21
+- **Deadline:** 2025-08-12
 
 ### Research Assistant for Spinning Artificial Spider Silk
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12784)
 - **Department:** Faculty of Veterinary Medicine and Animal Science
 - **Published:** 
-- **Deadline:** 2025-05-22
+- **Deadline:** 2025-05-29
+
+### Manager/leader (Head of Department)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12979)
+- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
+- **Published:** 
+- **Deadline:** 2025-06-03
+
+### PhD position in Rural Development
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12891)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-05-27
 
 ### Professor of Bioenergy Technology and Systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12958)
@@ -42,12 +54,6 @@
 - **Published:** 
 - **Deadline:** 2025-06-06
 
-### Manager/leader (Head of Department)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12866)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-05-22
-
 ### Postdoctoral Position in Analytical Chemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12901)
 - **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
@@ -59,12 +65,6 @@
 - **Department:** Faculty of Veterinary Medicine and Animal Science
 - **Published:** 
 - **Deadline:** 2025-09-08
-
-### Hourly paid assistants Environmental Communication
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12860)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-05-20
 
 ### Postdoctoral researcher in dairy cattle grazing
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12873)

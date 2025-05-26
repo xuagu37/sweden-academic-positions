@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 12</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,66 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Media and Communication Studies</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:806004/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 18.May.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Engelsk titel</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:808988/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 20.May.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Biblioteksvärdar till Universitetsbiblioteket</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822821/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 20.May.2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computer Science, 6G-NTN mobile systems</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:781427/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 21.May.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Internrevisionschef</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822499/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 21.May.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i företagsekonomi med inriktning mot industriell ekonomi</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:826050/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 25.May.2025
 
 </div>
 
@@ -137,6 +77,36 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 10.Jun.2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Biology</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:828768/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 15.Jun.2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral appointment in Biology</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:828774/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 15.Jun.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Bibliotekarie</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:830827/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 15.Jun.2025
 </div></div>
 
 <script>

@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 18</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 15</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,76 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Applied Physics with focus on hollow-core fiber technology for next-generation communication</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-applied-physics-with-focus-on-hollow-core-fiber-technology-for-next-generation-communication_816202/)
-- **Department:** Department of Applied Physics and Electronics
-- **Published:** 
-- **Deadline:** 2025-05-19
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Chemistry, in biochemistry on the microalgal cell wall</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-in-biochemistry-on-the-microalgal-cell-wall_811800/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Field Assistant (intermittent employment)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/field-assistant-intermittent-employment_819378/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>3 amanuensis 20% to the Department of Molecular Biology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/3-amanuensis-20-to-the-department-of-molecular-biology-_822764/)
-- **Department:** Department of Molecular Biology
-- **Published:** 
-- **Deadline:** 2025-05-21
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Three PhD positions in Space Physics</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/three-phd-positions-in-space-physics_822102/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-05-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Informatics with a focus on sustainable data cultures</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
-- **Department:** Department of Informatics
-- **Published:** 
-- **Deadline:** 2025-05-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science with focus on Visual Language Grounding</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-visual-language-grounding_820240/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-05-25
 
 </div>
 
@@ -111,32 +41,22 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Informatics with a focus on sustainable data cultures</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
+- **Department:** Department of Informatics
+- **Published:** 
+- **Deadline:** 2025-05-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in Chemistry, with a specialization in biochemistry</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_809069/)
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-05-31
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position: Studying Climate Change with plant ecophysiology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-studying-climate-change-with-plant-ecophysiology_825481/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-06-01
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position - Studying Climate Change with NMR spectroscopy</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position---studying-climate-change-with-nmr-spectroscopy_825484/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-06-01
 
 </div>
 
@@ -160,6 +80,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in experimental ovarian cancer research</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-experimental-ovarian-cancer-research_830072/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate professor within one of the Faculty of Arts and Humanities’ subjects with focus on Sámi research</h3>
 
@@ -167,6 +97,36 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position: Studying Climate Change with plant ecophysiology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-studying-climate-change-with-plant-ecophysiology_825481/)
+- **Department:** Department of Medical Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position - Studying Climate Change with NMR spectroscopy</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position---studying-climate-change-with-nmr-spectroscopy_825484/)
+- **Department:** Department of Medical Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in plant science with a focus on cell adhesion</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-a-focus-on-cell-adhesion_828185/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-26
 
 </div>
 
@@ -197,6 +157,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-14
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Business Administration, specialization in entrepreneurship</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-business-administration-specialization-in-entrepreneurship_830386/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
 </div></div>
 
 <script>

@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 28</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,46 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in High-throughput Biophysics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825826/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-21
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Environmental Investigations of Thiamine Deficiency</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824120/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Transmission Electron Microscopy</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:820458/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Evolutionary Prediction</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813144/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-05-25
 
 </div>
 
@@ -120,16 +80,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Insect Evolutionary Ecology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824767/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in organic chemistry</h3>
 
@@ -145,6 +95,16 @@
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815081/where:4/)
 - **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Insect Evolutionary Ecology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824767/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-06-02
 
@@ -190,13 +150,13 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in [ärendemall]</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Theoretical Physics and Topological Phenomena</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792763/where:4/)
-- **Department:** Stockholms universitet
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
+- **Department:** Department of Physics
 - **Published:** 
-- **Deadline:** 2025-06-08
+- **Deadline:** 2025-06-09
 
 </div>
 
@@ -221,9 +181,9 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Physical Geography</h3>
+<h3>Associate Professor in Physical Geography with focus on geohazards</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
@@ -231,9 +191,9 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Physical Geography with focus on geohazards</h3>
+<h3>Associate Professor in Physical Geography</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
@@ -257,6 +217,26 @@
 - **Department:** Department of Statistics
 - **Published:** 
 - **Deadline:** 2025-06-12
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Probability</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:828386/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Marine microbial environmental genomics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824923/where:4/)
+- **Department:** Stockholm University Baltic Sea Centre
+- **Published:** 
+- **Deadline:** 2025-06-22
 
 </div>
 

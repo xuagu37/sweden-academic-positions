@@ -1,29 +1,5 @@
 # Stockholm University
 
-### Postdoctoral Fellow in High-throughput Biophysics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825826/where:4/)
-- **Department:** Department of Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-05-21
-
-### Postdoctoral Fellow in Environmental Investigations of Thiamine Deficiency
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824120/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-### Postdoctoral Fellow in Transmission Electron Microscopy
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:820458/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-### Postdoctoral Fellow in Evolutionary Prediction
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:813144/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-05-25
-
 ### Researcher in Epidemic modelling and statistical inference
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
@@ -60,12 +36,6 @@
 - **Published:** 
 - **Deadline:** 2025-06-01
 
-### Postdoctoral Fellow in Insect Evolutionary Ecology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824767/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-06-02
-
 ### Assistant Professor in organic chemistry
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815083/where:4/)
 - **Department:** Department of Chemistry
@@ -75,6 +45,12 @@
 ### Assistant Professor in Materials Chemistry with focus on organic materials
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815081/where:4/)
 - **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-06-02
+
+### Postdoctoral Fellow in Insect Evolutionary Ecology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824767/where:4/)
+- **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-06-02
 
@@ -102,11 +78,11 @@
 - **Published:** 
 - **Deadline:** 2025-06-06
 
-### Lecturer in [ärendemall]
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:792763/where:4/)
-- **Department:** Stockholms universitet
+### Postdoctoral Fellow in Theoretical Physics and Topological Phenomena
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
+- **Department:** Department of Physics
 - **Published:** 
-- **Deadline:** 2025-06-08
+- **Deadline:** 2025-06-09
 
 ### Associate Senior Lecturer in in economics, specialization in macroeconomics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:819122/where:4/)
@@ -120,14 +96,14 @@
 - **Published:** 
 - **Deadline:** 2025-06-09
 
-### Associate Professor in Physical Geography
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
+### Associate Professor in Physical Geography with focus on geohazards
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
 
-### Associate Professor in Physical Geography with focus on geohazards
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
+### Associate Professor in Physical Geography
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-10
@@ -143,6 +119,18 @@
 - **Department:** Department of Statistics
 - **Published:** 
 - **Deadline:** 2025-06-12
+
+### Postdoctoral Fellow in Probability
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:828386/where:4/)
+- **Department:** Department of Mathematics (incl. Math. Statistics)
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### Postdoctoral Fellow in Marine microbial environmental genomics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824923/where:4/)
+- **Department:** Stockholm University Baltic Sea Centre
+- **Published:** 
+- **Deadline:** 2025-06-22
 
 ### PhD student in Marine Biology
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:828363/where:4/)

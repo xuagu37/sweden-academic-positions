@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,46 +21,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i svenska som andraspråk</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2567)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 5/19/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetslektor i svenska som andraspråk</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2570)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 5/19/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>HR-specialist</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2569)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 5/25/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>IKT-pedagog</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2551)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 5/25/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Universitetslektor i bild/bilddidaktik</h3>
 
 - **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2538)
@@ -77,6 +37,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 5/30/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Kommunikatör</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2579)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 6/1/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i italienska 25%</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2564)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 6/2/2025
 
 </div>
 

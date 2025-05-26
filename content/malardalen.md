@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: -1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,7 +16,48 @@
 </div>
 
 <div id="jobList">
+<div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
 </div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in Building Engineering (with a focus on Building Information Modelling)</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3166)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Lecturer in environmental engineering</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3172)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in energy- and environmental engineering with focus on reuse in the building sector</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3111)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant at the Department of Marketing and Strategy</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3189)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+</div></div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

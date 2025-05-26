@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 37</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -70,6 +70,56 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Research engineer in ion channel pharmacology</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26937)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Evolvable soft neural electrodes</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26940)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>UX design and development - Visualization Center C</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26904)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Employment as a PhD student in Medical Science at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26934)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Director of the Swedish AI Factory MIMER</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26944)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in the field of Materials Science and Engineering</h3>
 
@@ -77,6 +127,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Multiagent Automatic Control</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-09
 
 </div>
 
@@ -287,106 +347,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-05-26
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Multiagent Automatic Control</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Wireless Communications and Computer Vision</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26637)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Automatic Control</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26719)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Machine Learning within WASP</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26720)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Environmental Change</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26765)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-22
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in Mathematics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26585)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-21
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Organic electro chemistry</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26651)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Theoretical Physics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26661)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdocs in Computational Social Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26764)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-19
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Biomedical Engineering Sciences</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26750)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-18
 </div></div>
 
 <script>
