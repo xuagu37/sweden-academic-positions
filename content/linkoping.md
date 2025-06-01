@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 28</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -47,6 +47,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Materials Chemistry</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-24
 
 </div>
 
@@ -110,10 +120,30 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD students in Automatic Control within SEDDIT</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26949)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>NAISS Data Coordinator</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26983)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Director of the Swedish AI Factory MIMER</h3>
 
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26944)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26986)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-13
@@ -267,86 +297,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in the field of Materials Science and Engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Principal research engineer in Molecular Biology at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26800)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-28
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants/Amanuens in Business Administration</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26813)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-28
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Sustainable photosynthetic living materials and devices</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26676)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Industrial Marketing</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26699)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Associate Professor in Industrial Marketing</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26701)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in production engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26693)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Generative AI and Machine Learning</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26718)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-26
 </div></div>
 
 <script>

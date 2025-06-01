@@ -18,6 +18,12 @@
 - **Published:** 
 - **Deadline:** 2025-07-31
 
+### Postdoc in Materials Chemistry
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-24
+
 ### Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26893)
 - **Department:** 
@@ -54,8 +60,20 @@
 - **Published:** 
 - **Deadline:** 2025-06-13
 
+### PhD students in Automatic Control within SEDDIT
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26949)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
+### NAISS Data Coordinator
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26983)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-13
+
 ### Director of the Swedish AI Factory MIMER
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26944)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26986)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-13
@@ -149,52 +167,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-02
-
-### Postdoc in the field of Materials Science and Engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26682)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-### Principal research engineer in Molecular Biology at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26800)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-28
-
-### Teaching assistants/Amanuens in Business Administration
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26813)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-28
-
-### Postdoc in Sustainable photosynthetic living materials and devices
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26676)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-### Associate Professor in Industrial Marketing
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26699)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-### Senior Associate Professor in Industrial Marketing
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26701)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-### Assistant professor in production engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26693)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-### PhD students in Generative AI and Machine Learning
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26718)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-26
 

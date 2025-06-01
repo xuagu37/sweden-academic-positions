@@ -24,9 +24,3 @@
 - **Published:** 16 May 2025
 - **Deadline:** 06 June 2025
 
-### Senior Lecturer in Pharmacy
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4029)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 05 May 2025
-- **Deadline:** 30 May 2025
-

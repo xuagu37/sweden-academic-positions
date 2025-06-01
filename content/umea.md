@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 15</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 14</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,46 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in computational biology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-computational-biology_818929/)
-- **Department:** Department of Molecularbiology
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Position in Mathematics Focusing on the Analysis of Partial Differential Equations</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-mathematics-focusing-on-the-analysis-of-partial-differential-equations_819213/)
-- **Department:** Department of Mathematics and Mathematical Statistics
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Informatics with a focus on sustainable data cultures</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
-- **Department:** Department of Informatics
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Chemistry, with a specialization in biochemistry</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_809069/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-31
 
 </div>
 
@@ -120,6 +80,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff scientist in bacterial infections and epitranscriptome</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-bacterial-infections-and-epitranscriptome_829523/)
+- **Department:** Department of Molecularbiology
+- **Published:** 
+- **Deadline:** 2025-06-16
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD position in plant science with a focus on cell adhesion</h3>
 
@@ -127,6 +97,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in plant science with focus on photosynthetic water oxidation</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-focus-on-photosynthetic-water-oxidation_831440/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
 
 </div>
 
@@ -167,6 +147,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Philosophy</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-philosophy_822386/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-08-29
 </div></div>
 
 <script>

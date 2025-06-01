@@ -1,47 +1,5 @@
 # Luleå University
 
-### PhD Student in Engineering Materials with specialization in steel recycling and anti-alloying
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9079)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-### PhD Position in Engineering Materials – Advanced Microstructural Characteriza-tion of Ausferritic Steels
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9090)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-28
-
-### PhD Student in Applied Geochemistry
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9123)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-28
-
-### Postdoc position in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9125)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-29
-
-### Postdoc position in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9128)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-29
-
-### ​​Professor/Head of Subject of Cyber-Physical Systems​
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8922)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-31
-
-### WASP PhD Student position in Sustainable Machine Learning
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9028)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-05-31
-
 ### PhDStudent in Signal Processing: 6G Communications & Sensing for LEO Satcom
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8973)
 - **Department:** 
@@ -79,14 +37,56 @@
 - **Deadline:** 2025-06-12
 
 ### Senior Lecturer in Structural Engineering
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9184)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9173)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-13
 
 ### Senior Lecturer in Structural Engineering
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9173)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9184)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-13
+
+### PhD Student in Cyber-physical systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9104)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9110)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+### PhD Student in Soil Mechanics
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9198)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-17
+
+### PhD student position in Entrepreneurship and Innovation
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9167)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-20
 

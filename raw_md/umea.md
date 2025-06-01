@@ -1,29 +1,5 @@
 # Umeå University
 
-### Associate professor in computational biology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-computational-biology_818929/)
-- **Department:** Department of Molecularbiology
-- **Published:** 
-- **Deadline:** 2025-05-27
-
-### PhD Position in Mathematics Focusing on the Analysis of Partial Differential Equations
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-mathematics-focusing-on-the-analysis-of-partial-differential-equations_819213/)
-- **Department:** Department of Mathematics and Mathematical Statistics
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-### PhD position in Informatics with a focus on sustainable data cultures
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-informatics-with-a-focus-on-sustainable-data-cultures_818948/)
-- **Department:** Department of Informatics
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-### PhD position in Chemistry, with a specialization in biochemistry
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-biochemistry_809069/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-31
-
 ### PhD-student
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_827469/)
 - **Department:** Department of Odontology
@@ -60,11 +36,23 @@
 - **Published:** 
 - **Deadline:** 2025-06-15
 
+### Staff scientist in bacterial infections and epitranscriptome
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-bacterial-infections-and-epitranscriptome_829523/)
+- **Department:** Department of Molecularbiology
+- **Published:** 
+- **Deadline:** 2025-06-16
+
 ### PhD position in plant science with a focus on cell adhesion
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-a-focus-on-cell-adhesion_828185/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-26
+
+### PhD position in plant science with focus on photosynthetic water oxidation
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-focus-on-photosynthetic-water-oxidation_831440/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
 
 ### Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
@@ -89,4 +77,10 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-15
+
+### Professor of Philosophy
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-philosophy_822386/)
+- **Department:** Department of Historical, Philosophical and Religious Studies
+- **Published:** 
+- **Deadline:** 2025-08-29
 

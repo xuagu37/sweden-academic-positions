@@ -20,56 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Epidemic modelling and statistical inference</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student (DDLS ) in Environmental RNA biology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in analytical method development for textile materials</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:827472/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-29
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826711/where:4/)
-- **Department:** Department of Economics
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Ocean Colour Remote Sensing</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808784/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-05-31
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate Professor in Mathematical Statistics</h3>
 
@@ -130,16 +80,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Plant systematics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826108/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-06-06
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral fellow in environmental RNA biology (eRNA)</h3>
 
@@ -150,11 +90,21 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Theoretical Physics and Topological Phenomena</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Plant systematics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
-- **Department:** Department of Physics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826108/where:4/)
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2025-06-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant within the Nippon Foundation-GEBCO-Seabed 2030 project</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826757/where:4/)
+- **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-06-09
 
@@ -170,11 +120,11 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant within the Nippon Foundation-GEBCO-Seabed 2030 project</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Theoretical Physics and Topological Phenomena</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826757/where:4/)
-- **Department:** Department of Geological Sciences
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
+- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-06-09
 
@@ -227,6 +177,56 @@
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Atomic Physics: Simulations of Antihydrogen Experiments</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831223/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Atomic Physics: Mutual neutralization with laser manipulated atomic ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831216/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Atomic Physics: Many-body calculations of negative ions</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831184/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: Unconventional superconductivity in iron-pnictide compounds</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831170/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
 
 </div>
 

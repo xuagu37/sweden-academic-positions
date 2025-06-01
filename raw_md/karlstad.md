@@ -1,17 +1,5 @@
 # Karlstad University
 
-### PhD position in Computer Science, TRUMAN
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:788719/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 29.May.2025
-
-### Universitetsadjunkt i företagsekonomi med inriktning mot marknadsföring
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:826166/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 31.May.2025
-
 ### The project has no title
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:800023/iframeEmbedded:0/where:4)
 - **Department:** 
@@ -53,4 +41,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 15.Jun.2025
+
+### Projektassistent, forskning i engelska vid CSL, 60 %
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:832392/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 17.Jun.2025
+
+### Fakultetsadministratör vikariat
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:831480/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 18.Jun.2025
 

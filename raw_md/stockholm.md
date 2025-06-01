@@ -1,35 +1,5 @@
 # Stockholm University
 
-### Researcher in Epidemic modelling and statistical inference
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821479/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-### PhD student (DDLS ) in Environmental RNA biology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808749/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-05-26
-
-### Postdoctoral Fellow in analytical method development for textile materials
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:827472/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-05-29
-
-### Research Assistant
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826711/where:4/)
-- **Department:** Department of Economics
-- **Published:** 
-- **Deadline:** 2025-05-30
-
-### Researcher in Ocean Colour Remote Sensing
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:808784/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-05-31
-
 ### Associate Professor in Mathematical Statistics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815251/where:4/)
 - **Department:** Department of Mathematics (incl. Math. Statistics)
@@ -66,21 +36,21 @@
 - **Published:** 
 - **Deadline:** 2025-06-04
 
-### PhD student in Plant systematics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826108/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-06-06
-
 ### Postdoctoral fellow in environmental RNA biology (eRNA)
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824101/where:4/)
 - **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
 - **Published:** 
 - **Deadline:** 2025-06-06
 
-### Postdoctoral Fellow in Theoretical Physics and Topological Phenomena
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
-- **Department:** Department of Physics
+### PhD student in Plant systematics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826108/where:4/)
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2025-06-06
+
+### Research assistant within the Nippon Foundation-GEBCO-Seabed 2030 project
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826757/where:4/)
+- **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-06-09
 
@@ -90,9 +60,9 @@
 - **Published:** 
 - **Deadline:** 2025-06-09
 
-### Research assistant within the Nippon Foundation-GEBCO-Seabed 2030 project
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826757/where:4/)
-- **Department:** Department of Geological Sciences
+### Postdoctoral Fellow in Theoretical Physics and Topological Phenomena
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
+- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-06-09
 
@@ -125,6 +95,36 @@
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-06-15
+
+### PhD Student in Atomic Physics: Simulations of Antihydrogen Experiments
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831223/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### PhD student in Atomic Physics: Mutual neutralization with laser manipulated atomic ions
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831216/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### PhD student in Atomic Physics: Many-body calculations of negative ions
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831184/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### PhD student in Physics: Unconventional superconductivity in iron-pnictide compounds
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831170/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
 
 ### Postdoctoral Fellow in Marine microbial environmental genomics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824923/where:4/)

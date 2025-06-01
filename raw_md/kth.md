@@ -1,101 +1,5 @@
 # KTH
 
-### Research engineers for digital twining of electrified construction operations
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/827727?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-26
-
-### Doctoral student in how breast cancer alters lipid nanoparticle processing
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819229?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-26
-
-### Research Engineer in Machine Learning
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819288?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-26
-
-### Assistant professor in Ergonomics with specialization in work-related musculoskeletal disorder
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/778026?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-28
-
-### Postdoc in engineering physics, biophysics and life science
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/827253?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-### Doctoral students in cooperative transportation systems
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/817215?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-### Doctoral student in Metabolic engineering of Acetivibrio thermocellus for sustainable product formation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/820220?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-### Doctoral student in optimization and machine learning
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/820546?l=en)
-- **Department:** Kungliga Tekniska högskolan,
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-### Doctoral students in Fault-Resistant PQC Digital Signatures Implementations
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821027?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-### Doctoral student in Neuronics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/814183?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-29
-
-### Doctoral students in Machine Learning for Automated Code Generation
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/816323?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-30
-
-### Doctoral student in Medical Bioinformatics and Cancer Research
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819014?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-30
-
-### Doctoral student in Experimental and Data-Driven Cancer Research
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/819144?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-30
-
-### Doctoral student in AI-based multimodal spatiotemporal imaging
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/820492?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-30
-
-### Doctoral student in numerical compressible fluid dynamics
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821302?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-30
-
-### Two Associate Professors in Mathematics with Specialization in Numerical Analysis
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/806504?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
-- **Published:** 
-- **Deadline:** Application deadline:2025-05-30
-
 ### Postdoc in in geospatial planning of electricity- and clean cooking-access
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/830709?l=en)
 - **Department:** School of Industrial Engineering and Management at KTH
@@ -176,7 +80,7 @@
 
 ### PhD in Generative Modeling for Super Resolution of Brain Imaging
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/814088?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Department:** KTH, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-05
 
@@ -192,11 +96,23 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-05
 
+### Researcher for teaching in Cognitive Interaction Design, part-time 25%
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/832678?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-06
+
 ### Doctoral student in Solid Mechanics – Ageing mechanisms in batteries
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/822913?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-08
+
+### Postdoc in Analysis and Modelling of Streaming Electrification.
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/831206?l=en)
+- **Department:** School of Electrical Engineering and Computer Science in KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-09
 
 ### Postdoc in Human Computer Interaction
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/826902?l=en)
@@ -212,6 +128,12 @@
 
 ### Doctoral student in AI-native Edge Computing for 6G
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/820222?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-09
+
+### Doctoral students in Fault-Resistant PQC Digital Signatures Implementations
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821027?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-09
@@ -234,6 +156,12 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-10
 
+### Doctoral students in cooperative transportation systems
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/817215?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-12
+
 ### Associate professor in Human-Robot Interaction
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/819537?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
@@ -251,6 +179,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-18
+
+### Assistant professor in Ergonomics with specialization in work-related musculoskeletal disorder
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/778026?l=en)
+- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-19
 
 ### Research Engineer in Microarchitectural Security
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/822237?l=en)
@@ -276,6 +210,12 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-26
 
+### Doctoral students in Machine Learning for Automated Code Generation
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/816323?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-30
+
 ### Laboratory assistants in Quantum Technology
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/799338?l=en)
 - **Department:** School of Engineering Sciences at KTH
@@ -288,9 +228,15 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-08-15
 
+### Assistant Professor in Mathematics with Specialization in Mathematical Analysis
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/826949?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
+- **Published:** 
+- **Deadline:** Application deadline:2025-08-28
+
 ### Assistant Professor in fluid mechanics
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/808687?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
+- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences
 - **Published:** 
 - **Deadline:** Application deadline:2025-08-31
 

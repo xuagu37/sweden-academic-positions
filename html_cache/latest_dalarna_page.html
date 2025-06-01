@@ -96,7 +96,31 @@ _paq.push(['trackPageView']);
     <p class="browserupgrade">You are using an <b>outdated</b> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-            <div><style>/* === Fix odd thumbnail-border in Kaltura-player === */
+            <div><style>/* === Textbreak on small screens - Header and Footer === */
+
+.primary-portal-links .top-links-others, .primary-portal-links .top-links-portals { flex-wrap: wrap; }
+
+
+/* === Textbreak on small screens - Programme list === */
+
+.education-block-group .block-body-inner .panel { overflow: auto; }
+.education-block.blockstylenormal .panel.collapsible-card { box-shadow: 0 0px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.1)!important }
+
+ .education-block-group .block-body-inner .panel-heading-title { font-size: 1.6rem; }
+ .education-block-group.blockstylepanel .block-body .block-body-inner { padding: 2px; }
+
+ 
+@media (min-width: 350px) {
+ .education-block-group .block-body-inner .panel-heading-title { 
+  font-size: 1.8rem;
+ }
+  .education-block-group.blockstylepanel .block-body .block-body-inner  {
+  padding: 15px;
+ }
+}
+
+
+/* === Fix odd thumbnail-border in Kaltura-player === */
 
 .playkit-poster { background-size: cover !important; }
 
@@ -733,13 +757,13 @@ nav h2.sr-only { width: 0px !important; }
     <nav class="row" aria-label="Other search functions">
                 <div class="col-sm-4">
                     <span class="fa fa-search"></span>
-                    <a target="_blank" rel="noopener" href="https://dalarna.summon.serialssolutions.com/en/" title="" class="du-header-link">
+                    <a href="https://dalarna.summon.serialssolutions.com/en/" title="" class="du-header-link">
                         Library Articles, Books, etc.
                     </a>
                 </div>
                 <div class="col-sm-4">
                     <span class="fa fa-search"></span>
-                    <a target="_blank" rel="noopener" href="http://du.diva-portal.org/smash/search.jsf?dswid=-6840&amp;faces-redirect=true&amp;language=en" title="" class="du-header-link">
+                    <a href="http://du.diva-portal.org/smash/search.jsf?dswid=-6840&amp;faces-redirect=true&amp;language=en" title="" class="du-header-link">
                         Research Publications (DiVA)
                     </a>
                 </div>
@@ -1075,40 +1099,18 @@ Vacant Positions
 
         
 
-        <div id="f93d39de-6355-48e3-b6db-c7063ee16eb8" class="block-body ">
+        <div id="e940ca81-f1cc-4fb1-89ba-27bf8634d7e0" class="block-body ">
             <div class="block-body-inner">
 
                 <div id="du-vacantpositions-block-loading-indicator" class="loading-indicator" style="height: 60px; display: none;" hidden="">
                     <div class="loader-xs"></div>
                 </div>
-                <div id="vacantpositionsBlockCard-4f47e018">
+                <div id="vacantpositionsBlockCard-430702e6">
 
 
 <button type="button" class="btn btn-primary" onclick="window.location.href='/en/about-du/career-opportunities/vacant-positions/your-information/?action=signin'">Sign In or Sign Up</button>
 <button type="button" class="btn btn-primary" onclick="window.location.href='/en/about-du/career-opportunities/vacant-positions/your-information/?action=subscribe'">Subscribe</button>
 
-    <div class="vacantpositions-item">
-            <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2538">Universitetslektor i bild/bilddidaktik</a>
-
-        <div class="vacantpositions-area">
-            
-            <div>Last day to apply: <time datetime="5/30/2025 11:59:00 PM">30 May 2025</time></div>
-            <div>Location: Borlange</div>
-        </div>
-
-
-    </div>
-    <div class="vacantpositions-item">
-            <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2539">Universitetsadjunkt i bild/bilddidaktik</a>
-
-        <div class="vacantpositions-area">
-            
-            <div>Last day to apply: <time datetime="5/30/2025 11:59:00 PM">30 May 2025</time></div>
-            <div>Location: Borlange</div>
-        </div>
-
-
-    </div>
     <div class="vacantpositions-item">
             <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2579">Kommunikatör</a>
 
@@ -1167,7 +1169,7 @@ Vacant Positions
             data: { language: language, viewExtraText: viewExtraText, isInternal: isInternal },
             success: function (result) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
-                $('#vacantpositionsBlockCard-4f47e018').html(result);
+                $('#vacantpositionsBlockCard-430702e6').html(result);
             },
             error: function (req, staus, error) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
@@ -1215,7 +1217,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="fbbaebdd-d38f-4b38-a20a-d9e844a238e2" class="block-body ">
+        <div id="e31a93ad-9911-4569-8436-642ea41c51a1" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1255,7 +1257,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="a958bfb5-81c1-453d-8178-5b9d38e2051a" class="block-body ">
+        <div id="f9e25de6-755f-4e61-8725-6a1dfa6f0e43" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1295,7 +1297,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="545e4cb7-1f96-4566-9ad3-23b9a8290892" class="block-body ">
+        <div id="4319a6ba-b9a7-4f9f-a407-54f3ac77b07c" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1335,7 +1337,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="212fa09f-d94e-4e8e-b900-c36b629d7b1c" class="block-body ">
+        <div id="412b6d45-556c-44a4-a957-dca68d8fd488" class="block-body ">
             <div class="block-body-inner">
 
 
