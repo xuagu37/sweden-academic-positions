@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,32 +21,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kommunikatör</h3>
+<h3>Timanställd tentamensvärd till lärande organisation</h3>
 
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2579)
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2585)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 6/1/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i italienska 25%</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2564)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 6/2/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Doktorand i vårdvetenskap:  Bildskapande interventioner till ungdomar</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2576)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 6/2/2025
+- **Deadline:** 9/7/2025
 </div></div>
 
 <script>

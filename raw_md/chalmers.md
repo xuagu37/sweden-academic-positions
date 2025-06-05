@@ -1,5 +1,83 @@
 # Chalmers University of Technology
 
+### Amanuensis positions at the terahertz and millimetre wave lab
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14018)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### Postdoc position - Sustainable Battery Production
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14008)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+### PostDoc: Molecular dynamics simulations of lipid self-assembled structures
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13948)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-05
+
+### Postdoc in observing the Arctic atmosphere using operational microwave sensors
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14013)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-06
+
+### PhD position in Computational Nano Catalysis for Hydrogen Carriers
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14010)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+### Postdoc position in development of binder for future battery applications
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13464)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-05
+
+### PhD student in Intelligent, Learning-based Optimization for Sustainable Electromobility
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14009)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-09
+
+### Postdoctoral position in atom-opto-mechanical systems
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13782)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-01
+
+### Vill du dela med dig av din utbildning och ditt studentliv på Chalmers? Just nu letar vi efter digitala ambassadörer för vår TikTok-kanal
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13921)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+### Project assistant in single particle automated raman tracking analysis
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13993)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-16
+
+### PhD position in far-infrared semiconductor electronics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14005)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-03
+
+### PhD Student Position – Aircraft Integration of Open Fan Technology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14004)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-03
+
+### Tekniker/Forskningsingenjör till Nanotekniklaboratoriet
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13988)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-12
+
 ### Postdoctoral Researcher in Modeling Anthropometric Variability Using Deep Machine Learning
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13980)
 - **Department:** 
@@ -23,12 +101,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
-
-### Tekniker/Forskningsingejör till Nanotekniklaboratoriet
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13988)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-12
 
 ### Postdoc in Green Synthesis of Conjugated Polymers
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13977)
@@ -71,12 +143,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-29
-
-### PhD student position in Hydrogen-Powered Combustion Engines
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
 
 ### Student position: Development of the optics course for engineering physics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13973)
@@ -137,12 +203,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-15
-
-### PhD position in Graph Modification
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13908)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
 
 ### Research Associate in Model and Algorithm Development for Advanced Battery Management
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13957)
@@ -240,23 +300,11 @@
 - **Published:** 
 - **Deadline:** 2025-06-05
 
-### PhD Project: Digital Twins and VR for Smart Construction Management
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13930)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
 ### Postdoc position in microresonator frequency combs (microcombs)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13918)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
-
-### Postdoc position in development of binder for future battery applications
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13464)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-01
 
 ### Postdoc in Nanocellulose Composites and Hydrogels for Wearable Electronics
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13913)
@@ -275,12 +323,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-15
-
-### Postdoctoral position in atom-opto-mechanical systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13782)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-01
 
 ### PhD in experimental superconducting quantum computing
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13691)

@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 10</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 12</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -80,6 +80,16 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratory assistant in Biomedicine/Toxicology</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250201)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-19
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral researchers in Computer Science, Cybersecurity</h3>
 
@@ -107,6 +117,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in criminology</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250199)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
 
 </div>
 

@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 28</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 22</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -60,6 +60,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemistry, focusing on simulation of reactive gas flows</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26988)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-24
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis</h3>
 
@@ -67,6 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-20
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Employment as research assistant in neurobiology/psychology at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27027)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-19
 
 </div>
 
@@ -217,86 +237,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-05
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Materials Science (Theory and modelling)</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26841)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in cancer at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26848)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Computational Social Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26852)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Computational Social Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26854)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26453)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26774)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26775)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Materials Science</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26790)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
 </div></div>
 
 <script>

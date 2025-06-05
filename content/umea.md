@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 14</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 16</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,16 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD-student</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_827469/)
-- **Department:** Department of Odontology
-- **Published:** 
-- **Deadline:** 2025-06-04
 
 </div>
 
@@ -97,6 +87,36 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Two Amanuensis positions for the Life Science program (20% of full time)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/two-amanuensis-positions-for-the-life-science-program-20-of-full-time_828991/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student in Sociology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_830563/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2025-07-21
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Sociology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_830567/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2025-07-21
 
 </div>
 

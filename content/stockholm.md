@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 27</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,66 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Mathematical Statistics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815251/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-06-01
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in organic chemistry</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815083/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Materials Chemistry with focus on organic materials</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815081/where:4/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Insect Evolutionary Ecology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824767/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Procedure Law</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825126/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2025-06-04
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Computer and Systems Sciences focusing on Cybersecurity</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:819130/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2025-06-04
 
 </div>
 
@@ -100,6 +40,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Theoretical Physics and Topological Phenomena</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-09
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research assistant within the Nippon Foundation-GEBCO-Seabed 2030 project</h3>
 
@@ -115,16 +65,6 @@
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:819122/where:4/)
 - **Department:** Institute for International Economic Studies
-- **Published:** 
-- **Deadline:** 2025-06-09
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Theoretical Physics and Topological Phenomena</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
-- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-06-09
 
@@ -151,6 +91,16 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Statistics, specialized in Data Science</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811266/where:4/)
+- **Department:** Department of Statistics
+- **Published:** 
+- **Deadline:** 2025-06-12
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Statistics</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811265/where:4/)
@@ -160,13 +110,13 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Statistics, specialized in Data Science</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Laboratory Technician</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811266/where:4/)
-- **Department:** Department of Statistics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831142/where:4/)
+- **Department:** Institutionen för molekylär biovetenskap Wenner-Grens institut
 - **Published:** 
-- **Deadline:** 2025-06-12
+- **Deadline:** 2025-06-15
 
 </div>
 
@@ -177,6 +127,26 @@
 - **Department:** Department of Mathematics (incl. Math. Statistics)
 - **Published:** 
 - **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Wildlife Palaeogenomics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831047/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-06-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
 
 </div>
 
@@ -220,16 +190,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Marine microbial environmental genomics</h3>
 
@@ -250,6 +210,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Herring population genetics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830572/where:4/)
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2025-06-24
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate Senior Lecturer in Computer and Systems Sciences, focusing on the Internet of Things</h3>
 
@@ -260,6 +230,26 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching Assistant in Physics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:833177/where:4/)
+- **Department:** Fysikum
+- **Published:** 
+- **Deadline:** 2025-07-21
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer/Associate Professor in [ärendemall] Välj EN av titlarna.</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821547/where:4/)
+- **Department:** Stockholms universitet
+- **Published:** 
+- **Deadline:** 2025-08-04
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Business Administration, especially Finance</h3>
 
@@ -267,6 +257,26 @@
 - **Department:** Stockholms universitet
 - **Published:** 
 - **Deadline:** 2025-08-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Automation expert for Chemical synthesis and Material processing</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831922/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Metamorphic petrology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:833906/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-09-08
 
 </div>
 

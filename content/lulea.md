@@ -20,36 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>PhDStudent in Signal Processing: 6G Communications & Sensing for LEO Satcom</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-8973)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-01
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Ph.D. student in Hydrometallurgical Recycling of Critical Metals for low-carbon resource circulation</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9138)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer in Waste Science and Technology</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9115)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-04
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Post-doctoral Researcher in Engineering Materials with specialization in steel recycling and processing</h3>
 
@@ -113,17 +83,7 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Cyber-Physical Systems</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9104)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Cyber-Physical Systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-15
@@ -143,10 +103,30 @@
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Cyber-Physical Systems</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Cyber-Physical Systems</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9104)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Cybersecurity,  eXplainable AI for Threat Prediction</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9208)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-27
 
 </div>
 
@@ -167,6 +147,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-20
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Process Metallurgy</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9212)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Entrepreneurship and Innovation</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9219)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-03
 </div></div>
 
 <script>

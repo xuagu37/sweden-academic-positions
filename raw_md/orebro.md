@@ -36,6 +36,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-11
 
+### Laboratory assistant in Biomedicine/Toxicology
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250201)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-19
+
 ### Postdoctoral researchers in Computer Science, Cybersecurity
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250159)
 - **Department:** 
@@ -53,6 +59,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
+
+### Postdoctoral researcher in criminology
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250199)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
 
 ### Postdoctoral researcher in Biomedicine/Toxicology
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250172)

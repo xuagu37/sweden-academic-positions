@@ -1,5 +1,5 @@
 # Chalmers University of Technology
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 49</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 56</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,136 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuensis positions at the terahertz and millimetre wave lab</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14018)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position - Sustainable Battery Production</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14008)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>PostDoc: Molecular dynamics simulations of lipid self-assembled structures</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13948)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-05
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in observing the Arctic atmosphere using operational microwave sensors</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14013)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-06
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Computational Nano Catalysis for Hydrogen Carriers</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14010)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in development of binder for future battery applications</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13464)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-05
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Intelligent, Learning-based Optimization for Sustainable Electromobility</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14009)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-09
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in atom-opto-mechanical systems</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13782)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-01
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Vill du dela med dig av din utbildning och ditt studentliv på Chalmers? Just nu letar vi efter digitala ambassadörer för vår TikTok-kanal</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13921)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in single particle automated raman tracking analysis</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13993)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in far-infrared semiconductor electronics</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14005)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-03
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student Position – Aircraft Integration of Open Fan Technology</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14004)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-03
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Tekniker/Forskningsingenjör till Nanotekniklaboratoriet</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13988)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-12
 
 </div>
 
@@ -57,16 +187,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Tekniker/Forskningsingejör till Nanotekniklaboratoriet</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13988)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-12
 
 </div>
 
@@ -137,16 +257,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-29
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student position in Hydrogen-Powered Combustion Engines</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13497)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
 
 </div>
 
@@ -247,16 +357,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Graph Modification</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13908)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-02
 
 </div>
 
@@ -420,16 +520,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Project: Digital Twins and VR for Smart Construction Management</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13930)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc position in microresonator frequency combs (microcombs)</h3>
 
@@ -437,16 +527,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in development of binder for future battery applications</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13464)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-01
 
 </div>
 
@@ -477,16 +557,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-15
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in atom-opto-mechanical systems</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13782)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-01
 
 </div>
 

@@ -1,5 +1,47 @@
 # Swedish University of Agricultural Sciences
 
+### Senior Lecturer (Associate Professor) in applied aesthetics with relevance for landscape architecture
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13029)
+- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+### Licentiate position in environmental molecular monitoring techniques
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13080)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-06-20
+
+### PhD student in plant molecular and cell biology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13059)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-06-30
+
+### Laboratory assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13078)
+- **Department:** Faculty of Natural Resources and Agricultural Scie
+- **Published:** 
+- **Deadline:** 2025-07-12
+
+### Field assistant to forest genetics and plant physiology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13084)
+- **Department:** Faculty of Forest Sciences
+- **Published:** 
+- **Deadline:** 2025-06-12
+
+### Postdoctoral position, Carbon balance and biodiversity of boreal forests
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13025)
+- **Department:** Faculty of Forest Sciences
+- **Published:** 
+- **Deadline:** 2025-06-23
+
+### Experiment assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13054)
+- **Department:** Faculty of Veterinary Medicine and Animal Science
+- **Published:** 
+- **Deadline:** 2025-06-16
+
 ### PhD student position in forest pathology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13047)
 - **Department:** Faculty of Forest Sciences
@@ -17,12 +59,6 @@
 - **Department:** Faculty of Forest Sciences
 - **Published:** 
 - **Deadline:** 2025-06-06
-
-### PhD position in Rural Development
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12891)
-- **Department:** Faculty of Natural Resources and Agricultural Scie
-- **Published:** 
-- **Deadline:** 2025-06-03
 
 ### Rearearcher - bacteria-phage interactions in lakes
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13021)
@@ -47,12 +83,6 @@
 - **Department:** Faculty of Forest Sciences
 - **Published:** 
 - **Deadline:** 2025-08-12
-
-### Manager/leader (Head of Department)
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12979)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-06-03
 
 ### Professor of Bioenergy Technology and Systems
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12958)

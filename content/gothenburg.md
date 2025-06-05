@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 33</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 38</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,13 +20,93 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Systems Biology</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Biophysics in high resolution X-ray imaging of nematodes.</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37577)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37766)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-19
+- **Deadline:** 2025-07-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Biophysics in electric field and pH induced conformational changes in membrane protein channels</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37753)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Spintronics</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37745)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>University lecturer in radiography</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37684)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior lecturer in Data science and AI</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37649)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in oceanography</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-18
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>PostDoc in materials chemistry: with a focus on covalent organic frameworks.</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37652)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-06
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37714)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-06
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in norovirus research</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37639)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-18
 
 </div>
 
@@ -41,12 +121,12 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in norovirus research</h3>
+<h3>Postdoctoral researcher in Systems Biology</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37639)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37577)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-18
+- **Deadline:** 2025-06-19
 
 </div>
 
@@ -80,13 +160,13 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Physics</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>PostDoc Position in Business and Biodiversity focusing on Management Accounting</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37636)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37647)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-13
+- **Deadline:** 2025-06-12
 
 </div>
 
@@ -100,13 +180,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>PostDoc Position in Business and Biodiversity focusing on Management Accounting</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Physics</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37647)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37636)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-12
+- **Deadline:** 2025-06-13
 
 </div>
 
@@ -230,10 +310,40 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher to analyze serial crystallography</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Public Administration with assignment as Collaboration Officer</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37444)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37536)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-04
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37485)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37489)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-05
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor to study lipid/membrane homeostasis in C. elegans</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37524)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-09
@@ -251,72 +361,12 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor to study lipid/membrane homeostasis in C. elegans</h3>
+<h3>Researcher to analyze serial crystallography</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37524)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37444)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-09
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37489)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37485)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Public Administration with assignment as Collaboration Officer</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37536)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-04
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Mucosal biology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37479)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Studies on mitochondrial DNA replication and its regulation</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37506)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-03
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Global Partnerships Coordinator</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37496)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-01
 
 </div>
 

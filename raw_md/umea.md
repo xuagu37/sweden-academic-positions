@@ -1,11 +1,5 @@
 # Umeå University
 
-### PhD-student
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_827469/)
-- **Department:** Department of Odontology
-- **Published:** 
-- **Deadline:** 2025-06-04
-
 ### Postdoctoral position (2 years) in terrestrial ecosystem ecology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-terrestrial-ecosystem-ecology_828380/)
 - **Department:** Department of Ecology and Environmental Science
@@ -47,6 +41,24 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-26
+
+### Two Amanuensis positions for the Life Science program (20% of full time)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/two-amanuensis-positions-for-the-life-science-program-20-of-full-time_828991/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-06-26
+
+### PhD-student in Sociology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_830563/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2025-07-21
+
+### PhD student in Sociology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_830567/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2025-07-21
 
 ### PhD position in plant science with focus on photosynthetic water oxidation
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-focus-on-photosynthetic-water-oxidation_831440/)
