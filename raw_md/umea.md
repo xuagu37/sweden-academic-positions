@@ -1,11 +1,5 @@
 # Umeå University
 
-### Postdoctoral position (2 years) in terrestrial ecosystem ecology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-2-years-in-terrestrial-ecosystem-ecology_828380/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-06-06
-
 ### Postdoctoral position in experimental ovarian cancer research
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-experimental-ovarian-cancer-research_830072/)
 - **Department:** 

@@ -1,5 +1,11 @@
 # Swedish University of Agricultural Sciences
 
+### Postdoc in wood quality of single trees
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13104)
+- **Department:** Faculty of Forest Sciences
+- **Published:** 
+- **Deadline:** 2025-06-27
+
 ### Senior Lecturer (Associate Professor) in applied aesthetics with relevance for landscape architecture
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13029)
 - **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
@@ -54,12 +60,6 @@
 - **Published:** 
 - **Deadline:** 2025-06-13
 
-### Hourly Laboratory Assistants to Forest Genetics and Plant Physiology
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13048)
-- **Department:** Faculty of Forest Sciences
-- **Published:** 
-- **Deadline:** 2025-06-06
-
 ### Rearearcher - bacteria-phage interactions in lakes
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=13021)
 - **Department:** Faculty of Natural Resources and Agricultural Scie
@@ -95,12 +95,6 @@
 - **Department:** Faculty of Natural Resources and Agricultural Scie
 - **Published:** 
 - **Deadline:** 2025-08-11
-
-### PhD Student - FORCE
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12904)
-- **Department:** Faculty of Landscape Architecture, Horticulture and Crop Production Sciences
-- **Published:** 
-- **Deadline:** 2025-06-06
 
 ### Postdoctoral Position in Analytical Chemistry
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I017/1114/job?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=12901)

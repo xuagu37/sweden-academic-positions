@@ -18,12 +18,6 @@
 - **Published:** 
 - **Deadline:** 11 August 2025
 
-### Postdoctoral position in X-ray Photon Science on Energy Materials
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=808573)
-- **Department:** Department of Physics and Astronomy
-- **Published:** 
-- **Deadline:** 5 June 2025
-
 ### Senior lecturer
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=812570)
 - **Department:** Department of Economics
@@ -53,12 +47,6 @@
 - **Department:** Department of Materials Science and Engineering
 - **Published:** 
 - **Deadline:** 30 June 2025
-
-### Postdoctoral position on climate extremes and population health
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=820707)
-- **Department:** Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 5 June 2025
 
 ### Postdoctoral position in condensed matter theory
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=821464)
@@ -318,12 +306,6 @@
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 13 juni 2025
 
-### Systemutvecklare med fokus på integrationsutveckling
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=826268)
-- **Department:** Avdelningen för universitetsgemensam IT
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 juni 2025
-
 ### Amanuens till nätbaserad juridisk översiktskurs
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=826399)
 - **Department:** Juridiska institutionen
@@ -354,29 +336,11 @@
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 10 juni 2025
 
-### Kurs- och utbildningsadministratör
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829057)
-- **Department:** Nationellt centrum för kvinnofrid (NCK)
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 juni 2025
-
-### Amanuens
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829408)
-- **Department:** Institutionen för biologisk grundutbildning
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 6 juni 2025
-
 ### Amanuenser masterprogram och kurser avancerad nivå
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829596)
 - **Department:** Juridiska institutionen
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 12 juni 2025
-
-### Forskningsinfrastrukturspecialist
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829666)
-- **Department:** Gustavianum, Uppsala universitetsmuseum
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 juni 2025
 
 ### Universitetslektor i Sociologi, tidsbegränsad
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829731)

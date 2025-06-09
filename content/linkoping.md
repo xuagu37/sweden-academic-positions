@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 22</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 19</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -51,6 +51,16 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Plant Bioelectronics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27038)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Materials Chemistry</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
@@ -67,6 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-24
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principal research engineer in addiction medicine at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27025)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-23
 
 </div>
 
@@ -187,56 +207,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-09
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens (Research project student-assistant) in computer science at IDA</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26846)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-08
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in ion channel biophysics and evolution at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26875)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-06
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistants in Tumour Evolution and Single-cell Genomics at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26884)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-06
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in animal behaviour</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26856)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in hematology at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26876)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
 </div></div>
 
 <script>

@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 86</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 80</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -50,16 +50,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in X-ray Photon Science on Energy Materials</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=808573)
-- **Department:** Department of Physics and Astronomy
-- **Published:** 
-- **Deadline:** 5 June 2025
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior lecturer</h3>
 
@@ -107,16 +97,6 @@
 - **Department:** Department of Materials Science and Engineering
 - **Published:** 
 - **Deadline:** 30 June 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position on climate extremes and population health</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=820707)
-- **Department:** Department of Earth Sciences
-- **Published:** 
-- **Deadline:** 5 June 2025
 
 </div>
 
@@ -551,16 +531,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Systemutvecklare med fokus på integrationsutveckling</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=826268)
-- **Department:** Avdelningen för universitetsgemensam IT
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuens till nätbaserad juridisk översiktskurs</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=826399)
@@ -611,42 +581,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kurs- och utbildningsadministratör</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829057)
-- **Department:** Nationellt centrum för kvinnofrid (NCK)
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Amanuens</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829408)
-- **Department:** Institutionen för biologisk grundutbildning
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 6 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuenser masterprogram och kurser avancerad nivå</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829596)
 - **Department:** Juridiska institutionen
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 12 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsinfrastrukturspecialist</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829666)
-- **Department:** Gustavianum, Uppsala universitetsmuseum
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 5 juni 2025
 
 </div>
 

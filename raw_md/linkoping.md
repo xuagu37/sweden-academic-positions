@@ -18,6 +18,12 @@
 - **Published:** 
 - **Deadline:** 2025-07-31
 
+### Postdoc in Plant Bioelectronics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27038)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-30
+
 ### Postdoc in Materials Chemistry
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
 - **Department:** 
@@ -29,6 +35,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-24
+
+### Principal research engineer in addiction medicine at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27025)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-23
 
 ### Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26893)
@@ -101,34 +113,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-09
-
-### Amanuens (Research project student-assistant) in computer science at IDA
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26846)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-08
-
-### Postdoc in ion channel biophysics and evolution at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26875)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-06
-
-### Research Assistants in Tumour Evolution and Single-cell Genomics at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26884)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-06
-
-### PhD student in animal behaviour
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26856)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
-
-### Research engineer in hematology at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26876)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
 

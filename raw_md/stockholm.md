@@ -1,17 +1,5 @@
 # Stockholm University
 
-### Postdoctoral fellow in environmental RNA biology (eRNA)
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824101/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-06-06
-
-### PhD student in Plant systematics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:826108/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-06-06
-
 ### Postdoctoral Fellow in Theoretical Physics and Topological Phenomena
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:825667/where:4/)
 - **Department:** Department of Physics

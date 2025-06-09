@@ -1,5 +1,11 @@
 # Chalmers University of Technology
 
+### Dataarkitekt med ansvar för dataplattform och analysarkitektur
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14011)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-17
+
 ### Amanuensis positions at the terahertz and millimetre wave lab
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14018)
 - **Department:** 
@@ -120,12 +126,6 @@
 - **Published:** 
 - **Deadline:** 2025-07-01
 
-### Postodoctoral scholar in edge systems
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13627)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
-
 ### PhD Student Position in Safe, Interpretable, Learning-Based Motion Planning and Control
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13978)
 - **Department:** 
@@ -185,12 +185,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-11
-
-### Postdoc position in the Division for Applied Mathematics and Statistics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13969)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-08
 
 ### PhD student position in Sound and Vibration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13958)
@@ -252,23 +246,11 @@
 - **Published:** 
 - **Deadline:** 2025-09-05
 
-### PhD student position on Climate adaptation of urban roads
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13939)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-08
-
 ### Postdoc in frontier research on novel 2D materials for thermal management applications
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13844)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-10
-
-### Two Postdoctoral positions in High Performance Computing
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13822)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-06
 
 ### Marie Skłodowska-Curie Doctoral Fellow in Smart Ports Systems Integration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13583)
@@ -293,12 +275,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-15
-
-### Postdoc position in efficient simulation of noisy quantum circuits
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13923)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-05
 
 ### Postdoc position in microresonator frequency combs (microcombs)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13918)
