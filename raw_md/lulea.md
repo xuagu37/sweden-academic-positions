@@ -1,23 +1,5 @@
 # Luleå University
 
-### Post-doctoral Researcher in Engineering Materials with specialization in steel recycling and processing
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9083)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### Researcher in Robotics and Artificial Intelligence
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9175)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### PhD Student in Information systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9178)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-12
-
 ### Senior Lecturer in Structural Engineering
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9173)
 - **Department:** 
@@ -89,4 +71,22 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
+
+### Postdoc in Entrepreneurship and Innovation
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9219)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-03
+
+### PhD Student in Information systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9178)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-04
+
+### PhD Student in Structural Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9223)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-10
 

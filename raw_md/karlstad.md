@@ -1,11 +1,5 @@
 # Karlstad University
 
-### Doctoral student in civil law
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:811193/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 10.Jun.2025
-
 ### Postdoctoral Researcher in Biology
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:828768/iframeEmbedded:0/where:4)
 - **Department:** 

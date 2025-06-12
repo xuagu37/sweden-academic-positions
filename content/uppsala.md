@@ -1,5 +1,5 @@
 # Uppsala University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 80</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 76</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -27,16 +27,6 @@
 - **Department:** Faculty of Arts, Department of History
 - **Published:** 
 - **Deadline:** 17 June 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow - Regulation of autoreactive B cells by Ncf1 polymorphism</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=806149)
-- **Department:** Department of Medical Biochemistry and Microbiology
-- **Published:** 
-- **Deadline:** 9 June 2025
 
 </div>
 
@@ -70,13 +60,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in experimental hadron physics</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in organoid models and gene therapies for brain tumors</h3>
 
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=817317)
-- **Department:** Department of Physics and Astronomy
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=815177)
+- **Department:** Department of Immunology, Genetics and Pathology
 - **Published:** 
-- **Deadline:** 9 June 2025
+- **Deadline:** 24 June 2025
 
 </div>
 
@@ -120,16 +110,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=823592)
-- **Department:** Department of Women's and Children's Health
-- **Published:** 
-- **Deadline:** 9 June 2025
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc position in materials chemistry, additive manufacturing</h3>
 
@@ -147,6 +127,16 @@
 - **Department:** Disciplinary Domain of Science and Technology, Faculty of Technology, Department of Electrical Engineering
 - **Published:** 
 - **Deadline:** 16 June 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in molecular biology</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=825301)
+- **Department:** Department of Immunology, Genetics and Pathology
+- **Published:** 
+- **Deadline:** 24 June 2025
 
 </div>
 
@@ -181,16 +171,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Media and Communication Studies with a specialization in Changing Journalistic Fields in Post-Soviet Spaces</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=825561)
-- **Department:** Disciplinary Domain of Humanities and Social Sciences, Faculty of Social Sciences,  for Russian and Eurasian Studies
-- **Published:** 
-- **Deadline:** 9 June 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Security Testing of Network Protocol Implementation</h3>
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=826792)
@@ -221,36 +201,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Formal Quantum Field Theory</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=827909)
-- **Department:** Department of Mathematics
-- **Published:** 
-- **Deadline:** 11 June 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=828211)
-- **Department:** Department of Information Technology
-- **Published:** 
-- **Deadline:** 10 June 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Nanotechnology and Functional Materials with focus on development of sustainable nanocomposites for efficient precious metal extraction and catalysis</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=828359)
-- **Department:** Disciplinary Domain of Science and Technology, Faculty of Technology, Department of Materials Science and Engineering
-- **Published:** 
-- **Deadline:** 9 June 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Chemistry (experimental/computational physical chemistry)</h3>
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=828909)
@@ -267,6 +217,16 @@
 - **Department:** Department of Chemistry - Ångström Laboratory
 - **Published:** 
 - **Deadline:** 13 June 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in protocol testing</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=829740)
+- **Department:** Department of Information Technology
+- **Published:** 
+- **Deadline:** 10 July 2025
 
 </div>
 
@@ -290,16 +250,6 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>1-2 Research Assistants at the Centre for Health Economic Research</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=830349)
-- **Department:** Disciplinary Domain of Medicine and Pharmacy, Faculty of Medicine, Department of Medical Sciences
-- **Published:** 
-- **Deadline:** 10 June 2025
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student position – translational diabetes research</h3>
 
@@ -316,17 +266,7 @@
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=830833)
 - **Department:** Department of Pharmacy
 - **Published:** 
-- **Deadline:** 16 June 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in electric motor design from a system perspective</h3>
-
-- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=831129)
-- **Department:** Department of Electrical Engineering
-- **Published:** 
-- **Deadline:** 11 June 2025
+- **Deadline:** 23 June 2025
 
 </div>
 
@@ -365,6 +305,16 @@
 
 - **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=832063)
 - **Department:** Department of Chemistry - Ångström Laboratory
+- **Published:** 
+- **Deadline:** 23 June 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Digital International Student Ambassador</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=832069)
+- **Department:** Uppsala universitet
 - **Published:** 
 - **Deadline:** 23 June 2025
 
@@ -460,6 +410,66 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in applied hydrogen systems</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=832644)
+- **Department:** Department of Civil and Industrial Engineering
+- **Published:** 
+- **Deadline:** 19 June 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science focusing on the topic of Parametric Floating-Point Reasoning</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=832747)
+- **Department:** Department of Information Technology
+- **Published:** 
+- **Deadline:** 11 August 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student for the synthesis of covalent-organic frameworks with electrical conductivity and X-ray absorption properties</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=833265)
+- **Department:** Department of Chemistry - Ångström Laboratory
+- **Published:** 
+- **Deadline:** 30 June 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student in Economics for our interdisciplinary project with WASP-HS</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=833870)
+- **Department:** Department of Economics
+- **Published:** 
+- **Deadline:** 1 July 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Tailoring Battery Materials for Lithium Extraction</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=834229)
+- **Department:** Department of Chemistry - Ångström Laboratory
+- **Published:** 
+- **Deadline:** 30 June 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in symplectic and contact topology</h3>
+
+- **Link:** [View job posting](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=834284)
+- **Department:** Department of Mathematics
+- **Published:** 
+- **Deadline:** 30 June 2025
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Universitetslektor i psykologi</h3>
 
@@ -511,16 +521,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Postdoktor i Cybersäkerhet för digitaliserade energisystem</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=824038)
-- **Department:** Institutionen för elektroteknik
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 10 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Universitetsadjunkt i associationsrätt till terminskurs 5</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=826168)
@@ -541,62 +541,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Systemutvecklare med fokus på utveckling i Sitevision</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=827966)
-- **Department:** Avdelningen för universitetsgemensam IT
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsingenjör</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=827994)
-- **Department:** Institutionen för immunologi, genetik och patologi
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 10 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Systemutvecklare med fokus på webbutveckling</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=828023)
-- **Department:** Avdelningen för universitetsgemensam IT
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Kursadministratör</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829016)
-- **Department:** Nationalekonomiska institutionen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 10 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Amanuenser masterprogram och kurser avancerad nivå</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829596)
 - **Department:** Juridiska institutionen
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 12 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetslektor i Sociologi, tidsbegränsad</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829731)
-- **Department:** Sociologiska institutionen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
 
 </div>
 
@@ -611,36 +561,6 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsassistent i oorganisk syntes och karaktärisering</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829829)
-- **Department:** Institutionen för kemi - Ångström
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsassistent i psykiatrisk hjärnstimulering</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=829909)
-- **Department:** Institutionen för medicinska vetenskaper
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskningsassistent i oorganisk kemi</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=830030)
-- **Department:** Institutionen för kemi - Ångström
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Ekonom</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=830111)
@@ -651,42 +571,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Forskare i litiumjonbatterier med fokus på realtidsanalys</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=830186)
-- **Department:** Institutionen för kemi - Ångström
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 9 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Doktorand inom obesitas-forskning</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=830441)
 - **Department:** Institutionen för medicinska vetenskaper
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 19 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Anställning som forskare i statsvetenskap</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=830481)
-- **Department:** Statsvetenskapliga institutionen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 11 juni 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt till lantmäteriprogrammet</h3>
-
-- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=830578)
-- **Department:** Juridiska institutionen
-- **Published:** 
-- **Deadline:** Sista dag för ansökan: 11 juni 2025
 
 </div>
 
@@ -771,6 +661,16 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Ekonomiadministratör</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=831260)
+- **Department:** Institutionen för kirurgiska vetenskaper
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 18 juni 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Försökstekniker</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=831365)
@@ -811,12 +711,72 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i finska</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=832147)
+- **Department:** Institutionen för moderna språk
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 26 juni 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Tekniker med AV-inriktning</h3>
 
 - **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=832299)
 - **Department:** Intendenturorganisationen, Gamla torget
 - **Published:** 
 - **Deadline:** Sista dag för ansökan: 19 juni 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Administratör</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=832382)
+- **Department:** Teologiska institutionen
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 23 juni 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=833518)
+- **Department:** Medicinska och farmaceutiska vetenskapsområdet, Medicinska fakulteten, Institutionen för medicinsk cellbiologi
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 23 juni 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Pedagogisk utvecklare</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=833738)
+- **Department:** Enheten för universitetspedagogik
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 25 juni 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Biträdande universitetslektor i pedagogik: vuxnas lärande och arbetsliv</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=834310)
+- **Department:** Inst för pedagogik, didaktik och utbildningssociologi
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 7 augusti 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i redovisningsrätt och skatterätt till terminskurs 5</h3>
+
+- **Link:** [View job posting](https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=834608)
+- **Department:** Juridiska institutionen
+- **Published:** 
+- **Deadline:** Sista dag för ansökan: 18 juni 2025
 </div></div>
 
 <script>

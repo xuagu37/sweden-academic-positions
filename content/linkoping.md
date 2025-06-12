@@ -50,6 +50,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27062)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Plant Bioelectronics</h3>
 
@@ -57,6 +67,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in psychiatric neuroscience at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27044)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-25
 
 </div>
 
@@ -187,26 +207,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-13
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in the field of Materials Science and Engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Multiagent Automatic Control</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-09
 </div></div>
 
 <script>

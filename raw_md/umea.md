@@ -1,17 +1,5 @@
 # Umeå University
 
-### Postdoctoral position in experimental ovarian cancer research
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-experimental-ovarian-cancer-research_830072/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### Associate professor within one of the Faculty of Arts and Humanities’ subjects with focus on Sámi research
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-within-one-of-the-faculty-of-arts-and-humanities-subjects-with-focus-on-sami-research_817755/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
 ### Postdoctoral position: Studying Climate Change with plant ecophysiology
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-studying-climate-change-with-plant-ecophysiology_825481/)
 - **Department:** Department of Medical Biochemistry and Biophysics
@@ -72,6 +60,24 @@
 - **Published:** 
 - **Deadline:** 2025-08-01
 
+### Post doctor (2 years) within privacy for data-driven models and high-dimensional data
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-privacy-for-data-driven-models-and-high-dimensional-data_833467/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+### Assistant Professor in Computing Science with a focus on Cybersecurity
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/assistant-professor-in-computing-science-with-a-focus-on-cybersecurity_828609/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+### Associate professor in Computing Science
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-computing-science_827105/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
 ### One to Two Associate Professors (Senior Lecturers) in Economics
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/one-to-two-associate-professors-senior-lecturers-in-economics_827626/)
 - **Department:** 
@@ -81,6 +87,12 @@
 ### PhD student in Business Administration, specialization in entrepreneurship
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-business-administration-specialization-in-entrepreneurship_830386/)
 - **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### Stress response modelling in IceLab: PhD position in computational physics to uncover organelle coordination mechanisms under stress
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/stress-response-modelling-in-icelab-phd-position-in-computational-physics-to-uncover-organelle-coordination-mechanisms-under-stress_835533/)
+- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-08-15
 

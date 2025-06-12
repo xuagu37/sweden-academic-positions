@@ -20,36 +20,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral Researcher in Engineering Materials with specialization in steel recycling and processing</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9083)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9175)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Information systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9178)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-12
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Structural Engineering</h3>
 
@@ -167,6 +137,36 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Entrepreneurship and Innovation</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9219)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-03
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Information systems</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9178)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-04
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Structural Engineering</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9223)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-10
 </div></div>
 
 <script>

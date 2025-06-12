@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 15</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 17</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in experimental ovarian cancer research</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-experimental-ovarian-cancer-research_830072/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor within one of the Faculty of Arts and Humanities’ subjects with focus on Sámi research</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-within-one-of-the-faculty-of-arts-and-humanities-subjects-with-focus-on-sami-research_817755/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
 
 </div>
 
@@ -140,6 +120,36 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Post doctor (2 years) within privacy for data-driven models and high-dimensional data</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-privacy-for-data-driven-models-and-high-dimensional-data_833467/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Computing Science with a focus on Cybersecurity</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/assistant-professor-in-computing-science-with-a-focus-on-cybersecurity_828609/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in Computing Science</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-computing-science_827105/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>One to Two Associate Professors (Senior Lecturers) in Economics</h3>
 
@@ -155,6 +165,16 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-business-administration-specialization-in-entrepreneurship_830386/)
 - **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Stress response modelling in IceLab: PhD position in computational physics to uncover organelle coordination mechanisms under stress</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/stress-response-modelling-in-icelab-phd-position-in-computational-physics-to-uncover-organelle-coordination-mechanisms-under-stress_835533/)
+- **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-08-15
 

@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 11</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory assistant in Chemistry</h3>
-
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250161)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistant in Chemistry</h3>
-
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250163)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory assistant for a study on PFAS in recycled paper and board</h3>
-
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250174)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
 
 </div>
 
@@ -77,6 +47,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-23
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Economics</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250205)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
 
 </div>
 

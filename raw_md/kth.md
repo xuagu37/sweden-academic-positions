@@ -1,53 +1,5 @@
 # KTH
 
-### Postdoc in Analysis and Modelling of Streaming Electrification.
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/831206?l=en)
-- **Department:** School of Electrical Engineering and Computer Science in KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-09
-
-### Postdoc in Human Computer Interaction
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/826902?l=en)
-- **Department:** School of Electrical Engineering and Computer Science at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-09
-
-### Postdoc in simulating transport in nanofibril networks
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/827058?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-09
-
-### Doctoral student in AI-native Edge Computing for 6G
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/820222?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-09
-
-### Doctoral students in Fault-Resistant PQC Digital Signatures Implementations
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/821027?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-09
-
-### Doctoral student in Political Ecology (Sustainability Studies)
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/831165?l=en)
-- **Department:** KTH Royal Institute of Technology, School of Architecture and Built Environment
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-10
-
-### Postdoctor in causal machine learning for human mobility behavior
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/828476?l=en)
-- **Department:** School of Engineering Sciences at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-10
-
-### Doctoral student in  Materials Science – New Sustainable Cemented Carbide Materials
-- **Link:** [View job posting](https://www.kth.se/lediga-jobb/829756?l=en)
-- **Department:** School of Industrial Engineering and Management at KTH
-- **Published:** 
-- **Deadline:** Application deadline:2025-06-11
-
 ### Researcher in Recovery of Value-Added Products from Marine Sediment
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/828066?l=en)
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
@@ -114,6 +66,12 @@
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-19
 
+### Research Engineer in geospatial data analysis and hydrogeological modeling
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/835934?l=en)
+- **Department:** School of Architecture and Built Environment at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-20
+
 ### Doctoral student in Hierarchical effects of water in cellulosic systems
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/831075?l=en)
 - **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
@@ -131,6 +89,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-20
+
+### Postdoc in Additive Manufacturing of Metallic Materials
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/835457?l=en)
+- **Department:** School of Industrial Engineering and Management at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-21
 
 ### Postdoc in Generative AI for life science data analysis
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/821897?l=en)
@@ -161,6 +125,12 @@
 - **Department:** School of Electrical Engineering and Computer Science at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-06-24
+
+### Doctoral student in Investigating structure and dynamics in lipid nanoparticles
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/831612?l=en)
+- **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-06-25
 
 ### Doctoral student in Synthetic biology to enhance carbon conversion in cyanobacteria
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/830020?l=en)
@@ -233,6 +203,12 @@
 - **Department:** KTH Royal Institute of Technology, School of Engineering Sciences in Chemistry, Biotechnology and Health
 - **Published:** 
 - **Deadline:** Application deadline:2025-07-02
+
+### HPC System Manager
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/834655?l=en)
+- **Department:** School of Electrical Engineering and Computer Science at KTH
+- **Published:** 
+- **Deadline:** Application deadline:2025-07-04
 
 ### PhD in telecommunication: low-power IoT devices in 6G radio access networks
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/830697?l=en)
@@ -311,6 +287,18 @@
 - **Department:** School of Engineering Sciences in Chemistry, Biotechnology and Health at KTH
 - **Published:** 
 - **Deadline:** Application deadline:2025-08-19
+
+### Assistant professor in Sustainable Satellite Networks
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/825319?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-08-28
+
+### Assistant professor in Information Science and Engineering
+- **Link:** [View job posting](https://www.kth.se/lediga-jobb/825330?l=en)
+- **Department:** KTH Royal Institute of Technology, School of Electrical Engineering and Computer Science
+- **Published:** 
+- **Deadline:** Application deadline:2025-08-28
 
 ### Assistant professor in Micro and Nanosystems for a Resilient Society
 - **Link:** [View job posting](https://www.kth.se/lediga-jobb/826520?l=en)

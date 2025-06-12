@@ -1,5 +1,65 @@
 # Chalmers University of Technology
 
+### Postdoctoral position in prediction of low-dimensional magnetoelectrics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14026)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-15
+
+### PhD student in flexible model for cell design and material composition
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13976)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+### PhD position in Network Security for Web3
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14028)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-30
+
+### Postdoc position in Development of High burn up structure SIMFuel Analogues
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13225)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-24
+
+### PhD student position in Conducting Polymer Fibers for Wearable Electronics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14025)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-14
+
+### Postdoc on metal-oxide systems for BECCS
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14019)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-01
+
+### Postdoc position for Generative models for molecular dynamics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14022)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+### Postdoc in Production of renewable fuels and chemicals using catalysis
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14017)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+### Postdoc position on biorefinery of marine and terrestrial biomass
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14021)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+### PhD student in large-scale robotic 3D printing with circular biomaterials
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14012)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-27
+
 ### Dataarkitekt med ansvar för dataplattform och analysarkitektur
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14011)
 - **Department:** 
@@ -180,12 +240,6 @@
 - **Published:** 
 - **Deadline:** 2025-06-21
 
-### PhD Student: CFD for Hydropower Lifetime Analysis
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13949)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
 ### PhD student position in Sound and Vibration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13958)
 - **Department:** 
@@ -234,35 +288,17 @@
 - **Published:** 
 - **Deadline:** 2025-06-15
 
-### Timlärare i matematik eller matematisk statistik
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13944)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
 ### Do you want to work as a tutor?
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=11916)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-05
 
-### Postdoc in frontier research on novel 2D materials for thermal management applications
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13844)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
 ### Marie Skłodowska-Curie Doctoral Fellow in Smart Ports Systems Integration
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13583)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
-
-### PhD student position in Energy and environmental systems analysis of maritime transport
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13933)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-09
 
 ### PhD Position in Nanoelectronic Devices for AI Hardware
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13864)

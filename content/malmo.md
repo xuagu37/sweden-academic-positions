@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 2</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -37,16 +37,6 @@
 - **Department:** Faculty of technology and society
 - **Published:** 09 June 2025
 - **Deadline:** 15 July 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in Machine Learning</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4066)
-- **Department:** Faculty of technology and society
-- **Published:** 19 May 2025
-- **Deadline:** 09 June 2025
 </div></div>
 
 <script>

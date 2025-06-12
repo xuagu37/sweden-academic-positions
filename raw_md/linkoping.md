@@ -18,11 +18,23 @@
 - **Published:** 
 - **Deadline:** 2025-07-31
 
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27062)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
 ### Postdoc in Plant Bioelectronics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27038)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
+
+### Postdoc in psychiatric neuroscience at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27044)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-25
 
 ### Postdoc in Materials Chemistry
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
@@ -101,16 +113,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-13
-
-### Postdoc in the field of Materials Science and Engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26579)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### PhD student in Multiagent Automatic Control
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26739)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-09
 

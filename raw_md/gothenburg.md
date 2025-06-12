@@ -1,5 +1,17 @@
 # Gothenburg University
 
+### Two doctoral students in Comparative Literature
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37398)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-27
+
+### Research assistant
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37783)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-01
+
 ### Postdoctor in Neuroscience
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37761)
 - **Department:** 
@@ -60,11 +72,11 @@
 - **Published:** 
 - **Deadline:** 2025-07-31
 
-### Associate researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37714)
+### Doctoral student in oceanography
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-07-06
+- **Deadline:** 2025-07-18
 
 ### PostDoc in materials chemistry: with a focus on covalent organic frameworks.
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37652)
@@ -72,11 +84,11 @@
 - **Published:** 
 - **Deadline:** 2025-08-06
 
-### Doctoral student in oceanography
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37723)
+### Associate researcher
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37714)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-07-18
+- **Deadline:** 2025-07-06
 
 ### Postdoctoral researcher in Systems Biology
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37577)
@@ -138,30 +150,6 @@
 - **Published:** 
 - **Deadline:** 2025-06-12
 
-### Senior Lecturer in Economics with a focus on behavioral and experimental finance
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37607)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37581)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37609)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
-### Researcher
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37604)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
 ### Postdoctoral Position in Psychology: Machine Learning Applications in Aging Research
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37465)
 - **Department:** 
@@ -173,12 +161,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-15
-
-### Doctoral student in Medical Science - Translational childhood cancer research
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37546)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
 
 ### Doctoral student in Information Systems with Focus on the Impact of Generative AI on Organizational Dynamics and Work Environment
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37527)
@@ -198,11 +180,11 @@
 - **Published:** 
 - **Deadline:** 2025-08-15
 
-### Researcher to analyze serial crystallography
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37444)
+### Senior Lecturer in Public Administration with assignment as Collaboration Officer
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37536)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-09
+- **Deadline:** 2025-08-04
 
 ### Doctoral student in  Dendroclimatology (Natural Sciences, specialization in Physical Geography)
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37530)
@@ -210,27 +192,9 @@
 - **Published:** 
 - **Deadline:** 2025-06-30
 
-### Postdoctor to study lipid/membrane homeostasis in C. elegans
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37524)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-09
-
-### Senior Lecturer in Public Administration with assignment as Collaboration Officer
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37536)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-04
-
 ### Doctoral student in journalism, media and communication
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37184)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
-
-### Doctoral students in public administration
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37211)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-09
 

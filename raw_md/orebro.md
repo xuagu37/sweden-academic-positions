@@ -1,23 +1,5 @@
 # Örebro University
 
-### Laboratory assistant in Chemistry
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250161)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### Teaching assistant in Chemistry
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250163)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-10
-
-### Laboratory assistant for a study on PFAS in recycled paper and board
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250174)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-11
-
 ### Laboratory assistant in Biomedicine/Toxicology
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250201)
 - **Department:** 
@@ -35,6 +17,12 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-23
+
+### Doctoral student in Economics
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250205)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
 
 ### Doctoral students in Computer Science, Cybersecurity
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250141)
