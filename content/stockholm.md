@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 29</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,46 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Statistics, specialized in Data Science</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811266/where:4/)
-- **Department:** Department of Statistics
-- **Published:** 
-- **Deadline:** 2025-06-12
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Statistics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:811265/where:4/)
-- **Department:** Department of Statistics
-- **Published:** 
-- **Deadline:** 2025-06-12
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Probability</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:828386/where:4/)
-- **Department:** Department of Mathematics (incl. Math. Statistics)
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Laboratory Technician</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831142/where:4/)
-- **Department:** Institutionen för molekylär biovetenskap Wenner-Grens institut
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Wildlife Palaeogenomics</h3>
 
@@ -67,6 +27,16 @@
 - **Department:** Department of Zoology
 - **Published:** 
 - **Deadline:** 2025-06-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-06-20
 
 </div>
 
@@ -110,16 +80,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Fellow in Marine microbial environmental genomics</h3>
 
@@ -141,12 +101,12 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Herring population genetics</h3>
+<h3>Postdoctoral Fellow in Theoretical fluid mechanics, applied mathematics</h3>
 
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830572/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:836264/where:4/)
+- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
 - **Published:** 
-- **Deadline:** 2025-06-24
+- **Deadline:** 2025-06-23
 
 </div>
 
@@ -157,6 +117,76 @@
 - **Department:** Stockholms universitet
 - **Published:** 
 - **Deadline:** 2025-06-24
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Herring population genetics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830572/where:4/)
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2025-06-24
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Physical Geography</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
+- **Department:** Department of Physical Geography
+- **Published:** 
+- **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Physical Geography with focus on geohazards</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
+- **Department:** Department of Physical Geography
+- **Published:** 
+- **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Molecular Biosciences</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831665/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-07-11
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Molecular Biosciences</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834017/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-07-11
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Molecular Biosciences</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834234/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-07-11
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Aging and Molecular Biosciences</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:835612/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-07-11
 
 </div>
 
@@ -220,11 +250,41 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow to project INSPIRI</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834041/where:4/)
+- **Department:** Stockholm Resilience Centre
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Experimental Chemical Physics with focus on X-Ray Characterization of Chemical Processes</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:827506/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-09-01
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Criminology</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831893/where:4/)
 - **Department:** Department of Criminology
+- **Published:** 
+- **Deadline:** 2025-09-01
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Materials Chemistry with focus on Computational Materials Design</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815120/where:4/)
+- **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-09-01
 

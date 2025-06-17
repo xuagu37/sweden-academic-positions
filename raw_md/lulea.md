@@ -1,28 +1,16 @@
 # Luleå University
 
-### Senior Lecturer in Structural Engineering
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9173)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-13
-
-### Senior Lecturer in Structural Engineering
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9184)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-13
-
-### PhD Student in Cyber-physical systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9076)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-15
-
 ### PhD Student in Cybersecurity,  eXplainable AI for Threat Prediction
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9208)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-27
+
+### PhD Student in Geotechnical Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9256)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-17
 
 ### PhD Student in Soil Mechanics
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9198)
@@ -37,13 +25,13 @@
 - **Deadline:** 2025-07-20
 
 ### PhD Student in Cyber-Physical Systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9110)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-30
 
 ### PhD Student in Cyber-Physical Systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9110)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-30
@@ -89,4 +77,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-10
+
+### Postdoc position in Structural Engineering
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9245)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+### Postdoctoral in Signal Processing: Acoustic Backscatter Communications
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9204)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
 

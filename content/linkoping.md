@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 19</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 20</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -41,9 +41,39 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in communication electronics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27079)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27095)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Computer Science at IDA</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26793)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in wireless systems</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27037)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
@@ -61,12 +91,62 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Communication Systems</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27084)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-31
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Bioinformatician to Clinical Genomics within Cell and Neurobiology</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27100)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-08
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27080)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-04
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants/Amanuens in Applied Thermodynamics and Fluid Mechanics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27075)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Plant Bioelectronics</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27038)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in organic nanoelectronics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27085)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-26
 
 </div>
 
@@ -110,6 +190,16 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principal research engineer within material science and engineering</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27076)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-23
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis</h3>
 
@@ -127,86 +217,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-19
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Optimization (WASP)</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26870)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-16
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research engineer in ion channel pharmacology</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26937)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-16
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Evolvable soft neural electrodes</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26940)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-16
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>UX design and development - Visualization Center C</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26904)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Employment as a PhD student in Medical Science at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26934)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-13
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD students in Automatic Control within SEDDIT</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26949)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-13
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>NAISS Data Coordinator</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26983)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-13
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Director of the Swedish AI Factory MIMER</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26986)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-13
 </div></div>
 
 <script>

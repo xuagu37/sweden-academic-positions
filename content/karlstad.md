@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,36 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Biology</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:828768/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 15.Jun.2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral appointment in Biology</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:828774/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 15.Jun.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Bibliotekarie</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:830827/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 15.Jun.2025
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Projektassistent, forskning i engelska vid CSL, 60 %</h3>
 
@@ -67,6 +37,66 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 18.Jun.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Projektassistent, forskning inom folkhälsovetenskap</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:836531/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 03.Jul.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkter i omvårdnad</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835735/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 03.Aug.2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Computer Science, OPEHRA</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822208/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 03.Aug.2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate senior lecturer in analytical chemistry with expertise in chromatography</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793503/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 17.Aug.2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate senior lecturer in Biochemistry</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793506/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 17.Aug.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Engelsk titel</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:837792/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.Aug.2025
 </div></div>
 
 <script>

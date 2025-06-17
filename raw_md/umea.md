@@ -1,23 +1,5 @@
 # Umeå University
 
-### Postdoctoral position: Studying Climate Change with plant ecophysiology
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-studying-climate-change-with-plant-ecophysiology_825481/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-### Postdoctoral position - Studying Climate Change with NMR spectroscopy
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position---studying-climate-change-with-nmr-spectroscopy_825484/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-06-15
-
-### Staff scientist in bacterial infections and epitranscriptome
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-bacterial-infections-and-epitranscriptome_829523/)
-- **Department:** Department of Molecularbiology
-- **Published:** 
-- **Deadline:** 2025-06-16
-
 ### PhD position in plant science with a focus on cell adhesion
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-a-focus-on-cell-adhesion_828185/)
 - **Department:** 
@@ -60,14 +42,14 @@
 - **Published:** 
 - **Deadline:** 2025-08-01
 
-### Post doctor (2 years) within privacy for data-driven models and high-dimensional data
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-privacy-for-data-driven-models-and-high-dimensional-data_833467/)
+### Assistant Professor in Computing Science with a focus on Cybersecurity
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/assistant-professor-in-computing-science-with-a-focus-on-cybersecurity_828609/)
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-08-10
 
-### Assistant Professor in Computing Science with a focus on Cybersecurity
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/assistant-professor-in-computing-science-with-a-focus-on-cybersecurity_828609/)
+### Post doctor (2 years) within privacy for data-driven models and high-dimensional data
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-privacy-for-data-driven-models-and-high-dimensional-data_833467/)
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-08-10
@@ -95,6 +77,12 @@
 - **Department:** Department of Physics
 - **Published:** 
 - **Deadline:** 2025-08-15
+
+### Postdoctoral position in computational eco-epidemiology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-computational-eco-epidemiology_814729/)
+- **Department:** Department of Epidemiology and Global Health
+- **Published:** 
+- **Deadline:** 2025-08-17
 
 ### Professor of Philosophy
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-philosophy_822386/)
