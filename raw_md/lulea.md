@@ -6,6 +6,42 @@
 - **Published:** 
 - **Deadline:** 2025-06-27
 
+### PhD Student in Robotics and Artificial Intelligence
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9285)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+### PhD Student in Robotics and Artificial Intelligence
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9283)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+### Postdoc position in Robotics and Artificial Intelligence
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9281)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-10
+
+### PhD Student in Pervasive and Mobile Computing
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9302)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-15
+
+### PhD Student in Pervasive and Mobile Computing
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9299)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-15
+
+### Ph.D. position in Pervasive and Mobile Computing
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9305)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-16
+
 ### PhD Student in Geotechnical Engineering
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9256)
 - **Department:** 
@@ -25,6 +61,12 @@
 - **Deadline:** 2025-07-20
 
 ### PhD Student in Cyber-Physical Systems
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-30
+
+### PhD Student in Cyber-Physical Systems
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9110)
 - **Department:** 
 - **Published:** 
@@ -32,12 +74,6 @@
 
 ### PhD Student in Cyber-Physical Systems
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9112)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-30
-
-### PhD Student in Cyber-Physical Systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9107)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-30
@@ -53,40 +89,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-07-31
-
-### Postdoc in Robotics and AI
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9237)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-### Postdoc in Entrepreneurship and Innovation
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9219)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-03
-
-### PhD Student in Information systems
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9178)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-04
-
-### PhD Student in Structural Engineering
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9223)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
-
-### Postdoc position in Structural Engineering
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9245)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
-
-### Postdoctoral in Signal Processing: Acoustic Backscatter Communications
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9204)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
 

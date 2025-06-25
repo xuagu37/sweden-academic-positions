@@ -1,5 +1,5 @@
 # Gävle University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: -1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,7 +16,18 @@
 </div>
 
 <div id="jobList">
+<div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
 </div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in electrical engineering – Digital twins</h3>
+
+- **Link:** [View job posting](https://hogskolanigavle.varbi.com/en/what:job/jobID:840453/type:job/where:4/apply:1)
+- **Department:** 
+- **Published:** 2025-06-25
+- **Deadline:** 2025-08-14
+</div></div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

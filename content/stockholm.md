@@ -1,5 +1,5 @@
 # Stockholm University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 29</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 22</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,116 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Wildlife Palaeogenomics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831047/where:4/)
-- **Department:** Department of Zoology
-- **Published:** 
-- **Deadline:** 2025-06-19
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemical Physics: Simulating Ultrafast X-ray Spectroscopy of Photoprotective Molecules</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831146/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Physics: Unconventional superconductivity in iron-pnictide compounds</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831170/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Atomic Physics: Many-body calculations of negative ions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831184/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Atomic Physics: Mutual neutralization with laser manipulated atomic ions</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831216/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Atomic Physics: Simulations of Antihydrogen Experiments</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831223/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Marine microbial environmental genomics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:824923/where:4/)
-- **Department:** Stockholm University Baltic Sea Centre
-- **Published:** 
-- **Deadline:** 2025-06-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Marine Biology</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:828363/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-06-23
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Fellow in Theoretical fluid mechanics, applied mathematics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:836264/where:4/)
-- **Department:** Nordic Institute for Theoretical Physics (NORDITA)
-- **Published:** 
-- **Deadline:** 2025-06-23
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer in Computer and Systems Sciences, focusing on the Internet of Things</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:818520/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Herring population genetics</h3>
-
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830572/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Associate Professor in Physical Geography</h3>
 
@@ -147,6 +37,26 @@
 - **Department:** Department of Physical Geography
 - **Published:** 
 - **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Herring population genetics</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830572/where:4/)
+- **Department:** Department of Ecology, Environment and Plant Sciences
+- **Published:** 
+- **Deadline:** 2025-07-03
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Molecular Biosciences</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:838612/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-07-11
 
 </div>
 
@@ -191,6 +101,16 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in International Relations</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:836371/where:4/)
+- **Department:** Department of Economic History and International Relations
+- **Published:** 
+- **Deadline:** 2025-07-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Teaching Assistant in Physics</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:833177/where:4/)
@@ -214,6 +134,16 @@
 <h3>PhD student in Environmental Science: non-target PFAS screening by GC-HRMS</h3>
 
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:835253/where:4/)
+- **Department:** Department of Environmental Science
+- **Published:** 
+- **Deadline:** 2025-08-04
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Environmental Science, Stem Cell-Based Models and Toxicology</h3>
+
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:839126/where:4/)
 - **Department:** Department of Environmental Science
 - **Published:** 
 - **Deadline:** 2025-08-04

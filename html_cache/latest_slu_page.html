@@ -1,51 +1,27 @@
-<html lang="en"><head>
-<meta charset="UTF-8">
-<link rel="stylesheet" type="text/css" media="all" href="/styles/style.css?ver=1.4">
-<link rel="stylesheet" type="text/css" media="all" href="/styles/I017-1114-7.css">
-<!--[if IE]> 
-<link rel="stylesheet" type="text/css" media="all" href="/styles/styleie.css">
-<link rel="stylesheet" type="text/css" media="all" href="/styles/I017-1114-7ie.css">
-<![endif]-->
-<title>Sveriges lantbruksuniversitet</title>
-<script async="" src="/js/rmi-sp-2.6.2.js"></script><script src="/js/jquery-1.7.2.min.js"></script>
-<script>
-function showResponse(responseText, statusText, $form){
-    if (typeof($.fancybox) != 'undefined') {
-        $.fancybox.close();
-    }
-
-    $("#ajaxcover").fadeOut();
-    if (statusText == 'error') {
-        $("p#errormsg").text(responseText.responseText);
-        $("#errorbox").fadeIn();
-        $("#error-cnl").focus();
-    } else {
-        window.location.reload();
-    }
-};
-
-function showResponseMessage(response, statusText, $form) {
-    var message = JSON.parse(response.responseText).message;
-    showResponse({ "responseText": message }, statusText, $form);
-};
-
-$(document).ready(function(){
-    //message box
-    $("#error-cnl").click(function(){
-        $("#errorbox").fadeOut();
-    });
-});
-</script>
-<link rel="stylesheet" type="text/css" media="all" href="/styles/font/css/font-awesome.css?ver=3.0">
-<link rel="stylesheet" type="text/css" media="all" href="/styles/font/css/font-awesome-ie7.css?ver=3.0">
+<html lang="en" class=""><head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta property="og:title" content="">
+    <meta property="og:url" content="https://web103.reachmee.com/ext/I017/1114/main?site=7&amp;validator=87e4b706891e51f731ed44be28da8352&amp;lang=UK&amp;ref=https%3a%2f%2fwww.overleaf.com%2f">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" type="text/css" href="/styles/app.css?v=master-20250512.2-">
+    <script async="" src="/js/rmi-sp-2.6.2.js"></script><script>document.documentElement.className += (window.self == window.top ? "" : " in-iframe");</script>
+                <link rel="stylesheet" href="/styles/V2-1114_7.css?v=1">
+    
+    <title>Sveriges lantbruksuniversitet | Vacancies</title>
+    <script src="/js/jquery-1.7.2.min.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/styles/fontv2/css/font-awesome.min.css?ver=3.0">
         <script src="/js/rm.utils.js?v=0.05"></script>
 <script src="/js/bootstrap.min.js"></script>
-<script src="/js/jquery.dataTables.min.js?ver=1.0"></script><script src="/js/jquery.tagFilterWidget.min.js?ver=1.3"></script>
+<script src="/js/jquery.dataTables.min.js?ver=1.0"></script><script src="/js/jquery.tagFilterWidget.v2.min.js?ver=0.1"></script>
 
 <script src="/js/js.cookie.min.js?v=1.0"></script>
 <script src="/js/jquery.form.min.js?ver=1.0"></script>
-<script src="/js/jquery.validate.min.js?ver=1.1"></script>
-<script>
+    <script src="/js/validate/jquery.validate.min.js?ver=1.1"></script>
+    <script src="/js/validate/additional-methods.min.js?ver=1.1"></script>
+    <script>
 jQuery.validator.addMethod("isSsnDate", function(value, element) {
     if(value === ''){
         return true;
@@ -107,245 +83,27 @@ $.extend(jQuery.validator.messages, {
                 
             });
         </script>
-    <script>
+        <script>
             ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
             p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
             };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
             n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","/js/rmi-sp-2.6.2.js","rmi_snowplow"));
             rmi_snowplow("newTracker", "rmi", "analytics.reachmee.com", {
               appId: "rm1114", useLocalStorage: false
-            });</script></head>
+            });</script>            </head>
+<body class="main_page">
 
-<body class="mainPage">
+    <div class="wrap">
+        <noscript>
+        <div aria-live="assertive" class="notice notice--error">
+            For full functionality of this page it is necessary to enable JavaScript.        </div>
+        </noscript>
 
-<div id="r_wrapper">
-<div id="r_main">
-	<div class="container jobListContainer">
+        
+        <header id="logo-image">
 
-<script>
-//validate
-function loginValidation() {
-$("#loginform").validate({
-	errorClass: "invalidElement",
-	errorElement: "li"	
-	});
-	if ($("#loginform").valid()) { return true; }
-	else { return false;}
-}
+        <img src="" alt=""></header>
 
-function pwdformValidation(){
-$("#pwd-form").validate({
-	rules: { login: 'email' },
-	errorClass: "invalidElement",
-	errorElement: "li"	
-	});
-	if ($("#pwd-form").valid()) { return true; }
-	else { return false;}
-}
-
-function profValidation(){
-$("#profile").validate({
-	rules: { email: 'email', passwordrepeat: { equalTo: "#passwordencrypted"}},
-	errorClass: "invalidElement",
-	errorElement: "li"
-	});
-	if ($("#profile").valid()) { return true; }
-	else { return false;}
-}
-
-function getRedirectDestinationAfterLogin(){
-    return 'https://web103.reachmee.com/ext/I017/1114/profile?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F'
-}
-
-function redirectAfterSuccess(response) {
-    var newLocation = getRedirectDestinationAfterLogin() + response['url_suffix'];
-    window.location = newLocation;
-}
-
-//ajax forms
-var options = {
-	beforeSubmit: loginValidation,
-	success: redirectAfterSuccess,
-	error: showResponseMessage,
-	timeout: 10000
-};
-var options2 = {
-    beforeSubmit: pwdformValidation,
-    success: function(response, statusText, $form) {
-        window.location = 'https://web103.reachmee.com/ext/I017/1114/resetpwd?site=7&lang=UK&validator=87e4b706891e51f731ed44be28da8352&ref=https%3A%2F%2Fwww.overleaf.com%2F&userid=' + response.message;
-    },
-    error: showResponseMessage,
-    timeout: 10000
-};
-
-var facebookRerequireMessage = "You can't login with facebook without granting email permission. If you still want to log in, click on facebook login button again and don't restrict email permission.";
-
-$("#loginform").ajaxForm(options);
-$("#pwd-form").ajaxForm(options2);
-$("#profile").ajaxForm({
-    beforeSubmit:profValidation,
-    success: function (response, statusText,$form) {
-        $("p#errormsg").text(response.message);
-        $("#errorbox").fadeIn();
-        $('#loginbox').fadeOut();
-        $('#pwd-form').hide();
-        $('#loginform').show();
-    },
-    error: showResponseMessage,
-    timeout: 10000
-});
-
-</script>
-<div id="spinner-overlay">
-    <div id="fancybox-loading">
-        <div></div>
-    </div>
-</div>
-<div id="loginbox" class="showbox">
-	<div class="control">
-        <div class="loginbox-body">
-            <button type="button" class="btn-close" onclick="rm.login_form.hide()" aria-label="Close"><span aria-hidden="true">×</span></button>
-            <ul class="rm-nav rm-nav-tabs">
-                <li class="tabsbar-button active" name="sign-in">
-                    <a href="javascript:;" onclick="rm.login_form.switch_tab('sign-in')">Sign In</a>
-                </li>
-                <li class="tabsbar-button" name="sign-up">
-                    <a href="javascript:;" onclick="rm.login_form.switch_tab('sign-up')">Sign Up</a>
-                </li>
-            </ul>
-            <div id="sign-in" class="rm-tab" aria-expanded="true">
-                <form action="https://web103.reachmee.com/ext/I017/1114/sclogin?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F" id="loginform" method="post" accept-charset="utf-8">
-                    <p class="welcomeText">You just need email and password to log in</p>
-                    <p><label for="user-login">E-mail address</label></p>
-                    <input id="user-login" name="login" class="required" type="text" required="required">
-                    <p><label for="user-password">Password</label></p>
-                    <input id="user-password" name="password" class="required" type="password" required="required">
-                    <p>
-                        <a href="javascript:;" onclick="rm.login_form.change_pwd_toogle()" class="collapseItemHeader underlined" onkeypress="rm.space_key_press(rm.login_form.change_pwd_toogle)">Get a new password</a>
-                    </p>
-                    <br>
-                    <div>
-                        <div class="float-right sign-actions-block">
-                            <a href="javascript:;" class="login-cnl" onclick="rm.login_form.hide()">Cancel</a>
-                            <input id="login-btn" class="button-med" type="submit" value="Sign In">
-                        </div>
-                        <br>
-                    </div>
-
-                </form>
-
-                <form action="https://web103.reachmee.com/ext/I017/1114/screset?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F" id="pwd-form" method="post" accept-charset="utf-8">
-                    <p><label for="user-login2">E-mail address</label></p>
-                    <input id="user-login2" name="login" class="required" type="text" required="required">
-                    <br>
-                    <div>
-                        <div class="float-right sign-actions-block">
-                            <a href="javascript:;" onclick="rm.login_form.change_pwd_toogle()" class="login-cnl" onkeypress="rm.space_key_press(rm.login_form.change_pwd_toogle)">Cancel</a>
-                            <input id="pwd-sent" class="button-med" type="submit" value="Send">
-                        </div>
-                        <br>
-                    </div>
-                </form>
-            </div>
-            <div id="sign-up" class="rm-tab" style="display: none;" aria-expanded="false">
-                <form action="https://web103.reachmee.com/ext/I017/1114/scregistrate?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F" id="profile" class="profileform" name="profile" method="post" accept-charset="utf-8">
-
-
-                    <p class="welcomeText">To be able to preview and edit your job applications you first have to register. Please submit all required information below.</p>
-                    <p class="profileLabel"><label for="email">E-mail address</label></p>
-                    <input class="prof-field required" name="email" id="email" type="email" value="" required="required">
-                    <p class="profileLabel"><label for="passwordencrypted">Create new password</label></p>
-                    <input class="prof-field required" name="passwordencrypted" id="passwordencrypted" type="password" value="" required="required">
-                    
-                    <div>
-                        <div class="float-right sign-actions-block">
-                            <a href="javascript:;" class="login-cnl" onclick="rm.login_form.hide()">Cancel</a>
-                            <input id="signup-btn" class="button-med" type="submit" value="Sign Up">
-                        </div>
-                        <br>
-                    </div>
-                </form>
-            </div>
-                            <p class="loginbox-bottom-filler"></p>
-                    </div>
-	</div>
-</div>
-    <div id="cl1" class="clear"></div>
-<script src="/js/chosen.jquery.min.js"></script>
-<script>
-	$(document).ready(function(){
-		function subValidation(){
-		$("#subscribeform").validate({
-			rules: { email: 'email'},
-			errorClass: "invalidElement",
-			errorElement: "li"	
-			});
-			if ($("#subscribeform").valid()) { return true; }
-			else { return false;}
-		}
-		
-		var options = {
-			beforeSubmit: subValidation,
-			success: function (responseText, statusText, $form){
-						$("#ajaxcover").fadeOut();
-						$('.showbox').fadeOut();
-						$("p#errormsg").text(responseText.message);
-						$("#errorbox").fadeIn();
-					},
-			error: showResponseMessage,
-			timeout: 1000
-		};
-		$("#subscribeform").ajaxForm(options);
-	});
-</script>
-
-<div id="subscribebox" class="showbox">
-	<div class="control">
-        <form action="https://web103.reachmee.com/ext/I017/1114/scsubscribe?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F" id="subscribeform" name="subscribeform" method="post" accept-charset="utf-8">
-            <p>E-mail address</p>
-    		<input name="email" id="subscribe-email" type="text" class="sub-email required" required="required">
-    		<p>Frequency</p>
-    		<select id="subscribe-frequency" name="frequency">
-	    		<option value="0">daily</option>
-	    		<option value="1">weekly</option>
-	    		<option value="2">monthly</option>
-    		</select>
-    		<hr>
-
-	     		<p><input id="subs-cnl" onclick="rm.subscription_form.hide()" type="button" class="button-med" value="Cancel"></p>
-	    	<p><input id="subs-btn" type="submit" class="button-med" value="Subscribe"></p>
-    	</form>
-    </div> <!-- control end -->
-</div> <!-- subscribebox end -->
-	 
-		<!-- ERROR BOX -->
-		<div id="errorbox" class="showbox">
-			<div class="control">
-				<h3 id="errortitle">Message</h3>
-				<p id="errormsg"></p>
-				<p><input id="error-cnl" class="button-med" type="button" value="close"></p>
-			</div>
-		</div>
-		<div role="banner" class="welcome">
-			<div class="image alignleft"></div>
-		</div>
-		<div id="cl0" class="clear"></div>
-
-		<!-- Features BOX -->
-		<div class="features" role="navigation">
-				<div class="login fbutton" tabindex="0" onclick="rm.login_form.show()" onkeypress="rm.space_key_press(rm.login_form.show)">Sign In or Sign Up</div>
-	
-			<div class="subscribe fbutton sub-form" tabindex="0" onclick="rm.subscription_form.show()" onkeypress="rm.space_key_press(rm.subscription_form.show)">Subscribe</div>
-		</div>
-<!-- Filter BOX -->
-<div class="filterbox" id="filtersPlace" role="search">
-	<form name="filter" id="filterForm" method="post">
-	</form>
-	<div id="cl2" class="clear"></div>
-<div class="filterItemsTags"><p><label for="filter_tags_4">Expertise</label></p><ul><li tabindex="0" class="tagItem btn btn-default btn-xs active">Show all</li><li tabindex="0" class="tagItem btn btn-default btn-xs">Lecturer/Scientist</li><li tabindex="0" class="tagItem btn btn-default btn-xs">PhD</li><li tabindex="0" class="tagItem btn btn-default btn-xs">Technical/administrative</li></ul></div></div>
-<div id="cl4" class="clear"></div>
-<!-- JOB LIST BOX -->
-<div role="main" class="joblist">
 
 <script>
 	$(document).ready(function(){
@@ -353,302 +111,414 @@ $("#profile").ajaxForm({
 	$.fn.columnFilterWidgets({"showAllLabel":"Show all","rmFilters":[{"colId":4,"filterType":"tags"}]});
 	}); 
 </script>
-	
-	<div id="jobsTable_wrapper" class="dataTables_wrapper" role="grid"><div class="top"></div><table id="jobsTable" class="jobsTableClass dataTable" border="0" cellspacing="0" style="width: 1185px;">
-		<thead>
-			<tr role="row"><th id="col-1" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="Job, activate to sort column ascending" style="width: 578px;">Job</th><th id="col-12" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="Department, activate to sort column ascending" style="width: 439px;">Department</th><th id="col-9" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="City, activate to sort column ascending" style="width: 51px;">City</th><th id="col-6" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="Published to, activate to sort column ascending" style="width: 103px;">Published to</th></tr></thead>
-		
-	<tbody><tr class="jobs odd" id="13105" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13105'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13105" title="17/06/2025">Industrial PhD student in molecular biology with a focus on pest control</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-12</span> 
-			12/08/2025</td>
-						
-						</tr><tr class="jobs even" id="13073" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13073'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13073" title="17/06/2025">Industrial PhD student in ectomycorrhizal population biology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-12</span> 
-			12/08/2025</td>
-						
-						</tr><tr class="jobs odd" id="13096" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13096'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13096" title="17/06/2025">Industry-/collaboration PhD student in biology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-12</span> 
-			12/08/2025</td>
-						
-						</tr><tr class="jobs even" id="13071" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13071'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13071" title="17/06/2025">PhD position in ecology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-07-31</span> 
-			31/07/2025</td>
-						
-						</tr><tr class="jobs odd" id="13170" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13170'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13170" title="16/06/2025">Professor of Soil and Environmental Physics</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-09-15</span> 
-			15/09/2025</td>
-						
-						</tr><tr class="jobs even" id="13164" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13164'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13164" title="16/06/2025">Orthopaedic veterinarian required the equine hospital</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Veterinary Medicine and Animal Science</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-25</span> 
-			25/06/2025</td>
-						
-						</tr><tr class="jobs odd" id="13159" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13159'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13159" title="16/06/2025">Postdoctoral researcher in sweetpotato molecular genetics</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
-						<td headers="col-9" class="jobtown ">Alnarp</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-30</span> 
-			30/06/2025</td>
-						
-						</tr><tr class="jobs even" id="13163" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13163'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13163" title="13/06/2025">Postdoctor to Umeå Plant Science Centre</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-30</span> 
-			30/06/2025</td>
-						
-						</tr><tr class="jobs odd" id="13167" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13167'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13167" title="13/06/2025">Research Engineer for Forest Genetics and Plant Physiology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-20</span> 
-			20/06/2025</td>
-						
-						</tr><tr class="jobs even" id="13101" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13101'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13101" title="13/06/2025">Industry-/collaboration PhD student in Soil sciences with LiDAR and AI</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-12</span> 
-			12/08/2025</td>
-						
-						</tr><tr class="jobs odd" id="13097" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13097'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13097" title="13/06/2025">Postdoc – diversified arable cropping</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-13</span> 
-			13/08/2025</td>
-						
-						</tr><tr class="jobs even" id="13155" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13155'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13155" title="12/06/2025">Postdoc in soil biogeochemistry: focus on soil organic matter dynamics</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-07-15</span> 
-			15/07/2025</td>
-						
-						</tr><tr class="jobs odd" id="13126" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13126'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13126" title="12/06/2025">PhD student in tree biology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-26</span> 
-			26/06/2025</td>
-						
-						</tr><tr class="jobs even" id="12994" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12994'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12994" title="11/06/2025">Postdoc in isotope hydrology and ecohydrology of boreal landscapes</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-30</span> 
-			30/06/2025</td>
-						
-						</tr><tr class="jobs odd" id="12837" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12837'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12837" title="10/06/2025">Professor in terrestrial ecosystem ecology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-11</span> 
-			11/08/2025</td>
-						
-						</tr><tr class="jobs even" id="12836" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12836'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12836" title="10/06/2025">Professor in landscape ecology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-11</span> 
-			11/08/2025</td>
-						
-						</tr><tr class="jobs odd" id="13104" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13104'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13104" title="09/06/2025">Postdoc in wood quality of single trees</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-27</span> 
-			27/06/2025</td>
-						
-						</tr><tr class="jobs even" id="13029" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13029'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13029" title="05/06/2025">Senior Lecturer (Associate Professor) in applied aesthetics with relevance for landscape architecture</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
-						<td headers="col-9" class="jobtown ">Alnarp</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-31</span> 
-			31/08/2025</td>
-						
-						</tr><tr class="jobs odd" id="13080" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13080'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13080" title="05/06/2025">Licentiate position in environmental molecular monitoring techniques</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-20</span> 
-			20/06/2025</td>
-						
-						</tr><tr class="jobs even" id="13059" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13059'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13059" title="05/06/2025">PhD student in plant molecular and cell biology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-30</span> 
-			30/06/2025</td>
-						
-						</tr><tr class="jobs odd" id="13078" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13078'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13078" title="05/06/2025">Laboratory assistant</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-07-12</span> 
-			12/07/2025</td>
-						
-						</tr><tr class="jobs even" id="13025" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13025'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13025" title="03/06/2025">Postdoctoral position, Carbon balance and biodiversity of boreal forests</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-23</span> 
-			23/06/2025</td>
-						
-						</tr><tr class="jobs odd" id="13047" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13047'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13047" title="28/05/2025">PhD student position in forest pathology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Alnarp</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-20</span> 
-			20/06/2025</td>
-						
-						</tr><tr class="jobs even" id="12990" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12990'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12990" title="22/05/2025">Industry-/collaboration PhD student in optimized off-road driving in forests</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Forest Sciences</td>
-						<td headers="col-9" class="jobtown ">Umea</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-12</span> 
-			12/08/2025</td>
-						
-						</tr><tr class="jobs odd" id="12958" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12958'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12958" title="13/05/2025">Professor of Bioenergy Technology and Systems</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-11</span> 
-			11/08/2025</td>
-						
-						</tr><tr class="jobs even" id="12499" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12499'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12499" title="13/05/2025">Professor of Environmental Policy and Environmental Governance</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Natural Resources and Agricultural Scie</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-08-11</span> 
-			11/08/2025</td>
-						
-						</tr><tr class="jobs odd" id="12885" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12885'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12885" title="06/05/2025">Professor of Veterinary Immunology</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Veterinary Medicine and Animal Science</td>
-						<td headers="col-9" class="jobtown ">Uppsala</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-09-08</span> 
-			08/09/2025</td>
-						
-						</tr><tr class="jobs even" id="12841" valign="top" onclick="document.location='https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12841'">
-			<td headers="col-1" class="jobitem ">
-				<a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12841" title="02/05/2025">Senior Lecturer (Associate Professor) in landscape architecture with a focus on aesthetic qualities and design of vegetation</a>
-			</td>
-						<td headers="col-12" class="orgunit1 ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
-						<td headers="col-9" class="jobtown ">Alnarp</td>
-						<td headers="col-6" class="publishto ">
-			<span data-order="1" style="display:none">2025-06-24</span> 
-			24/06/2025</td>
-						
-						</tr></tbody></table><div class="bottom"><div class="dataTables_filter" id="jobsTable_filter"><label>Search <input type="text" aria-controls="jobsTable"></label></div></div><div class="clear"></div></div>
-</div>
-	
-	</div> <!-- jobListContainer end -->
-</div> <!-- r_main end -->
-<div id="cl5" class="clear"></div>
 
-</div> <!-- r_wrapper end -->
-<footer role="contentinfo"></footer>
+<main role="main" aria-labelledby="joblist-heading">
+
+    
+    <h1 id="joblist-heading" class="heading h1">Vacancies</h1>
+<div class="jobs">
+    
+    <div class="table-header">
+        <span>
+            <a href="https://web103.reachmee.com/ext/I017/1114/subscribe?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F" class="button" tabindex="0">Subscribe</a>
+        </span>
+        <div class="pull-right-buttons">
+            <a href="https://web103.reachmee.com/ext/I017/1114/auth?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F" class="button" tabindex="0">Sign In or Sign Up</a>
+        </div>
+    </div>
+
+    <div class="table-meta">
+        <div class="table-filters" id="filtersPlace">
+        </div>
+    </div>
+
+    <div id="mainjoblist">
+        <div id="jobsTable_wrapper" class="dataTables_wrapper" role="grid"><div class="top"></div><table class="table table-hover jobsTableClass dataTable" id="jobsTable" style="width: 720px;"><caption class="sub-heading">List of available jobs. The headings can be sorted by clicking on them.  </caption>
+<thead><tr role="row"><th id="col-1" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="Job , activate to sort column ascending" style="width: 269px;">Job <i class="table-sort-column-icon"></i></th><th id="col-12" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="Department , activate to sort column ascending" style="width: 204px;">Department <i class="table-sort-column-icon"></i></th><th id="col-9" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="City , activate to sort column ascending" style="width: 59px;">City <i class="table-sort-column-icon"></i></th><th id="col-6" class="sorting" role="columnheader" tabindex="0" aria-controls="jobsTable" rowspan="1" colspan="1" aria-label="Published to , activate to sort column ascending" style="width: 124px;">Published to <i class="table-sort-column-icon"></i></th></tr></thead>
+
+<tbody><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13295" class="btn btn-link">Industrial PhD student in Forest Management and Forest Planning</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13305" class="btn btn-link">Environmental Analysis Specialist</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-15</span> 15/07/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13199" class="btn btn-link">Researcher – marine ecosystem analysis</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-15</span> 15/07/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13205" class="btn btn-link">Researcher – coastal and marine ecosystem services</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-15</span> 15/07/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13196" class="btn btn-link">Researcher – marine ecosystem modelling and analysis</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-15</span> 15/07/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13203" class="btn btn-link">Post-doc - climate change impacts on hydrology and nutrient biogeochemistry</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-24</span> 24/07/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13201" class="btn btn-link">PostDoc in biotechnology/protein biochemistry (spider silk)</a>
+</td>
+<td class=" ">Faculty of Veterinary Medicine and Animal Science</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-17</span> 17/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13207" class="btn btn-link">Associate Senior Lecturer in conservation ecology with focus on resilient forest ecosystems</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Alnarp</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13208" class="btn btn-link">Associate Senior Lecturer in plant physiology with focus on plant embryo development</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13210" class="btn btn-link">Associate Senior Lecturer in restoration ecology with focus on evidence-based biodiversity assessment</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13260" class="btn btn-link">Associate Senior Lecturer/Assistant Professor*  in Environmental Organic Chemistry</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13256" class="btn btn-link">Associate senior lecturer/Assistant professor in Agricultural Economics</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13247" class="btn btn-link">Associate senior lecturer/Assistant professor in crop production ecology with a focus on sustainable production systems</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13225" class="btn btn-link">Associate Senior Lecturer/Assistant Professor*  in Agricultural Water Management</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13223" class="btn btn-link">Associate Senior Lecturer/Assistant Professor* in Environmental Communication with focus on Agrarian Change</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13221" class="btn btn-link">Associate Senior Lecturer/Assistant Professor* in One Health and One Welfare with focus on resilient food production</a>
+</td>
+<td class=" ">Faculty of Veterinary Medicine and Animal Science</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13216" class="btn btn-link">Associate Senior Lecturer (Assistant Professor*) in Resistance Biology</a>
+</td>
+<td class=" ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
+<td class=" ">Alnarp</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13212" class="btn btn-link">Associate Senior Lecturer (Assistant Professor*) in multifunctional urban green areas for human health and biodiversity conservation</a>
+</td>
+<td class=" ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13194" class="btn btn-link">Researcher position available at Umeå Plant Science Centre, Sweden</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-03</span> 03/07/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13029" class="btn btn-link">Senior Lecturer (Associate Professor) in applied aesthetics with relevance for landscape architecture</a>
+</td>
+<td class=" ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
+<td class=" ">Alnarp</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-30</span> 30/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12841" class="btn btn-link">Senior Lecturer (Associate Professor) in landscape architecture with a focus on aesthetic qualities and design of vegetation</a>
+</td>
+<td class=" ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
+<td class=" ">Alnarp</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-24</span> 24/07/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13187" class="btn btn-link">Doctoral position on Small-RNAs role in Plant –Microbe Interactions</a>
+</td>
+<td class=" ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
+<td class=" ">Alnarp</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-14</span> 14/07/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13089" class="btn btn-link">Industry/collaborative PhD student in Biology</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13105" class="btn btn-link">Industrial PhD student in molecular biology with a focus on pest control</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13073" class="btn btn-link">Industrial PhD student in ectomycorrhizal population biology</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13096" class="btn btn-link">Industry-/collaboration PhD student in biology</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13071" class="btn btn-link">PhD position in ecology</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-31</span> 31/07/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13170" class="btn btn-link">Professor of Soil and Environmental Physics</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-15</span> 15/09/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13164" class="btn btn-link">Orthopaedic veterinarian required the equine hospital</a>
+</td>
+<td class=" ">Faculty of Veterinary Medicine and Animal Science</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-25</span> 25/06/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13159" class="btn btn-link">Postdoctoral researcher in sweetpotato molecular genetics</a>
+</td>
+<td class=" ">Faculty of Landscape Architecture, Horticulture and Crop Production Sciences</td>
+<td class=" ">Alnarp</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-30</span> 30/06/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13163" class="btn btn-link">Postdoctor to Umeå Plant Science Centre</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-30</span> 30/06/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13101" class="btn btn-link">Industry-/collaboration PhD student in Soil sciences with LiDAR and AI</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13097" class="btn btn-link">Postdoc – diversified arable cropping</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-13</span> 13/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13155" class="btn btn-link">Postdoc in soil biogeochemistry: focus on soil organic matter dynamics</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-07-15</span> 15/07/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13126" class="btn btn-link">PhD student in tree biology</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-26</span> 26/06/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12994" class="btn btn-link">Postdoc in isotope hydrology and ecohydrology of boreal landscapes</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-30</span> 30/06/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12837" class="btn btn-link">Professor in terrestrial ecosystem ecology</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-11</span> 11/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12836" class="btn btn-link">Professor in landscape ecology</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-11</span> 11/08/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13104" class="btn btn-link">Postdoc in wood quality of single trees</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-27</span> 27/06/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=13059" class="btn btn-link">PhD student in plant molecular and cell biology</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-06-30</span> 30/06/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12990" class="btn btn-link">Industry-/collaboration PhD student in optimized off-road driving in forests</a>
+</td>
+<td class=" ">Faculty of Forest Sciences</td>
+<td class=" ">Umea</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-12</span> 12/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12958" class="btn btn-link">Professor of Bioenergy Technology and Systems</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-11</span> 11/08/2025</td>
+
+</tr><tr class="odd">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12499" class="btn btn-link">Professor of Environmental Policy and Environmental Governance</a>
+</td>
+<td class=" ">Faculty of Natural Resources and Agricultural Scie</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-08-11</span> 11/08/2025</td>
+
+</tr><tr class="even">
+<td class=" "><a href="https://web103.reachmee.com/ext/I017/1114/job?site=7&amp;lang=UK&amp;validator=87e4b706891e51f731ed44be28da8352&amp;ref=https%3A%2F%2Fwww.overleaf.com%2F&amp;job_id=12885" class="btn btn-link">Professor of Veterinary Immunology</a>
+</td>
+<td class=" ">Faculty of Veterinary Medicine and Animal Science</td>
+<td class=" ">Uppsala</td>
+<td class=" "><span class="show-mobile">Published to:</span><span data-order="1" style="display:none">2025-09-08</span> 08/09/2025</td>
+
+</tr></tbody></table><div class="bottom"><div class="dataTables_filter filterItemsSelect form-group" id="jobsTable_filter"><label class="input-label">Search </label><input type="text" aria-controls="jobsTable" class="form-control input-field"></div></div><div class="clear"></div></div>    </div>
+</div>
+
+<script> 
+    $(document).ready(function(){
+        $("#filterForm").append($("#jobsTable_filter"));
+        $("#jobsTable_filter").append($("#jobsTable_filter input"));
+
+        $("#jobsTable_filter").addClass("filterItemsSelect  form-group");
+        $("#jobsTable_filter label").addClass("input-label");
+        $("#jobsTable_filter input").addClass("form-control input-field");
+
+        $(window).on('resize', function() {
+            var win = $(this); //this = window
+
+            rm.debounce(function() {
+                if (win.width() < 576) {
+                    if (!$('#jobsTable thead').length) {
+                        return;
+                    }
+
+                    $('#jobsTable thead').remove();
+                } else {
+                    if ($('#jobsTable thead').length) {
+                        return;
+                    }
+
+                    $('#jobsTable').prepend("<thead><tr><th id='col-1'>Job <i class='table-sort-column-icon'></i></th><th id='col-12'>Department <i class='table-sort-column-icon'></i></th><th id='col-9'>City <i class='table-sort-column-icon'></i></th><th id='col-6'>Published to <i class='table-sort-column-icon'></i></th><th id='col-14'>Expertise <i class='table-sort-column-icon'></i></th></tr></thead>");
+                    $('#jobsTable').dataTable();
+                }
+            }, 500, "some unique string");
+        });
+        $(window).trigger('resize');
+    });
+</script>
+
+
+</main>
+
+</div>
+
 <script>
                     rmi_snowplow("trackPageView", "", [{"pagetype":"Job list","publishingplaceseqno":"7"}]);
-                </script>
+                </script><script>
+    $(document).ready(function() {
+        if (window.self == window.top) {
+            var logoImage = document.createElement('img');
+            logoImage.setAttribute('src', '');
+            logoImage.setAttribute('alt', '');
+            document.getElementById('logo-image').appendChild(logoImage);
+        }
+    });
+
+    if (window.location !== window.parent.location) {
+        let searchParams = new URLSearchParams(window.location.search);
+
+        // for Zmash
+        window.parent.postMessage(
+            JSON.stringify({
+                talentech_jobId: searchParams.has('job_id') ? searchParams.get('job_id') : 'none',
+                talentech_publishingPlaceId: searchParams.get('site'),
+                talentech_target: window.location.href
+            }),
+            '*'
+        );
+
+        // for General
+        window.parent.postMessage(
+            JSON.stringify({
+                talentech_pageName: window.location.href,
+            }),
+            '*'
+        );
+    }
+</script>
+
 
 </body></html>

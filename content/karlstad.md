@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,26 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektassistent, forskning i engelska vid CSL, 60 %</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:832392/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 17.Jun.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Fakultetsadministratör vikariat</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:831480/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 18.Jun.2025
 
 </div>
 
@@ -70,8 +50,18 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Risk and Environmental Studies with a focus on disaster risk management and the effects of risk reducing efforts</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:838171/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 10.Aug.2025
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate senior lecturer in analytical chemistry with expertise in chromatography</h3>
+<h3>Associate senior lecturer in Analytical chemistry with expertise in chromatography</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793503/iframeEmbedded:0/where:4)
 - **Department:** 
@@ -97,6 +87,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 31.Aug.2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor i litteraturvetenskap</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835444/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.Oct.2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor i engelska med litteraturvetenskaplig inriktning</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835449/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.Oct.2025
 </div></div>
 
 <script>

@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -37,6 +37,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-05
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Energy and Environmental Engineering</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3265)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in  computer science -  Model-Driven Engineering and AI</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3270)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-16
 
 </div>
 

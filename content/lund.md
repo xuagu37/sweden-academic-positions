@@ -1,5 +1,5 @@
 # Lund University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 82</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 85</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,186 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Applied Mathematics with a focus on Computer Vision (PA2025/1545)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:824305/type:job/where:4/apply:1)
-- **Department:** Mathematics LTH, LTH
-- **Published:** 27 May 2025
-- **Deadline:** 17 Jun 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Fine Arts (PA2025/1885)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:833737/type:job/where:4/apply:1)
-- **Department:** Malmö Art Academy, KMT
-- **Published:** 3 Jun 2025
-- **Deadline:** 17 Jun 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in 3D/4D X-ray microtomography image segmentation through machine learning (PA2025/1868)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:833434/type:job/where:4/apply:1)
-- **Department:** Solid Mechanics, LTH
-- **Published:** 4 Jun 2025
-- **Deadline:** 18 Jun 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Substitute Lecturer in Economic History, 40%, 6 month (PA2025/1494)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:822774/type:job/where:4/apply:1)
-- **Department:** Economic History, EHL
-- **Published:** 28 May 2025
-- **Deadline:** 18 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in bioinformatics and machine learning (PA2025/1145)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:815800/type:job/where:4/apply:1)
-- **Department:** Biochemistry & structural biol, NAT
-- **Published:** 22 Apr 2025
-- **Deadline:** 19 Jun 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Associate Researcher at the Department of Diagnostic Radiology (PA2025/1639)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:826549/type:job/where:4/apply:1)
-- **Department:** Diagnostic Radiology, Sundgren, MED
-- **Published:** 5 Jun 2025
-- **Deadline:** 19 Jun 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project Assistant at the Division of Tumor Microenvironment (PA2025/1699)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:828186/type:job/where:4/apply:1)
-- **Department:** Tumor microenv, Belting, MED
-- **Published:** 26 May 2025
-- **Deadline:** 20 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Food and Formulation Engineering–turbulent emulsifiers (PA2025/1283)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:817560/type:job/where:4/apply:1)
-- **Department:** Food and Pharma, LTH
-- **Published:** 14 Apr 2025
-- **Deadline:** 22 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Chemical Engineering on battery material  recycling with membrane processes (PA2025/1076)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814144/type:job/where:4/apply:1)
-- **Department:** Chemical engineering, LTH
-- **Published:** 19 May 2025
-- **Deadline:** 22 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Industrial Design in Society and Production (PA2025/1428)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:820741/type:job/where:4/apply:1)
-- **Department:** Industrial Design, LTH
-- **Published:** 22 May 2025
-- **Deadline:** 22 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Applied Mathematics with specialization in Medical Image Analysis (PA2025/1740)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829012/type:job/where:4/apply:1)
-- **Department:** Mathematics LTH, LTH
-- **Published:** 26 May 2025
-- **Deadline:** 22 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Computational Biophysical chemistry (PA2025/1844)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:832436/type:job/where:4/apply:1)
-- **Department:** Physical Chemistry, LTH
-- **Published:** 2 Jun 2025
-- **Deadline:** 22 Jun 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Student worker, visitor guide at MAX IV (PA2025/1910)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834557/type:job/where:4/apply:1)
-- **Department:** , MAX IV
-- **Published:** 10 Jun 2025
-- **Deadline:** 23 Jun 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in sustainability science (PA2025/1743)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829053/type:job/where:4/apply:1)
-- **Department:** LUCSUS, SAM
-- **Published:** 19 May 2025
-- **Deadline:** 23 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Environmental Science with a focus on Continuous Cover Forestry (PA2025/1837)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:832308/type:job/where:4/apply:1)
-- **Department:** Physical Geography, NAT
-- **Published:** 2 Jun 2025
-- **Deadline:** 23 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Materials Chemistry (PA2025/1860)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:833225/type:job/where:4/apply:1)
-- **Department:** Analysis and Synthesis, LTH
-- **Published:** 3 Jun 2025
-- **Deadline:** 24 Jun 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant LUCSUS (PA2025/1982)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835949/type:job/where:4/apply:1)
-- **Department:** LUCSUS, SAM
-- **Published:** 10 Jun 2025
-- **Deadline:** 24 Jun 2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistant at the Division of Engineering Geology - work with development and test of measurement electronics (PA2025/1849)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:832580/type:job/where:4/apply:1)
-- **Department:** Engineering Geology, LTH
-- **Published:** 10 Jun 2025
-- **Deadline:** 24 Jun 2025
 
 </div>
 
@@ -261,16 +81,6 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral position in medical radiation physics (PA2025/1877)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:833521/type:job/where:4/apply:1)
-- **Department:** Medical Radiation Physics, NAT
-- **Published:** 5 Jun 2025
-- **Deadline:** 30 Jun 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Biotechnology (PA2025/1882)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:833670/type:job/where:4/apply:1)
@@ -290,13 +100,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Plant Epigenetics (PA2025/1946)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral position in medical radiation physics (PA2025/1877)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835343/type:job/where:4/apply:1)
-- **Department:** Biology Main Cost Center, NAT
-- **Published:** 17 Jun 2025
-- **Deadline:** 1 Jul 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:833521/type:job/where:4/apply:1)
+- **Department:** Medical Radiation Physics, NAT
+- **Published:** 5 Jun 2025
+- **Deadline:** 30 Jun 2025
 
 </div>
 
@@ -306,6 +116,16 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:828992/type:job/where:4/apply:1)
 - **Department:** Biology Main Cost Center, NAT
 - **Published:** 3 Jun 2025
+- **Deadline:** 1 Jul 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in Plant Epigenetics (PA2025/1946)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835343/type:job/where:4/apply:1)
+- **Department:** Biology Main Cost Center, NAT
+- **Published:** 17 Jun 2025
 - **Deadline:** 1 Jul 2025
 
 </div>
@@ -320,6 +140,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher in International Human Rights (PA2025/2036)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837443/type:job/where:4/apply:1)
+- **Department:** The Pufendorf institute, USV
+- **Published:** 19 Jun 2025
+- **Deadline:** 2 Jul 2025
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Materials Chemistry: In situ LC-TEM & Operando Electrochemistry (PA2025/1749)</h3>
 
@@ -327,6 +157,56 @@
 - **Department:** Analysis and Synthesis, LTH
 - **Published:** 21 May 2025
 - **Deadline:** 2 Jul 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in human geography (PA2025/2052)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837796/type:job/where:4/apply:1)
+- **Department:** Human Geography, SAM
+- **Published:** 17 Jun 2025
+- **Deadline:** 2 Jul 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant at Immuntechnology (PA2025/2029)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837157/type:job/where:4/apply:1)
+- **Department:** Immunotechnology, LTH
+- **Published:** 19 Jun 2025
+- **Deadline:** 3 Jul 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in immuno-psycho-oncology (PA2025/2028)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837156/type:job/where:4/apply:1)
+- **Department:** Immunotechnology, LTH
+- **Published:** 19 Jun 2025
+- **Deadline:** 3 Jul 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Chemical Engineering on battery material  recycling with membrane processes (PA2025/1076)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:814144/type:job/where:4/apply:1)
+- **Department:** Chemical engineering, LTH
+- **Published:** 19 May 2025
+- **Deadline:** 4 Jul 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Applied Mathematics with specialization in Medical Image Analysis (PA2025/1740)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829012/type:job/where:4/apply:1)
+- **Department:** Mathematics LTH, LTH
+- **Published:** 26 May 2025
+- **Deadline:** 6 Jul 2025
 
 </div>
 
@@ -340,12 +220,62 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate researcher in ex vivo organ perfusion for transplantation (PA2025/2033)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837367/type:job/where:4/apply:1)
+- **Department:** Thoracic Surgery, Ingemansson, MED
+- **Published:** 25 Jun 2025
+- **Deadline:** 9 Jul 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Biotechnology (PA2025/335)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:794466/type:job/where:4/apply:1)
+- **Department:** BAM, LTH
+- **Published:** 18 Jun 2025
+- **Deadline:** 9 Jul 2025
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Doktorand (PA2025/1945)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835337/type:job/where:4/apply:1)
 - **Department:** Psychology, SAM
 - **Published:** 12 Jun 2025
+- **Deadline:** 10 Jul 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Coordinator to SciLifeLab Lund university (PA2025/2108)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:839316/type:job/where:4/apply:1)
+- **Department:** SciLifeLab Site Lund, MED
+- **Published:** 25 Jun 2025
+- **Deadline:** 10 Jul 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Doktorand (PA2025/2081)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:838433/type:job/where:4/apply:1)
+- **Department:** Respiratory Immunopharmacology, MED
+- **Published:** 19 Jun 2025
+- **Deadline:** 10 Jul 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Phd student in diabetesgenetics (PA2025/2080)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:838427/type:job/where:4/apply:1)
+- **Department:** Genetics & Diabetes Ahlqvist, MED
+- **Published:** 19 Jun 2025
 - **Deadline:** 10 Jul 2025
 
 </div>
@@ -361,12 +291,12 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in physical geography and ecosystem science (PA2025/1902)</h3>
+<h3>Post-doctoral fellow in Aquatic ecology (PA2025/2055)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834287/type:job/where:4/apply:1)
-- **Department:** Physical Geography, NAT
-- **Published:** 5 Jun 2025
-- **Deadline:** 27 Jul 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837890/type:job/where:4/apply:1)
+- **Department:** Biology Main Cost Center, NAT
+- **Published:** 18 Jun 2025
+- **Deadline:** 25 Jul 2025
 
 </div>
 
@@ -376,6 +306,16 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:825466/type:job/where:4/apply:1)
 - **Department:** Mathematics LTH, LTH
 - **Published:** 17 Jun 2025
+- **Deadline:** 27 Jul 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in physical geography and ecosystem science (PA2025/1902)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834287/type:job/where:4/apply:1)
+- **Department:** Physical Geography, NAT
+- **Published:** 5 Jun 2025
 - **Deadline:** 27 Jul 2025
 
 </div>
@@ -407,6 +347,26 @@
 - **Department:** Chemical Physics, NAT
 - **Published:** 16 Jun 2025
 - **Deadline:** 31 Jul 2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Student employee at the Centre for Mathematical Sciences (PA2025/1841)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:832414/type:job/where:4/apply:1)
+- **Department:** Mathematics N, NAT
+- **Published:** 24 Jun 2025
+- **Deadline:** 31 Jul 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Industrial Engineering and Management (PA2025/1899)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834216/type:job/where:4/apply:1)
+- **Department:** Engineering Logistics, LTH
+- **Published:** 23 Jun 2025
+- **Deadline:** 4 Aug 2025
 
 </div>
 
@@ -451,36 +411,6 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Fire Safety Engineering with a focus on Evacuation Safety (PA2025/1674)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827452/type:job/where:4/apply:1)
-- **Department:** Fire Safety Engineering, LTH
-- **Published:** 16 Jun 2025
-- **Deadline:** 11 Aug 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Informatics with a focus on AI and Digital Transformation (PA2025/1988)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:836046/type:job/where:4/apply:1)
-- **Department:** Informatics, EHL
-- **Published:** 10 Jun 2025
-- **Deadline:** 11 Aug 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in economics of education (PA2025/1989)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:836048/type:job/where:4/apply:1)
-- **Department:** Economics, EHL
-- **Published:** 10 Jun 2025
-- **Deadline:** 11 Aug 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in Physics with specialization in semiconductor photonics (PA2025/1908)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834523/type:job/where:4/apply:1)
@@ -521,6 +451,36 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Informatics with a focus on AI and Digital Transformation (PA2025/1988)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:836046/type:job/where:4/apply:1)
+- **Department:** Informatics, EHL
+- **Published:** 10 Jun 2025
+- **Deadline:** 11 Aug 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in economics of education (PA2025/1989)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:836048/type:job/where:4/apply:1)
+- **Department:** Economics, EHL
+- **Published:** 10 Jun 2025
+- **Deadline:** 11 Aug 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Fire Safety Engineering with a focus on Evacuation Safety (PA2025/1674)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827452/type:job/where:4/apply:1)
+- **Department:** Fire Safety Engineering, LTH
+- **Published:** 16 Jun 2025
+- **Deadline:** 11 Aug 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Visiting professors to Lund University Visiting Professors Programme (PA2025/1941)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835135/type:job/where:4/apply:1)
@@ -540,12 +500,12 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Semiconductor Technology (PA2025/1300)</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project coordinator within Mistra BIOPATH (PA2025/1994)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:818247/type:job/where:4/apply:1)
-- **Department:** , LTH
-- **Published:** 27 May 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:836231/type:job/where:4/apply:1)
+- **Department:** Business Administration, EHL
+- **Published:** 17 Jun 2025
 - **Deadline:** 15 Aug 2025
 
 </div>
@@ -570,6 +530,36 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Semiconductor Technology (PA2025/1300)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:818247/type:job/where:4/apply:1)
+- **Department:** , LTH
+- **Published:** 27 May 2025
+- **Deadline:** 15 Aug 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in in Sustainable Food Logistics and Packaging (PA2025/1755)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829321/type:job/where:4/apply:1)
+- **Department:** Packaging Logistics, LTH
+- **Published:** 4 Jun 2025
+- **Deadline:** 17 Aug 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>PostDoc Balder Beamline (PA2025/1905)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834411/type:job/where:4/apply:1)
+- **Department:** , MAX IV
+- **Published:** 9 Jun 2025
+- **Deadline:** 17 Aug 2025
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in theoretical computer science (PA2025/1760)</h3>
 
@@ -580,20 +570,30 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Biodiversity and Evolution (PA2025/1959)</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (Associate Senior Lecturer) at the Joint Faculties of Humanities & Theology, Lund University (PA2025/1744)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835532/type:job/where:4/apply:1)
-- **Department:** Biology Main Cost Center, NAT
-- **Published:** 13 Jun 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829093/type:job/where:4/apply:1)
+- **Department:** HT, HT
+- **Published:** 11 Jun 2025
 - **Deadline:** 17 Aug 2025
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor (Associate Senior Lecturer) at the Joint Faculties of Humanities & Theology, Lund University (PA2025/1744)</h3>
+<h3>Assistant Professor in neurodegenerative diseases with a focus on disease mechanisms (PA2025/1799)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829093/type:job/where:4/apply:1)
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:831173/type:job/where:4/apply:1)
+- **Department:** MED, MED
+- **Published:** 11 Jun 2025
+- **Deadline:** 17 Aug 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Visiting Professor in Humanities or Theology, Lund University (PA2025/1953)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835460/type:job/where:4/apply:1)
 - **Department:** HT, HT
 - **Published:** 11 Jun 2025
 - **Deadline:** 17 Aug 2025
@@ -610,32 +610,12 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in neurodegenerative diseases with a focus on disease mechanisms (PA2025/1799)</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Biodiversity and Evolution (PA2025/1959)</h3>
 
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:831173/type:job/where:4/apply:1)
-- **Department:** MED, MED
-- **Published:** 11 Jun 2025
-- **Deadline:** 17 Aug 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>PostDoc Balder Beamline (PA2025/1905)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:834411/type:job/where:4/apply:1)
-- **Department:** , MAX IV
-- **Published:** 9 Jun 2025
-- **Deadline:** 17 Aug 2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Visiting Professor in Humanities or Theology, Lund University (PA2025/1953)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835460/type:job/where:4/apply:1)
-- **Department:** HT, HT
-- **Published:** 11 Jun 2025
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835532/type:job/where:4/apply:1)
+- **Department:** Biology Main Cost Center, NAT
+- **Published:** 13 Jun 2025
 - **Deadline:** 17 Aug 2025
 
 </div>
@@ -650,22 +630,22 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Chemical Engineering on membrane processes for storm and rainwater harvesting (PA2025/1962)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835568/type:job/where:4/apply:1)
+- **Department:** Chemical engineering, LTH
+- **Published:** 17 Jun 2025
+- **Deadline:** 17 Aug 2025
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant professor in artistic research and AI (PA2025/1965)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835625/type:job/where:4/apply:1)
 - **Department:** , KMT
 - **Published:** 11 Jun 2025
-- **Deadline:** 17 Aug 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in in Sustainable Food Logistics and Packaging (PA2025/1755)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829321/type:job/where:4/apply:1)
-- **Department:** Packaging Logistics, LTH
-- **Published:** 4 Jun 2025
 - **Deadline:** 17 Aug 2025
 
 </div>
@@ -696,6 +676,16 @@
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:827392/type:job/where:4/apply:1)
 - **Department:** Building Physics, LTH
 - **Published:** 12 Jun 2025
+- **Deadline:** 19 Aug 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Pstdoctoral fellow within molecular Neuroanatomy (PA2025/2042)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:837683/type:job/where:4/apply:1)
+- **Department:** Mol Neuroanatomy, Å Mackenzie, MED
+- **Published:** 18 Jun 2025
 - **Deadline:** 19 Aug 2025
 
 </div>
@@ -760,6 +750,26 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellow in Physics: novel ultra-wide bandgap semiconductor technology (PA2025/1984)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:835969/type:job/where:4/apply:1)
+- **Department:** Solid State Physics, LTH
+- **Published:** 19 Jun 2025
+- **Deadline:** 1 Sep 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Economic Geography (PA2025/2135)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:839881/type:job/where:4/apply:1)
+- **Department:** Human Geography, SAM
+- **Published:** 25 Jun 2025
+- **Deadline:** 1 Sep 2025
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Lecturer in Internal Medicine combined with employment as a specialist physician/senior consultant (PA2025/411)</h3>
 
@@ -767,16 +777,6 @@
 - **Department:** MED, MED
 - **Published:** 28 May 2025
 - **Deadline:** 4 Sep 2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>MSCA PostDoc at SoftiMAX (PA2025/1785)</h3>
-
-- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:830496/type:job/where:4/apply:1)
-- **Department:** , MAX IV
-- **Published:** 9 Jun 2025
-- **Deadline:** 8 Sep 2025
 
 </div>
 
@@ -821,12 +821,32 @@
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>MSCA PostDoc at SoftiMAX (PA2025/1785)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:830496/type:job/where:4/apply:1)
+- **Department:** , MAX IV
+- **Published:** 9 Jun 2025
+- **Deadline:** 8 Sep 2025
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral Researcher in Structural Characterization of Ion Channels (PA2025/1748)</h3>
 
 - **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:829147/type:job/where:4/apply:1)
 - **Department:** Membrane Protein Biology, MED
 - **Published:** 9 Jun 2025
 - **Deadline:** 8 Sep 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Care for Older Adults and Gerontology – the Maria and Seved Ribbing Professorship (PA2025/44)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:786984/type:job/where:4/apply:1)
+- **Department:** Health Sciences general, MED
+- **Published:** 19 Jun 2025
+- **Deadline:** 15 Sep 2025
 
 </div>
 
@@ -837,6 +857,16 @@
 - **Department:** Urbanity Housing Environment, LTH
 - **Published:** 17 Jun 2025
 - **Deadline:** 30 Sep 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Anesthesiology and Intensive Care combined with employment as Specialist Physician/Senior Consultant (PA2025/412)</h3>
+
+- **Link:** [View job posting](https://lu.varbi.com/en/what:job/jobID:796423/type:job/where:4/apply:1)
+- **Department:** Clinical Sciences Lund, MED
+- **Published:** 19 Jun 2025
+- **Deadline:** 2 Oct 2025
 </div></div>
 
 <script>

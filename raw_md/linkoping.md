@@ -1,5 +1,17 @@
 # Linköping University
 
+### PhD student in Environmental Science at Environmental Change
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27133)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-08
+
+### PhD student in Analytical Sociology
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27064)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
 ### Senior Associate Professor in Construction Engineering
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26549)
 - **Department:** 
@@ -23,6 +35,18 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-10
+
+### Postdoc in Vehicular Systems, within SEDDIT competence center
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27074)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-08
+
+### Assistant Professor in Visual Media Communication
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27155)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-04
 
 ### PhD student in Computer Science at IDA
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26793)
@@ -48,6 +72,12 @@
 - **Published:** 
 - **Deadline:** 2025-07-31
 
+### Teaching assistants within Machine learning and R programming
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27107)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-09
+
 ### Bioinformatician to Clinical Genomics within Cell and Neurobiology
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27100)
 - **Department:** 
@@ -72,6 +102,12 @@
 - **Published:** 
 - **Deadline:** 2025-06-30
 
+### Principal research engineer within polymer chemistry
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27121)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-27
+
 ### Research assistant in organic nanoelectronics
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27085)
 - **Department:** 
@@ -83,40 +119,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-25
-
-### Postdoc in Materials Chemistry
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-### PhD student in Chemistry, focusing on simulation of reactive gas flows
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26988)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-### Principal research engineer in addiction medicine at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27025)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-23
-
-### Principal research engineer within material science and engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27076)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-23
-
-### Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26893)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-### Employment as research assistant in neurobiology/psychology at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27027)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-19
 

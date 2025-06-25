@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 15</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -37,6 +37,36 @@
 - **Department:** Department of Chemistry
 - **Published:** 
 - **Deadline:** 2025-06-26
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position (2 years) in aquatic biogeochemistry</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoc-position-2-years-in-aquatic-biogeochemistry-_840041/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-07-15
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Substitute Science Manager, Molecular Infection Medicine Sweden MIMS</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/substitute-science-manager-molecular-infection-medicine-sweden-mims_839439/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-07-16
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>The project has no title</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-project-has-no-title_837788/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-07-16
 
 </div>
 
@@ -120,6 +150,26 @@
 
 </div>
 
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project coordinator, Molecular Infection Medicine Sweden (MIMS)</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-coordinator-molecular-infection-medicine-sweden-mims_838734/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-08-11
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor, molecular mechanisms malaria parasite interaction in mosquitoes</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-molecular-mechanisms-malaria-parasite-interaction-in-mosquitoes_839967/)
+- **Department:** Department of Molecularbiology
+- **Published:** 
+- **Deadline:** 2025-08-13
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>One to Two Associate Professors (Senior Lecturers) in Economics</h3>
 
@@ -127,6 +177,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-14
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in subject matter education with a focus on Physics</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-subject-matter-education-with-a-focus-on-physics_813847/)
+- **Department:** Department of Science and Mathematics Education
+- **Published:** 
+- **Deadline:** 2025-08-15
 
 </div>
 
@@ -150,6 +210,26 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in business administration, specialization in finance</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-business-administration-specialization-in-finance_837696/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with focus on Symbolic AI</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-symbolic-ai_838880/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral position in computational eco-epidemiology</h3>
 
@@ -167,6 +247,36 @@
 - **Department:** Department of Historical, Philosophical and Religious Studies
 - **Published:** 
 - **Deadline:** 2025-08-29
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff scientist in Bioinformatics and Data Science</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-bioinformatics-and-data-science_838707/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff scientist with focus on AI trustworthiness modeling in human-robot interactions</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-with-focus-on-ai-trustworthiness-modeling-in-human-robot-interactions_836992/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-09-10
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in Fine Arts</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-in-fine-arts_818703/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-30
 </div></div>
 
 <script>

@@ -99,9 +99,18 @@ _paq.push(['trackPageView']);
     <p class="browserupgrade">You are using an <b>outdated</b> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-            <div><style>/* === Textbreak on small screens - Header and Footer === */
+            <div><style>/* Rensa extra-css 118  START */
 
+
+/* === Fix odd thumbnail-border in Kaltura-player === */
+.playkit-poster { background-size: cover !important; }
+
+
+/* === Textbreak on small screens - Header and Footer === */
 .primary-portal-links .top-links-others, .primary-portal-links .top-links-portals { flex-wrap: wrap; }
+
+
+/* Rensa extra-css 118 END */
 
 
 /* === Textbreak on small screens - Programme list === */
@@ -121,11 +130,6 @@ _paq.push(['trackPageView']);
   padding: 15px;
  }
 }
-
-
-/* === Fix odd thumbnail-border in Kaltura-player === */
-
-.playkit-poster { background-size: cover !important; }
 
 
 
@@ -263,32 +267,6 @@ _paq.push(['trackPageView']);
 .course-page .pagetitle-suffix .pagetitle-points { padding-top: 0px;  }
 
 
-/* ==== Programme page ==== */
-
-/* ---- pagetitle-suffix width on programme pages ---- */
-.programme-page .pagetitle-suffix { max-width: 100%; }
-.programme-page .pagetitle-summary { max-width: 65ch; }
-
-/* ---- apply-button ---- */
-.programme-page .apply-title .btn { white-space: normal; }
-
-
-/* ==== Libraryportal ==== */
-
-.libraryportal-pages a.du-linkbox-button:active,
-.libraryportal-pages a.du-linkbox-button:focus,
-.libraryportal-pages a.du-linkbox-button:hover,
-.libraryportal-pages a.du-linkbox-button:visited {
-    color: #fff;
-}
-
-/* ----  Secure that the buttons are white on library page ---- */
-
-.librarysearchbox-block .block-body-inner a:link,
-.librarysearchbox-block .block-body-inner a:hover,
-.librarysearchbox-block .block-body-inner a:active,
-.librarysearchbox-block .block-body-inner a:focus,
-.librarysearchbox-block .block-body-inner a:visited { color: #fff !important }
 
 
 
@@ -299,27 +277,6 @@ _paq.push(['trackPageView']);
  padding-top: 15px;
  padding-bottom: 15px;
 }
-
-
-/* ---- Hide bestall-buttons on learn-page 20240501 ---- */
-.tools-pages .blackboard-tool-page .tool-panel #devextreme1.dx-button,
-.tools-pages .blackboard-tool-page .tool-panel #devextreme2.dx-button {
- display: none;
-}
-
-
-/* ==== #10161 ==== */
-
-/* ---- temp pos langChange - fixed sprint 94 ---- */
-.staffportal-pages #SiteFunctionsNews { text-align: right; }
-
-.staffportal-pages #duLanguageChange { min-height: auto }
-
-.staffportal-pages #btnLanguageChange,
-.staffportal-pages #btnDuFavorite { padding: 0; margin-left: 2rem; text-align: right; }
-
-.staffportal-pages #duFavorite,
-.staffportal-pages #duLanguageChange { display: inline-block }
 
 
 /* ---- adjust pagetitle on researchproject ---- */
@@ -361,72 +318,6 @@ _paq.push(['trackPageView']);
 
 
 
-/* ==== #10XXX ==== */
-
-
-/* ----extra-search sites - too little padding on smal screens ---- */
-
-.other-search-functions {
- padding: 2rem;
-}
-
-
-/* ----L&#229;st design p&#229; den horisontella nyhetslistans blockrubrik ----*/
-
-.news-list-horizontal-block .panel-heading {
- margin-bottom: 0;
-}
-
-.news-list-horizontal-block .block-title {
- font-size: 2rem;
- margin: 0;
- font-weight: 500;
- padding: .5em 0;
-}
-
-
-
-
-
-
-/*------------------------*/
-/*-------- TEMP--------*/
-/*------------------------*/
-
-.education-sub-block.blockstylenormal.is-collapsible .collapsible-card .panel-heading {
-padding-left: 15px;
-}
-
-.collapsiblepanel-block .blockstylepanel.is-collapsible .collapsible-card .panel-heading {
-padding-left: 15px;
-}
-
-.staffportal-pages .linkbutton-container {
- padding-top: 30px;
-}
-
-.staffportal-pages .subpage-linkbuttons {
- margin-top: 0;
- padding-top: 0;
-}
-
-.staffportal-pages .blockstylenormal .panel-heading-title .block-title {
- font-size: 1.8rem;
- margin: 0;
- padding: 0
-}
-
-
-
-
-/* ---- Library search block button color ---- */
-.librarysearchbox-block a.btn-primary { background-color: #4b2582; }
-.librarysearchbox-block a.btn-primary:hover { background-color: #5d3b8f; }
-
-
-
-
-
 /* ==== rest ==== */
 
 /* ---- btn counter linkcolor ---- */
@@ -435,29 +326,6 @@ padding-left: 15px;
 #StaffPortalBody a.btn-primary,
 #StudentPortalBody a.btn-primary {
  color: #fff
-}
-
-/* ---- Login-button MW ---- */
-#StaffPortalBody .loginbuttonblock .block-body-inner {
- padding: 15px;
- background-color: #fff;
- position: relative;
-}
-
-#StaffPortalBody .loginbuttonblock .teaser-block-title {
- font-size: 2.2rem
-}
-
-#StaffPortalBody .loginbuttonblock .teaser-block-text p {
- margin: 10px 0 0;
- padding: 0 20px 0 0
-}
-
-#StaffPortalBody .loginbuttonblock .teaser-block-button {
- position: absolute;
- right: 15px;
- bottom: 15px;
- font-size: 2.2rem
 }
 
 
@@ -492,11 +360,6 @@ main { padding-bottom: 0 }
 }
 
 
-/* ==== BETA TEST ==== */
-
-nav h2.sr-only { width: 0px !important; }
-
-
 
 /* ---------------------------- */
 /* ---- CUSTOM-CODE ---- */
@@ -513,24 +376,7 @@ nav h2.sr-only { width: 0px !important; }
 /* ---- nonblock behavior for inline-blocks ---- */
 .non-block-block { height: 1px; font-size: 1px; margin: 0; padding:0; }
 .non-block-block + .basic-link { width: auto; clear: both; display:inline-block; }
-.non-block-block + .basic-link.du-block { float: none }
-
-
-/* -- New Browsealoud button -- */
-#__ba_panel {
-    position: fixed;
-    top: -50px;
-}
-
-/* ---- browsealoud ikon ----*/
-#__ba_panel {
-    display: none;
-}
-
-
-/* ------------------------------- */
-/* --- /CUSTOM-KOD END --- */
-/* ------------------------------- */</style></div>
+.non-block-block + .basic-link.du-block { float: none }</style></div>
 
 
 <a class="skip-link" href="#PageTitle">To content</a>
@@ -1102,13 +948,13 @@ Vacant Positions
 
         
 
-        <div id="636f5cbf-25e1-4e5e-b52d-a67225a760cf" class="block-body ">
+        <div id="6a07f4d0-d37f-43bc-9284-facfc90ea553" class="block-body ">
             <div class="block-body-inner">
 
                 <div id="du-vacantpositions-block-loading-indicator" class="loading-indicator" style="height: 60px; display: none;" hidden="">
                     <div class="loader-xs"></div>
                 </div>
-                <div id="vacantpositionsBlockCard-ae507e40">
+                <div id="vacantpositionsBlockCard-dde0cabb">
 
 
 <button type="button" class="btn btn-primary" onclick="window.location.href='/en/about-du/career-opportunities/vacant-positions/your-information/?action=signin'">Sign In or Sign Up</button>
@@ -1150,7 +996,7 @@ Vacant Positions
             data: { language: language, viewExtraText: viewExtraText, isInternal: isInternal },
             success: function (result) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
-                $('#vacantpositionsBlockCard-ae507e40').html(result);
+                $('#vacantpositionsBlockCard-dde0cabb').html(result);
             },
             error: function (req, staus, error) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
@@ -1198,7 +1044,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="885dffd5-b592-4a76-a086-d93ec019d06f" class="block-body ">
+        <div id="e56b13d0-36c2-45a9-9f0e-ebfdacf10e30" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1238,7 +1084,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="13f6e7e1-4e16-4838-ac4d-f1568061224f" class="block-body ">
+        <div id="793d606b-4cea-49ca-bdf1-332e7a5cdb65" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1278,7 +1124,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="bd68887a-b0c5-4a5e-aea6-b5da09e88955" class="block-body ">
+        <div id="f8403bc7-5267-4276-8c60-7e745757c8c1" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1318,7 +1164,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="93f2f694-558f-4e49-8805-592ff05871f1" class="block-body ">
+        <div id="7e01cd12-7199-4943-b154-bf46f54b6885" class="block-body ">
             <div class="block-body-inner">
 
 

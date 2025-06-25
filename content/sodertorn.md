@@ -1,5 +1,5 @@
 # Södertörn University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,6 +17,16 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistant in Business Studies</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=9010)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-01
 
 </div>
 

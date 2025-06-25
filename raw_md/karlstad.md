@@ -1,17 +1,5 @@
 # Karlstad University
 
-### Projektassistent, forskning i engelska vid CSL, 60 %
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:832392/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 17.Jun.2025
-
-### Fakultetsadministratör vikariat
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:831480/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 18.Jun.2025
-
 ### Projektassistent, forskning inom folkhälsovetenskap
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:836531/iframeEmbedded:0/where:4)
 - **Department:** 
@@ -30,7 +18,13 @@
 - **Published:** 
 - **Deadline:** 03.Aug.2025
 
-### Associate senior lecturer in analytical chemistry with expertise in chromatography
+### Postdoctor in Risk and Environmental Studies with a focus on disaster risk management and the effects of risk reducing efforts
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:838171/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 10.Aug.2025
+
+### Associate senior lecturer in Analytical chemistry with expertise in chromatography
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:793503/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
@@ -47,4 +41,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 31.Aug.2025
+
+### Professor i litteraturvetenskap
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835444/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.Oct.2025
+
+### Professor i engelska med litteraturvetenskaplig inriktning
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835449/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 31.Oct.2025
 

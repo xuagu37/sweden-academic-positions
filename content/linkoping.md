@@ -20,6 +20,26 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Environmental Science at Environmental Change</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27133)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-08
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Analytical Sociology</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27064)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Senior Associate Professor in Construction Engineering</h3>
 
@@ -57,6 +77,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Vehicular Systems, within SEDDIT competence center</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27074)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-08
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Visual Media Communication</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27155)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-04
 
 </div>
 
@@ -101,6 +141,16 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants within Machine learning and R programming</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27107)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-07-09
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Bioinformatician to Clinical Genomics within Cell and Neurobiology</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27100)
@@ -140,6 +190,16 @@
 
 </div>
 
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principal research engineer within polymer chemistry</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27121)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-06-27
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Research assistant in organic nanoelectronics</h3>
 
@@ -157,66 +217,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-06-25
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Materials Chemistry</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26954)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Chemistry, focusing on simulation of reactive gas flows</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26988)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-24
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Principal research engineer in addiction medicine at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27025)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-23
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Principal research engineer within material science and engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27076)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-23
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Polymer Nanofibers for Solar Fuels Photocatalysis</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26893)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-20
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Employment as research assistant in neurobiology/psychology at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27027)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-19
 </div></div>
 
 <script>
