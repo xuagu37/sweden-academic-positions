@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,26 +20,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer – Energy Engineering, Multiphase Flows</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3221)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-01
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in English</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3194)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-05
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD Student in Energy and Environmental Engineering</h3>
 
@@ -47,16 +27,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-10
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in  computer science -  Model-Driven Engineering and AI</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3270)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-16
 
 </div>
 
@@ -70,23 +40,13 @@
 
 </div>
 
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Research Engineers in Battery Production</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3256)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-07
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Student Research Assistant-Bubble Barrier Project for River Plastics</h3>
+<h3>Student Assistant – Analysis of Student Attrition</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3233)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3280)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-06-25
+- **Deadline:** 2025-08-25
 </div></div>
 
 <script>

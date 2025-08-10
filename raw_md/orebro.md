@@ -1,41 +1,5 @@
 # Örebro University
 
-### Postdoctoral researchers in Computer Science, Cybersecurity
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250159)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-### Postdoctoral researchers in Computer Science, Cybersecurity and Embodied AI
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250160)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-### Doctoral student in Economics
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250205)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-### Doctoral students in Computer Science, Cybersecurity
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250141)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-### Doctoral students in Computer Science, Cybersecurity and Embodied AI
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250142)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-### Associate senior lecturer in Computer Science, Cybersecurity
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250158)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
 ### Postdoctoral researcher in criminology
 - **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250199)
 - **Department:** 
@@ -47,4 +11,22 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-11
+
+### Teaching assistant in Chemistry
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250232)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-13
+
+### Doctoral student in Biomedicine
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250233)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-18
+
+### Doctoral student in legal science with a focus on Regulation of AI
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250228)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-01
 

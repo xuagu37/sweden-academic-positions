@@ -1,94 +1,34 @@
 # Stockholm University
 
-### Associate Professor in Physical Geography
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815132/where:4/)
-- **Department:** Department of Physical Geography
+### Associate Senior Lecturer in Computer and Systems Sciences with a focus on Enterprise Modeling of Digital Ecosystems
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830721/where:4/)
+- **Department:** Department of Computer and Systems Sciences
 - **Published:** 
-- **Deadline:** 2025-06-26
+- **Deadline:** 2025-08-11
 
-### Associate Professor in Physical Geography with focus on geohazards
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:815267/where:4/)
-- **Department:** Department of Physical Geography
-- **Published:** 
-- **Deadline:** 2025-06-26
-
-### Researcher in Herring population genetics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830572/where:4/)
-- **Department:** Department of Ecology, Environment and Plant Sciences
-- **Published:** 
-- **Deadline:** 2025-07-03
-
-### PhD student in Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:838612/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-07-11
-
-### PhD student in Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831665/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-07-11
-
-### PhD student in Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834017/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-07-11
-
-### PhD student in Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834234/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-07-11
-
-### PhD student in Aging and Molecular Biosciences
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:835612/where:4/)
-- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
-- **Published:** 
-- **Deadline:** 2025-07-11
-
-### Research Assistant in International Relations
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:836371/where:4/)
-- **Department:** Department of Economic History and International Relations
-- **Published:** 
-- **Deadline:** 2025-07-16
-
-### Teaching Assistant in Physics
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:833177/where:4/)
-- **Department:** Fysikum
-- **Published:** 
-- **Deadline:** 2025-07-21
-
-### Senior Lecturer/Associate Professor in [ärendemall] Välj EN av titlarna.
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821547/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2025-08-04
-
-### PhD student in Environmental Science: non-target PFAS screening by GC-HRMS
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:835253/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-08-04
-
-### PhD student in Environmental Science, Stem Cell-Based Models and Toxicology
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:839126/where:4/)
-- **Department:** Department of Environmental Science
-- **Published:** 
-- **Deadline:** 2025-08-04
-
-### Senior Lecturer in Business Administration, especially Finance
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:822481/where:4/)
-- **Department:** Stockholms universitet
-- **Published:** 
-- **Deadline:** 2025-08-05
-
-### Postdoctoral Fellow in Hybrid cathodes for E-methanol production
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:835256/where:4/)
+### PhD student in Analytical Chemistry in luminescent nanoprobes for in vivo bioimaging
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:842555/where:4/)
 - **Department:** Department of Chemistry
 - **Published:** 
-- **Deadline:** 2025-08-08
+- **Deadline:** 2025-08-15
+
+### PhD student in Analytical Chemistry in advanced robust biochemical sensors
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:842515/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### PhD student in Materials Chemistry
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:842463/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### PhD student in Materials Chemistry for Sustainable Organic Semiconductors
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:841470/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-08-15
 
 ### Automation expert for Chemical synthesis and Material processing
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831922/where:4/)
@@ -96,17 +36,41 @@
 - **Published:** 
 - **Deadline:** 2025-08-15
 
+### PhD student in Arctic Aeolian Processes and Paleoclimate
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:843553/where:4/)
+- **Department:** Department of Geological Sciences
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### PhD student in Molecular Biosciences
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834234/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### Postdoctoral Fellow in Yeast Evolutionary Genomics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:841228/where:4/)
+- **Department:** Department of Zoology
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+### PhD student in Neurochemistry with molecular neurobiology
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:833275/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-08-20
+
+### PhD student in Bioinformatics
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:830925/where:4/)
+- **Department:** Department of Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-08-20
+
 ### Postdoctoral Fellow to project INSPIRI
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:834041/where:4/)
 - **Department:** Stockholm Resilience Centre
 - **Published:** 
 - **Deadline:** 2025-08-31
-
-### Associate Professor in Experimental Chemical Physics with focus on X-Ray Characterization of Chemical Processes
-- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:827506/where:4/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-09-01
 
 ### PhD student in Criminology
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:831893/where:4/)
@@ -120,11 +84,35 @@
 - **Published:** 
 - **Deadline:** 2025-09-01
 
+### Staff Scientist within Scanning Electron Microcopy (SEM)
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:842202/where:4/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-09-01
+
+### Associate Professor in Experimental Chemical Physics with focus on X-Ray Characterization of Chemical Processes
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:827506/where:4/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-09-01
+
+### Associate Professor in Radiation Biology with Focus on Molecular Mechanisms
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:835631/where:4/)
+- **Department:** Department of Molecular Biosciences, The Wenner-Gren Institute
+- **Published:** 
+- **Deadline:** 2025-09-08
+
 ### PhD student in Metamorphic petrology
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:833906/where:4/)
 - **Department:** Department of Geological Sciences
 - **Published:** 
 - **Deadline:** 2025-09-08
+
+### PhD student in Computer and Systems Sciences, with focus on Enterprise Architecture and Digital Transformation
+- **Link:** [View job posting](https://su.varbi.com/what:job/jobID:839736/where:4/)
+- **Department:** Department of Computer and Systems Sciences
+- **Published:** 
+- **Deadline:** 2025-10-15
 
 ### Postdoctoral Fellow in Theoretical Physics
 - **Link:** [View job posting](https://su.varbi.com/what:job/jobID:821810/where:4/)

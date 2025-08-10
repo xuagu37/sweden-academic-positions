@@ -99,29 +99,88 @@ _paq.push(['trackPageView']);
     <p class="browserupgrade">You are using an <b>outdated</b> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-            <div><style>/* Rensa extra-css 118  START */
+            <div><style>/* ======================= */
+/* Rensa extra-css 119  START */
+/* ======================= */
 
 
 /* === Fix odd thumbnail-border in Kaltura-player === */
-.playkit-poster { background-size: cover !important; }
-
+.playkit-poster {
+ background-size: cover !important; 
+}
 
 /* === Textbreak on small screens - Header and Footer === */
-.primary-portal-links .top-links-others, .primary-portal-links .top-links-portals { flex-wrap: wrap; }
+.primary-portal-links .top-links-others,
+.primary-portal-links .top-links-portals {
+ flex-wrap: wrap; 
+}
 
+/* === h2-format i searchliteraturelistpanel === */
+#SearchLiteratureListPanel button h2 {
+ font-size: 1.8rem;
+ font-weight: 500;
+ margin: 4px 0 0 0 !important;
+ padding: 0;
+}
 
-/* Rensa extra-css 118 END */
+/* === Probably already integrated - h2-format i ongoingdisruption === */
+.ongoingdisruptions-block h2 {
+ font-size: 1.8rem;
+ font-weight: 500;
+ margin: 0 0 .7em;
+ padding: 0;
+}
 
+/* === Show submenu on mobile === */
+@media screen and (max-width: 767px) {
+ #PageContentRightArea {
+  display: flex;
+  flex-direction: column;
+ }
+ .multi-content-area {
+  order: 1
+ }
+ #SubMenu {
+  order: 5;
+  display: block;
+  margin-top: 2rem;
+ }
+ .responsible-secondary {
+  order: 10;
+ }
+ #SubMenu {
+  padding: 1.5rem;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.1)
+ }
+}
+
+/* === Mainmenu overflow === */
+.primary-mainmenu {
+ overflow: auto;
+ scrollbar-width: none; 
+}
+
+/* === Searchbox-block margin === */
+.searchbox-block {
+    margin-bottom: 30px;
+}
+
+/* === Font-weight tools-block === */
+.tools-pages .tool-panel .panel-title { 
+ font-weight: 500; 
+}
 
 /* === Textbreak on small screens - Programme list === */
-
-.education-block-group .block-body-inner .panel { overflow: auto; }
-.education-block.blockstylenormal .panel.collapsible-card { box-shadow: 0 0px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.1)!important }
-
- .education-block-group .block-body-inner .panel-heading-title { font-size: 1.6rem; }
- .education-block-group.blockstylepanel .block-body .block-body-inner { padding: 2px; }
-
- 
+.education-block-group .block-body-inner .panel {
+ overflow: auto; /* enable scrollbar on small screens */
+}
+ .education-block-group .block-body-inner .panel-heading-title {
+ font-size: 1.6rem; /* minimize the font-size on small screens */
+}
+ .education-block-group.blockstylepanel .block-body .block-body-inner {
+ padding: 2px; /* minimize surroundig space on small screens */
+}
 @media (min-width: 350px) {
  .education-block-group .block-body-inner .panel-heading-title { 
   font-size: 1.8rem;
@@ -132,19 +191,18 @@ _paq.push(['trackPageView']);
 }
 
 
-
-/* === Mainmenu overflow === */
-
-.primary-mainmenu { overflow: auto; scrollbar-width: none; }
-
-
-/* === Searchbox-block margin === */
-.searchbox-block {
-    margin-bottom: 30px;
-}
+/* ===================== */
+/* Rensa extra-css 119 END */
+/* ===================== */
 
 
-/* === Megateaser - responsive === */
+
+/* ---------------------------- */
+/* ---- CUSTOM-CODE ---- */
+/* ---------------------------- */
+
+
+/* === temp Megateaser - unformatted textblock === */
 
 .megateaser-block {
     margin-bottom: 20px;
@@ -217,153 +275,6 @@ _paq.push(['trackPageView']);
 }
 
 
-/* === Show submenu on mobile === */
-
-@media screen and (max-width: 767px) {
-
-  #PageContentRightArea { display: flex; flex-direction: column; }
-  .multi-content-area { order: 1 }
-  #SubMenu { order: 5; display: block; margin-top: 2rem; }
-  .responsible-secondary { order: 10; }
-  #SubMenu { padding: 1.5rem; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.1)  }
-
-}
-
-/* === h2-format === */
-
-/* searchliteraturelistpanel */
-#SearchLiteratureListPanel button h2 {
- font-size: 1.8rem;
- font-weight: 500;
- margin: 4px 0 0 0 !important;
- padding: 0;
-}
-
-/* ongoingdisruption */
-.ongoingdisruptions-block h2 {
- font-size: 1.8rem;
- font-weight: 500;
- margin: 0 0 .7em;
- padding: 0;
-}
-
-
-/* === block style korr sprint 113 === */
-
-.staffportal-pages .block .blockstylenormal .block-title { font-size: 1.8rem; font-weight: 600; margin: 0 0 1.5rem; line-height: 1.5; color: #000; }
-
-.tools-pages .block .blockstylepanel .block-title { font-size: 1.8rem; margin-top: 2px; margin-bottom: 0; padding: 10px 15px; font-weight: 400; color: #fff; }
-
-.tools-pages .block .blockstylepanel .panel-heading-area {
-    background-color: #4b2582;
-}
-
-
-/* === Adjust pagetitle-suffix on coursepage === */
-
-.course-page .pagetitle-suffix { padding-top: 20px; margin-top: 0 !important; max-width: 75%; padding-right: 30px; }
-
-.course-page .pagetitle-suffix .pagetitle-levels,
-.course-page .pagetitle-suffix .pagetitle-points { padding-top: 0px;  }
-
-
-
-
-
-
-/* === Ongoing disruptions block === */
-
-.ongoingdisruptionsblock {
- padding-top: 15px;
- padding-bottom: 15px;
-}
-
-
-/* ---- adjust pagetitle on researchproject ---- */
-.researchproject-page #PageTitle h1 { font-size: 3.2rem; line-height: 1.2; }
-
-@media screen and (min-width: 768px) {
-.researchproject-page #PageTitle h1 { font-size: 3.6rem; }
-}
-
-
-/* ---- reverse margin-top RightArea ---- */
-.staffportal-pages #PageContentRightArea { margin-top: 30px; }
-
-@media screen and (min-width: 768px) {
- .staffportal-pages #PageContentRightArea { margin-top: 0px; }
-}
-
-
-/* ---- temp hide info-icon myagenda-widget ---- */
-.myagendablock #showAgendaDialog { display: none; }
-
-
-/* ---- Name in Personal menu ---- */
-#MyMenu .my-menu-user {  line-height: 1em;  padding: 0.7rem 15px 0.5rem; }
-
-
-/* ---- fallback if no background-image ---- */
-.portal-content-area.widget.show-image {
- background-color: #d6d6d6 !important;
-}
-
-
-/* ---- Correction portal page ---- */
-.portal-page .portal-content-area.widget {  padding-bottom: 5px; } /* easier on the eyes */
-
-
-/* ---- buttons already have padding-bottom ---- */
-.student-portal .flexcontainerblock .du-block .blockstylenormal { padding-bottom: 0; !important } /* buttons already have padding-bottom */
-
-
-
-/* ==== rest ==== */
-
-/* ---- btn counter linkcolor ---- */
-
-#MasterBody a.btn-primary,
-#StaffPortalBody a.btn-primary,
-#StudentPortalBody a.btn-primary {
- color: #fff
-}
-
-
-/* ---- mw-blockstylenormal-h2_left-align ---- */
-#StaffPortalBody .blockstylenormal h2.block-title,
-#StaffPortalBody .blockstylepanel h2.block-title { 
- text-align: left;
-}
-
-/* ---- adjust container-block heading ---- */
-.container-block .block-title { display: block; margin-left: 15px; margin-right: 15px; }
-
-.container-block .block .block-title {
- margin-left: 0;
- margin-right: 0
-}
-
-
-#StudentPortalBody .system-status-block .block-heading .block-title { color: #fff!important; font-weight:400!important; font-size:1.7rem!important }
-
-
-/* ---- avoid double-padding ---- */
-main { padding-bottom: 0 }
-
-
-.du-block .du-block {
-    float: none;
-}
-
-.contact-card .cp-image-area {
-    flex-shrink: 0;
-}
-
-
-
-/* ---------------------------- */
-/* ---- CUSTOM-CODE ---- */
-/* ---------------------------- */
 
 #emergencyIconArea { display: none }
 #emergencyMessageArea { width: 100%; padding: 0 }
@@ -948,18 +859,51 @@ Vacant Positions
 
         
 
-        <div id="6a07f4d0-d37f-43bc-9284-facfc90ea553" class="block-body ">
+        <div id="b9311461-c10e-48d7-9750-2443a4299e0e" class="block-body ">
             <div class="block-body-inner">
 
                 <div id="du-vacantpositions-block-loading-indicator" class="loading-indicator" style="height: 60px; display: none;" hidden="">
                     <div class="loader-xs"></div>
                 </div>
-                <div id="vacantpositionsBlockCard-dde0cabb">
+                <div id="vacantpositionsBlockCard-2490f913">
 
 
 <button type="button" class="btn btn-primary" onclick="window.location.href='/en/about-du/career-opportunities/vacant-positions/your-information/?action=signin'">Sign In or Sign Up</button>
 <button type="button" class="btn btn-primary" onclick="window.location.href='/en/about-du/career-opportunities/vacant-positions/your-information/?action=subscribe'">Subscribe</button>
 
+    <div class="vacantpositions-item">
+            <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2572">Utredare med fokus på kvantitativ analys</a>
+
+        <div class="vacantpositions-area">
+            
+            <div>Last day to apply: <time datetime="8/17/2025 11:59:00 PM">17 Aug 2025</time></div>
+            <div>Location: Falun</div>
+        </div>
+
+
+    </div>
+    <div class="vacantpositions-item">
+            <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2573">Utredare med fokus på kvalitativ analys</a>
+
+        <div class="vacantpositions-area">
+            
+            <div>Last day to apply: <time datetime="8/17/2025 11:59:00 PM">17 Aug 2025</time></div>
+            <div>Location: Falun</div>
+        </div>
+
+
+    </div>
+    <div class="vacantpositions-item">
+            <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2594">Assistant Professor in Energy and Built Environment</a>
+
+        <div class="vacantpositions-area">
+            
+            <div>Last day to apply: <time datetime="8/31/2025 11:59:00 PM">31 Aug 2025</time></div>
+            <div>Location: Borlange</div>
+        </div>
+
+
+    </div>
     <div class="vacantpositions-item">
             <a href="/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2585">Timanställd tentamensvärd till lärande organisation</a>
 
@@ -996,7 +940,7 @@ Vacant Positions
             data: { language: language, viewExtraText: viewExtraText, isInternal: isInternal },
             success: function (result) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
-                $('#vacantpositionsBlockCard-dde0cabb').html(result);
+                $('#vacantpositionsBlockCard-2490f913').html(result);
             },
             error: function (req, staus, error) {
                 $('#du-vacantpositions-block-loading-indicator').hide();
@@ -1044,7 +988,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="e56b13d0-36c2-45a9-9f0e-ebfdacf10e30" class="block-body ">
+        <div id="46bd4a53-4859-48ee-923f-7361fb26d16e" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1084,7 +1028,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="793d606b-4cea-49ca-bdf1-332e7a5cdb65" class="block-body ">
+        <div id="86ad3e49-f39e-434e-b9bd-15c513c179e4" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1124,7 +1068,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="f8403bc7-5267-4276-8c60-7e745757c8c1" class="block-body ">
+        <div id="68b94069-9acd-4cec-b3c9-f388e6370198" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1164,7 +1108,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="7e01cd12-7199-4943-b154-bf46f54b6885" class="block-body ">
+        <div id="47ba2caf-b69a-4171-a52e-d02206cfd2c6" class="block-body ">
             <div class="block-body-inner">
 
 

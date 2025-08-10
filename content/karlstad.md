@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 9</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -17,36 +17,6 @@
 
 <div id="jobList">
 <div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektassistent, forskning inom folkhälsovetenskap</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:836531/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 03.Jul.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkter i omvårdnad</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835735/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 03.Aug.2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Computer Science, OPEHRA</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822208/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 03.Aug.2025
 
 </div>
 
@@ -80,6 +50,16 @@
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in biology</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:832865/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 26.Aug.2025
+
+</div>
+
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Engelsk titel</h3>
 
@@ -87,6 +67,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 31.Aug.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetsadjunkt i medie- och kommunikationsvetenskap</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:839374/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 14.Sep.2025
 
 </div>
 

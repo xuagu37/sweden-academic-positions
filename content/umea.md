@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 21</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,106 +20,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in plant science with a focus on cell adhesion</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-a-focus-on-cell-adhesion_828185/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-06-26
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Two Amanuensis positions for the Life Science program (20% of full time)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/two-amanuensis-positions-for-the-life-science-program-20-of-full-time_828991/)
-- **Department:** Department of Chemistry
-- **Published:** 
-- **Deadline:** 2025-06-26
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position (2 years) in aquatic biogeochemistry</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoc-position-2-years-in-aquatic-biogeochemistry-_840041/)
-- **Department:** Department of Ecology and Environmental Science
-- **Published:** 
-- **Deadline:** 2025-07-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Substitute Science Manager, Molecular Infection Medicine Sweden MIMS</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/substitute-science-manager-molecular-infection-medicine-sweden-mims_839439/)
-- **Department:** Department of Molecular Biology
-- **Published:** 
-- **Deadline:** 2025-07-16
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>The project has no title</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/the-project-has-no-title_837788/)
-- **Department:** Department of Molecular Biology
-- **Published:** 
-- **Deadline:** 2025-07-16
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD-student in Sociology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_830563/)
-- **Department:** Department of Sociology
-- **Published:** 
-- **Deadline:** 2025-07-21
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Sociology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_830567/)
-- **Department:** Department of Sociology
-- **Published:** 
-- **Deadline:** 2025-07-21
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in plant science with focus on photosynthetic water oxidation</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-plant-science-with-focus-on-photosynthetic-water-oxidation_831440/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-07-31
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral researcher (3 years) in Computer Science with focus on Compilation of Linear Algebra Expressionst</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-3-years-in-computer-science-with-focus-on-compilation-of-linear-algebra-expressionst_810274/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-08-01
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Computing Science with focus on Compilation of Linear Algebra Expressionst</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-compilation-of-linear-algebra-expressionst_810268/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-08-01
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Assistant Professor in Computing Science with a focus on Cybersecurity</h3>
 
@@ -135,6 +35,16 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-privacy-for-data-driven-models-and-high-dimensional-data_833467/)
 - **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-08-10
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in cardiovascular genetics</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-in-cardiovascular-genetics_841007/)
+- **Department:** Department of Public Health and Clinical Medicine
 - **Published:** 
 - **Deadline:** 2025-08-10
 
@@ -191,9 +101,29 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_840424/)
+- **Department:** Department of Clinical Microbiology
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Business Administration, specialization in entrepreneurship</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-business-administration-specialization-in-entrepreneurship_830386/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-15
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate professor in business administration, specialization in finance</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-business-administration-specialization-in-finance_837696/)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-15
@@ -205,16 +135,6 @@
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/stress-response-modelling-in-icelab-phd-position-in-computational-physics-to-uncover-organelle-coordination-mechanisms-under-stress_835533/)
 - **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate professor in business administration, specialization in finance</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/associate-professor-in-business-administration-specialization-in-finance_837696/)
-- **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-15
 
@@ -240,6 +160,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Sociology with a focus on Waste Studies</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-researcher-in-sociology-with-a-focus-on-waste-studies_840738/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2025-08-22
+
+</div>
+
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>Professor of Philosophy</h3>
 
@@ -261,6 +191,16 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants to Umeå School of Architecture</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/teaching-assistants-to-umea-school-of-architecture_840630/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-07
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
 <h3>Staff scientist with focus on AI trustworthiness modeling in human-robot interactions</h3>
 
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-with-focus-on-ai-trustworthiness-modeling-in-human-robot-interactions_836992/)
@@ -277,6 +217,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student in Sociology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-sociology_840856/)
+- **Department:** Department of Sociology
+- **Published:** 
+- **Deadline:** 2025-10-15
 </div></div>
 
 <script>

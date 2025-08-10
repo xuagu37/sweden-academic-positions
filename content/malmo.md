@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,33 +20,43 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant in responsible AI for education and mobility</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Short-time Research Fellow (Project Researcher) at  Russia, Ukraine and the Caucasus Regional Research</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4104)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4149)
+- **Department:** Faculty of culture and society  / Department of Global Political Studies
+- **Published:** 16 July 2025
+- **Deadline:** 15 August 2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Industrial Product Development</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4089)
 - **Department:** Faculty of technology and society
-- **Published:** 19 June 2025
-- **Deadline:** 31 July 2025
+- **Published:** 02 July 2025
+- **Deadline:** 31 August 2025
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant in IoT and Human-Machine Interaction</h3>
+<h3>Teaching Assistant in the IOIO Mechatronics Lab</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4094)
-- **Department:** Faculty of technology and society
-- **Published:** 09 June 2025
-- **Deadline:** 15 July 2025
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4141)
+- **Department:** Faculty of culture and society  / School of Arts and Communication
+- **Published:** 01 July 2025
+- **Deadline:** 17 August 2025
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research Assistant in pedagogical research and educational innovation</h3>
+<h3>Research Assistant in Interpretable Machine Learning</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4097)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4132)
 - **Department:** Faculty of technology and society
-- **Published:** 09 June 2025
-- **Deadline:** 15 July 2025
+- **Published:** 30 June 2025
+- **Deadline:** 23 September 2025
 </div></div>
 
 <script>
