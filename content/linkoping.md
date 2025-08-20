@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 24</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 16</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -60,6 +60,16 @@
 
 </div>
 
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in organic bioelectronics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27344)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-12
+
+</div>
+
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Environmental Science at Environmental Change</h3>
 
@@ -71,9 +81,39 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Reinforcement Learning for Control of Partially Observable Dynamical Systems</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27355)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-05
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants/Amanuens in Fluid and Mechatronic systems</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27365)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-04
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Analytical Sociology</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27064)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants/Amanuens in Applied Thermodynamics and Fluid Mechanics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27373)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
@@ -137,126 +177,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-22
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Lighting Design</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27176)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Principal Research Engineer in Clinical Neurophysiology</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27305)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Data Science expert to the Swedish AI factory</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27285)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Application expert in AI for life science to the Swedish AI factory</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27286)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Application expert in AI for materials science to the Swedish AI factory</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27287)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Energy Systems, industrial sustainability and digitalization</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27189)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-12
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Associate Professor in Construction Engineering</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26549)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Professor in Construction Engineering at the Department of Science and Technology</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26631)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD in communication electronics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27079)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Visualization and Media technology with a focus on interactive embodied AI</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27147)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Principal research engineer in multi-omics integration at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27248)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Medical Science at BKV</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27095)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
 </div></div>
 
 <script>

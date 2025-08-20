@@ -24,14 +24,38 @@
 - **Published:** 
 - **Deadline:** 2025-09-30
 
+### Postdoc in organic bioelectronics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27344)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-12
+
 ### PhD student in Environmental Science at Environmental Change
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27133)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-08
 
+### PhD Student in Reinforcement Learning for Control of Partially Observable Dynamical Systems
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27355)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-05
+
+### Teaching assistants/Amanuens in Fluid and Mechatronic systems
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27365)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-04
+
 ### PhD student in Analytical Sociology
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27064)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
+### Teaching assistants/Amanuens in Applied Thermodynamics and Fluid Mechanics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27373)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
@@ -71,76 +95,4 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-22
-
-### PhD Student in Lighting Design
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27176)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
-
-### Principal Research Engineer in Clinical Neurophysiology
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27305)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### Data Science expert to the Swedish AI factory
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27285)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-### Application expert in AI for life science to the Swedish AI factory
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27286)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-### Application expert in AI for materials science to the Swedish AI factory
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27287)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-### PhD student in Energy Systems, industrial sustainability and digitalization
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27189)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-12
-
-### Senior Associate Professor in Construction Engineering
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26549)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-### Associate Professor in Construction Engineering at the Department of Science and Technology
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/26631)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-### PhD in communication electronics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27079)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-### PhD student in Visualization and Media technology with a focus on interactive embodied AI
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27147)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-### Principal research engineer in multi-omics integration at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27248)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
-
-### PhD student in Medical Science at BKV
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27095)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
 

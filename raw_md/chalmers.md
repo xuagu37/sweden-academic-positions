@@ -1,22 +1,58 @@
 # Chalmers University of Technology
 
+### PhD Student Position in Aerothermal Design and CFD
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14152)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-18
+
+### Doctoral student in circularity and habitat value in urban transformation
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14150)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-15
+
+### Doctoral student position in Operator Algebras
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14151)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-29
+
+### Postdoctoral fellow in Computer Vision and Machine Learning
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14063)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-25
+
+### PhD Student Position in Generative AI
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14064)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-25
+
+### Doctoral student in Reduction of brake wear emissions from urban heavy-duty transport
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14145)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-15
+
+### Postdoc position for Generative models for molecular dynamics
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14022)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-25
+
+### Project Assistant position in Computational Sustainable Design
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14144)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-08-31
+
 ### PhD Student Position in Advanced Sensor Technologies for Fall Risk Prediction and Rehabilitation
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14142)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-24
-
-### Project Assistant in AI for Predicting Properties of Lipid Formulations
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14141)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
-
-### PhD position in far-infrared semiconductor electronics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14005)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
 
 ### Utbytesambassadör
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14140)
@@ -30,23 +66,11 @@
 - **Published:** 
 - **Deadline:** 2025-08-24
 
-### Postdoc position in composite nanostructure control
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14126)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
 ### Postdoc position on amyloid-b synaptotoxicity in Alzheimer's disease
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14065)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
-
-### PhD student in User Behaviour in Life Cycle Assessment of Appliances
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14132)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-17
 
 ### PhD student position in Neuro-symbolic AI
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14125)
@@ -102,47 +126,11 @@
 - **Published:** 
 - **Deadline:** 2025-08-31
 
-### Administratör till institutionen för Arkitektur och samhällsbyggnadsteknik - vikariat
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14110)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-13
-
-### PhD student position in turbulent ship wakes and their effects on the marine environment
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14099)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### PhD student position in cumulative risk assessment of shipping pressures and impacts on the marine environment
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14101)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### Project manager at The Swedish Life Cycle Center
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14074)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### Project Manager på Swedish Life Cycle Center
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14084)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
 ### PhD in computational modelling of effects of defects in mega-cast aluminium
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14106)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
-
-### Postdoc in Innovation and Entrepreneurship
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14105)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-11
 
 ### Postdoc position in post-AM processing of additively manufactured components
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14100)
@@ -162,36 +150,6 @@
 - **Published:** 
 - **Deadline:** 2025-08-25
 
-### Verksamhetskoordinator på Chalmers Stiftelse
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14090)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
-
-### Up to two PhD positions at the intersection of Formal Verification and Planning
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14087)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### Ekonom till Mikroteknologi och Nanovetenskap
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14098)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### Instruktör (lärare) med inriktning nautik och sjösäkerhet
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14081)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-12
-
-### Instruktör (lärare) med inriktning el och automation
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14080)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-12
-
 ### PhD student position in sustainable powder for metal additive manufacturing
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14082)
 - **Department:** 
@@ -204,53 +162,17 @@
 - **Published:** 
 - **Deadline:** 2025-08-25
 
-### PhD student position in occupational traffic safety and comfort
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14075)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
-
-### Integrationsspecialist
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14088)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-17
-
 ### PhD position in Network Security for Distributed AI
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14079)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
 
-### Vill du stötta forskning i världsklass? Bli en del av Chalmers forskarstöd
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14071)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
-
-### Dataarkitekt med ansvar för dataplattform och analysarkitektur
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14011)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-17
-
-### Nanofabrication Research Engineer
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14076)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
-
 ### PhD Position on Generative AI in Cultural and Creative Domains
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14069)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-31
-
-### Postdoc in Green Synthesis of Conjugated Polymers
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13977)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
 
 ### Postdoctoral Position in Recycling of Sodium-Ion Batteries
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14068)
@@ -269,30 +191,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-08-20
-
-### Postdoctoral fellow in Computer Vision and Machine Learning
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14063)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
-
-### PhD Student Position in Generative AI
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14064)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-18
-
-### PhD student position in Characterisation of the Micromechanics of Quick Clays
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14061)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
-
-### PhD student position in Modelling Erosion in Sensitive Clay Slopes
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14057)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
 
 ### PhD Student Position in Shared Control of ADAS-Vehicles Using Steer-By-Wire
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14054)
@@ -324,29 +222,11 @@
 - **Published:** 
 - **Deadline:** 2025-08-31
 
-### PhD student in flexible model for cell design and material composition
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13976)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-10
-
 ### PhD position in Network Security for Web3
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14028)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
-
-### PhD student position in Conducting Polymer Fibers for Wearable Electronics
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14025)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-14
-
-### Amanuensis positions at the terahertz and millimetre wave lab
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=14018)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-15
 
 ### Vill du dela med dig av din utbildning och ditt studentliv på Chalmers? Just nu letar vi efter digitala ambassadörer för vår TikTok-kanal
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I003/304/job?site=5&lang=UK&validator=a72aeedd63ec10de71e46f8d91d0d57c&ref=https%3A%2F%2F&job_id=13921)

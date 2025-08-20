@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,22 +21,12 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Utredare med fokus på kvantitativ analys</h3>
+<h3>Vikarierande antagningshandläggare till Högskolan Dalarna</h3>
 
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2572)
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2588)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 8/17/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Utredare med fokus på kvalitativ analys</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2573)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 8/17/2025
+- **Deadline:** 8/30/2025
 
 </div>
 
@@ -47,6 +37,36 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 8/31/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Vikarierande bibliotekarie till Högskolan Dalarna</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2590)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 9/1/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Handläggare med samordnande ansvar inom forskarutbildningsområdet</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2587)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 9/5/2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Säkerhetsansvarig</h3>
+
+- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2557)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 9/7/2025
 
 </div>
 
