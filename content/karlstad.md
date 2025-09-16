@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,38 +20,18 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in biology</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:832865/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 26.Aug.2025
-
-</div>
-
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetslektor i Kulturgeografi</h3>
+<h3>Universitetsadjunkt i arbetsvetenskap</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:837792/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:854255/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 31.Aug.2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i medie- och kommunikationsvetenskap</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:839374/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 14.Sep.2025
+- **Deadline:** 02.Oct.2025
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor i litteraturvetenskap</h3>
+<h3>Professor of Comparative Literature</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835444/iframeEmbedded:0/where:4)
 - **Department:** 
@@ -61,12 +41,22 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor i engelska med litteraturvetenskaplig inriktning</h3>
+<h3>Professor of English with a specialisation in English Literature</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:835449/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 31.Oct.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i psykologi</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:855922/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 10.Nov.2025
 </div></div>
 
 <script>

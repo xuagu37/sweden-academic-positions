@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,46 +20,6 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Space Systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9322)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in hydrometallurgical extraction of critical raw material</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9231)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-01
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Become a student ambassador</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9366)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-03
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Urban Water Engineering – pollutant processes in nature-based stormwater systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9227)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-05
-
-</div>
-
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>WISE Fellow Senior Lecturer in Composite Materials</h3>
 
@@ -77,6 +37,66 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-21
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Senior Research Engineer to Dependable Communications and Computations</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9403)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-23
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Product Innovation</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9428)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-25
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Robotics and Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9390)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-26
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Robotics and Artificial Intelligence WASP</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9394)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-26
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Building Materials</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9396)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student position in Energy Engineering – with a special emphasis on electro-conversion of lignin and its derivatives for bio-chemical production</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9422)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-02
 </div></div>
 
 <script>

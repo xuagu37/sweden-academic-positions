@@ -1,5 +1,5 @@
 # Gothenburg University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 23</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 26</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,23 +20,153 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in plant evolutionary genomics</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38159)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38333)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-09
+- **Deadline:** 2025-11-03
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuens/teaching assistant in computer science and engineering, one or more</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38302)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-06
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Mucus and mucosal biology</h3>
+<h3>Postdoctor in Neurochemistry</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38154)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38337)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-09
+- **Deadline:** 2025-10-03
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Medical Science - Postnatal mucosal development</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38282)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-06
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Associate Researcher</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38326)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in sociology  - sustainability and AI</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38296)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-11-03
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior lecturer in Rehabilitation Medicine combined with employment as a specialist physician/consultant</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38303)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-01
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research assistent in Sociology, knowledge of Ukrainan is required</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38006)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-01
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistent</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38276)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-29
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38290)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-29
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principle Research Engineer in Single Cell and Organelle Protein Turnover</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38187)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-24
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral Positions in Educational Work and Subject-Matter Education with Specialisations (1-4 positions)</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=36904)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-07
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Person-centred Integrated Health and Social Care</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38258)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-24
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38233)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-23
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in Ecosystem Science</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38244)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-22
 
 </div>
 
@@ -46,147 +176,87 @@
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38148)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-09
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Physiology with a focus on Gastrointestinal Physiology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38111)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-09
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral fellow in Cancer Diagnostics and Tumor Biology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37925)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-01
+- **Deadline:** 2025-09-24
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Medical Science - Study of the metabolism of renal cell carcinoma</h3>
+<h3>Doctoral student in Medical Science - The impact of diet on IBS</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38128)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38172)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-08
+- **Deadline:** 2025-09-23
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>International student ambassadors with focus on Chinese social media</h3>
+<h3>Research assistant</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38141)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38220)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-08
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>International student ambassadors</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38146)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-08
+- **Deadline:** 2025-09-30
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
+<h3>Anna Ahrenberg postdoctoral position: Political Challenges in Today’s World</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38118)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38240)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-02
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Project assistant</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38113)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-31
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor in Oncology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37975)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-01
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38097)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-27
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Crafts with a Specialization in Metal Art at HDK-Valand</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38060)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-24
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38001)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-24
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Microbial Nitrogen Cycling in Oxygen-Depleted Waters</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38038)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-22
+- **Deadline:** 2025-09-30
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in informatics</h3>
+<h3>Doctoral student in Medical Science - Hepatology</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37886)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38175)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-15
+- **Deadline:** 2025-09-22
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor in medical science with focus on evidence-based medicine combined with employment as a specialist physician/consultant at the HTA Center, Sahlgrenska University Hospital</h3>
+<h3>Senior Lecturer in Arabic</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37907)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38170)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-15
+- **Deadline:** 2025-09-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow, one or more, in Political Science</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38228)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-11-17
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38205)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-17
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Ethnology or Gender Studies / Horizon Europe project MAGnituDe</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=38152)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-29
 
 </div>
 
@@ -200,16 +270,6 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Lecturer in social work with specialisation in psychotherapy and counselling</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37867)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-01
-
-</div>
-
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>Doctoral student in Medical Science - Stem cell-based models of childhood leukemia</h3>
 
@@ -217,36 +277,6 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-10-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Two doctoral students in Comparative Literature</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37398)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-27
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in plant ecophysiology</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37681)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-31
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in journalism, media and communication</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1035/job?site=7&lang=UK&validator=9b89bead79bb7258ad55c8d75228e5b7&job_id=37184)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-31
 </div></div>
 
 <script>

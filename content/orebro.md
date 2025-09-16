@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 2</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,13 +20,13 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in legal science with a focus on Regulation of AI</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant in psychology</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250228)
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250269)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-01
+- **Deadline:** 2025-09-18
 
 </div>
 
@@ -37,6 +37,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-18
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Chemistry</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250270)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-25
 </div></div>
 
 <script>

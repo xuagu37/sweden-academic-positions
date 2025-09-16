@@ -1,10 +1,58 @@
 # Linköping University
 
+### Assistant Professor in Data-driven precision medicine and diagnostics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27513)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-11-15
+
+### Postdoc in Computational Social Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27207)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-31
+
+### Postdoc in Computational Social Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27295)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-31
+
+### PhD student in Trustworthy Machine Learning at SaS
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27499)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-24
+
+### Professor in Medical Education
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27568)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-14
+
+### PhD student in language and culture
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27415)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-13
+
+### PhD student in Environmental Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27566)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-09
+
 ### WISE Fellow: Assistant professor in Materials Science with focus on Materials for Quantum Technologies
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27157)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-10-06
+
+### Teaching assistants within Machine learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27536)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-02
 
 ### Professor in Environmental Change
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27140)
@@ -12,87 +60,63 @@
 - **Published:** 
 - **Deadline:** 2025-10-01
 
-### Postdoc in Computational Social Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27207)
+### PhD in electronic-neurohybrid for bioelectronics
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27543)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-01
+
+### PhD student in computer science (or related area) with focus on ontology interaction for circular economy
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27309)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
 
-### Postdoc in Computational Social Science
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27295)
+### PhD student in Generative AI and Machine Learning
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27426)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
 
-### Postdoc in organic bioelectronics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27344)
+### PhD in Materials Science (Photocatalytic doping of organic semiconductor) in the EU Training Network FADOS
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27463)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-12
+- **Deadline:** 2025-09-30
 
-### PhD student in Environmental Science at Environmental Change
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27133)
+### PhD student in Medical Science
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27471)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-08
+- **Deadline:** 2025-09-30
 
-### PhD Student in Reinforcement Learning for Control of Partially Observable Dynamical Systems
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27355)
+### PhD student in behavioural evolution
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27417)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-05
+- **Deadline:** 2025-09-24
 
-### Teaching assistants/Amanuens in Fluid and Mechatronic systems
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27365)
+### Principal Research Engineer in Pediatrics at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27482)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-04
+- **Deadline:** 2025-09-24
 
-### PhD student in Analytical Sociology
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27064)
+### Principal research engineer in immunology at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27487)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-08-31
+- **Deadline:** 2025-09-24
 
-### Teaching assistants/Amanuens in Applied Thermodynamics and Fluid Mechanics
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27373)
+### Postdoc in DNA repair at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27432)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-08-31
+- **Deadline:** 2025-09-22
 
-### International student ambassador
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27177)
+### Postdoc in Telomere biology at BKV
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27448)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-08-30
-
-### Assistant Professor in Materials Science with a focus on simulation and modeling of organic functional materials for sustainability
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27194)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-29
-
-### PhD student in Scientific Visualization
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27223)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-29
-
-### Assistant professor in Machine Learning with a focus on Computational Photography
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27224)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-25
-
-### Systems Developer Linux / Devops at AIDA Data Hub
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27193)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-24
-
-### PhD student in Theoretical Ecology
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27211)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-22
+- **Deadline:** 2025-09-22
 

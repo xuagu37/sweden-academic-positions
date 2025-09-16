@@ -1,5 +1,5 @@
 # Dalarna University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: -1</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -16,68 +16,7 @@
 </div>
 
 <div id="jobList">
-<div class="job" data-type="None" style="margin-bottom: 1.5em;">
-
 </div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Vikarierande antagningshandläggare till Högskolan Dalarna</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2588)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 8/30/2025
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Energy and Built Environment</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2594)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 8/31/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Vikarierande bibliotekarie till Högskolan Dalarna</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2590)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 9/1/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Handläggare med samordnande ansvar inom forskarutbildningsområdet</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2587)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 9/5/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Säkerhetsansvarig</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2557)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 9/7/2025
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Timanställd tentamensvärd till lärande organisation</h3>
-
-- **Link:** [View job posting](https://www.du.se/en/about-du/career-opportunities/vacant-positions/vacant-position/?job=2585)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 9/7/2025
-</div></div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

@@ -1,5 +1,5 @@
 # Linköping University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 16</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 20</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,12 +21,92 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Data-driven precision medicine and diagnostics</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27513)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-11-15
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Computational Social Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27207)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-31
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Computational Social Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27295)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Trustworthy Machine Learning at SaS</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27499)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-24
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor in Medical Education</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27568)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-14
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in language and culture</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27415)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-13
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Environmental Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27566)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-09
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
 <h3>WISE Fellow: Assistant professor in Materials Science with focus on Materials for Quantum Technologies</h3>
 
 - **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27157)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-10-06
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants within Machine learning</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27536)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-02
 
 </div>
 
@@ -40,143 +120,103 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Computational Social Science</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in electronic-neurohybrid for bioelectronics</h3>
 
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27207)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27543)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-01
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in computer science (or related area) with focus on ontology interaction for circular economy</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27309)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in Computational Social Science</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Generative AI and Machine Learning</h3>
 
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27295)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27426)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
 
 </div>
 
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD in Materials Science (Photocatalytic doping of organic semiconductor) in the EU Training Network FADOS</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27463)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27471)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in behavioural evolution</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27417)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-24
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principal Research Engineer in Pediatrics at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27482)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-24
+
+</div>
+
+<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
+<h3>Principal research engineer in immunology at BKV</h3>
+
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27487)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-24
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc in organic bioelectronics</h3>
+<h3>Postdoc in DNA repair at BKV</h3>
 
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27344)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27432)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-12
+- **Deadline:** 2025-09-22
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Environmental Science at Environmental Change</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Telomere biology at BKV</h3>
 
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27133)
+- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27448)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-08
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Reinforcement Learning for Control of Partially Observable Dynamical Systems</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27355)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-05
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants/Amanuens in Fluid and Mechatronic systems</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27365)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-04
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Analytical Sociology</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27064)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-31
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants/Amanuens in Applied Thermodynamics and Fluid Mechanics</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27373)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-31
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>International student ambassador</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27177)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-30
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant Professor in Materials Science with a focus on simulation and modeling of organic functional materials for sustainability</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27194)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-29
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Scientific Visualization</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27223)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-29
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor in Machine Learning with a focus on Computational Photography</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27224)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-25
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Systems Developer Linux / Devops at AIDA Data Hub</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27193)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-24
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in Theoretical Ecology</h3>
-
-- **Link:** [View job posting](https://liu.se/en/work-at-liu/vacancies/27211)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-08-22
+- **Deadline:** 2025-09-22
 </div></div>
 
 <script>

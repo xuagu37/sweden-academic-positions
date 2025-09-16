@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 13</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 16</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,93 +20,43 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in Sociology with a focus on Waste Studies</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-researcher-in-sociology-with-a-focus-on-waste-studies_840738/)
-- **Department:** Department of Sociology
-- **Published:** 
-- **Deadline:** 2025-08-22
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor of Philosophy</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-of-philosophy_822386/)
-- **Department:** Department of Historical, Philosophical and Religious Studies
-- **Published:** 
-- **Deadline:** 2025-08-29
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff scientist in Bioinformatics and Data Science</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-bioinformatics-and-data-science_838707/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_856539/)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-08-31
+- **Deadline:** 2025-09-17
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with focus on Visual Language Grounding</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-visual-language-grounding_851614/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-09-18
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher (2 years) in Energy Technology with a focus on Thermal Process Chemistry</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-researcher-2-years-in-energy-technology-with-a-focus-on-thermal-process-chemistry_852814/)
+- **Department:** Department of Applied Physics and Electronics
+- **Published:** 
+- **Deadline:** 2025-09-19
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD-student</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_848320/)
-- **Department:** Department of Psychology
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_854281/)
+- **Department:** Department of Medical Biosciences
 - **Published:** 
-- **Deadline:** 2025-08-31
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff Scientist - AI factory (two positions)</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist---ai-factory-two-positions_848498/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-05
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching assistants to Umeå School of Architecture</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/teaching-assistants-to-umea-school-of-architecture_840630/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-07
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in structural biology of virus replication</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-structural-biology-of-virus-replication_847969/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-09-07
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff scientist with focus on AI trustworthiness modeling in human-robot interactions</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-with-focus-on-ai-trustworthiness-modeling-in-human-robot-interactions_836992/)
-- **Department:** Department of Computing Science
-- **Published:** 
-- **Deadline:** 2025-09-10
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Staff scientist</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist_832051/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-12
+- **Deadline:** 2025-09-21
 
 </div>
 
@@ -116,7 +66,37 @@
 - **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-computer-security_848581/)
 - **Department:** Department of Computing Science
 - **Published:** 
-- **Deadline:** 2025-09-12
+- **Deadline:** 2025-09-21
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Teaching assistants within research to Umeå School of Architecture</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/teaching-assistants-within-research-to-umea-school-of-architecture_851301/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-09-22
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in Cell Biology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-cell-biology_852466/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-09-23
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position for Development of Organic Light-Emission Devices in the EU Training Network FADOS</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-for-development-of-organic-light-emission-devices-in-the-eu-training-network-fados_852750/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-09-30
 
 </div>
 
@@ -127,6 +107,26 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2025-09-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff scientist in infection and cancer biology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-infection-and-cancer-biology_852844/)
+- **Department:** Department of Molecularbiology
+- **Published:** 
+- **Deadline:** 2025-09-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Project assistant in invasive plant species communication</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/project-assistant-in-invasive-plant-species-communication_855696/)
+- **Department:** Department of Ecology and Environmental Science
+- **Published:** 
+- **Deadline:** 2025-10-05
 
 </div>
 
@@ -147,6 +147,36 @@
 - **Department:** Department of Medical and Translational Biology
 - **Published:** 
 - **Deadline:** 2025-10-17
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor (2 years) in Organic Electronics with focus on the development of a novel light-emission technology</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-2-years-in-organic-electronics-with-focus-on-the-development-of-a-novel-light-emission-technology_852955/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-10-31
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD-student</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_856371/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2025-10-31
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Assistant professor of Data driven Precision Medicine and Diagnostics</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/assistant-professor-of-data-driven-precision-medicine-and-diagnostics_855584/)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-11-15
 </div></div>
 
 <script>
