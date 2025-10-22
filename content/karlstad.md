@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,13 +20,23 @@
 
 </div>
 
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i arbetsvetenskap</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Educational Work with a specialisation in Music Education</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:854255/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:819061/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 02.Oct.2025
+- **Deadline:** 26.Oct.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Vaktmästare</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:858887/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 28.Oct.2025
 
 </div>
 
@@ -51,12 +61,32 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetslektor i psykologi</h3>
+<h3>Projektassistent i omvårdnad</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:867533/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 09.Nov.2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Psychology</h3>
 
 - **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:855922/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
 - **Deadline:** 10.Nov.2025
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior lecturer in Criminal Law</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:856591/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 14.Dec.2025
 </div></div>
 
 <script>

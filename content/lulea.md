@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,83 +20,53 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>WISE Fellow Senior Lecturer in Composite Materials</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9189)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-21
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>WISE Fellow Senior Lecturer in Experimental Physics</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9216)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-21
-
-</div>
-
-<div class="job" data-type="Research Engineer" style="margin-bottom: 1.5em;">
-<h3>Senior Research Engineer to Dependable Communications and Computations</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9403)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-23
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Product Innovation</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9428)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-09-25
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoc position in Robotics and Artificial Intelligence</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9390)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9475)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-26
+- **Deadline:** 2025-10-22
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Amanuensis in Robotics and AI with focus on field robotics applications</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9500)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-10-30
 
 </div>
 
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoc position in Robotics and Artificial Intelligence WASP</h3>
+<h3>Two Postdoctoral positions in Engineering Materials</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9394)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9496)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-26
+- **Deadline:** 2025-10-30
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Building Materials</h3>
+<h3>PhD Student in Ore Geology</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9396)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9514)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-30
+- **Deadline:** 2025-11-23
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD-student position in Energy Engineering – with a special emphasis on electro-conversion of lignin and its derivatives for bio-chemical production</h3>
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in Waste Science and Technology</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9422)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9484)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-10-02
+- **Deadline:** 2025-11-30
 </div></div>
 
 <script>

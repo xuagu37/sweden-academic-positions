@@ -45,9 +45,9 @@
 <link rel="mask-icon" href="https://www.du.se/Static/images/icons-en/safari-pinned-tab.svg?v=en-v2" color="#4b2582">
 <link rel="shortcut icon" href="https://www.du.se/Static/images/icons-en/favicon.ico?v=en-v2">
 
-    <link href="/bundles/css?v=1Xnan3FzKmJmXOLqGjUXm9SKn6rohcU0xmhQnTxyhwE1" rel="stylesheet">
+    <link href="/bundles/css?v=MNXY17SO5V-8WT1RBPLarmygFrhbBwHVcLYePvBiW6Q1" rel="stylesheet">
 
-    <link href="/bundles/portals/external-css?v=sVicmGhdZ7PhbZwiRJIo17S0HVb94FfjNMENUpahTgQ1" rel="stylesheet">
+    <link href="/bundles/portals/external-css?v=Zx0x7uCbU1-0wWklvhJzadsq5GOpieQtsgSC33k6UhU1" rel="stylesheet">
 
     <script src="/bundles/headjs?v=AxqcwRifTRcAiXkbmz_QXfidr6hoGp0QYh_swYk7jY41"></script>
 
@@ -55,8 +55,9 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
     <script src="https://use.fortawesome.com/037865ed.js"></script><link href="https://use.fortawesome.com/kits/037865ed/publications/130857/woff2.css" media="all" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="/Static/css/du_partial-views/du_styles-responsible.css">
-<link rel="stylesheet" type="text/css" href="/Static/css/du_blocks/du_styles-blocks.css">
+    <link rel="stylesheet" type="text/css" href="/Static/css/du_blocks/du_styles-blocks.css">
+<link rel="stylesheet" type="text/css" href="/Static/css/du_blocks/du_vacantpositionsblock.css">
+<link rel="stylesheet" type="text/css" href="/Static/css/du_partial-views/du_styles-responsible.css">
 <link rel="stylesheet" type="text/css" href="/Static/css/du_blocks/du_contactblocks.css">
 <link rel="stylesheet" type="text/css" href="/Static/Jquery-ui-1.12.1.custom/jquery-ui.min.css">
 
@@ -84,13 +85,6 @@
             <div><style>/* ======================= */
 /* Rensa extra-css 119  START */
 /* ======================= */
-
-
-/* === Fix odd thumbnail-border in Kaltura-player === */
-
-.playkit-poster {
- background-size: cover !important; 
-}
 
 
 /* === Textbreak on small screens - Header and Footer === */
@@ -830,18 +824,70 @@ Vacant Positions
 
                         
                             <div id="pageMainBody">
-                                <p>All university job vacancies are listed on our Swedish website. If an English version is available, it will also be published on that page.</p>
+                                <p>All university job vacancies are listed on our Swedish website. If an English version is available, it will also be here.</p>
 <p><a title="Våra lediga jobb" href="/sv/om-oss/jobba-hos-oss/vara-lediga-jobb/">Job vacancies (Swedish web page)</a></p>
-<p>To apply or preview/edit your job application, you must first register. If this is your first time applying for a position at Dalarna University, click "Sign In or Sign Up" ("<span class="different-language" lang="en">Logga in eller registrera dig</span>") and choose the "Sign up" ("<span class="different-language" lang="sv">Registrera</span>") tab to register.</p>
+<p>To apply or preview/edit your job application, you must first register. If this is your first time applying for a position at Dalarna University, click "Sign In or Sign Up" and choose the "Sign up" tab to register.</p>
                             </div>
 
+                            <div class="multi-content-area">
+                                <div class="row editmode"><div class="block  vacantpositionsblock full col-xs-12 col-sm-12">
+
+
+<div class="du-block vacantpositions-block">
+
+    <div class="blockstylenormal ">
+
+        
+
+        <div id="ab898211-dff7-4497-b9b7-d0f37218d694" class="block-body ">
+            <div class="block-body-inner">
+
+                <div id="du-vacantpositions-block-loading-indicator" class="loading-indicator" style="height: 60px; display: none;" hidden="">
+                    <div class="loader-xs"></div>
+                </div>
+                <div id="vacantpositionsBlockCard-53d569bf">There are currently no vacant positions.</div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+
+    $(document).ready(function () {
+        $('#du-vacantpositions-block-loading-indicator').show();
+
+        var actionUrl = '/block/VacantPositions/GetVacantPositions';
+        var language = 'en';
+        var viewExtraText = 'False';
+        var isInternal = 'False';
+
+        $.ajax({
+            type: 'Post',
+            url: actionUrl,
+            data: { language: language, viewExtraText: viewExtraText, isInternal: isInternal },
+            success: function (result) {
+                $('#du-vacantpositions-block-loading-indicator').hide();
+                $('#vacantpositionsBlockCard-53d569bf').html(result);
+            },
+            error: function (req, staus, error) {
+                $('#du-vacantpositions-block-loading-indicator').hide();
+            }
+        });
+
+    });
+
+</script></div></div>
+                            </div>
 
                         <div class="responsible-primary">
 
 
 
 <div class="last-updated">
-    Last reviewed: <time datetime="8/25/2025 11:21:19 AM" property="lastReviewed">25 August 2025</time>
+    Last reviewed: <time datetime="9/18/2025 2:52:26 PM" property="lastReviewed">18 September 2025</time>
 </div>
 
 
@@ -872,7 +918,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="787fce22-aa4d-478d-b7e0-8981c8f46dd1" class="block-body ">
+        <div id="47be884a-f920-475c-b917-623c334f9fce" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -912,7 +958,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="7c9d906b-c1dd-4c35-87c9-77a28a7445fa" class="block-body ">
+        <div id="cfda1e24-48d0-4907-9d09-834384451e3f" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -952,7 +998,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="f52dd153-f177-42a7-9e07-221d8b0896b5" class="block-body ">
+        <div id="599f28a4-5328-45a1-8be0-7364fd5134eb" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -992,7 +1038,7 @@ Vacant Positions
                 </div>
 
 
-        <div id="d936af4e-b20e-4164-8c8a-5d851bccff35" class="block-body ">
+        <div id="ec8e3c44-e16c-4bd2-916f-9f82ecae9d66" class="block-body ">
             <div class="block-body-inner">
 
 
@@ -1020,7 +1066,7 @@ Vacant Positions
 
 
 <div class="last-updated">
-    Last reviewed: <time datetime="8/25/2025 11:21:19 AM" property="lastReviewed">25 August 2025</time>
+    Last reviewed: <time datetime="9/18/2025 2:52:26 PM" property="lastReviewed">18 September 2025</time>
 </div>
 
 

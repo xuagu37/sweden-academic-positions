@@ -20,13 +20,13 @@
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Ukrainian Research Fellowship Programme (URFP) for visiting researchers at CBEES and Södertörn University - Spring 2026</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Temporary position (Vikariat) -Administrator for CBEES Advanced Seminars</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=9073)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I007/532/job?site=24&lang=UK&validator=2f5f4343b7f80edb4b210427ef968f34&ref=https%3A%2F%2Fwww.overleaf.com%2F&job_id=9120)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-09-25
+- **Deadline:** 2025-10-31
 </div></div>
 
 <script>
