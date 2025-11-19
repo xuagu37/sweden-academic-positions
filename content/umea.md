@@ -1,5 +1,5 @@
 # Umeå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 12</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 17</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,93 +20,53 @@
 
 </div>
 
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor in Computing Science with a focus on Software Engineering</h3>
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computing Science with focus on Agent Based Modelling</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/professor-in-computing-science-with-a-focus-on-software-engineering_857018/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-agent-based-modelling-_870593/)
 - **Department:** Department of Computing Science
 - **Published:** 
-- **Deadline:** 2025-10-27
+- **Deadline:** 2025-11-19
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Two PhD positions in Medical Science with orientation to Molecular Biology</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in Molecular AI & Pathogen Systems Biology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/two-phd-positions-in-medical-science-with-orientation-to-molecular-biology_857832/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-molecular-ai--pathogen-systems-biology_868391/)
 - **Department:** Department of Molecular Biology
 - **Published:** 
-- **Deadline:** 2025-10-29
+- **Deadline:** 2025-11-19
 
 </div>
 
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctor (2 years) in Organic Electronics with focus on the development of a novel light-emission technology</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in Molecular Tumor Biology</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctor-2-years-in-organic-electronics-with-focus-on-the-development-of-a-novel-light-emission-technology_852955/)
-- **Department:** Department of Physics
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/staff-scientist-in-molecular-tumor-biology_869415/)
+- **Department:** Department of Molecular Biology
 - **Published:** 
-- **Deadline:** 2025-10-31
+- **Deadline:** 2025-11-20
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD-student</h3>
+<h3>PhD student in Computing Science with focus on AI Policy and Climate Risk Narratives</h3>
 
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-_856371/)
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-student-in-computing-science-with-focus-on-ai-policy-and-climate-risk-narratives-_870935/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-11-21
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Chemistry, with a specialization in Environmental Chemistry</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-environmental-chemistry_868626/)
 - **Department:** Department of Chemistry
 - **Published:** 
-- **Deadline:** 2025-10-31
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Medical Science with orientation towards Molecular Biology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-medical-science-with-orientation-towards-molecular-biology_867515/)
-- **Department:** Department of Molecular Biology
-- **Published:** 
-- **Deadline:** 2025-11-12
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position: Studying Climate Change with plant ecophysiology</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-position-studying-climate-change-with-plant-ecophysiology_825481/)
-- **Department:** Department of Medical Biochemistry and Biophysics
-- **Published:** 
-- **Deadline:** 2025-11-13
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD position in Computational Physics – Simulation Intelligence</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-computational-physics--simulation-intelligence_858914/)
-- **Department:** Department of Physics
-- **Published:** 
-- **Deadline:** 2025-11-15
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Assistant professor of Data driven Precision Medicine and Diagnostics</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/assistant-professor-of-data-driven-precision-medicine-and-diagnostics_855584/)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-15
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>1-2 PhD students for the Department of Political Science</h3>
-
-- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/1-2-phd-students-for-the-department-of-political-science_860718/)
-- **Department:** Department of Political Science
-- **Published:** 
-- **Deadline:** 2025-11-16
+- **Deadline:** 2025-11-23
 
 </div>
 
@@ -117,6 +77,46 @@
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-11-23
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Post doctor (2 years) within data privacy and machine learning</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctor-2-years-within-data-privacy-and-machine-learning_870984/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-11-25
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Experimental Biomedical Research</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoc-in-experimental-biomedical-research_873316/)
+- **Department:** Department of Community Medicine and Rehabilitation
+- **Published:** 
+- **Deadline:** 2025-11-27
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Senior staff scientist in light microscopy within BICU</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/senior-staff-scientist-in-light-microscopy-within-bicu_872760/)
+- **Department:** Department of Medical Biochemistry and Biophysics
+- **Published:** 
+- **Deadline:** 2025-11-28
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral researcher (2 years) in Computer Science with focus on AI trustworthiness modeling in multimodality</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/post-doctoral-researcher-2-years-in-computer-science-with-focus-on-ai-trustworthiness-modeling-in-multimodality_874176/)
+- **Department:** Department of Computing Science
+- **Published:** 
+- **Deadline:** 2025-11-28
 
 </div>
 
@@ -137,6 +137,56 @@
 - **Department:** Department of Computing Science
 - **Published:** 
 - **Deadline:** 2025-11-30
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Single-cell multiomics in rare cancer cell populations from liquid biopsies</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/single-cell-multiomics-in-rare-cancer-cell-populations-from-liquid-biopsies_870838/)
+- **Department:** Department of Molecular Biology
+- **Published:** 
+- **Deadline:** 2025-11-30
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in  Experimental Physics</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-experimental-physics_869672/)
+- **Department:** Department of Physics
+- **Published:** 
+- **Deadline:** 2025-12-01
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in "Cancer Neuroscience: the impact of neural activity on 3D genome organization and cellular plasticity in glioblastoma”</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/postdoctoral-researcher-in-cancer-neuroscience-the-impact-of-neural-activity-on-3d-genome-organization-and-cellular-plasticity-in-glioblastoma_875921/)
+- **Department:** Department of Medical and Translational Biology
+- **Published:** 
+- **Deadline:** 2025-12-19
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD position in Chemistry, with a specialization in Environmental Chemistry</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/phd-position-in-chemistry-with-a-specialization-in-environmental-chemistry_871188/)
+- **Department:** Department of Chemistry
+- **Published:** 
+- **Deadline:** 2026-01-02
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>1-2 PhD students for the Department of Political Science</h3>
+
+- **Link:** [View job posting](https://www.umu.se/en/work-with-us/open-positions/1-2-phd-students-for-the-department-of-political-science_860718/)
+- **Department:** Department of Political Science
+- **Published:** 
+- **Deadline:** 2026-01-30
 </div></div>
 
 <script>

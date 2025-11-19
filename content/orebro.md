@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 1</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,13 +20,33 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Biomedicine - Bioinformatics & Mechanistic Modelling for Precision Medicine</h3>
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Student assistants at the School of Health Sciences</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250281)
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250328)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-10-31
+- **Deadline:** 2025-11-24
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Business Administration with a specialisation in Organisation</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250314)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-23
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in sociology</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250333)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-02
 </div></div>
 
 <script>

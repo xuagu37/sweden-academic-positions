@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,32 +21,72 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Employment as a doctoral student in Global politics</h3>
+<h3>PhD student in Education with focus on school leadership</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4243)
-- **Department:** Faculty of culture and society  / Department of Global Political Studies
-- **Published:** 21 October 2025
-- **Deadline:** 18 January 2026
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Research assistant in Machine Learning with a focus on in vitro fertilization (IVF)</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4248)
-- **Department:** Faculty of technology and society
-- **Published:** 21 October 2025
-- **Deadline:** 07 November 2025
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4303)
+- **Department:** Faculty of education and society  / Departments of School development and Leadership
+- **Published:** 19 November 2025
+- **Deadline:** 30 January 2026
 
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD project: Molecular insights into Lipid-Protein Interactions in Cellular Signaling</h3>
+<h3>PhD student in special education in one of the educational system's school forms</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4217)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4305)
+- **Department:** Faculty of education and society  / Departments of School development and Leadership
+- **Published:** 19 November 2025
+- **Deadline:** 30 January 2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Sport Science specialising in social sciences and the humanities</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4294)
+- **Department:** Faculty of education and society  / Department of Sport Science - Sport and Leisure
+- **Published:** 14 November 2025
+- **Deadline:** 20 January 2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in mathematics and science education</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4298)
+- **Department:** Faculty of education and society  / Instutitionen för natur-matematik-samhälle
+- **Published:** 14 November 2025
+- **Deadline:** 20 January 2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Employment as a doctoral student in Global politics</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4243)
+- **Department:** Faculty of culture and society  / Department of Global Political Studies
+- **Published:** 03 November 2025
+- **Deadline:** 31 January 2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>EU-MSCA PhD position: Molecularly imprinted polymers for phosphopeptide assays of oncogenic pathways</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4266)
 - **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 01 October 2025
-- **Deadline:** 31 October 2025
+- **Published:** 31 October 2025
+- **Deadline:** 30 November 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>EU-MSCA PhD position: Materials for uncovering of hidden protein posttranslational modifications</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4268)
+- **Department:** Faculty of health and society  / Department of Biomedical Science
+- **Published:** 31 October 2025
+- **Deadline:** 30 November 2025
 </div></div>
 
 <script>
