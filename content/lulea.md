@@ -1,5 +1,5 @@
 # Luleå University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 15</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 13</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -20,123 +20,13 @@
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Post-doctoral Researcher in Engineering Materials with specialization holistic assessment of the effects of tramp elements on recycled steel</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9524)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-19
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Ore Geology</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9514)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-23
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Cybersecurity Specialization 6G and Satellite Communication</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9559)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-27
-
-</div>
-
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Waste Science and Technology</h3>
+<h3>Postdoctoral position in Computational and Applied Geophysics</h3>
 
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9552)
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9570)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-11-28
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer in Waste Science and Technology</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9484)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9563)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-30
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9565)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Researcher in Robotics and Artificial Intelligence</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9583)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-01
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Machine learning</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9597)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-03
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Cybersecurity in Post-Quantum Cryptography, ref no 4759-2025</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9609)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-05
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Professor and Head of Subject of Information Systems</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9535)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-08
-
-</div>
-
-<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior Lecturer in Process Metallurgy with specialisation in Hydrometallurgy</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9568)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-11
+- **Deadline:** 
 
 </div>
 
@@ -146,17 +36,7 @@
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9576)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-12-30
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral position in Computational and Applied Geophysics</h3>
-
-- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9570)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-12-30
+- **Deadline:** 
 
 </div>
 
@@ -166,7 +46,107 @@
 - **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9607)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-12-31
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctor position in Architecture</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9645)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Cybersecurity with Specialization in IT/OT Security</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9679)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Process Metallurgy with specialisation in Hydrometallurgy</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9568)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD positions in Signal Processing: 6G space-terrestrial communications and sensing</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9586)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Mineral Processing</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9655)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Mineral Processing</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9656)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in ore geology</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9683)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Robotics and Artificial Intelligence</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9698)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in Automatic Control</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9662)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor/Head of Subject of Fire Technology</h3>
+
+- **Link:** [View job posting](https://www.ltu.se/en/about-ltu/work-at-ltu/vacant-positions#item-9701)
+- **Department:** 
+- **Published:** 
+- **Deadline:**
 </div></div>
 
 <script>

@@ -1,5 +1,5 @@
 # Malmö University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 7</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 8</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,6 +21,36 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Employment as a doctoral student in International Migration and Ethnic Relations (IMER) within the ERC Starting Grant project Give Rights</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4334)
+- **Department:** Faculty of culture and society  / Department of Global Political Studies
+- **Published:** 10 December 2025
+- **Deadline:** 18 January 2026
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Trustworthy Large Language Models for Mobility</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4321)
+- **Department:** Faculty of technology and society
+- **Published:** 27 November 2025
+- **Deadline:** 18 December 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Employment as a PhD student in Odontology</h3>
+
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4308)
+- **Department:** Faculty of odontology  / Sektion 1
+- **Published:** 20 November 2025
+- **Deadline:** 31 December 2025
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
 <h3>PhD student in Education with focus on school leadership</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4303)
@@ -31,7 +61,7 @@
 </div>
 
 <div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD student in special education in one of the educational system's school forms</h3>
+<h3>PhD student in education with focus on special education in one of the educational system's school forms</h3>
 
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4305)
 - **Department:** Faculty of education and society  / Departments of School development and Leadership
@@ -67,26 +97,6 @@
 - **Department:** Faculty of culture and society  / Department of Global Political Studies
 - **Published:** 03 November 2025
 - **Deadline:** 31 January 2026
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>EU-MSCA PhD position: Molecularly imprinted polymers for phosphopeptide assays of oncogenic pathways</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4266)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 31 October 2025
-- **Deadline:** 30 November 2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>EU-MSCA PhD position: Materials for uncovering of hidden protein posttranslational modifications</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4268)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 31 October 2025
-- **Deadline:** 30 November 2025
 </div></div>
 
 <script>

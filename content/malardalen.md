@@ -1,5 +1,5 @@
 # Mälardalen University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 4</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,32 +21,22 @@
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Associate Senior Lecturer in Environmental Engineering</h3>
+<h3>Associate Senior Lecturer in Industrial Systems focusing on Circular factories</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3507)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3539)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-12-03
+- **Deadline:** 2026-01-07
 
 </div>
 
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>PhD Student in Energy and Environmental Engineering</h3>
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Industrial Systems – Business Models and Services</h3>
 
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3504)
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3550)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-12-09
-
-</div>
-
-<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Teaching Assistant</h3>
-
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I018/1151/main?site=8&validator=2efd9e54ee423d53334ac7960e3b4e03&lang=UK&rmpage=job&rmjob=3478)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 2025-11-28
+- **Deadline:** 2026-01-15
 
 </div>
 

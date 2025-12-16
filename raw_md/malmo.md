@@ -1,12 +1,30 @@
 # Malmö University
 
+### Employment as a doctoral student in International Migration and Ethnic Relations (IMER) within the ERC Starting Grant project Give Rights
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4334)
+- **Department:** Faculty of culture and society  / Department of Global Political Studies
+- **Published:** 10 December 2025
+- **Deadline:** 18 January 2026
+
+### Research Assistant in Trustworthy Large Language Models for Mobility
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4321)
+- **Department:** Faculty of technology and society
+- **Published:** 27 November 2025
+- **Deadline:** 18 December 2025
+
+### Employment as a PhD student in Odontology
+- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4308)
+- **Department:** Faculty of odontology  / Sektion 1
+- **Published:** 20 November 2025
+- **Deadline:** 31 December 2025
+
 ### PhD student in Education with focus on school leadership
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4303)
 - **Department:** Faculty of education and society  / Departments of School development and Leadership
 - **Published:** 19 November 2025
 - **Deadline:** 30 January 2026
 
-### PhD student in special education in one of the educational system's school forms
+### PhD student in education with focus on special education in one of the educational system's school forms
 - **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4305)
 - **Department:** Faculty of education and society  / Departments of School development and Leadership
 - **Published:** 19 November 2025
@@ -29,16 +47,4 @@
 - **Department:** Faculty of culture and society  / Department of Global Political Studies
 - **Published:** 03 November 2025
 - **Deadline:** 31 January 2026
-
-### EU-MSCA PhD position: Molecularly imprinted polymers for phosphopeptide assays of oncogenic pathways
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4266)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 31 October 2025
-- **Deadline:** 30 November 2025
-
-### EU-MSCA PhD position: Materials for uncovering of hidden protein posttranslational modifications
-- **Link:** [View job posting](https://web103.reachmee.com/ext/I005/1015/job?site=7&lang=UK&validator=e5819a4704cd849685049472c0c17895&job_id=4268)
-- **Department:** Faculty of health and society  / Department of Biomedical Science
-- **Published:** 31 October 2025
-- **Deadline:** 30 November 2025
 

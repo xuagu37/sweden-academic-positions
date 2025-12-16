@@ -1,5 +1,5 @@
 # Karlstad University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 6</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 5</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,62 +21,52 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Universitetsadjunkt i socialt arbete, vikariat</h3>
+<h3>Projektassistent datavetenskap</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:870565/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:864967/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 27.Nov.2025
-
-</div>
-
-<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
-<h3>Doctoral student in Media and Communication Studies</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:868905/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 30.Nov.2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral Researcher in Computer Science, High-Quality Synthetic Data</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:822730/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 30.Nov.2025
-
-</div>
-
-<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
-<h3>Postdoctoral researcher in chemistry with a focus on sustainable production of cellulose fibers</h3>
-
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:874336/iframeEmbedded:0/where:4)
-- **Department:** 
-- **Published:** 
-- **Deadline:** 03.Dec.2025
+- **Deadline:** 19.Dec.2025
 
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Projektassistent i biologi med fokus på ekologisk modellering av strömfiskpopulationer</h3>
+<h3>Universitetsadjunkt i musik med inriktning slagverk</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:872208/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:883409/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 03.Dec.2025
+- **Deadline:** 29.Dec.2025
+
+</div>
+
+<div class="job" data-type="Other" style="margin-bottom: 1.5em;">
+<h3>IT-pedagog, vikariat</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:884536/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 02.Jan.2026
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Risk and Environmental Studies</h3>
+
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:852707/iframeEmbedded:0/where:4)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 13.Jan.2026
 
 </div>
 
 <div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
-<h3>Senior lecturer in Criminal Law</h3>
+<h3>Senior lecturer in information systems</h3>
 
-- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:856591/iframeEmbedded:0/where:4)
+- **Link:** [View job posting](https://kau.varbi.com/en/what:job/jobID:884077/iframeEmbedded:0/where:4)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 14.Dec.2025
+- **Deadline:** 02.Feb.2026
 </div></div>
 
 <script>

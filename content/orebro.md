@@ -1,5 +1,5 @@
 # Örebro University
-<p style="font-size: 1.2em; font-weight: bold;">Total positions: 3</p>
+<p style="font-size: 1.2em; font-weight: bold;">Total positions: 12</p>
 
 
 <div id="filters" style="margin: 1em 0;">
@@ -21,12 +21,82 @@
 </div>
 
 <div class="job" data-type="Other" style="margin-bottom: 1.5em;">
-<h3>Student assistants at the School of Health Sciences</h3>
+<h3>Laboratory assistant for a study on PFAS in water samples close to a contaminated site</h3>
 
-- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250328)
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250359)
 - **Department:** 
 - **Published:** 
-- **Deadline:** 2025-11-24
+- **Deadline:** 2025-12-16
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Embodied Learning for Underwater Robotics</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250335)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2025-12-22
+
+</div>
+
+<div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in computational metabolomics and exposomics</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250378)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-07
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on large language models in health</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250373)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-09
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral Student in Computer Science with a Focus on Tractable Quantum Machine Learning</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250374)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-12
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Chemistry</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250354)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-12
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Computer Science with a focus on Efficient Methods for Machine Learning</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250375)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-16
+
+</div>
+
+<div class="job" data-type="PhD" style="margin-bottom: 1.5em;">
+<h3>Doctoral students in Computer Science with a focus on Neuro-inspired Computing</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250376)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-16
 
 </div>
 
@@ -40,6 +110,16 @@
 
 </div>
 
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Psychology</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250339)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-01-31
+
+</div>
+
 <div class="job" data-type="Postdoc/Researcher" style="margin-bottom: 1.5em;">
 <h3>Postdoctoral researcher in sociology</h3>
 
@@ -47,6 +127,16 @@
 - **Department:** 
 - **Published:** 
 - **Deadline:** 2026-02-02
+
+</div>
+
+<div class="job" data-type="Lecturer/Professor" style="margin-bottom: 1.5em;">
+<h3>Professor of Biology specialising in molecular physiology</h3>
+
+- **Link:** [View job posting](https://www.oru.se/english/career/available-positions/job/?jid=20250355)
+- **Department:** 
+- **Published:** 
+- **Deadline:** 2026-02-27
 </div></div>
 
 <script>
